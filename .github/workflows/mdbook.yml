@@ -1,0 +1,62 @@
+name: Deploy mdBook site to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install mdBook, mdbook-summarizer and mdbook-tagging
+        run: |
+          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
+          rustup update
+          cargo install mdbook
+          cargo install mdbook-summarizer
+          cargo install mdbook-tagging
+
+      - name: Generate tag index pages with mdbook-tagging
+        run: |
+          mdbook-tagging generate .
+          echo "Tag pages generated"
+
+      - name: Generate SUMMARY.md with mdbook-summarizer
+        run: |
+          mdbook-summarizer --src src --auto-readme
+          echo "SUMMARY.md generated"
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with mdBook
+        run: mdbook build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./book
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

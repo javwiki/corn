@@ -53,3 +53,11 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# mdbook generated files
+SUMMARY.md
+book/
+
+# IDE and tool directories
+.codegraph/
+.reasonix/

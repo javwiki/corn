@@ -1,0 +1,11 @@
+[book]
+authors = ["language learner"]
+language = "zh"
+src = "src"
+title = "成人影片演员百科"
+
+
+
+[output.html]
+git-repository-url = "https://github.com/javwiki/javwiki.github.io"
+edit-url-template = "https://github.com/javwiki/javwiki.github.io/edit/main/{path}"
