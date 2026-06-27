@@ -1,5 +1,5 @@
 ---
-tags: ['成人影片演员', '未指定', 'pornstar']
+tags: ['pornstar', 'model', 'adult actress', 'Czech', 'European']
 ---
 
 # Lucy Lee

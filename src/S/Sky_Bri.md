@@ -1,5 +1,5 @@
 ---
-tags: ['成人影片演员', 'OnlyFans', 'pornstar']
+tags: ['pornstar', 'model', 'adult actress', 'content creator', 'social media influencer']
 ---
 
 # Sky Bri

@@ -1,5 +1,5 @@
 ---
-tags: ['成人影片演员', 'OnlyFans', 'pornstar']
+tags: ['pornstar', 'model', 'adult actress', 'Chinese', 'Chinese-American', 'Asian', 'OnlyFans']
 ---
 
 # Nicole Doshi
