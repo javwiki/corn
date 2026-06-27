@@ -2,11 +2,12 @@
 tags: ['成人影片演员', 'OnlyFans', 'pornstar']
 ---
 
-# smoneyordie->onlyfans,Sky Bri
+# Sky Bri
 
 ## 概要
 
-- **名称**: smoneyordie->onlyfans,Sky Bri
+- **名称**: Sky Bri
+- **别名**: smoneyordie
 - **平台**: OnlyFans
 - **原始职业**: pornstar
 - **备注**: 无
