@@ -14,11 +14,11 @@
 | [ManyVids](ManyVids.md) | 1 |
 | [OnlyFans](OnlyFans.md) | 2 |
 | [South Korean](South-Korean.md) | 1 |
-| [adult actress](adult-actress.md) | 8 |
+| [adult actress](adult-actress.md) | 9 |
 | [content creator](content-creator.md) | 1 |
 | [cosplayer](cosplayer.md) | 1 |
 | [influencer](influencer.md) | 1 |
 | [model](model.md) | 8 |
-| [pornstar](pornstar.md) | 8 |
+| [pornstar](pornstar.md) | 9 |
 | [social media influencer](social-media-influencer.md) | 1 |
 | [webcam model](webcam-model.md) | 2 |

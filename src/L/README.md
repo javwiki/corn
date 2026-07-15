@@ -1,4 +1,8 @@
 # 字母 L 的演员
 
-- [Lily Lou]（Lily_Lou.md）
-- [Lucy Lee]（Lucy_Lee.md）
+- [Lena Paul](Lena_Paul.md)
+- [Lexi Luna](Lexi_Luna.md)
+- [Lia Lin](Lia_Lin.md)
+- [Elle Lee](Elle_Lee.md)
+- [Lily Lou](Lily_Lou.md)
+- [Lucy Lee](Lucy_Lee.md)

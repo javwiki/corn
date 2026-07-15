@@ -1,3 +1,5 @@
 # 字母 N 的演员
 
-- [Nicole Doshi]（Nicole_Doshi.md）
+- [Natasha Teen](Natasha_Teen.md)
+- [Nicolette Shea](Nicolette_Shea.md)
+- [Nicole Doshi](Nicole_Doshi.md)
