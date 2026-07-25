@@ -7,6 +7,7 @@
 - [Skyla Novea](Skyla_Novea.md)
 - [Skylar Snow](Skylar_Snow.md)
 - [Skylar Vox](Skylar_Vox.md)
+- [Slimthick Vic](Slimthick_Vic.md)
 - [Song Lee](Song_Lee.md)
 - [Sophie Dee](Sophie_Dee.md)
 - [Stella Cox](Stella_Cox.md)
