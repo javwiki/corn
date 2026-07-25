@@ -63,6 +63,10 @@ items:
   name: Harmony Reigns
   file: H/Harmony_Reigns.md
   index: H
+- completeness: 95%
+  name: Izzy Wilde
+  file: I/Izzy_Wilde.md
+  index: I
 - completeness: 90%
   name: Jade Kush
   file: J/Jade_Kush.md

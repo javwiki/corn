@@ -1,5 +1,6 @@
 # 成人影片演员列表
 
+- **Izzy Wilde** (I) - 完成度: 95%
 - **Lucy Lee** (L) - 完成度: 100%
 - **Soolin Kelter** (S) - 完成度: 100%
 - **Rae Lil Black** (R) - 完成度: 100%
