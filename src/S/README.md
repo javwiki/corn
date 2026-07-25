@@ -1,6 +1,7 @@
 # 字母 S 的演员
 
 - [Sarah Banks](Sarah_Banks.md)
+- [Sarina Valentina](Sarina_Valentina.md)
 - [Scarlet Assian](Scarlet_Assian.md)
 - [Sky Bri](Sky_Bri.md)
 - [Skye Blue](Skye_Blue.md)
