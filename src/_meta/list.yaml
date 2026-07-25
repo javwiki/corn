@@ -71,6 +71,10 @@ items:
   name: Jade Kush
   file: J/Jade_Kush.md
   index: J
+- completeness: 95%
+  name: Janelle Fennec
+  file: J/Janelle_Fennec.md
+  index: J
 - completeness: 85%
   name: Jasmine Grey
   file: J/Jasmine_Grey.md
@@ -147,17 +151,21 @@ items:
   name: Marica Hase
   file: M/Marica_Hase.md
   index: M
-- completeness: 100%
-  name: Nicole Doshi
-  file: N/Nicole_Doshi.md
-  index: N
 - completeness: 90%
   name: Chanel Noir
   file: N/Chanel_Noir.md
   index: N
+- completeness: 85%
+  name: Natalie Mars
+  file: N/Natalie_Mars.md
+  index: N
 - completeness: 90%
   name: Natasha Teen
   file: N/Natasha_Teen.md
+  index: N
+- completeness: 100%
+  name: Nicole Doshi
+  file: N/Nicole_Doshi.md
   index: N
 - completeness: 95%
   name: Nicolette Shea
