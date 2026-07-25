@@ -1,5 +1,13 @@
 ---
-tags: ['pornstar', 'adult actress', 'MILF', 'American', 'Instagram', 'Twitter', 'OnlyFans', 'ManyVids']
+tags:
+- pornstar
+- Adult Actress
+- MILF
+- American
+- Instagram
+- Twitter
+- OnlyFans
+- ManyVids
 ---
 
 # Cory Chase

@@ -1,5 +1,14 @@
 ---
-tags: ['pornstar', 'adult actress', 'German-American', 'Brazzers', 'Twistys', 'OnlyFans', 'Instagram', 'Twitter', 'TikTok']
+tags:
+- pornstar
+- Adult Actress
+- German-American
+- Brazzers
+- Twistys
+- OnlyFans
+- Instagram
+- Twitter
+- TikTok
 ---
 
 # Madison Ivy

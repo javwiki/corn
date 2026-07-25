@@ -1,5 +1,14 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'Instagram', 'TikTok', 'Twitter', 'YouTube', 'OnlyFans', 'Playboy']
+tags:
+- pornstar
+- Adult Actress
+- American
+- Instagram
+- TikTok
+- Twitter
+- YouTube
+- OnlyFans
+- Playboy
 ---
 
 # Nicolette Shea

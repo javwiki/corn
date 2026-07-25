@@ -1,5 +1,13 @@
-tags: ['pornstar', 'adult actress', 'American', 'OnlyFans', 'AVN nominee', 'Hustler', 'Las Vegas']
-
+---
+tags:
+- pornstar
+- Adult Actress
+- American
+- OnlyFans
+- AVN nominee
+- Hustler
+- Las Vegas
+---
 ---
 
 # Erin Everheart

@@ -1,5 +1,12 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'OnlyFans', 'Instagram', 'TikTok', 'MILF']
+tags:
+- pornstar
+- Adult Actress
+- American
+- OnlyFans
+- Instagram
+- TikTok
+- MILF
 ---
 
 # Slimthick Vic

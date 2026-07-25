@@ -1,5 +1,13 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'caucasian', 'Instagram', 'Twitter', 'OnlyFans', 'Fansly']
+tags:
+- pornstar
+- Adult Actress
+- American
+- Caucasian
+- Instagram
+- Twitter
+- OnlyFans
+- Fansly
 ---
 
 # Skye Blue

@@ -1,5 +1,13 @@
 ---
-tags: ['pornstar', 'adult actress', 'Lebanese-American', 'OnlyFans', 'Instagram', 'Twitter', 'webcam model', 'sports commentator']
+tags:
+- pornstar
+- Adult Actress
+- Lebanese-American
+- OnlyFans
+- Instagram
+- Twitter
+- webcam-model
+- Sports Commentator
 ---
 
 # Mia Khalifa

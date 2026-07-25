@@ -1,5 +1,14 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'Twitch', 'OnlyFans', 'Instagram', 'Twitter', 'YouTube', 'TikTok']
+tags:
+- pornstar
+- Adult Actress
+- American
+- Twitch
+- OnlyFans
+- Instagram
+- Twitter
+- YouTube
+- TikTok
 ---
 
 # Mia Malkova

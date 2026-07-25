@@ -1,5 +1,14 @@
 ---
-tags: ['pornstar', 'adult actress', 'Czech', 'Instagram', 'OnlyFans', 'TikTok', 'Twitter', 'ManyVids', 'Director']
+tags:
+- pornstar
+- Adult Actress
+- Czech
+- Instagram
+- OnlyFans
+- TikTok
+- Twitter
+- ManyVids
+- Director
 ---
 
 # Angel Wicky

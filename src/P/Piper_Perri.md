@@ -1,5 +1,10 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'blonde', 'petite']
+tags:
+- pornstar
+- Adult Actress
+- American
+- blonde
+- petite
 ---
 
 # Piper Perri

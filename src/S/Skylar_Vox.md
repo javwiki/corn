@@ -1,5 +1,12 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'Caucasian', 'OnlyFans', 'ManyVids', 'Brazzers']
+tags:
+- pornstar
+- Adult Actress
+- American
+- Caucasian
+- OnlyFans
+- ManyVids
+- Brazzers
 ---
 
 # Skylar Vox

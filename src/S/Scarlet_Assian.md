@@ -1,5 +1,14 @@
 ---
-tags: ['pornstar', 'adult actress', 'Indonesian', 'Asian', 'OnlyFans', 'Instagram', 'Twitter', 'Fansly', 'glamour model']
+tags:
+- pornstar
+- Adult Actress
+- Indonesian
+- Asian
+- OnlyFans
+- Instagram
+- Twitter
+- Fansly
+- Glamour Model
 ---
 
 # Scarlet Assian

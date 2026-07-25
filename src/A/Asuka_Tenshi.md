@@ -1,5 +1,7 @@
 ---
-tags: ['pornstar', 'adult actress']
+tags:
+- pornstar
+- Adult Actress
 ---
 
 # Asuka Tenshi

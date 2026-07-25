@@ -1,5 +1,22 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'American', 'blonde', 'petite', 'slim', 'natural breasts', 'Italian ancestry', 'Nubiles', 'Brazzers', 'Naughty America', 'Stepsiblings Caught', 'FamilyStrokes', 'DadCrush', 'AVN nomination', 'XBIZ Award']
+tags:
+- pornstar
+- model
+- Adult Actress
+- American
+- blonde
+- petite
+- slim
+- Natural Breasts
+- Italian ancestry
+- Nubiles
+- Brazzers
+- Naughty America
+- Stepsiblings Caught
+- Family Strokes
+- Dad Crush
+- AVN nomination
+- XBIZ Award
 ---
 
 # Molly Little

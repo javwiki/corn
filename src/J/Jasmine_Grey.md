@@ -1,5 +1,11 @@
 ---
-tags: ['pornstar', 'adult actress', 'glamour model', 'american', 'caucasian', 'deceased']
+tags:
+- pornstar
+- Adult Actress
+- Glamour Model
+- American
+- Caucasian
+- Deceased
 ---
 
 # Jasmine Grey

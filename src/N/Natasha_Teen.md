@@ -1,5 +1,12 @@
 ---
-tags: ['pornstar', 'adult actress', 'colombian', 'instagram', 'twitter', 'onlyfans', 'cosplayer']
+tags:
+- pornstar
+- Adult Actress
+- colombian
+- Instagram
+- Twitter
+- OnlyFans
+- cosplayer
 ---
 
 # Natasha Teen

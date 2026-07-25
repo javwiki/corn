@@ -1,5 +1,15 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'Spanish', 'blonde', 'big tits', 'MILF', 'OnlyFans', 'XVIDEOS', 'Pornhub']
+tags:
+- pornstar
+- Adult Actress
+- American
+- Spanish
+- blonde
+- Big Tits
+- MILF
+- OnlyFans
+- XVIDEOS
+- Pornhub
 ---
 
 # Bridgette B

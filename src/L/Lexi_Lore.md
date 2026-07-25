@@ -1,5 +1,22 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'American', 'blonde', 'slim', 'natural breasts', 'Team Skeet', 'Brazzers', 'Blacked', 'Deeper', 'Tushy', 'Cherry Pimps', 'Nubiles', 'YouTuber', 'TikTok Star', 'braces']
+tags:
+- pornstar
+- model
+- Adult Actress
+- American
+- blonde
+- slim
+- Natural Breasts
+- Team Skeet
+- Brazzers
+- Blacked
+- Deeper
+- Tushy
+- Cherry Pimps
+- Nubiles
+- YouTuber
+- TikTok
+- braces
 ---
 
 # Lexi Lore

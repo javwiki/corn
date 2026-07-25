@@ -1,5 +1,16 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'Czech', 'retired', 'natural breasts', 'big boobs', 'DDF Network', 'Legal Porno', 'former', '2014-2016']
+tags:
+- pornstar
+- model
+- Adult Actress
+- Czech
+- Retired
+- Natural Breasts
+- Big Tits
+- DDF Network
+- Legal Porno
+- Former
+- 2014-2016
 ---
 
 # Lucie Wilde

@@ -1,5 +1,18 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'American', 'blonde', 'chubby', 'former athlete', 'natural breasts', 'Family Strokes', 'Dad Crush', 'Sis Loves Me', 'Exxxtra Small', 'Mylf']
+tags:
+- pornstar
+- model
+- Adult Actress
+- American
+- blonde
+- chubby
+- Former Athlete
+- Natural Breasts
+- Family Strokes
+- Dad Crush
+- Sis Loves Me
+- Exxxtra Small
+- Mylf
 ---
 
 # Eva Nyx

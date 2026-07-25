@@ -1,5 +1,15 @@
 ---
-tags: ['pornstar', 'adult actress', 'Asian', 'American', 'Instagram', 'TikTok', 'Twitter', 'OnlyFans', 'YouTube', 'Twitch']
+tags:
+- pornstar
+- Adult Actress
+- Asian
+- American
+- Instagram
+- TikTok
+- Twitter
+- OnlyFans
+- YouTube
+- Twitch
 ---
 
 # Elle Lee

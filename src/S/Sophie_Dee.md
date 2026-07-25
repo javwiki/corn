@@ -1,5 +1,10 @@
 ---
-tags: ['pornstar', 'adult actress', 'Welsh-American', 'OnlyFans', 'model']
+tags:
+- pornstar
+- Adult Actress
+- Welsh-American
+- OnlyFans
+- model
 ---
 
 # Sophie Dee

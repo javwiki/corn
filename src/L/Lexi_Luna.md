@@ -1,5 +1,12 @@
 ---
-tags: ['pornstar', 'adult actress', 'american', 'milf', 'onlyfans', 'camsoda', 'teacher-turned']
+tags:
+- pornstar
+- Adult Actress
+- American
+- MILF
+- OnlyFans
+- CamSoda
+- teacher-turned
 ---
 
 # Lexi Luna

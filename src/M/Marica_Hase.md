@@ -1,5 +1,13 @@
 ---
-tags: ['pornstar', 'adult actress', 'Japanese', 'Asian', 'Penthouse Pet', 'OnlyFans', 'Instagram', 'Twitter']
+tags:
+- pornstar
+- Adult Actress
+- Japanese
+- Asian
+- Penthouse Pet
+- OnlyFans
+- Instagram
+- Twitter
 ---
 
 # Marica Hase

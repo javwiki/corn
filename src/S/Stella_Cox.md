@@ -1,5 +1,11 @@
 ---
-tags: ['pornstar', 'adult actress', 'Italian', 'OnlyFans', 'Twitter', 'Instagram']
+tags:
+- pornstar
+- Adult Actress
+- Italian
+- OnlyFans
+- Twitter
+- Instagram
 ---
 
 # Stella Cox

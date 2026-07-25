@@ -1,5 +1,12 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'South Korean', 'Asian', 'naughty america', 'kink.com']
+tags:
+- pornstar
+- model
+- Adult Actress
+- South Korean
+- Asian
+- Naughty America
+- kink.com
 ---
 
 # Soolin Kelter

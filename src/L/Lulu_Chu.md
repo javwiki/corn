@@ -1,5 +1,14 @@
-tags: ['pornstar', 'adult actress', 'Chinese American', 'OnlyFans', 'AVN nominee', 'AAPI', 'Muse', 'Los Angeles']
-
+---
+tags:
+- pornstar
+- Adult Actress
+- Chinese American
+- OnlyFans
+- AVN nominee
+- AAPI
+- Muse
+- Los Angeles
+---
 ---
 
 # Lulu Chu

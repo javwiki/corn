@@ -1,5 +1,11 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'ebony', 'Twitter', 'OnlyFans']
+tags:
+- pornstar
+- Adult Actress
+- American
+- ebony
+- Twitter
+- OnlyFans
 ---
 
 # Sarah Banks

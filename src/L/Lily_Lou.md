@@ -1,5 +1,19 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'American', 'Instagram influencer', 'cosplayer', 'evil angel', 'team skeet', 'brazzers', 'jules Jordan', 'blacked raw', 'enhanced', 'brunette', 'pink hair']
+tags:
+- pornstar
+- model
+- Adult Actress
+- American
+- Instagram-influencer
+- cosplayer
+- Evil Angel
+- Team Skeet
+- Brazzers
+- Jules Jordan
+- Blacked Raw
+- enhanced
+- brunette
+- Pink Hair
 ---
 
 # Lily Lou

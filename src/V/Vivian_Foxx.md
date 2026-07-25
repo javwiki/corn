@@ -1,5 +1,13 @@
 ---
-tags: ['pornstar', 'adult actress', 'caucasian', 'american', 'manyvids', 'naughtyamerica', 'teamskeet', 'girlfriends films']
+tags:
+- pornstar
+- Adult Actress
+- Caucasian
+- American
+- ManyVids
+- Naughty America
+- Team Skeet
+- Girlfriends Films
 ---
 
 # Vivian Foxx

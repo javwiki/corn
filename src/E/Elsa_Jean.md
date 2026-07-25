@@ -1,5 +1,23 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'model', 'Instagram', 'Twitter', 'TikTok', 'OnlyFans', 'Vixen', 'Brazzers', 'Naughty America', 'Blacked', 'fleshlight girl', 'enhanced', 'blonde', 'petite', 'podcaster', 'playboy model']
+tags:
+- pornstar
+- Adult Actress
+- American
+- model
+- Instagram
+- Twitter
+- TikTok
+- OnlyFans
+- Vixen
+- Brazzers
+- Naughty America
+- Blacked
+- Fleshlight Girl
+- enhanced
+- blonde
+- petite
+- podcaster
+- Playboy Model
 ---
 
 # Elsa Jean

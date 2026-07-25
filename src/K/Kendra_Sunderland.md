@@ -1,5 +1,15 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'Instagram', 'OnlyFans', 'TikTok', 'YouTube', 'Twitch', 'Camgirl', 'Penthouse Pet']
+tags:
+- pornstar
+- Adult Actress
+- American
+- Instagram
+- OnlyFans
+- TikTok
+- YouTube
+- Twitch
+- Camgirl
+- Penthouse Pet
 ---
 
 # Kendra Sunderland

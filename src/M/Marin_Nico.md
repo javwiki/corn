@@ -1,5 +1,10 @@
 ---
-tags: ['pornstar', 'adult actress', 'japanese', 'asian', 'instagram']
+tags:
+- pornstar
+- Adult Actress
+- Japanese
+- Asian
+- Instagram
 ---
 
 # Marin Nico

@@ -1,5 +1,22 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'American', 'blonde', 'petite', 'slim', 'natural breasts', 'XRCO Award', 'AVN Award', 'Fleshlight Girl', 'Team Skeet', 'Blacked', 'Tushy', 'Nubiles', 'Evil Angel', 'Elegant Angel']
+tags:
+- pornstar
+- model
+- Adult Actress
+- American
+- blonde
+- petite
+- slim
+- Natural Breasts
+- XRCO Award
+- AVN Award
+- Fleshlight Girl
+- Team Skeet
+- Blacked
+- Tushy
+- Nubiles
+- Evil Angel
+- Elegant Angel
 ---
 
 # Kenzie Reeves

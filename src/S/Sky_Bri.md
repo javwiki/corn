@@ -1,5 +1,14 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'model', 'Instagram influencer', 'TikTok star', 'OnlyFans', 'social media influencer', 'content creator']
+tags:
+- pornstar
+- Adult Actress
+- American
+- model
+- Instagram-influencer
+- TikTok
+- OnlyFans
+- social-media-influencer
+- content-creator
 ---
 
 # Sky Bri

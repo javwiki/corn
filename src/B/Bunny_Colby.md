@@ -1,5 +1,12 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'Instagram', 'Twitter', 'OnlyFans', 'American pornographic film actress']
+tags:
+- pornstar
+- Adult Actress
+- American
+- Instagram
+- Twitter
+- OnlyFans
+- Adult Actress
 ---
 
 # Bunny Colby

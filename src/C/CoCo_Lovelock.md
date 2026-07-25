@@ -1,5 +1,19 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'American', 'influencer', 'blonde', 'petite', 'tiny', 'natural breasts', 'NAUGHTY AMERICA', 'Team Skeet', 'Brazzers', 'Blacked Raw', 'Pure Taboo']
+tags:
+- pornstar
+- model
+- Adult Actress
+- American
+- influencer
+- blonde
+- petite
+- tiny
+- Natural Breasts
+- Naughty America
+- Team Skeet
+- Brazzers
+- Blacked Raw
+- Pure Taboo
 ---
 
 # CoCo Lovelock

@@ -1,5 +1,14 @@
 ---
-tags: ['pornstar', 'adult actress', 'american', 'blonde', 'onlyfans', 'instagram', 'twitter', 'busty', 'natural']
+tags:
+- pornstar
+- Adult Actress
+- American
+- blonde
+- OnlyFans
+- Instagram
+- Twitter
+- busty
+- natural
 ---
 
 # Lena Paul

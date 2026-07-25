@@ -1,5 +1,12 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'teen', 'Latina', 'natural tits', 'big boobs']
+tags:
+- pornstar
+- Adult Actress
+- American
+- Teen
+- Latina
+- Natural Breasts
+- Big Tits
 ---
 
 # Autumn Falls

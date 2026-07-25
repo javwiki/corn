@@ -1,5 +1,10 @@
 ---
-tags: ['pornstar', 'adult actress', 'Australian', 'director', 'AVN Hall of Fame']
+tags:
+- pornstar
+- Adult Actress
+- Australian
+- Director
+- AVN Hall of Fame
 ---
 
 # Angela White

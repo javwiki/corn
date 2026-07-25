@@ -1,5 +1,13 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'Czech', 'European', 'Asian-themed', 'kink.com', 'naughty america']
+tags:
+- pornstar
+- model
+- Adult Actress
+- Czech
+- European
+- Asian-themed
+- kink.com
+- Naughty America
 ---
 
 # Lucy Lee

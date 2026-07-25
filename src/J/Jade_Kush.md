@@ -1,5 +1,14 @@
 ---
-tags: ['pornstar', 'adult actress', 'asian', 'american', 'chinese', 'OnlyFans', 'Instagram', 'Twitter', 'Twitch']
+tags:
+- pornstar
+- Adult Actress
+- Asian
+- American
+- Chinese
+- OnlyFans
+- Instagram
+- Twitter
+- Twitch
 ---
 
 # Jade Kush

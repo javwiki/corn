@@ -1,5 +1,15 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'model', 'big naturals', 'webcam model', 'ManyVids', 'Score Group', 'AdultTime', 'Pure Taboo']
+tags:
+- pornstar
+- Adult Actress
+- American
+- model
+- Big Naturals
+- webcam-model
+- ManyVids
+- Score Group
+- AdultTime
+- Pure Taboo
 ---
 
 # Codi Vore

@@ -1,5 +1,16 @@
 ---
-tags: ['pornstar', 'model', 'adult actress', 'Chinese', 'Chinese-American', 'Asian', 'OnlyFans', 'Jules Jordan', 'Kinky Spa', 'Amateur Allure', 'interracial']
+tags:
+- pornstar
+- model
+- Adult Actress
+- Chinese
+- Chinese-American
+- Asian
+- OnlyFans
+- Jules Jordan
+- Kinky Spa
+- Amateur Allure
+- interracial
 ---
 
 # Nicole Doshi

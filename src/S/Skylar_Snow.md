@@ -1,5 +1,11 @@
 ---
-tags: ['pornstar', 'adult actress', 'American', 'Caucasian', 'ManyVids', 'OnlyFans']
+tags:
+- pornstar
+- Adult Actress
+- American
+- Caucasian
+- ManyVids
+- OnlyFans
 ---
 
 # Skylar Snow
