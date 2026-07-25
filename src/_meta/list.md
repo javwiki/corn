@@ -3,7 +3,6 @@
 - **Lucy Lee** (L) - 完成度: 100%
 - **Soolin Kelter** (S) - 完成度: 100%
 - **Rae Lil Black** (R) - 完成度: 100%
-- **Yuu Sakura** (Y) - 完成度: 100%
 - **Nicole Doshi** (N) - 完成度: 100%
 - **Codi Vore** (C) - 完成度: 100%
 - **Sky Bri** (S) - 完成度: 100%
