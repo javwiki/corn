@@ -9,7 +9,6 @@
 | [Czech](Czech.md) | 1 |
 | [European](European.md) | 1 |
 | [Instagram influencer](Instagram-influencer.md) | 1 |
-| [JAV](JAV.md) | 1 |
 | [Japanese](Japanese.md) | 2 |
 | [ManyVids](ManyVids.md) | 1 |
 | [OnlyFans](OnlyFans.md) | 2 |

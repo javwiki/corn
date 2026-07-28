@@ -11,7 +11,7 @@ tags:
 - Twitch
 - YouTube
 - cosplayer
-- Camgirl
+- webcam-model
 ---
 
 # Violet Myers

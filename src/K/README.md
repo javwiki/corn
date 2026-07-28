@@ -9,7 +9,3 @@
 
 - [Kendra Sunderland](Kendra_Sunderland.md)
 - [Kenzie Reeves](Kenzie_Reeves.md)
-
-## 参考资料
-
-- （待补充）

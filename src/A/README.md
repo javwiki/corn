@@ -13,7 +13,3 @@
 - [Asuka Tenshi](Asuka_Tenshi.md)
 - [Autumn Falls](Autumn_Falls.md)
 - [Ava Addams](Ava_Addams.md)
-
-## 参考资料
-
-- （待补充）

@@ -5,7 +5,7 @@ tags:
 - Dutch
 - Russian
 - model
-- Camgirl
+- webcam-model
 - Instagram
 - Twitter
 - OnlyFans

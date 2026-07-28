@@ -8,7 +8,7 @@ tags:
 - TikTok
 - YouTube
 - Twitch
-- Camgirl
+- webcam-model
 - Penthouse Pet
 ---
 

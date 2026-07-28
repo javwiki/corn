@@ -7,4 +7,3 @@
 - [Rae Lil Black](../R/Rae_Lil_Black.md)
 - [Sky Bri](../S/Sky_Bri.md)
 - [Soolin Kelter](../S/Soolin_Kelter.md)
-- [Yuu Sakura](../Y/Yuu_Sakura.md)

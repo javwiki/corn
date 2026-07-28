@@ -11,8 +11,8 @@ tags:
 - Instagram
 - AVN
 - XBIZ
-- content creator
-- director
+- content-creator
+- Director
 ---
 
 # Natalie Mars

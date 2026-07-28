@@ -2,7 +2,7 @@
 tags:
 - pornstar
 - Adult Actress
-- Chinese American
+- Chinese-American
 - OnlyFans
 - AVN nominee
 - AAPI

@@ -49,7 +49,7 @@ tags:
 
 Lucie Wilde（艺名 Busty Buffy）是来自捷克布拉格的成人模特和前色情女演员，2014年1月31日（刚满18岁）以 DDF Busty 裸照出道。她的生涯仅持续两年，但因其**极端丰满的天然胸部**（巅峰期达 34L / 75HH）而迅速在成人行业中引发巨大关注。
 
-她 деbut 时受当时男友 Argo 影响，主要是出于财务需要，最初动机并非热爱该行业。她从裸照模特迅速晋升为硬核性爱演员，2014年2月即与 Argo 出演首部硬核场景。代表作包括 *Lucie Wilde Is Awesome!*、*The Outlaw Lucie Wilde*、*Busty Angels #2*、*Voluptuous Wonderland 2*，以及 Anal Acrobats 7 和 Legal Porno 系列中的肛交和双穴场景。
+她出道时受当时男友 Argo 影响，主要是出于财务需要，最初动机并非热爱该行业。她从裸照模特迅速晋升为硬核性爱演员，2014年2月即与 Argo 出演首部硬核场景。代表作包括 *Lucie Wilde Is Awesome!*、*The Outlaw Lucie Wilde*、*Busty Angels #2*、*Voluptuous Wonderland 2*，以及 Anal Acrobats 7 和 Legal Porno 系列中的肛交和双穴场景。
 
 **主要合作工作室/网站**:
 - DDF Network / DDF Busty
@@ -78,7 +78,7 @@ Lucie Wilde 出生于布拉格中产阶级家庭。2015年怀孕后与前男友 
 
 胸部缩减手术后罩杯减至 34C（粉丝戏称"'G' after reduction is crazyyy"），并专注于抚养女儿。
 
-## 个人生活
+## 公众形象与近况
 
 Lucie Wilde 的标志性特征是她在行业时拥有最大、最自然的真实胸部之一——34L / 75HH 罩杯是成人影星中极为罕见的天然尺寸。粉丝称她为"the most perfect things I've ever seen"和"together with Merilyn Sekova best tits in history"。
 
