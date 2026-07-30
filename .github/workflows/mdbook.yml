@@ -19,28 +19,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Install Rust
-        run: |
-          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
-          rustup update
-
-      - name: Cache mdBook tools
-        id: cache-mdbook-tools
+      - name: Set weekly cache key
+        run: echo "CARGO_CACHE_WEEK=$(date -u +%G-%V)" >> "$GITHUB_ENV"
+      - name: Cache Cargo downloads and installed tools
         uses: actions/cache@v4
         with:
           path: |
-            ~/.cargo/bin/mdbook
-            ~/.cargo/bin/mdbook-summarizer
-            ~/.cargo/bin/mdbook-tagging
-          key: ${{ runner.os }}-mdbook-tools-v2
-
+            ~/.cargo/bin
+            ~/.cargo/git/db
+            ~/.cargo/registry/cache
+            ~/.cargo/registry/index
+          key: cargo-tools-${{ runner.os }}-${{ env.CARGO_CACHE_WEEK }}
+          restore-keys: |
+            cargo-tools-${{ runner.os }}-
       - name: Install mdBook, mdbook-summarizer and mdbook-tagging
-        if: steps.cache-mdbook-tools.outputs.cache-hit != 'true'
         run: |
-          cargo install mdbook
-          cargo install mdbook-summarizer
-          cargo install mdbook-tagging
+          rustup update stable
+          for tool in mdbook mdbook-summarizer mdbook-tagging; do
+            if command -v "$tool" &>/dev/null; then
+              echo "$tool $( $tool --version ) cached, skipping install"
+            else
+              cargo install --locked "$tool"
+            fi
+          done
 
       - name: Generate tag index pages with mdbook-tagging
         run: |
