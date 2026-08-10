@@ -5,11 +5,12 @@
 ## 本地构建
 
 ```bash
+mdbook-tagging generate .
 mdbook-summarizer --src src --auto-readme
 mdbook build
 ```
 
-生成的 `src/SUMMARY.md` 与 `book/` 均为构建产物，不纳入版本控制。
+生成的 `src/SUMMARY.md`、`src/_tags/`、`src/_meta/award/README.md` 与 `book/` 均为构建产物，不纳入版本控制（见 .gitignore）。
 
 ## 内容约定
 

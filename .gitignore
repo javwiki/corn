@@ -57,6 +57,8 @@ dkms.conf
 # mdbook generated files
 SUMMARY.md
 book/
+src/_tags/
+src/_meta/award/README.md
 
 # IDE and tool directories
 .codegraph/

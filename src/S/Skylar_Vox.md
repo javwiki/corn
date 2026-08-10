@@ -31,9 +31,12 @@ Skylar Vox 是一位美国成人影片演员，以约 19 岁之龄于 2019 年�
 
 Skylar Vox 曾获得多项行业奖项提名：2021 年 AVN Awards 提名"最佳新人奖"和"最火辣新人奖"；2020 年 Spank Bank Awards 提名"年度丰腴美"和"继女/继姐年度人物"；2021 年 XRCO Awards 提名"个人最爱"和"青少年之梦"，以及 Nightmoves 奖项提名及获奖。
 
+2021 年她出演了《Big Naturals 53》《Women Seeking Women 181》《Women Seeking Women 182》等作品。
+
 ## 参考资料
 
 - [Skylar Vox — IAFD](https://www.iafd.com/person.rme/id=4bf65935-c38e-433c-a884-75e935e6d033)
+- [Skylar Vox — 百度百科](https://baike.baidu.com/en/item/Skylar%20Vox/1490189)
 - [Skylar Vox — Twitter](https://twitter.com/onlyskylarvox)
 - [Skylar Vox — OnlyFans](https://onlyfans.com/theskylarvox)
 - [Instagram: @theskylarvox_](https://www.instagram.com/theskylarvox_/)
