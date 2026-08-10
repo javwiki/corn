@@ -63,3 +63,4 @@ src/_meta/award/README.md
 # IDE and tool directories
 .codegraph/
 .reasonix/
+.commandcode/
