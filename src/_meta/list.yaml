@@ -75,6 +75,10 @@ items:
   name: Jade Kush
   file: J/Jade_Kush.md
   index: J
+- completeness: 100%
+  name: Jade Venus
+  file: J/Jade_Venus.md
+  index: J
 - completeness: 95%
   name: Janelle Fennec
   file: J/Janelle_Fennec.md
@@ -90,6 +94,10 @@ items:
 - completeness: 95%
   name: Kenzie Reeves
   file: K/Kenzie_Reeves.md
+  index: K
+- completeness: 100%
+  name: Korra Del Rio
+  file: K/Korra_Del_Rio.md
   index: K
 - completeness: 85%
   name: Elle Lee

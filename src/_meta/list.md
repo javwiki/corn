@@ -1,5 +1,7 @@
 # 成人影片演员列表
 
+- **Jade Venus** (J) - 完成度: 100%
+- **Korra Del Rio** (K) - 完成度: 100%
 - **Jessy Bells** (J) - 完成度: 85%
 - **Janelle Fennec** (J) - 完成度: 95%
 - **Izzy Wilde** (I) - 完成度: 95%
