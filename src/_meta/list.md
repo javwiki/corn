@@ -1,5 +1,6 @@
 # 成人影片演员列表
 
+- **Chanel Noir** (C) - 完成度: 90%
 - **Jade Venus** (J) - 完成度: 100%
 - **Korra Del Rio** (K) - 完成度: 100%
 - **Jessy Bells** (J) - 完成度: 85%

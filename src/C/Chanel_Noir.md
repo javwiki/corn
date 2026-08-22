@@ -1,11 +1,11 @@
 ---
 tags:
 - pornstar
-- Transgender Actress
+- transgender
 - Adult Actress
 - American
-- OnlyFans
-- Twitter
+- Grooby Productions
+- Evil Angel
 ---
 
 # Chanel Noir
