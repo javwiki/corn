@@ -1,4 +1,8 @@
 items:
+- completeness: 90%
+  name: Abigaiil Morris
+  file: A/Abigaiil_Morris.md
+  index: A
 - completeness: 100%
   name: Angel Wicky
   file: A/Angel_Wicky.md
@@ -108,6 +112,10 @@ items:
   file: L/Elle_Lee.md
   index: L
 - completeness: 95%
+  name: Lauren Phillips
+  file: L/Lauren_Phillips.md
+  index: L
+- completeness: 95%
   name: Lena Paul
   file: L/Lena_Paul.md
   index: L
@@ -206,6 +214,10 @@ items:
 - completeness: 90%
   name: Sarina Valentina
   file: S/Sarina_Valentina.md
+  index: S
+- completeness: 95%
+  name: Savannah Bond
+  file: S/Savannah_Bond.md
   index: S
 - completeness: 75%
   name: Scarlet Assian

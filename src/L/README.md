@@ -1,5 +1,6 @@
 # 字母 L 的演员
 
+- [Lauren Phillips](Lauren_Phillips.md)
 - [Lena Paul](Lena_Paul.md)
 - [Lexi Lore](Lexi_Lore.md)
 - [Lexi Luna](Lexi_Luna.md)

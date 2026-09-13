@@ -1,5 +1,8 @@
 # 成人影片演员列表
 
+- **Abigaiil Morris** (A) - 完成度: 90%
+- **Lauren Phillips** (L) - 完成度: 95%
+- **Savannah Bond** (S) - 完成度: 95%
 - **Chanel Noir** (C) - 完成度: 90%
 - **Jade Venus** (J) - 完成度: 100%
 - **Korra Del Rio** (K) - 完成度: 100%
