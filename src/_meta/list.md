@@ -1,5 +1,7 @@
 # 成人影片演员列表
 
+- **Ayumi Anime** (A) - 完成度: 95%
+- **Alina Li** (A) - 完成度: 95%
 - **Lucy Mochi** (L) - 完成度: 95%
 - **Vivian Fox** (V) - 完成度: 80%
 - **Abigaiil Morris** (A) - 完成度: 90%

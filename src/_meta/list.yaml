@@ -11,6 +11,10 @@ items:
   name: Angela White
   file: A/Angela_White.md
   index: A
+- completeness: 95%
+  name: Alina Li
+  file: A/Alina_Li.md
+  index: A
 - completeness: 45%
   name: Asuka Tenshi
   file: A/Asuka_Tenshi.md
@@ -22,6 +26,10 @@ items:
 - completeness: 100%
   name: Autumn Falls
   file: A/Autumn_Falls.md
+  index: A
+- completeness: 95%
+  name: Ayumi Anime
+  file: A/Ayumi_Anime.md
   index: A
 - completeness: 85%
   name: Ava Addams
