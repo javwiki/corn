@@ -139,6 +139,10 @@ items:
   name: Lucie Wilde
   file: L/Lucie_Wilde.md
   index: L
+- completeness: 95%
+  name: Lucy Mochi
+  file: L/Lucy_Mochi.md
+  index: L
 - completeness: 85%
   name: Lulu Chu
   file: L/Lulu_Chu.md
