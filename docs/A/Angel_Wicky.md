@@ -13,7 +13,7 @@ tags:
 
 # Angel Wicky
 
-<img src="https://www.babepedia.com/pics/Angel%20Wicky.jpg" alt="Angel Wicky" width="280" style="float: right; border-radius: 8px; margin: 0 0 16px 16px;" />
+<img docs="https://www.babepedia.com/pics/Angel%20Wicky.jpg" alt="Angel Wicky" width="280" style="float: right; border-radius: 8px; margin: 0 0 16px 16px;" />
 
 ## 概要
 

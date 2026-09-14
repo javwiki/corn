@@ -1,0 +1,22 @@
+[project]
+site_name = "成人影片演员百科"
+site_url = "https://javwiki.github.io/corn/"
+site_description = "成人影片演员相关资料索引。"
+site_author = "language learner"
+repo_url = "https://github.com/javwiki/corn"
+repo_name = "javwiki/corn"
+edit_uri = "edit/main/docs/"
+use_directory_urls = true
+
+[project.theme]
+variant = "classic"
+language = "zh"
+features = [
+  "navigation.instant",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.top",
+  "search.highlight",
+]
+
+[project.plugins.tags]
