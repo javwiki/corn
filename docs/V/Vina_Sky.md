@@ -36,6 +36,13 @@ Vina Sky 1999年出生于德克萨斯州休斯顿，越南裔，身高仅5英尺
 
 除出演成人影片外，Vina Sky 活跃于多个社交媒体与内容平台。她在 Instagram（@thevinasky）拥有约1.66万粉丝（截至2026年4月），在 TikTok（@vinasky_official）、Twitter/X（@VinaSkyy）以及 OnlyFans（VinaSkyy）上均保持活跃。她曾在 CherryPimps 评选中获2020年2月"Cherry Of The Month"，并获 Nubiles 2021年4月"Fantasy Of The Month"荣誉，同时拥有 Fleshlight Girl 代言人身份。
 
+## YouTube 采访
+
+- [Interview with Vina Sky — Dave Naz](https://www.youtube.com/watch?v=SzfuF7iSBkU)：2018年10月16日发布，视频简介将其标注为对成人影片演员 Vina Sky 的采访。
+- [Vina Sky Exxxotica NJ Interview — LAST CALL Podcast](https://www.youtube.com/watch?v=M7EIz2TNpWQ)：2018年11月5日发布。采访在 Exxxotica New Jersey 活动期间进行，主要谈及她第一次参加 Exxxotica 的经历、进入成人行业的契机、未来计划，以及对2019年的展望。
+
+两段视频均发布于 Vina Sky 职业生涯早期，可作为了解她早期公开形象与职业规划的补充资料。视频内容和播放数据可能随时间变化；以上信息核验于2026年9月14日。
+
 ## 参考资料
 
 - [Vina Sky - IAFD](https://www.iafd.com/person.rme/id=be8cc42d-8bfe-4981-80f0-817891786589)
