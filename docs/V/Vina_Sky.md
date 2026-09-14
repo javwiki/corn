@@ -38,10 +38,10 @@ Vina Sky 1999年出生于德克萨斯州休斯顿，越南裔，身高仅5英尺
 
 ## YouTube 采访
 
-- [Interview with Vina Sky — Dave Naz](https://www.youtube.com/watch?v=SzfuF7iSBkU)：2018年10月16日发布，视频简介将其标注为对成人影片演员 Vina Sky 的采访。
-- [Vina Sky Exxxotica NJ Interview — LAST CALL Podcast](https://www.youtube.com/watch?v=M7EIz2TNpWQ)：2018年11月5日发布。采访在 Exxxotica New Jersey 活动期间进行，主要谈及她第一次参加 Exxxotica 的经历、进入成人行业的契机、未来计划，以及对2019年的展望。
+- [Interview with Vina Sky — Dave Naz](https://www.youtube.com/watch?v=SzfuF7iSBkU)：2018年10月16日发布，时长约13分钟。Vina Sky 在采访中说自己来自休斯顿，最初接触成人内容是通过 webcam，之后曾在 sex shop 工作；她在考虑职业方向时通过网络联系经纪人，并在拍摄第一场后决定继续发展。她表示自己喜欢表演、与观众互动，以及在每次拍摄中积累经验、持续改进。她也谈到自己在入行初期对行业并不熟悉、如何逐渐建立信心，以及希望未来拥有自己的住所和 Audi。
+- [Vina Sky Exxxotica NJ Interview — LAST CALL Podcast](https://www.youtube.com/watch?v=M7EIz2TNpWQ)：2018年11月5日发布，时长约3分钟。采访地点是 Exxxotica New Jersey；她表示这是自己第一次正式参加 Exxxotica（此前只短暂去过迈阿密活动），觉得活动有趣但长时间穿高跟鞋很辛苦。她回顾了2018年大量拍摄、从 webcam 和 sex shop 工作转入成人影片行业的经历，并说自己最喜欢行业中的表演感、与搭档形成化学反应以及为观众呈现幻想。
 
-两段视频均发布于 Vina Sky 职业生涯早期，可作为了解她早期公开形象与职业规划的补充资料。视频内容和播放数据可能随时间变化；以上信息核验于2026年9月14日。
+两段视频都记录了 Vina Sky 职业生涯早期的自述：她将入行描述为从 webcam 和 sex shop 工作逐步转向专业拍摄，并强调自己后来因为喜欢表演和创作过程而选择继续。以上摘要依据视频及其自动生成字幕整理；视频内容和播放数据可能随时间变化，信息核验于2026年9月14日。
 
 ## 参考资料
 
