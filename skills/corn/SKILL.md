@@ -1,7 +1,6 @@
 ---
 name: corn-add-entry
-version: 1.0.0
-description: "成人影片演员百科（本仓库 /root/corn）新增人物条目。当用户要求添加演员/新人、收录某位表演者、新增条目、把某某加入百科时使用。覆盖：信息核验、创建 docs/<首字母>/<艺名>.md 条目文件、同步字母目录 index.md、同步 docs/_meta/list.yaml 与 docs/_meta/list.md。不负责删除条目（可参考 git 历史 7e887c8）。"
+description: "成人影片演员百科（本仓库 /root/corn）新增人物条目。当用户要求添加演员/新人、收录某位表演者、新增条目、把某某加入百科时使用。覆盖：信息核验、创建 docs/{首字母}/{艺名}.md 条目文件、同步字母目录 index.md、同步 docs/_meta/list.yaml 与 docs/_meta/list.md。不负责删除条目（可参考 git 历史 7e887c8）。"
 metadata:
   requires:
     bins: ["git"]
