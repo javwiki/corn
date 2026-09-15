@@ -1,5 +1,6 @@
 # 成人影片演员列表
 
+- **Chloe Surreal** (C) - 完成度: 95%
 - **Candy Charms** (C) - 完成度: 80%
 - **Jennifer Exxotic** (J) - 完成度: 70%
 - **Cheyla Collins** (C) - 完成度: 70%
