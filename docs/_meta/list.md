@@ -1,5 +1,6 @@
 # 成人影片演员列表
 
+- **Juliette Stray** (J) - 完成度: 85%
 - **Ayumi Anime** (A) - 完成度: 95%
 - **Alina Li** (A) - 完成度: 95%
 - **Lucy Mochi** (L) - 完成度: 95%

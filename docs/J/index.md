@@ -5,3 +5,4 @@
 - [Janelle Fennec](Janelle_Fennec.md)
 - [Jessy Bells](Jessy_Bells.md)
 - [Jasmine Grey](Jasmine_Grey.md)
+- [Juliette Stray](Juliette_Stray.md)

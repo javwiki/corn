@@ -103,6 +103,10 @@ items:
   name: Jasmine Grey
   file: J/Jasmine_Grey.md
   index: J
+- completeness: 85%
+  name: Juliette Stray
+  file: J/Juliette_Stray.md
+  index: J
 - completeness: 100%
   name: Kendra Sunderland
   file: K/Kendra_Sunderland.md
