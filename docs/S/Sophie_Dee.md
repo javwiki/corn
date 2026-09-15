@@ -33,6 +33,7 @@ Sophie Dee，本名有时署名为 Kirsty Hill，1984年1月17日出生于威尔
 ## 参考资料
 
 - [IAFD](https://www.iafd.com/person.rme/id=95083e18-65d4-42d5-bd27-25ed706cf6a2)
+- [Babepedia](https://www.babepedia.com/babe/Sophie_Dee)
 - [Forbes](https://forbes.com/profile/sophie-dee/)
 - [New York Post](https://nypost.com/2022/09/23/im-an-onlyfans-top-earner-i-grew-up-poor-but-now-a-millionaire/)
 - [Wikipedia Draft](https://en.wikipedia.org/wiki/Draft:Sophie_Dee)
