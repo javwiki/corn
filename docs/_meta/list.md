@@ -1,5 +1,6 @@
 # 成人影片演员列表
 
+- **Jennifer Exxotic** (J) - 完成度: 70%
 - **Cheyla Collins** (C) - 完成度: 70%
 - **Bibi Bugatti** (B) - 完成度: 75%
 - **Juliette Stray** (J) - 完成度: 85%
