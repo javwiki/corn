@@ -35,13 +35,17 @@ items:
   name: Ava Addams
   file: A/Ava_Addams.md
   index: A
-- completeness: 100%
-  name: Bunny Colby
-  file: B/Bunny_Colby.md
+- completeness: 75%
+  name: Bibi Bugatti
+  file: B/Bibi_Bugatti.md
   index: B
 - completeness: 100%
   name: Bridgette B
   file: B/Bridgette_B.md
+  index: B
+- completeness: 100%
+  name: Bunny Colby
+  file: B/Bunny_Colby.md
   index: B
 - completeness: 85%
   name: Jessy Bells

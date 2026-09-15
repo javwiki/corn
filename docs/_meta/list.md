@@ -1,5 +1,6 @@
 # 成人影片演员列表
 
+- **Bibi Bugatti** (B) - 完成度: 75%
 - **Juliette Stray** (J) - 完成度: 85%
 - **Ayumi Anime** (A) - 完成度: 95%
 - **Alina Li** (A) - 完成度: 95%
