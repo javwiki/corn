@@ -4,6 +4,8 @@
 
 This repository uses Zensical to build a bilingual Chinese-English encyclopedia. Chinese content lives in `docs/zh/`, English content in `docs/en/`, and matching pages use the same relative path.
 
+翻译所用模型、实测速度、质量限制与维护流程见 [TRANSLATION.md](TRANSLATION.md)。
+
 ## 本地构建
 
 ```bash
