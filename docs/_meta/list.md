@@ -1,5 +1,6 @@
 # 成人影片演员列表
 
+- **Eva Nyx** (E) - 完成度: 100%
 - **Chloe Surreal** (C) - 完成度: 95%
 - **Candy Charms** (C) - 完成度: 80%
 - **Jennifer Exxotic** (J) - 完成度: 70%
