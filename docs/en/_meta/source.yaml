@@ -1,0 +1,20 @@
+title: Data sources
+sources:
+  - name: IAFD
+    url: https://www.iafd.com
+    description: Internet Adult Film Database
+  - name: Wikipedia
+    url: https://en.wikipedia.org/wiki
+    description: Wikipedia
+  - name: Wikidata
+    url: https://www.wikidata.org/wiki
+    description: Wikidata
+  - name: Twitter
+    url: https://twitter.com
+    description: Twitter/X
+  - name: Instagram
+    url: https://www.instagram.com
+    description: Instagram
+  - name: OnlyFans
+    url: https://www.onlyfans.com
+    description: OnlyFans

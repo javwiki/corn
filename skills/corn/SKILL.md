@@ -1,6 +1,6 @@
 ---
 name: corn-add-entry
-description: "成人影片演员百科（本仓库 /root/corn）新增人物条目。当用户要求添加演员/新人、收录某位表演者、新增条目、把某某加入百科时使用。覆盖：信息核验、创建 docs/{首字母}/{艺名}.md 条目文件、同步字母目录 index.md、同步 docs/_meta/list.yaml 与 docs/_meta/list.md。不负责删除条目（可参考 git 历史 7e887c8）。"
+description: "成人影片演员百科（本仓库 /root/corn）新增人物条目。当用户要求添加演员/新人、收录某位表演者、新增条目、把某某加入百科时使用。覆盖：信息核验、创建中英双语条目、同步字母目录 index.md、同步 docs/{zh,en}/_meta/list.yaml 与 list.md。不负责删除条目（可参考 git 历史 7e887c8）。"
 metadata:
   requires:
     bins: ["git"]
@@ -20,12 +20,13 @@ metadata:
 ## 项目结构（只改这些）
 
 ```
-docs/<字母>/<艺名>.md      ← 条目文件（核心产物）
-docs/<字母>/index.md      ← 字母目录列表，需同步
-docs/_meta/list.yaml       ← 条目数据源（含 completeness），需同步
-docs/_meta/list.md         ← 人类可读列表，需同步（新条目加在最前面）
+docs/zh/<字母>/<艺名>.md   ← 中文条目文件（核心产物）
+docs/en/<字母>/<艺名>.md   ← 英文条目文件（与中文保持相同路径）
+docs/{zh,en}/<字母>/index.md ← 字母目录列表，需同步
+docs/{zh,en}/_meta/list.yaml ← 条目数据源（含 completeness），需同步
+docs/{zh,en}/_meta/list.md ← 人类可读列表，需同步（新条目加在最前面）
 zensical.toml             ← Zensical 配置
-docs/_meta/award/index.md ← CI 生成，禁止手动改
+docs/{zh,en}/_meta/award/index.md ← CI 生成，禁止手动改
 ```
 
 ## 工作流
@@ -33,11 +34,11 @@ docs/_meta/award/index.md ← CI 生成，禁止手动改
 ```
 演员名 ─┬─► 信息核验（IAFD / Wikipedia / 官网 / 社交账号）──► 确定字母与文件名
         │
-        ├─► 创建 docs/<字母>/<艺名>.md（frontmatter + 概要 + 详情 + 参考资料）
-        ├─► 更新 docs/<字母>/index.md
-        ├─► 更新 docs/_meta/list.yaml（含 completeness 评分）
-        ├─► 更新 docs/_meta/list.md（最前面插入一行）
-        └─► zensical build --strict ──► git commit
+        ├─► 创建 docs/zh/<字母>/<艺名>.md（frontmatter + 概要 + 详情 + 参考资料）
+        ├─► 创建对应 docs/en/ 英文条目并同步两种语言的 index.md
+        ├─► 更新 docs/{zh,en}/_meta/list.yaml（含 completeness 评分）
+        ├─► 更新 docs/{zh,en}/_meta/list.md（最前面插入一行）
+        └─► ./scripts/build_site.sh ──► git commit
 ```
 
 ### Step 1: 信息核验（先查证，再动笔）
@@ -49,7 +50,7 @@ docs/_meta/award/index.md ← CI 生成，禁止手动改
 
 ### Step 2: 确定字母目录与文件名
 
-- 按**艺名首字母**分目录：`Sky Bri` → `docs/S/Sky_Bri.md`；`Bridgette B` → `docs/B/Bridgette_B.md`。
+- 按**艺名首字母**分目录：`Sky Bri` → `docs/zh/S/Sky_Bri.md`；`Bridgette B` → `docs/zh/B/Bridgette_B.md`，英文版使用 `docs/en/` 下的相同路径。
 - 文件名 = 艺名以 `_` 连接（空格→下划线，无其他特殊符号），若对应字母目录不存在则新建。
 - 跨性别演员同样按当前艺名首字母，不按本名。
 
@@ -113,14 +114,14 @@ tags:
 - 资料附可核验的公开来源链接。
 - 会随时间变化的数据注明核验日期/口径。
 
-### Step 4: 更新字母目录 `docs/<字母>/index.md`
+### Step 4: 更新字母目录 `docs/{zh,en}/<字母>/index.md`
 
 - 若该目录 README 是简单格式（`# 字母 X 的演员` + 链接列表），把新链接按名字字母序插入，如：
   `- [<艺名>](<艺名>.md)`
 - 若该目录 README 是完整格式（含 `## 概要`/演员数量统计，如 A/index.md），**同步更新演员数量**并插入列表。
 - 新建字母目录时创建 README，参照最新提交中的简单格式。
 
-### Step 5: 更新 `docs/_meta/list.yaml`
+### Step 5: 更新 `docs/{zh,en}/_meta/list.yaml`
 
 - 在对应字母分组内按名字字母序插入（对齐既有提交做法）：
 
@@ -137,7 +138,7 @@ tags:
   - 70-85%：信息有明显缺口（无出生、无作品数、来源单一）
   - 参考存量：Skylar Vox 100%、Asuka Tenshi 45%、Piper Perri 70%、Abigail Lust 75%
 
-### Step 6: 更新 `docs/_meta/list.md`
+### Step 6: 更新 `docs/{zh,en}/_meta/list.md`
 
 - 在 `# 成人影片演员列表` 标题后**最前面**插入一行（保持"最近新增在前"）：
 
@@ -147,8 +148,7 @@ tags:
 
 ### Step 7: 校验与提交
 
-- 本地验证：
-  `uvx --from zensical==0.0.62 zensical build --clean --strict`
+- 本地验证：`./scripts/build_site.sh`（会先验证中英文件一一对应，再分别严格构建两个站点）。
 - 提交信息沿用仓库风格：
   - 单个：`add: <艺名> entry - <一句话描述>`
   - 多个：`add: <A> + <B> - <描述>`

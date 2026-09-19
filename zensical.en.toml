@@ -1,13 +1,13 @@
 [project]
-site_name = "成人影片演员百科"
-site_url = "https://javwiki.github.io/corn/"
-site_description = "成人影片演员相关资料索引。"
+site_name = "Adult Film Performer Encyclopedia"
+site_url = "https://javwiki.github.io/corn/en/"
+site_description = "A reference index of adult film performers."
 site_author = "language learner"
 repo_url = "https://github.com/javwiki/corn"
 repo_name = "javwiki/corn"
-edit_uri = "edit/main/docs/zh/"
-docs_dir = "docs/zh"
-site_dir = "site"
+edit_uri = "edit/main/docs/en/"
+docs_dir = "docs/en"
+site_dir = "site/en"
 use_directory_urls = true
 
 [project.extra]
@@ -18,7 +18,7 @@ alternate = [
 
 [project.theme]
 variant = "classic"
-language = "zh"
+language = "en"
 features = [
   "navigation.instant",
   "navigation.path",
@@ -27,22 +27,21 @@ features = [
   "search.highlight",
 ]
 
-# Follow the user's system color preference by default.
 [[project.theme.palette]]
 media = "(prefers-color-scheme)"
 toggle.icon = "lucide/sun-moon"
-toggle.name = "切换到浅色模式"
+toggle.name = "Switch to light mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
-toggle.name = "切换到深色模式"
+toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "跟随系统设置"
+toggle.name = "Follow system preference"
 
 [project.plugins.tags]

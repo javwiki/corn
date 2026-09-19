@@ -1,0 +1,32 @@
+# List of adult film actors
+
+- **Piper Perri**(P) - Completion: 100%
+- **Eva Nyx**(E) - Completion: 100%
+- **Chloe Surreal**(C) - Completion: 95 per cent
+- **Candy Charms**(C) - Completion: 80%
+- **Jennifer Exxotic**(J) - Completion: 70 per cent
+- **Cheyla Collins**(C) - Completion: 70 per cent
+- **Bibi Bugatti**(B) - Completion: 75 per cent
+- **Juliette Stray**(J) - Completion: 85 per cent
+- **Ayumi Anime**(A) - Completion: 95 per cent
+- **Alina Li**(A) - Completion: 95 per cent
+- **Lucy Mochi**(L) - Completion: 95 per cent
+- **Vivian Fox**(V) - Completion: 80%
+- **Abigaiil Morris**(A) - Completion: 90%
+- **Lauren Phillips**(L) - Completion: 95 per cent
+- **Savannah Bond**(S) - Completion: 95 per cent
+- **Chanel Noir**(C) - Completion: 90 per cent
+- **Jade Venus**(J) - Completion: 100%
+- **Korra Del Rio**(K) - Completion: 100%
+- **Jessy Bells**(J) - Completion: 85 per cent
+- **Janelle Fennec**(J) - Completion: 95 per cent
+- **Izzy Wilde**(I) - Completion: 95 per cent
+- **Lucy Lee**(L) - Completion: 100%
+- **Soolin Kelter**(S) - Completion: 100%
+- **Rae Lil Black**(R) - Completion: 100%
+- **Nicole Doshi**(N) - Completion: 100%
+- **Natalie Mars**(N) - Completion: 85 per cent
+- **Codi Vore**(C) - Completion: 100 per cent
+- **Sarina Valentina**(S) - Completion: 90%
+- **Sky Bri**(S) - Completion: 100%
+- **Lily Lou**(L) - Completion: 100%
