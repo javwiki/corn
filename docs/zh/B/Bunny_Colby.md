@@ -6,7 +6,6 @@ tags:
 - Instagram
 - Twitter
 - OnlyFans
-- Adult Actress
 ---
 
 # Bunny Colby

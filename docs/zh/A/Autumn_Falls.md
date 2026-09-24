@@ -28,5 +28,4 @@ Autumn Falls 是一名美国色情女演员与成人模特，自 2018 年起活�
 
 ## 参考资料
 
-- [IAFD: Autumn Falls](https://www.iafd.com/)
-- [Rog Reviews: Autumn Falls](https://www.rogreviews.com/)
+- [IAFD: Autumn Falls](https://www.iafd.com/person.rme/id=f3653ee2-88fc-47d0-8099-b1efdd575ab4)

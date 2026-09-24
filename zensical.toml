@@ -19,6 +19,8 @@ alternate = [
 [project.theme]
 variant = "classic"
 language = "zh"
+font = false
+custom_dir = "overrides"
 features = [
   "navigation.instant",
   "navigation.path",
@@ -46,3 +48,6 @@ toggle.icon = "lucide/moon"
 toggle.name = "跟随系统设置"
 
 [project.plugins.tags]
+
+[project.plugins.redirects.redirect_maps]
+"L/Elle_Lee.md" = "E/Elle_Lee.md"

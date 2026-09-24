@@ -13,8 +13,6 @@ tags:
 
 # Angel Wicky
 
-<img docs="https://www.babepedia.com/pics/Angel%20Wicky.jpg" alt="Angel Wicky" width="280" style="float: right; border-radius: 8px; margin: 0 0 16px 16px;" />
-
 ## 概要
 
 - **名称**: Angel Wicky

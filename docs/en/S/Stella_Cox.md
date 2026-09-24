@@ -16,18 +16,18 @@ tags:
 - **Alias**: Stella Powers / Stella Coxx / Sub Stella / Stella Kox / Daniela C. / Amy
 - **Platform**: OnlyFans / Twitter / Instagram
 - **Born**: Rome, Italy (date unknown); Scorpio
-- **The active years.**2013 – To date
+- **Active years**: 2013 – to present
 - **Number of works**: 512 (IAFD)
-- **Occupation**: Sex actress, model
-- **Notes**: personal network of officials
+- **Occupation**: Adult film actress, model
+- **Notes**: Personal website stellacox.co.uk; natural 32D breasts; height 163 cm
 
 ## Details
 
-Stella Cox, a famous adult film actor and model from Rome, Italy, has been active in the industry since she joined the industry in 2013. She is known for her natural chest (32D) and small body (163cm) and is one of the representative faces of the European sex industry.
+Stella Cox is a well-known adult film actress and model from Rome, Italy, who has remained active since entering the industry in 2013. She is known for her natural 32D breasts and petite 163 cm frame, and is one of the representative faces of the European adult industry.
 
-Stella's career spans over a decade and covers a wide range of types, including double-plugs (DP), oral sex, anal sex, group sex, lesbians, etc. She worked with several prominent brands and studios, such as Brazzers, Kink.com, DDF Network, Monty's POV, Blakes On Blondes, Fake Driving School, Fake Agent, Private, Viv Thomas, etc. Her work is popular online, with over 592 videos and 215 million views on XHamster platform, and over 477 videos and nearly 280 million views on Porthub.
+Stella's career spans more than a decade and includes double penetration (DP), oral, anal, group, and lesbian scenes. She has worked with prominent brands and studios including Brazzers, Kink.com, DDF Network, Monty's POV, Blacks On Blondes, Fake Driving School, Fake Agent, Private, and Viv Thomas. Her work is popular online, with more than 592 videos and 215 million views on xHamster, and more than 477 videos and nearly 280 million views on Pornhub.
 
-In social media, Stella is active on Instagam as @stellaacoxx and is also the creator of OnlyFans, where fans can access exclusive content through subscriptions at a fee. Her Twitter account is @thestellacox. In addition, she runs a personal website, Stellacox.co.uk.
+On social media, Stella is active on Instagram as @stellaacoxx and is also an OnlyFans creator, where fans can access exclusive content through paid subscriptions. Her Twitter account is @thestellacox. She also runs the personal website stellacox.co.uk.
 
 ## References
 

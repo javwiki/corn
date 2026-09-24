@@ -29,7 +29,7 @@ tags:
 - **眼睛颜色**: 未知
 - **身体穿刺**: 肚脐
 - **纹身**: 无
-- **官网**: [sarinavalentina.com](http://www.sarinavalentina.com)
+- **官网**: [sarinavalentina.com](https://www.sarinavalentina.com)
 - **备注**: 无维基百科条目（存在被拒绝的草稿）；Twitter 生日标注为 10 月 6 日，与 IAFD 的 10 月 8 日略有出入
 
 ## 详情
@@ -63,8 +63,7 @@ Valentina 是跨性别成人影片领域的标志性人物之一，与 Evil Ange
 
 ## 参考资料
 
-- [IAFD - Sarina Valentina](https://www.iafd.com/person.rme/perfid=SarinaValentina/gender=f)
-- [Wikipedia Draft - Sarina Valentina](https://en.wikipedia.org/wiki/Draft:Sarina_Valentina)
+- [IAFD - Sarina Valentina](https://www.iafd.com/person.rme/id=ef40c51a-aafd-450b-a442-71de3dc368e5)
 - [Twitter/X - @SarinaValentina](https://x.com/SarinaValentina)
 - [Instagram - @sarinavalentinaluv](https://www.instagram.com/sarinavalentinaluv/)
 - [OnlyFans - sarinavalentina](https://onlyfans.com/sarinavalentina)

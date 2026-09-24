@@ -16,25 +16,25 @@ tags:
 ## Summary
 
 - **Name**: Madison Ivy
-- **Alias**: Ivy Madison / Clarisa Caroline Briggs (name)
+- **Alias**: Ivy Madison / Clorisa Caroline Briggs (real name)
 - **Platform**: OnlyFans / Instagram / Twitter / TikTok
-- **Born**: June 14, 1989, Munich, Bavaria, Germany
-- **Active years**: 2008–To date
-- **Number of works**: 630+ film / 708 Cover / 78 Scrub
-- **Occupation**: Sex model, ex-striking dancer, net red
-- **Notes**: Rest from car accident in 2015 to 2017; withdrawal from mainstream sex industry in 2019, with only one-sided Farans
+- **Born**: 14 June 1989, Munich, Bavaria, Germany
+- **Active years**: 2008 – to present
+- **Number of works**: 630+ films / 708 covers / 78 photo sets
+- **Occupation**: Adult model, former stripper, influencer
+- **Notes**: Rested from a serious car accident in 2015 until recovering in 2017; left mainstream adult films in 2019 and continued on OnlyFans
 
 ## Details
 
-Madison Ivy, a former Clarisa Caroline Briggs, born in Munich, Germany, on 14 June 1989, moved with his family to Texas, United States, and to Sacramento, California, in adolescence. She is a dual German-American national of white descent, 4 feet 11 inches (approximately 150 cm) tall, weighing approximately 100 pounds, and is surrounded by 32-24-32, 32DD cups (from B cup to D cup in December 2009). She has multiple tattoos (bone, inside the right wrist, lower back) and a belly button pierced.
+Madison Ivy, born Clorisa Caroline Briggs on 14 June 1989 in Munich, Germany, moved with her family to Texas, United States, shortly afterward and to Sacramento, California, as a teenager. She holds German and American citizenship and is of White heritage. She is 4 feet 11 inches (about 150 cm) tall, weighs about 100 lb, and has measurements of 32-24-32 and 32DD breasts (augmented from B to D in December 2009). She has several tattoos (abdomen, inside right wrist, and lower back) and a navel piercing.
 
-In 2007, 18-year-old Madison, who met the adult movie star Aurora Snow when dancing at a strip club in Sacramento, officially joined the adult film industry in 2008, at his initiative. She has worked with prominent companies such as Hustler, Pure Play Media, Elegant Angel, Bang Productions, Naughty America, Digital Playground, Twistys, Reality Kings, and Evil Angel. In 2013, she became the first female signing star of Brazzers. Her work is known for its anal and flexible form, with a former teacher showing "twisted to the head" from yoga coaches.
+In 2007, 18-year-old Madison met adult star Aurora Snow while dancing at a strip club in Sacramento. At Aurora's recommendation, she formally entered the adult film industry in 2008. She worked with prominent companies including Hustler, Pure Play Media, Elegant Angel, Bang Productions, Naughty America, Digital Playground, Twistys, Reality Kings, and Evil Angel. In 2013, she became Brazzers' first female contracted star. Her work is known for anal scenes and highly flexible positions; she trained with a yoga instructor and frequently performed her signature move of bringing her legs behind her head.
 
-In 2014, Madison Ivy and Mick Blue received the XBIZ award for "Best Couples Theme Field Award" for "Hotel No Tell" and received several nominations for the AVN (the Best Smuggling Show 2012, Best All-female Group Sex/ Best Oral Sex scene 2010 and Best Anal Spectrum 2015). She also has the honours of Fleshlight Girl, Twistys Tread of the Month (April 2013) and Viparea Delight of the Month (October 2013).
+In 2014, Madison Ivy and Mick Blue won the XBIZ award for Best Couple's Scene for *Hotel No Tell*. She also received several AVN nominations, including Best Tempting Performance in 2012, Best All-Girl Group Sex / Best Oral Sex Scene in 2010, and Best Anal Scene in 2015. Her other honors include Fleshlight Girl, Twistys Treat of the Month (April 2013), and VIParea Delight of the Month (October 2013).
 
-In January 2015, Madison suffered a severe car accident, fractured his spine and abdominal trauma, and was resting until his recovery in 2017. Since 2019, she has stopped playing mainstream adult videos and turned to the OnlyFans on a personal platform to publish monolithic content and run a personal website, Madisonivy.tv.
+In January 2015, Madison was seriously injured in a car accident, suffering a spinal fracture and abdominal trauma, and rested until recovering in 2017. Beginning in 2019, she stopped appearing in mainstream adult films and shifted to publishing exclusive content through her personal OnlyFans platform while running the Madisonivy.tv website.
 
-In terms of social media, she has about 43.35 million fans in Instagram (@madivyz), 680,000 fans in Twitter/X (@Madison420Ivy) and is active in TikTok (@suberivy). She is known for her blue eyes, blonde hair (sometimes brown) and small, but full body, and Instagram often shares the flowers and the behinds of her life.
+On social media, she has about 435,000 Instagram followers (@madivyz), 680,000 Twitter/X followers (@Madison420Ivy), and is active on TikTok (@superivy). She is known for her blue eyes, blonde hair (sometimes brown), and petite but full figure; Instagram often features her everyday life and behind-the-scenes material.
 
 ## References
 

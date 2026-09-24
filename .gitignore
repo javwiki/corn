@@ -54,7 +54,22 @@ dkms.conf
 # debug information files
 *.dwo
 
+# Python and uv environments
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local build/test caches
+.cache/
+.DS_Store
+
 site/
+.site-stage.*/
+.site-previous.*/
 
 # IDE and tool directories
 .codegraph/

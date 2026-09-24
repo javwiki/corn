@@ -25,7 +25,7 @@ tags:
 - **活跃年代**: 2017/2018 –2025（成人行业）；2025 起退出成人界转型
 - **作品数量**: 116 部（IAFD）
 - **职业**: 前色情女演员、网红、YouTuber、ASMR/mukbang 内容创作者
-- **备注**: 2025 年 3 月宣布皈依伊斯兰教，改名 Nuray Istiqbal
+- **备注**: 已退出成人行业，继续从事游戏、vlog、ASMR 与吃播内容创作
 
 ## 详情
 
@@ -33,7 +33,7 @@ Rae Lil Black（1996年8月17日－）是一名日本前色情女演员、网红
 
 自 2020–2024 年，她共出演 Vixen Media Group 的 8 部电影。她个人开设了 OnlyFans 账号，并为杂志《Richardson》第 25 期拍摄封面。
 
-退出成人界后，她转型内容创作者，在 YouTube、TikTok、Instagram 和 Twitch 上分享游戏、vlog、ASMR、吃播（mukbang）等内容。2023 年 11 月在曼谷发表 TEDx Talk。2024 年赴马来西亚访问后深受伊斯兰文化影响，同年 10 月开始佩戴头巾（hijab），2025 年 3 月宣布皈依伊斯兰教并改名 Nuray Istiqbal。
+退出成人界后，她转型内容创作者，在 YouTube、TikTok、Instagram 和 Twitch 上分享游戏、vlog、ASMR、吃播（mukbang）等内容。2023 年 11 月在曼谷发表 TEDx Talk。
 
 ### 奖项提名记录
 
@@ -49,9 +49,8 @@ Rae Lil Black（1996年8月17日－）是一名日本前色情女演员、网红
 ## 参考资料
 
 - [Wikipedia: Rae Lil Black](https://en.wikipedia.org/wiki/Rae_Lil_Black)
-- [IAFD: Rae Lil Black](https://www.iafd.com/)
+- [IAFD: Rae Lil Black](https://www.iafd.com/person.rme/id=168eec27-4d2e-4d21-bbb6-a5b8c59a6ae4)
 - [AVN: Rae Lil Black](https://avn.com/news/video/rae-lil-black-september-cover-story-173891)
-- [Toronto Sun: From Porn to Piety](https://torontosun.com/entertainment/celebrity/from-porn-to-piety-adult-film-star-rae-lil-blacks-shock-conversion-to-islam)
 - [Twitter/X: @Raelilblack](https://x.com/Raelilblack)
 - [Instagram: @raelilblack](https://www.instagram.com/raelilblack/)
 - [TikTok: @raelilblack.official](https://www.tiktok.com/@raelilblack.official)

@@ -1,5 +1,7 @@
-# Adult film actor encyclopedia
+# Adult film performer encyclopedia
 
-Welcome to the adult film actor encyclopedia! This book contains information about adult film actor.
+> **Draft notice:** This English edition was machine translated and is under review. Numbers, names, awards, account handles, and source claims may still contain errors.
 
-The labels in the entry page are rendered by the Zensical native Tags plugin and are used in the station search.
+Welcome to the adult film performer encyclopedia! This site contains information about adult film performers.
+
+Entry tags are rendered by Zensical's native Tags plugin and are included in site search.

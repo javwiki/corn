@@ -8,7 +8,6 @@ tags:
 - Hustler
 - Las Vegas
 ---
----
 
 # Erin Everheart
 

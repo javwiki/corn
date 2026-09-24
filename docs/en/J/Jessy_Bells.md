@@ -17,17 +17,17 @@ tags:
 - **Platform**: OnlyFans / Instagram / Twitter/X / ManyVids / Snapchat
 - **Born**: 28 February 1999, United States
 - **Active years**: 2017 – 2022
-- **Number of works**75 (IAFD)
-- **Occupation**: Sex actress, model
-- **Notes**: Gender-transverse Women (H/H), AIDS Safety Advocate
+- **Number of works**: 75 (IAFD)
+- **Occupation**: Adult film actress, model
+- **Notes**: Transgender woman (she/her); HIV/AIDS safety advocate
 
 ## Details
 
-Jess Bells, an American intersex porn actress and model, was born in the United States on 28 February 1999. She entered the business in 2017, initially in partnership with the Grooby Productions, and then quickly became a new and sharp face in the field of transgender adult films. In a short five-year period of active activity, she has accumulated over 75 works and maintained cooperation with a number of prominent production companies, including Grooby Productions, Evil Angel, Devil's Film, Ginder X Films, CX WOW, TransErotica, Pure Play Media, VIP Digital Media, etc.
+Jessy Bells is an American transgender porn actress and model born in the United States on 28 February 1999. She entered the industry in 2017, first working with Grooby Productions, and quickly became a new presence in transgender adult films. During her five-year active career, she appeared in more than 75 productions and worked with prominent companies including Grooby Productions, Evil Angel, Devil's Film, Gender X Films, CX WOW, TransErotica, Pure Play Media, and VIP Digital Media.
 
-Jess Bells has received several nominations for awards in the industry. In 2019, she was nominated by Transgender Europe Awards (TEA) as Best New Face. In 2020, she was nominated for the AVN Award for the Best Sex-Treasselxual Girl Exchange, and in the same year, for the TEA for the Best Sex-Fixer-Turn-Turn-Friend Exchange, the Best Men-Women, Best Hard Core Performer and Best VR. In 2021, she was nominated for the AVN award for the most exotic sex scene and again for the TEA, Ms. Unique.
+Jessy Bells has received several industry award nominations. In 2019, she was nominated for Best New Face at the Transgender Erotica Awards (TEA). In 2020, she received an AVN nomination for Best Trans One-on-One Sex Scene for *Transsexual Girlfriend Experience 8*, along with TEA nominations for Best Boy/Girl Scene, Best Hardcore Performer, and Best VR Scene. In 2021, she received an AVN Most Outrageous Sex Scene nomination for *TS Jessy Bells: Anal Fun and Milk Enema* and another TEA nomination for Ms. Unique.
 
-In addition to the adult film industry, Jess Bells is active on social media platforms. She has about 36,000 fans on Twitter/X (@JessyBellYana), who interact with them and share life dynamics. She also publishes her own content on the payment platforms of OnlyFans and ManyVids. Its personal interests include live broadcasts, games and travel, currently residing in Los Angeles, California.
+In addition to adult films, Jessy Bells is active on social media. She has about 36,000 Twitter/X followers (@JessyBellYana), with whom she interacts and shares parts of her life. She also publishes exclusive content on paid platforms such as OnlyFans and ManyVids. Her personal interests include livestreaming, gaming, and travel, and she currently resides in Los Angeles, California.
 
 ## References
 

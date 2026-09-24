@@ -13,41 +13,39 @@ tags:
 
 # Angel Wicky
 
-<img docs="https://www.babepedia.com/pics/Angel%20Wicky.jpg" alt="Angel Wicky" width="280" style="float: right; border-radius: 8px; margin: 0 0 16px 16px;" />
-
 ## Summary
 
 - **Name**: Angel Wicky
-- **Alias**Welli, Welly, Vendula, Veronika, Wellie, Adriana, Angela, Audrey Argentina, Czech Casting 2711, Jenny, Valerie, Veronica Maiden, Vicky Angel, Viki, Wellie Angel, Wicky, and so on.
+- **Alias**: Welli, Welly, Vendula, Veronika, Wellie, Adriana, Angela, Audrey Argento, Czech Casting 2711, Jenny, Valerie, Veronica, Veronica Maiden, Vicky, Vicky Angel, Viki, Wellie Angel, Wicky, and others
 - **Platform**: Instagram (@angelwickyofficial), OnlyFans, TikTok (@viktorieangelwicky), Twitter/X (@vikyangelwicky), ManyVids
 - **Born**: 8 April 1991, Pelhřimov, Vysočina Region, Czech Republic
-- **The active years.**2009 - 2023 (IAFD records still have late-issue works in 2026)
-- **Number of works**IAFD takes 639 works; 355 covers, 144 groupings, 211 videos
-- **Occupation**: Sex actress (former), adult model (former), exotic dancer (former), director, network Red
-- **Notes**: Four times became Playboy's Playboy's Playboy's Companion (Czech version, May 2014, November 2014, Croatian version, November 2015, Czech version, July 2017); 24 March 2024 announced a complete withdrawal from adult trade
+- **Active years**: 2009 – 2023 (IAFD still lists later releases in 2026)
+- **Number of works**: IAFD lists 639 works: 355 covers, 144 photo sets, and 211 videos
+- **Occupation**: Adult film actress (former), adult model (former), exotic dancer (former), director, influencer
+- **Notes**: Appeared as a Playboy Playmate four times (Czech edition, May 2014 and November 2014; Croatian edition, November 2015; Czech edition, July 2017); announced her complete retirement from the adult industry on 24 March 2024
 
 ## Details
 
-Angel Wicky is one of the most famous movie stars of adults in the Czech Republic, born in 1991 in Pelhřimov, Vysočina region. She entered the adult industry at about 18 (2009) and then became active for 14 years until she retired in 2023 (the official withdrawal was announced in March 2024). In her career, she played in various companies under various stage names, including Brazzers, Evil Angel, DDF Network, Reality Kings, Mylf, VR Bangers, Private, Hustler, Wicked, Playboy Plus, etc., and covered traditional reality and VR adult films. In addition, she has held the position of director.
+Angel Wicky is one of the Czech Republic's best-known adult film stars. Born in Pelhřimov in the Vysočina Region in 1991, she entered the adult industry at about 18 in 2009 and remained active for 14 years until retiring in 2023; she formally announced her retirement in March 2024. During her career, she performed under several stage names for companies including Brazzers, Evil Angel, DDF Network, Reality Kings, MYLF, VR Bangers, Private, Hustler, Wicked, and Playboy Plus, in both traditional and VR adult productions. She has also worked as a director.
 
-Her most visible feature is her full prosthesis chest (38F /44-27-38 body size), blonde, 5-foot-5 inches tall (165 cm). Weight differences in different sources: Babepedia records 145 lbs (66 kg) and IAFD records 127 lbs (58 kg). The body was tattooed with a forearm and upper back (IAFD marked with no tattoo), and pierced with the right nostrils, double nipples, belly buttons and the right side of the large pediatric lip.
+Her most recognizable features are her augmented breasts (38F; measurements 44–27–38), blonde hair, blue eyes, and height of 5 feet 5 inches (165 cm). Sources differ on her weight: Babepedia lists 145 lb (66 kg), while IAFD lists 127 lb (58 kg). She has tattoos on her forearm and upper back (IAFD marks her as having no tattoos) and piercings in her right nostril, both nipples, navel, and right labia.
 
-Angel Wicky, known for his many years of professional life in the adult industry and internationalized, was one of the first European actors involved in VR adult films. She has been in Playboy magazine four times: Czech, May 2014, November 2014, July 2017 and Croatia, November 2015.
+Angel Wicky became known for her prolific, international career and was among the first European performers to appear in VR adult films. She appeared in *Playboy* four times: the Czech edition in May 2014, November 2014, and July 2017, and the Croatian edition in November 2015.
 
-Apart from adult films, Angel Wicky has a large number of social media fans, some 77.77 million (as of March 2026), mainly publishing personal writing and life content. After leaving the adult business, she became a web-based red and social media content creator, running the Health Warriors blog.
+Outside adult films, Angel Wicky has a substantial social media following, including about 777,000 Instagram followers as of March 2026, and mainly shares modeling and lifestyle content. After leaving the adult industry, she became an influencer and social media content creator and runs the blog The Healing Warriors.
 
 ### Awards and nominations
 
 |Year|Awards|Category|Result|
 |------|------|------|------|
-| 2017 | Venus Awards | Beste Darstellerin Europa |Nominations|
-| 2018 | Venus Awards | Beste Virtual Reality Darstellerin |Nominations|
-| 2018 | XCritic Awards | Foreign Female Performer of the Year |Nominations|
-| 2019 | XBiz Awards | Foreign Female Performer of the Year |Nominations|
-| 2019 | XBIZ Europa Awards | Female Performer of the Year |Nominations|
-| 2020 | Spank Bank Awards | ATOGM Girl of the Year |Nominations|
-| 2020 | Spank Bank Awards | Most Voluptuous Vixen |Nominations|
-| 2022 | Czech Erotic Awards | Best Erotic Social Media Performer |Nominations|
+| 2017 | Venus Awards | Beste Darstellerin Europa |Nominated|
+| 2018 | Venus Awards | Beste Virtual Reality Darstellerin |Nominated|
+| 2018 | XCritic Awards | Foreign Female Performer of the Year |Nominated|
+| 2019 | XBiz Awards | Foreign Female Performer of the Year |Nominated|
+| 2019 | XBIZ Europa Awards | Female Performer of the Year |Nominated|
+| 2020 | Spank Bank Awards | ATOGM Girl of the Year |Nominated|
+| 2020 | Spank Bank Awards | Most Voluptuous Vixen |Nominated|
+| 2022 | Czech Erotic Awards | Best Erotic Social Media Performer |Nominated|
 
 ## References
 

@@ -23,21 +23,21 @@ tags:
 - **Name**: Ellie Leen
 - **Alias**: Elle Leen
 - **Platform**: OnlyFans / Instagram / Twitter / Fansly / ManyVids / Chaturbate
-- **Born**: Amsterdam, Netherlands, 7 April 1997
-- **Active years**: 2018 – To date
-- **Number of works**: 44 IAFD / 30+ (XXXBios)
-- **Occupation**Adult model, porn actress, web camera model, content creator
-- **Notes**: 2019 XBIZ Europa Awards nominated "Female Cam Model of the Year" ; 2021 AVN Awards nominated "Beest New Forest Starlet" and "Hottest Newcomer" (Fan Award);
+- **Born**: 7 April 1997, Amsterdam, Netherlands
+- **Active years**: 2018 – to present
+- **Number of works**: 44 (IAFD) / 30+ (XXXBios)
+- **Occupation**: Adult model, porn actress, webcam model, content creator
+- **Notes**: Nominated for "Female Cam Model of the Year" at the 2019 XBIZ Europa Awards and for "Best New Foreign Starlet" and "Hottest Newcomer (Fan Award)" at the 2021 AVN Awards; of Russian and Korean heritage
 
 ## Details
 
-Ellie Leen (7 April 1997-) was a Dutch adult model, porn actress and content creator born in Amsterdam. She is of Russian and Korean origin and is known for her small but healthy shape (165 cm tall, 36-24-36, 36B cups) and natural beauty.
+Ellie Leen, born 7 April 1997, is a Dutch adult model, porn actress, and content creator from Amsterdam. She is of Russian and Korean heritage and is known for her petite but toned figure (165 cm tall; measurements 36-24-36; 36B breasts) and natural beauty.
 
-Ellie was initially involved in adult entertainment as a webcam model and active on Chaturbate (account number ellieleen). With a rapidly accumulating human spirit, she officially went out in early 2019 to film the virgin " Without Even Triing " (with Christian Clay) and then played " A Time And A Place " with Jia Lisa and Christian Clay.
+Ellie first entered adult entertainment as a webcam model and was active on Chaturbate under the account ellieleen. After rapidly building an audience, she formally debuted in early 2019 with Vixen and filmed her first production, *Without Even Trying*, with Christian Clay. She then appeared with Jia Lissa and Christian Clay in the threesome scene *A Time And A Place*.
 
-Since then, she has produced works for top adult film companies, including Lets Doe It, Marc Dorcel, MetaArt, Mofos (MindGeek), and Wood Gils. Its representatives included the female-loved scene of the "Bad Girls #2: Lesbian Desires" with Jia Lisa and Sophie Sparks, published in Marc Dorcel, nominated by 2021 AVN Awards "Beest Forest-Shot All-Girl Sex Scene". She also made several films on the subject of Hot Lesbian Threesome By The Fireplace for the Lets Doe It channel, A Girl Knows.
+She subsequently produced work for leading adult companies including Lets Doe It, Marc Dorcel, MetArt, Mofos (MindGeek), and Wow Girls. Notable work includes a lesbian sex scene in Marc Dorcel's *Bad Girls #2: Lesbian Desires* with Jia Lissa and Sophie Sparks, which received a 2021 AVN Awards nomination for "Best Foreign-Shot All-Girl Sex Scene." She also filmed several lesbian productions for Lets Doe It's *A Girl Knows* channel, including *Hot Lesbian Threesome By The Fireplace*.
 
-In addition to the video shows, Ellie also operates personal accounts on various digital platforms, including OnlyFans (ellieleen1), Fansly (EllieLeen1), ManyVids (EllieLeen1) and FanCentro. She has a large number of fans on Instagram (@itsnotelieleen) and Twitter/X (@EllieLeen1), and according to Babedia, the number of Instagram fans is about 186,000, and the number of Twitter fans is about 4.26 million.
+In addition to screen work, Ellie operates personal accounts on several digital platforms, including OnlyFans (ellieleen1), Fansly (EllieLeen1), ManyVids (EllieLeen1), and FanCentro. She has a large following on Instagram (@itsnotellieleen) and Twitter/X (@EllieLeen1). Babepedia lists about 186,000 Instagram followers and about 426,000 Twitter followers.
 
 ## References
 

@@ -1,3 +1,3 @@
-# The Y-letter actor.
+# Actors with names beginning with Y
 
-- (not available)
+No entries are currently available.

@@ -18,58 +18,58 @@ tags:
 - **Name**: Izzy Wilde
 - **Alias**: Zoe Summers
 - **Platform**: OnlyFans / ManyVids / Pornhub / Twitter / Bluesky
-- **Born**: United States, 1 November 1996
-- **Active years**: 2020 –2025
+- **Born**: 1 November 1996, United States
+- **Active years**: 2020–2025
 - **Number of works**: 200 (IAFD)
-- **Occupation**: Transgender porno, model, content creator
+- **Occupation**: Transgender porn actress, model, content creator
 - **Height**: 5 feet 8 inches (173 cm)
-- **Weight**: 59 kg (129 lbs)
+- **Weight**: 59 kg (129 lb)
 - **Measurements**: 34C-30-35
-- **Hair color**: Brown/Gold/Screw
+- **Hair color**: Brown/gold/highlighted
 - **Eye color**: Unknown
-- **Shoes size**: US 7
-- **Tattoo.**: Right hand yang pattern, right shoulder gill planet and star pattern
-- **Puncture**Right nostrils, belly buttons, tongues.
-- **Notes**: 2024, in September, in a sex replacement operation, 2025, in a live broadcast by Zoe Summers, "Valentine's Day Pussy Reveal" , officially completed the transition.
+- **Shoe size**: US 7
+- **Tattoos**: Yin-yang design on the right hand; planet and star designs on the right shoulder blade
+- **Piercings**: Right nostril, navel, tongue
+- **Notes**: Underwent gender affirmation surgery (bottom surgery) in September 2024 and officially completed her transition at a Zoe Summers "Valentine's Day Pussy Reveal" livestream on 14 February 2025
 
 ## Details
 
-Izzy Wilde (November 1, 1996-) was born in the United States of America to be a trans woman adult film performer, model and content creator. She entered the adult industry in 2020 (about 24 years old) and quickly became visible in the field of transsex adult films under the name Izzy Wilde. As of 2025, she had some 200 records on IAFD. ## [1]
+Izzy Wilde, born 1 November 1996, is an American transgender porn actress, model, and content creator. She entered the adult industry in 2020 at about 24 and quickly became visible in transgender adult films under the name Izzy Wilde. As of 2025, IAFD listed about 200 credits.
 
-In its professional life, Izzy worked with a number of well-known adult production companies, including Grooby Productions, Evil Angel, Trans Angels, Ginder X Films, Adulttime, Devil's Film, Kink.com, Pornbox and Manny Vids. She is known for her active role in cross-gender (TS) topics and has been the lead in community scenes on several occasions.
+During her career, Izzy worked with well-known adult companies including Grooby Productions, Evil Angel, TransAngels, Gender X Films, AdultTime, Devil's Film, Kink.com, Pornbox, and ManyVids. She is known for her active participation in transgender (TS) genres and has often taken a leading role in group scenes.
 
-Izzy's performance was recognized by many important awards from the industry. She has been nominated by AVN Awards on several occasions, including Best Trans Newcomer (2022), Trans Performer of the Year (2023, 2024, 2025) and won the Best Trans Group Sex Scene Award in two consecutive sessions, in 2024 and 2025. In Transgender Erotia Awards (TEA), she was awarded the Fan Choice Award (Photo Choice Award) in 2022 and 2023. In addition, in 2024, she won the Best Bi Sex Scene award in the GayVN Awards by means of Call Center Rocks (II). ## [1]
+Izzy's performances have been recognized by several major industry awards. She received multiple AVN Awards nominations, including Best Trans Newcomer (2022) and Trans Performer of the Year (2023, 2024, and 2025), and won Best Trans Group Sex Scene in consecutive years in 2024 and 2025. At the Transgender Erotica Awards (TEA), she won the Fan Choice Award in 2022 and 2023. In 2024, she also won Best Bi Sex Scene at the GayVN Awards for *Call Center Cocks (II)*.
 
-In September 2024, Izzy was given a sex replacement operation (bottom surgery). On February 14, 2025 (Valentine Day), she organized a live event called "Valentine's Day Pussy Reveal" under her new name Zoe Summers, which publicly celebrated her transition on her personal website, Zoe Summers.com. The subsequent works were published in the name of Zoe Summers. ## [1]
+In September 2024, Izzy underwent gender affirmation surgery (bottom surgery). On 14 February 2025 (Valentine's Day), she held a livestream titled "Valentine's Day Pussy Reveal" under her new name Zoe Summers, publicly marking the completion of her transition on her personal website ZoeSummers.com. Subsequent work was released under Zoe Summers.
 
 ### Awards and nominations
 
 |Year|Awards|Category|Result|
 |---|---|---|---|
-| 2021 | Fleshbot Awards (Trans) |7 nominations (including of the Year, Best Ass, Best Social Media Personality, etc.)|Nominations|
-| 2021 | Transgender Erotica Awards | Best Girl-Girl Scene、Best Hardcore Performer、Best Internet Personality、Best New Face、Best Solo Model |Nominations|
-| 2022 | AVN Awards | Best Trans Newcomer |Nominations|
-| 2022 | AVN Awards | Best Trans Group Sex Scene – *TS Girls On Top 5* |Nominations|
-| 2022 | XBiz Awards | Trans Performer of the Year |Nominations|
-| 2022 | Transgender Erotica Awards | Fan Choice Award |Awards|
-| 2022 | Transgender Erotica Awards |7 other nominations|Nominations|
-| 2023 | AVN Awards | Trans Performer of the Year |Nominations|
-| 2023 | AVN Awards | Best Thespian – Trans/X – *Black Sheep* |Nominations|
-| 2023 | AVN Awards | Best Trans Group Sex Scene – *Two Cucks In A Pod* |Nominations|
-| 2023 | AVN Awards | Best Trans One-on-One Sex Scene – *Black Sheep* |Nominations|
-| 2023 | Transgender Erotica Awards | Fan Choice Award |Awards|
-| 2024 | AVN Awards | Best Trans Group Sex Scene – *Horny Golden Goddesses* | **Awards** |
-| 2024 | AVN Awards | Trans Performer of the Year |Nominations|
-| 2024 | AVN Awards | Best Thespian – Trans/X – *Cuntry Girls Do It Better* |Nominations|
-| 2024 | AVN Awards | Best Trans One-on-One Sex Scene – *Trans Am* |Nominations|
-| 2024 | AVN Awards | Fan Award: Favorite Trans Porn Star |Nominations|
-| 2024 | GayVN Awards | Best Bi Sex Scene – *Call Center Cocks (II)* | **Awards** |
-| 2025 | AVN Awards | Best Trans Group Sex Scene – *Gorgons and Goddesses* | **Awards** |
-| 2025 | AVN Awards | Transgender Performer of the Year |Nominations|
-| 2025 | AVN Awards | Best Trans Group Sex Scene – *Turning Up The Heat* |Nominations|
-| 2025 | AVN Awards | Best VR Trans Sex Scene – *Let's Have Some Fun (IV)* |Nominations|
-| 2025 | XMA Fan Awards | Favorite Trans Performer |Nominations|
-| 2025 | XRCO Awards | Trans Performer of the Year |Nominations|
+| 2021 | Fleshbot Awards (Trans) |7 nominations (including Performer of the Year, Best Ass, and Best Social Media Personality)|Nominated|
+| 2021 | Transgender Erotica Awards | Best Girl-Girl Scene, Best Hardcore Performer, Best Internet Personality, Best New Face, Best Solo Model |Nominated|
+| 2022 | AVN Awards | Best Trans Newcomer |Nominated|
+| 2022 | AVN Awards | Best Trans Group Sex Scene – *TS Girls On Top 5* |Nominated|
+| 2022 | XBiz Awards | Trans Performer of the Year |Nominated|
+| 2022 | Transgender Erotica Awards | Fan Choice Award |Won|
+| 2022 | Transgender Erotica Awards |7 other nominations|Nominated|
+| 2023 | AVN Awards | Trans Performer of the Year |Nominated|
+| 2023 | AVN Awards | Best Thespian – Trans/X – *Black Sheep* |Nominated|
+| 2023 | AVN Awards | Best Trans Group Sex Scene – *Two Cucks In A Pod* |Nominated|
+| 2023 | AVN Awards | Best Trans One-on-One Sex Scene – *Black Sheep* |Nominated|
+| 2023 | Transgender Erotica Awards | Fan Choice Award |Won|
+| 2024 | AVN Awards | Best Trans Group Sex Scene – *Horny Golden Goddesses* | **Won** |
+| 2024 | AVN Awards | Trans Performer of the Year |Nominated|
+| 2024 | AVN Awards | Best Thespian – Trans/X – *Country Girls Do It Better* |Nominated|
+| 2024 | AVN Awards | Best Trans One-on-One Sex Scene – *Trans Am* |Nominated|
+| 2024 | AVN Awards | Fan Award: Favorite Trans Porn Star |Nominated|
+| 2024 | GayVN Awards | Best Bi Sex Scene – *Call Center Cocks (II)* | **Won** |
+| 2025 | AVN Awards | Best Trans Group Sex Scene – *Gorgons and Goddesses* | **Won** |
+| 2025 | AVN Awards | Transgender Performer of the Year |Nominated|
+| 2025 | AVN Awards | Best Trans Group Sex Scene – *Turning Up The Heat* |Nominated|
+| 2025 | AVN Awards | Best VR Trans Sex Scene – *Let's Have Some Fun (IV)* |Nominated|
+| 2025 | XMA Fan Awards | Favorite Trans Performer |Nominated|
+| 2025 | XRCO Awards | Trans Performer of the Year |Nominated|
 
 ## References
 

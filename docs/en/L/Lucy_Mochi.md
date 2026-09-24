@@ -15,21 +15,21 @@ tags:
 ## Summary
 
 - **Name**: Lucy Mochi
-- **Alias**: Asian Mochi、LucysMochi
+- **Alias**: Asian Mochi, LucysMochi
 - **Platform**: Instagram / Twitter/X / OnlyFans / Fansly / ManyVids
-- **Born**: Shanghai, China, 8 March 2001
-- **Active years**: 2023 – To date
-- **Number of works**: 35 (Source: IAFD, as at 10 September 2026)
-- **Occupation**: adult film actresses, models, web content creators
-- **Notes**: Acting on behalf of Lucy Mochi and Asian Mochi, in collaboration with platforms such as Brazzers, Jules Jordan, Reality Kings, Gilsway
+- **Born**: 8 March 2001, Shanghai, China
+- **Active years**: 2023 – to present
+- **Number of works**: 35 (source: IAFD, as of 10 September 2026)
+- **Occupation**: Adult film actress, model, web content creator
+- **Notes**: Works under Lucy Mochi and Asian Mochi; has collaborated with platforms including Brazzers, Jules Jordan, Reality Kings, and Girlsway
 
 ## Details
 
-Lucy Mochi is a Chinese adult film actor and a web content creator born in Shanghai, China. IAFD data indicate that she began entering the adult industry around 2023 and used Lucy Mochi as her main stage name, using aliases such as Asian Mochi and Lucys Mochi.
+Lucy Mochi is a Chinese American adult film actress and web content creator born in Shanghai, China. IAFD data indicate that she entered the adult industry around 2023 and uses Lucy Mochi as her main stage name, along with aliases such as Asian Mochi and LucysMochi.
 
-Her public films cover platforms and production companies like Brazzers, Jules Jordan, Reality Kings, Gilsway, Kink.com, Vixen and Manny Vids. She also runs content channels directly directed to fans through Instagram, Twitter/X, OnlyFans, Fansly and ManyVids.
+Her public credits span platforms and production companies including Brazzers, Jules Jordan, Reality Kings, Girlsway, Kink.com, Vixen, and ManyVids. She also operates channels aimed directly at fans through Instagram, Twitter/X, OnlyFans, Fansly, and ManyVids.
 
-As of September 10, 2026, IAFD listed 35 of her works. As she is still active, the number of works and the platform will change over time.
+As of 10 September 2026, IAFD listed 35 of her works. Because she remains active, the number of works and her platform status may change over time.
 
 ## References
 

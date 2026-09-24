@@ -25,36 +25,36 @@ tags:
 ## Summary
 
 - **Name**: Elsa Jean
-- **Alias**Elsa Dream, Elsa Dream Jean, Elsa Jane, Sapphire Howell / Sapphire Nicole Howell
+- **Alias**: Elsa Dream, Elsa Dream Jean, Elsa Jane, Sapphire Howell / Sapphire Nicole Howell (real name)
 - **Platform**: OnlyFans / Instagram / Twitter / TikTok / Fansly
 - **Born**: 1 September 1996 (Sunday), North Canton, OH, USA
-- **The active years.**2015 – to date (intaken at about 18 years of age, 11 years of activity)
-- **Number of works**800+video (IAFD), 949 cover + 149 real collection
-- **Occupation**: adult film actresses, models, web content creators, directors (since 2020), podcast hosts, Playboy models (former)
-- **Remarks**Caucasian species, blonde, green pupil, height 5'3" (160 cm), body weight 99 lbs (45 kg), triangulation 32-24-34/ 32C (A C in April 2020); red bouquet tattoos, two rose tattoos on the right shoulder, nail piercing on both sides of the back
+- **Active years**: 2015 – to present (entered at about 18; active for 11 years)
+- **Number of works**: 800+ videos (IAFD), 949 covers + 149 photo sets
+- **Occupation**: Adult film actress, model, web content creator, director (since 2020), podcast host, Playboy model (former)
+- **Notes**: Caucasian; blonde with green eyes; 5'3" (160 cm), 99 lb (45 kg), measurements 32-24-34 / 32C (enhanced from A to C in April 2020); two red flower tattoos on the left hip, two rose tattoos on the right shoulder, and stud piercings on both sides of the lower back
 
 ## Details
 
-Elsa Jean (now Sapphire Nicole Howell, 1 September 1996) was an American porn actress, model, web content creator and podcast host, born in North Canton, Ohio. She was known for her sweet, sweet, blonde image and was considered by industry to be one of the most popular adult stars in the mid-2010 to 2020s.
+Elsa Jean, born Sapphire Nicole Howell on 1 September 1996, is an American porn actress, model, web content creator, and podcast host from North Canton, Ohio. She became widely known for her sweet, blonde image and was regarded by the industry as one of the most popular adult stars from the mid-2010s through the 2020s.
 
-Before entering the tour, Elsa worked in a grocery store and Starbucks in Washington, D.C., and then gained the nickname "Elsa" (from the same Princess Disney) for stripping. In June 2015, she first featured a movie of adults in 3rd Degree, Evil Angel, Digital Sin, Blaked and Airrose Enterprise, and on websites such as Zefpon, Team Skeet, Ero Curves and New Systems. In April 2020, she was given breast surgery, increasing from A to C. In 2021, she was suspended for health reasons.
+Before entering the industry, Elsa worked in a grocery store and at Starbucks in Washington, D.C. She later adopted the nickname "Elsa," after the Disney princess, while working as a stripper. In June 2015, at about 18, she made her adult-film debut and appeared with companies including 3rd Degree, Evil Angel, Digital Sin, Blacked, and Airerose Entertainment, as well as websites such as Zefporn, Team Skeet, Ero Curves, and New Sensations. In April 2020, she underwent breast augmentation from A to C. In 2021, she paused performing for health reasons.
 
-Elsa entered the adult entertainment industry in 2015 (about 19 years old) and quickly went red with her emblematic blonde hair and fresh appearance. She works with a lot of top studios, including**Vixen**、**Brazzers**(Bang Bros flag)**Naughty America**、**Blacked**、**Blacked Raw**、**Mofos**、**Evil Angel**、**Hustler**、**Team Skeet**、**Nubiles**、**Mile High**、**X-Art**、**3rd Degree**、**Slayed**And so, a lot of live and VR works. Brazzers call her "fuck-dall come to life", and X-Art evaluates her "attemptive body and killer legs". The delegates included the American Daydreams VR series (Naughty America, 2017-2023), Elsa Jean: Creampie Vacation (Evil Angel/Kick Ass Pictures), Influence (Jules Jordan), which received the "Best Woman Love scene" award and multiple nominations in 2021 AVN Awards, All Natural Saints (Hustler), Slutty Stepsisters, etc.
+Elsa entered adult entertainment in 2015, at about 19, and quickly rose to prominence with her signature blonde hair and fresh appearance. She worked with numerous leading studios, including **Vixen**, **Brazzers** (a Bang Bros label), **Naughty America**, **Blacked**, **Blacked Raw**, **Mofos**, **Evil Angel**, **Hustler**, **Team Skeet**, **Nubiles**, **Mile High**, **X-Art**, **3rd Degree**, and **Slayed**, appearing in many live-action and VR productions. Brazzers described her as a "fuck-doll come to life," while X-Art praised her "athletic body and killer legs." Notable work includes the *American Daydreams* VR series (Naughty America, 2017–2023), *Elsa Jean: Creampie Vacation* (Evil Angel/Kick Ass Pictures), *Influence* (Jules Jordan), which won "Best Woman Love Scene" and received multiple nominations at the 2021 AVN Awards, *All Natural Saints* (Hustler), and *Slutty Stepsisters*.
 
-She worked with several prominent actors, including Riley Reid, Vina Sky, Karlie Montana, Charlotte Stokely, Katie Morgan, Gina Valentina, Morgan Lee, Raven Hart, Kristen Scott.
+She has worked with prominent performers including Riley Reid, Vina Sky, Karlie Montana, Charlotte Stokely, Katie Morgan, Gina Valentina, Morgan Lee, Raven Hart, and Kristen Scott.
 
-In social media, Elsa is in Instagram (@elsajeanofficial) and is a member of the National Committee for Social Affairs.**Two-six million fans.**The group has a large number of fans on Twitter and Twitter (@elsajeanisme) and operates accounts on TikTok (@elsajeanofficialx), OnlyFans (elsadreamjean), Fansly (elsajean) and YouTube (Heartbreakers Podcast). She remained active and was listed as a continuous performance on IAFD as of 2026.
+On social media, Elsa has **2.6 million** Instagram followers (@elsajeanofficial) and a large Twitter/X following (@elsajeanisme). She also operates accounts on TikTok (@elsajeanofficialx), OnlyFans (elsadreamjean), Fansly (elsajean), and YouTube (the Heartbreakers Podcast channel). She has remained highly active and was still listed as performing continuously on IAFD as of 2026.
 
-Elsa started as a director in 2020, directing the scene for her work. She is.**Fleshlight Girl**The same year, Spank Bank Awards received the Masturbator of the Year award. She has been nominated for various major trade awards, including "Female Performer of the Year" (2018, 2019, 2021, 2022), "Beest New Starlet" (2017), and several nominations and awards from institutions such as XBiz, XRCO, Spank Bank, and Nightmows.
+Elsa began directing in 2020, directing scenes in her own work. She is a **Fleshlight Girl** brand representative and won "Nicest Pussy" at the 2019 Pornhub Awards and "Masturbator of the Year" at the 2019 Spank Bank Awards. She has received numerous industry nominations, including AVN Awards nominations for "Female Performer of the Year" (2018, 2019, 2021, and 2022) and "Best New Starlet" (2017), as well as nominations and awards from organizations including XBIZ, XRCO, Spank Bank, and NightMoves.
 
-**A great honor.**:
-- Twistys Tread Of The Month: November 2016
+**Selected honors**:
+- Twistys Treat Of The Month: November 2016
 - CherryPimps Cherry Of The Month: June 2018
 - Playboy Cybergirl Of The Month: July 2019
 - Playboy All Star Of The Month: January 2022
 
 **Personal life**:
-In February 2023, NBA star Bryan Forbes attacked Elsa Jean in an argument, leading to the arrest of Forbes. The incident was widely publicized by the media.
+In February 2023, NBA star Bryn Forbes assaulted Elsa Jean during an argument, leading to Forbes's arrest. The incident received widespread media coverage.
 
 ## References
 

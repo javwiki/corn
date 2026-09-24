@@ -17,19 +17,19 @@ tags:
 - **Name**: Savannah Bond
 - **Alias**: Kelli Anne Oxley
 - **Platform**: OnlyFans / Instagram / Twitch / Linktree
-- **Born**: Melbourne, Victoria, Australia, 6 June 1990
-- **Active years**: 2019 – To date
-- **Number of works**: 100 or more (IMDb public film)
-- **Occupation**: adult film actresses, producers, network content creators
-- **Notes**: Awarded the AVN, XBIZ, Pornhub and Urban X trades, long-time collaboration with Jules Jordan
+- **Born**: 6 June 1990, Melbourne, Victoria, Australia
+- **Active years**: 2019 – to present
+- **Number of works**: More than 100 (based on IMDb's public film record)
+- **Occupation**: Adult film actress, producer, web content creator
+- **Notes**: Received AVN, XBIZ, Pornhub, and Urban X honors; long-term collaboration with Jules Jordan
 
 ## Details
 
-Savannah Bond, an Australian porn actress and content creator, was born in Melbourne. She studied beauty care and worked in retail work, and later worked as a stripper in Melbourne and Sydney, and moved to Townsville, Queensland.
+Savannah Bond is an Australian porn actress and content creator born in Melbourne. She studied beauty care and worked in retail, later worked as a stripper in Melbourne and Sydney, and then moved to Townsville, Queensland.
 
-She started her adult film business with Jules Jordan in 2019, initially mainly for Jules Jordan Vidio. During the new coronary, she continued to publish through OnlyFans and other Australian performers; after the easing of the restrictions, she moved to Los Angeles and continued to work with Jules Jordan, Evil Angel, Vixen Media Group.
+She began her adult-film career with Jules Jordan in Los Angeles in 2019, initially working mainly for Jules Jordan Video. During the COVID-19 pandemic, she continued publishing through OnlyFans and with other Australian performers. After restrictions eased, she moved to Los Angeles and continued working with Jules Jordan, Evil Angel, Vixen Media Group, and others.
 
-Bond has been awarded the honour of Fleshbot and AVN on the basis of the work of Savannah Bond Beach Bikini Slut, and has received the AVN, XBIZ and other trade awards on the basis of the works of Blake Raw V56. She was also selected by Cherry Pimps as a monthly model.
+Bond received Fleshbot and AVN honors for *Savannah Bond Beach Bikini Slut*, and AVN, XBIZ, and other industry awards for productions including *Blacked Raw V56*. CherryPimps also selected her as a monthly model.
 
 ## References
 

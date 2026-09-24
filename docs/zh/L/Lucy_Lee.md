@@ -30,5 +30,5 @@ Lucy Lee 是一名捷克/欧洲色情女演员。IAFD 中记录有两位同名�
 
 ## 参考资料
 
-- [IAFD: Lucy Lee](https://www.iafd.com/)
-- [Wikipedia (不存在)](https://en.wikipedia.org/wiki/Lucy_Lee_(pornographic_actress))
+- [IAFD: Lucy Lee（Luci Lee）](https://www.iafd.com/person.rme/id=14f5bc3c-47f5-44f1-8cb5-4797159ec024)
+- [IAFD: Lucy Lee（欧洲演员）](https://www.iafd.com/person.rme/id=fb69b026-b278-490b-bb07-20865f5f2e53)

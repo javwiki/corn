@@ -16,23 +16,23 @@ tags:
 - **Name**: Ava Addams
 - **Alias**: Alexia Lucie Roy / Alexia Roy / Avva / Luna
 - **Platform**: YouTube / Twitter / OnlyFans / Instagram
-- **Born**: Gibraltar, 16 September 1979 (Gibraltar)
-- **Active years**: 2008–To date
-- **Number of works**: 700+ part
-- **Occupation**Adult Models, Sex Actress, Inflence, Camgirl
-- **Remarks**French, American and Spanish nationality; known for its title, MILF; removal of breast implants in 2023 Objects
+- **Born**: 16 September 1979, Gibraltar
+- **Active years**: 2008 – to present
+- **Number of works**: 700+
+- **Occupation**: Adult model, adult film actress, influencer, camgirl
+- **Notes**: Holds French, American, and Spanish nationality; known for MILF themes; removed her breast implants in 2023
 
 ## Details
 
-Ava Addams, born on 16 September 1979 in Gibraltar, was formerly known as Alexia Lucie Roy. She moved to the United States with her family at the age of four, grew up in Houston, Texas, and in high school she called herself "Goth girl". Her parents, who are now in France, are French and Italian and are fluent in English, French and Spanish.
+Ava Addams was born in Gibraltar on 16 September 1979 under the name Alexia Lucie Roy. She moved to the United States with her family at the age of four and grew up in Houston, Texas. During high school, she called herself a "Goth girl." Her parents now live in France; she is of French and Italian heritage and speaks English, French, and Spanish.
 
-Ava Addams ' adult career started in 2004 (23 years old) when she took naked and pedophile photographs for institutions such as Playboy. In 2008 (29 years old), she began to perform adult films in partnership with Reality Kings, at the initiative of adult actor Renna Ryan. Her performance was initially dominated by individual and lesbian topics and then expanded to a wider range of types of performance.
+Ava Addams began her adult career in 2004, at age 23, by taking nude and fetish photographs for organizations including *Playboy*. In 2008, at age 29, she began performing in adult films with Reality Kings at the invitation of adult actor Renna Ryann. Her work initially focused on solo and lesbian scenarios before expanding into a broader range of genres.
 
-She has worked with many mainstream adult film studios and websites, including Reality Kings, Brazzers, Naughty America, BangBros, Digital Playground, Jules Jordan Vidio, Elegant Angel and Scoreland. Her works are over 700, and famous films include Big Tits at Work 14, Ava's All In (her director's virgin), Brazzers House, Dorm Invasion and The Addams Family XXX. She is known for her MILF theme and often displays intense hard-core sex, anal sex and group sex.
+She has worked with numerous mainstream adult studios and websites, including Reality Kings, Brazzers, Naughty America, BangBros, Digital Playground, Jules Jordan Video, Elegant Angel, and Scoreland. She has more than 700 credits, including *Big Tits at Work 14*, *Ava's All In* (her directorial debut), *Brazzers House*, *Dorm Invasion*, and *The Addams Family XXX*. She is known for MILF-themed work and frequently performs explicit hardcore, anal, and group scenes.
 
-Ava Addams is very active in social media. She has about 132 K fans on Twitter (X), registered since April 2009; 1.9 million in Instagram fans (as of May 2026); and is operating on YouTube channel @AvaAddams. Her profile says, "Wanderlust with a little soft Chaos this is my ONLY account.
+Ava Addams is very active on social media. She has about 132,000 followers on Twitter (X), where she joined in April 2009; about 1.9 million Instagram followers as of May 2026; and an active YouTube channel at @AvaAddams. Her profile reads, "Wanderlust with a little soft chaos 🧘🏻‍♀️📚✈️ This is my ONLY account. NOT on WhatsApp or Telegram..." and warns followers about impersonation accounts.
 
-In terms of physical characteristics, she is 5'3" (160 cm), weighs 130 pounds (59 kg), is 38-24-36 in three-hulls and is covered with 34F. She confirmed by tweet on 29 September 2023 that she had removed the breast implant. She has multiple tattoos, including La Vie En Rose on the left side of her lower abdomen, four leaves of her vagina, three stars on the inside of her right wrist, red skull on the inside of her left wrist, Anca symbol on her back, Betty Boop on the lower back and red roses on the outside of her right ankle.
+In terms of physical characteristics, she is 5'3" (160 cm) tall, weighs 130 lb (59 kg), and has measurements of 38-24-36 and a 34F cup. On 29 September 2023, she confirmed by tweet that she had removed her breast implants. She has several tattoos, including "La Vie En Rose" on the left side of her lower abdomen, a four-leaf clover on her pubic area, three stars on the inside of her right wrist, a red skull on the inside of her left wrist, an Ankh symbol on her nape, Betty Boop on her lower back, and red roses on the outside of her right ankle.
 
 ## References
 

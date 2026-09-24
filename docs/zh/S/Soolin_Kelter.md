@@ -29,5 +29,4 @@ Soolin Kelter（别名 Devin Lee / Jessica Kelter / Soolin Keher / Tianna Soo）
 
 ## 参考资料
 
-- [IAFD: Devin Lee (Soolin Kelter)](https://www.iafd.com/)
-- [IAFD: Asian 1 On 1 786](https://www.iafd.com/)
+- [IAFD: Devin Lee (Soolin Kelter)](https://www.iafd.com/person.rme/id=c77dc82e-ce99-4b31-b411-ca8403de8a5e)

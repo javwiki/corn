@@ -79,6 +79,10 @@ items:
   name: Cory Chase
   file: C/Cory_Chase.md
   index: C
+- completeness: 85%
+  name: Elle Lee
+  file: E/Elle_Lee.md
+  index: E
 - completeness: 95%
   name: Ellie Leen
   file: E/Ellie_Leen.md
@@ -139,10 +143,6 @@ items:
   name: Korra Del Rio
   file: K/Korra_Del_Rio.md
   index: K
-- completeness: 85%
-  name: Elle Lee
-  file: L/Elle_Lee.md
-  index: L
 - completeness: 95%
   name: Lauren Phillips
   file: L/Lauren_Phillips.md
@@ -199,7 +199,7 @@ items:
   name: Mia Malkova
   file: M/Mia_Malkova.md
   index: M
-- completeness: 95%
+- completeness: 90%
   name: Molly Little
   file: M/Molly_Little.md
   index: M
@@ -231,11 +231,11 @@ items:
   name: Piper Perri
   file: P/Piper_Perri.md
   index: P
-- completeness: 100%
+- completeness: 95%
   name: Rae Lil Black
   file: R/Rae_Lil_Black.md
   index: R
-- completeness: 100%
+- completeness: 90%
   name: Sky Bri
   file: S/Sky_Bri.md
   index: S

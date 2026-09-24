@@ -15,21 +15,21 @@ tags:
 ## Summary
 
 - **Name**: Cory Chase
-- **Alias**Cory Chade, Coreey Chase, Mindy, Mindy Crawford, Yummy Mama, Audrey Leon (name)
-- **Platform**: Instagram、Twitter/X、OnlyFans、ManyVids、Pornhub、MyFreeCams、XVideos、Facebook、Linktree
+- **Alias**: Cory Chade, Corey Chase, Mindy, Mindy Crawford, Yummy Mama, Audrey Leon (real name)
+- **Platform**: Instagram, Twitter/X, OnlyFans, ManyVids, Pornhub, MyFreeCams, XVideos, Facebook, Linktree
 - **Born**: 25 February 1981, Trenton, New Jersey, United States
-- **The active years.**2009 - present (more than 17 years active)
-- **Number of works**: 1538 (IAFD)
-- **Occupation**: porn actresses, adult models, podcasts, net-red, MILF porn stars
-- **Remarks**Bisexuality; possession of 790cc breast implants (update surgery December 2024); dual German-United States citizenship
+- **Active years**: 2009 – to present (active for more than 17 years)
+- **Number of works**: 1,538 (IAFD)
+- **Occupation**: Porn actress, adult model, camgirl and podcast host, influencer, MILF porn star
+- **Notes**: Bisexual; has 790 cc breast implants (latest surgery in December 2024); holds both German and United States citizenship
 
 ## Details
 
-Cory Chase, one of the most productive MILF (mature female) porn actresses in the United States, has accumulated over 1538 works on IAFD since its launch in 2009, with active life spanning nearly 20 years. She is known for her role as "stepmother/senior" and has long worked with mainstream studios such as Brazzers, Mylf, Naughty America, Twistys, Reality Kings, Taboo Head, and also run a personal subscription platform.
+Cory Chase is one of the most prolific MILF (mature-woman) porn actresses in the United States. Since debuting in 2009, she has accumulated more than 1,538 credits on IAFD and has remained active for nearly 20 years. She is known for "stepmother/mature woman" roles and has worked for a long time with mainstream studios including Brazzers, MYLF, Naughty America, Twistys, Reality Kings, and Taboo Heat while also operating her own subscription platform.
 
-Her career has won countless awards. She won the AVN prize for three consecutive years, "Fan Award: Favorite Indie Clip Star" (2019-2021) and won "Fan Voted: Favorite MILF" in the PornHub Awards in 2022. In 2026 she won the AVN "Fan Award: Favorite MILF Star" and many "Milf Performer of the Year" and the important awards of XMA, XRCO, Nightmoves. She was also rated by Mylf as "Mylf Of The Month" in July 2021 and November 2023.
+Her career has received numerous awards and nominations. She won the AVN prize "Fan Award: Favorite Indie Clip Star" for three consecutive years (2019–2021) and "Fan Voted: Favorite MILF" at the 2022 Pornhub Awards. In 2026, she won the AVN "Fan Award: Favorite MILF Star." She has also received multiple nominations for "MILF Performer of the Year" and awards from XMA, XRCO, and NightMoves. MYLF named her "MYLF Of The Month" in July 2021 and November 2023.
 
-In the social media, Cory Chase has about 340,000 fans (as of February 2026) in Instagram (account number mrs.c.chase/CoryChase2.0), Twitter/X active account number @CoryChasseXXX, and simultaneously publish payments on OnlyFans and ManyVids. She is also active in MyFreeCams and maintains Linktree ' s summary page (linktr.ee/theCoryChasse).
+On social media, Cory Chase has about 340,000 Instagram followers as of February 2026 (accounts mrs.c.chase / CoryChase2.0). Her active Twitter/X account is @CoryChaseXXX. She publishes paid content on OnlyFans and ManyVids, streams on MyFreeCams, and maintains a Linktree directory at linktr.ee/theCoryChase.
 
 ## References
 

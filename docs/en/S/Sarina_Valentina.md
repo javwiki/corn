@@ -15,56 +15,55 @@ tags:
 ## Summary
 
 - **Name**: Sarina Valentina
-- **Alias**Alexis Sharp (in original), Alexis Saige, Alexis
+- **Alias**: Alexis Sharp (real name), Alexis Saige, Alexis
 - **Platform**: OnlyFans / Twitter/X / Instagram / ManyVids
-- **Born**: 8 October 1988, Philadelphia, PA, Pennsylvania, USA (Twitter data show 6 October)
-- **The active years.**2006 – 2023 (approximately 97 works, data source: IAFD)
-- **Occupation**: Transgender adult film actor, glamour model
+- **Born**: 8 October 1988, Philadelphia, PA, Pennsylvania, United States (Twitter lists 6 October)
+- **Active years**: 2006 – 2023 (about 97 works; source: IAFD)
+- **Occupation**: Transgender adult film actress, glamour model
 - **Nationality**: United States
-- **Ethnicity**Caucasian whites
-- **Height/weight**: 5 ft 6 inch (168 cm)/ 125 lb (57 kg)
+- **Ethnicity**: Caucasian White
+- **Height/weight**: 5 ft 6 in (168 cm) / 125 lb (57 kg)
 - **Measurements**: 34DD-22-36
-- **Shoes size**: US 8.5
-- **Hair color**: Black/Brown/Gold/Red
-- **Eye Colour**: Unknown
-- **Body piercing**: belly button
-- **Tattoo.**: None
-- **Official network**: [sarinavalentina.com](http://www.sarinavalentina.com)
-- **Notes**: No Wikipedia entries (restricted drafts exist); Twitter birthday marked 6 October, slightly different from 8 October of IAFD
+- **Shoe size**: US 8.5
+- **Hair color**: Black/brown/gold/red
+- **Eye color**: Unknown
+- **Body piercing**: Navel
+- **Tattoos**: None
+- **Official website**: [sarinavalentina.com](https://www.sarinavalentina.com)
+- **Notes**: No Wikipedia article (a rejected draft exists); Twitter lists 6 October as her birthday, slightly different from IAFD's 8 October
 
 ## Details
 
-Sarina Valentina (now Alexis Sharp) was born in Philadelphia, United States, as an actor and model of the glamour of a transsex adult film. She began a gender transition during adolescence (about 14 years old), undergoing hormone substitution therapy (HRT) and testosterectomy. In 2007, Alexis was the first to feature the adult industry on hermale Yum website, and earlier to film solo content at studios such as Grooby Productions. The introduction of the PFP website in 2010 has gradually expanded.
+Sarina Valentina, born Alexis Sharp in Philadelphia, is a transgender adult film actress and glamour model. She began transitioning during adolescence, at about 14, and underwent hormone replacement therapy (HRT) and an orchiectomy. In 2007, Alexis first entered the adult industry through the Shemale Yum website and filmed solo content with studios including Grooby Productions. She launched a personal paid website in 2010 and gradually expanded her business.
 
-Valentina is one of the leading players in the field of transgender adult films, working with major producers such as Evil Angel, Devil's Film, Mile High, Pure Play Media, CX WOW, Trans Angels, and Kink.com. She has been a prominent member of the Intersex Adult Award, which was awarded the Transny Awards Award for the third consecutive year (2011-2013) for Best Solo Model. In addition, she has been nominated for the AVN Award "Across Sex Performers of the Year" (2013, 2014) and for the XRCO, NightMoves, and the PornHub Awards trade awards.
+Valentina is one of the leading figures in transgender adult film and has worked with major producers including Evil Angel, Devil's Film, Mile High, Pure Play Media, CX WOW, TransAngels, and Kink.com. She performed strongly in transgender adult awards, winning the Tranny Awards (now the Transgender Erotica Awards) Best Solo Model award three consecutive years from 2011 to 2013. She also received AVN Transsexual Performer of the Year nominations in 2013 and 2014, as well as nominations from XRCO, NightMoves, and Pornhub Awards.
 
-In the case of fee-paying subscription platforms, Sarina Valentina is active in OnlyFans and ManyVids, providing exclusive adult content. She has about 25.3 million followers on Twitter and X (@SarinaValentina) who share daily life and work dynamics.
+Sarina Valentina is active on the paid subscription platforms OnlyFans and ManyVids, where she provides exclusive adult content. She has about 253,000 followers on Twitter/X (@SarinaValentina) and shares everyday and work updates.
 
 ## Awards and nominations
 
-|Year|Awards|Category|Works|Result|
+|Year|Awards|Category|Work|Result|
 |---|---|---|---|---|
-| 2011 | Tranny Awards | Best Solo Model | — |Awards|
-| 2012 | Tranny Awards | Best New Face | — |Awards|
-| 2012 | Tranny Awards | Best Solo Model | — |Awards|
-| 2013 | Tranny Awards | Best Solo Model | — |Awards|
-| 2014 | Transgender Erotica Awards | Best Web Girl of the Year | — |Awards|
-| 2013 | AVN Award | Transsexual Performer of the Year | — |Nominations|
-| 2013 | AVN Award | Best Transsexual Sex Scene | Forbidden Lovers |Nominations|
-| 2014 | AVN Award | Transsexual Performer of the Year | — |Nominations|
-| 2020 | AVN Award | Fan Award: Favorite Trans Porn Star | — |Nominations|
-| 2012 | NightMoves | Best Transexual Performer | — |Nominations|
-| 2013 | NightMoves | Best Transexual Performer | — |Nominations|
-| 2019 | PornHub Awards | Most Popular Trans Performer | — |Nominations|
-| 2021 | XRCO Awards | Trans Performer of the Year | — |Nominations|
-| 2021 | Transgender Erotica Awards | Best Boy/Girl Scene | Tranimals |Nominations|
-| 2013 | The Fannys | Transsexual Performer of the Year | — |Nominations|
-| 2014 | The Fannys | Transsexual Performer of the Year | — |Nominations|
+| 2011 | Tranny Awards | Best Solo Model | — |Won|
+| 2012 | Tranny Awards | Best New Face | — |Won|
+| 2012 | Tranny Awards | Best Solo Model | — |Won|
+| 2013 | Tranny Awards | Best Solo Model | — |Won|
+| 2014 | Transgender Erotica Awards | Best Web Girl of the Year | — |Won|
+| 2013 | AVN Award | Transsexual Performer of the Year | — |Nominated|
+| 2013 | AVN Award | Best Transsexual Sex Scene | Forbidden Lovers |Nominated|
+| 2014 | AVN Award | Transsexual Performer of the Year | — |Nominated|
+| 2020 | AVN Award | Fan Award: Favorite Trans Porn Star | — |Nominated|
+| 2012 | NightMoves | Best Transsexual Performer | — |Nominated|
+| 2013 | NightMoves | Best Transsexual Performer | — |Nominated|
+| 2019 | Pornhub Awards | Most Popular Trans Performer | — |Nominated|
+| 2021 | XRCO Awards | Trans Performer of the Year | — |Nominated|
+| 2021 | Transgender Erotica Awards | Best Boy/Girl Scene | Tranimals |Nominated|
+| 2013 | The Fannys | Transsexual Performer of the Year | — |Nominated|
+| 2014 | The Fannys | Transsexual Performer of the Year | — |Nominated|
 
 ## References
 
-- [IAFD - Sarina Valentina](https://www.iafd.com/person.rme/perfid=SarinaValentina/gender=f)
-- [Wikipedia Draft - Sarina Valentina](https://en.wikipedia.org/wiki/Draft:Sarina_Valentina)
+- [IAFD - Sarina Valentina](https://www.iafd.com/person.rme/id=ef40c51a-aafd-450b-a442-71de3dc368e5)
 - [Twitter/X - @SarinaValentina](https://x.com/SarinaValentina)
 - [Instagram - @sarinavalentinaluv](https://www.instagram.com/sarinavalentinaluv/)
 - [OnlyFans - sarinavalentina](https://onlyfans.com/sarinavalentina)

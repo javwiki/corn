@@ -27,7 +27,7 @@ tags:
 - **眼睛颜色**: 蓝色
 - **发色**: 金色／多色／蓝色
 - **身体穿刺**: 鼻中隔、左乳头、左鼻翼
-- **纹身**: 右肋月形纹身、右臀部红色小熊脸部纹身、左踝棕榈树日落图案（附文字 "Wish you werent here"）、双手手掌纹身
+- **纹身**: 右肋月形纹身、右臀部红色小熊脸部纹身、左踝棕榈树日落图案（附文字 "Wish you weren't here"）、双手手掌纹身
 - **官网**: [skyeblueofficial.com](https://www.skyeblueofficial.com)
 - **备注**: 无维基百科条目；勿与 AEW 职业摔角手 Skye Blue（Skylar Dolecki，1999 年生）混淆
 

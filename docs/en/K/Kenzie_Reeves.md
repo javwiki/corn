@@ -24,45 +24,45 @@ tags:
 ## Summary
 
 - **Name**: Kenzie Reeves
-- **Alias**: Ava Cumz, Kenzie Reese, Madison Jordan Desautels (name)
+- **Alias**: Ava Cumz, Kenzie Reese, Madison Jordan Desautels (real name)
 - **Date of birth**: Monday, 7 July 1997
-- **Place of birth**: Concorde, New Hampshire, United States
+- **Place of birth**: Concord, New Hampshire, United States
 - **Nationality**: United States
-- **Ethnicity**Caucasian
-- **Sexual orientation**Bisexual
-- **The active years.**2017 to date (inactive at about 19 years of age, 9 years of activity)
-- **Number of works**: 748 (IAFD performers ' credit records as of June 2026)
-- **Occupation**Adult modeling, strippers (former), Internet red, porn actresses
+- **Ethnicity**: Caucasian
+- **Sexual orientation**: Bisexual
+- **Active years**: 2017 – to present (entered at about 19; active for nine years)
+- **Number of works**: 748 (IAFD performer credits as of June 2026)
+- **Occupation**: Adult model, former stripper, influencer, porn actress
 
 ## Physical characteristics
 
-|Properties|Details|
+|Characteristic|Details|
 |------|------|
 |Height| 4'10" (147 cm) |
-|Weight| 90 lbs (41 kg) |
-|Body|Slim|
-|Hair color.|Blonde|
-|Eyes.|Light brown (hazel)|
-|Three Circles| 34–22–32 (B–W–H) |
-|Brass/breasers| 30B |
-|International conversions| UK: 30B, EU: 65B, AU: 8B, JP: 65B |
-|- Boobs.|Natural (Real/Natural)|
-|Tattoo.|Upper breast "Desautels" (deleted); right thigh right side of the thigh. Network|
-|Puncture|None|
+|Weight| 90 lb (41 kg) |
+|Body type|Slim|
+|Hair color|Blonde|
+|Eyes|Light brown (hazel)|
+|Measurements| 34–22–32 (bust–waist–hips) |
+|Bust/cup| 30B |
+|International equivalents| UK: 30B, EU: 65B, AU: 8B, JP: 65B |
+|Breasts|Natural (real)|
+|Tattoos|"Desautels" on upper chest (removed); dreamcatcher on the outer right thigh|
+|Piercings|None|
 
 ## Career
 
-Kenzie Reeves (now Madison Jordan Desautels) is an American porn actress and model from Concord, New Hampshire, who entered the business in 2017 (about 19 years old) and has 748 performers' credit records on IAFD. She is one of the most productive and recognized micro-activists in the industry.
+Kenzie Reeves, born Madison Jordan Desautels, is an American porn actress and model from Concord, New Hampshire. She entered the industry in 2017 at about 19 and has 748 performer credits on IAFD, making her one of the industry's most prolific and recognizable petite performers.
 
-She is known for her 4'10" (147cm), her 90-pound, her bloated, brown eyes, her "breath dancer"-like flex and her extreme performance on the subject of anal, boxing, incest. The fans call her "little duck machine", often compared to Piper Perri, Lexi Lore, Molly Little.
+She is known for her 4'10" (147 cm) frame, 90-pound weight, blonde hair and hazel eyes, ballerina-like flexibility, and extreme performances involving anal sex, fisting, and taboo themes. Fans call her the "little duck machine" and often compare her with Piper Perri, Lexi Lore, and Molly Little.
 
-She is Fleshlight Girl, a famous adult toy brander, who has been awarded the Nubiles monthly honours on several occasions.
+She is a Fleshlight Girl brand representative and has received Nubiles monthly honors on several occasions.
 
 **Important awards**:
 - 2019 XRCO Award: Teen Dream
-- 2020 AVN Award: Best Vital Reality Sex Scene (in collaboration with Sofie Reyes, Jillian Janson, Gina Valentina & Tommy Gunn, The Banking Dead: Doctors Orders)
+- 2020 AVN Award: Best Virtual Reality Sex Scene (with Sofie Reyez, Jillian Janson, Gina Valentina, and Tommy Gunn for *The Wanking Dead: Doctors Orders*)
 
-**Main cooperative workshops**:
+**Main collaborating studios**:
 - Evil Angel
 - Elegant Angel
 - Brazzers
@@ -80,20 +80,20 @@ She is Fleshlight Girl, a famous adult toy brander, who has been awarded the Nub
 - Holed
 - Cherry Pimps
 
-**Perform type**:
+**Performance types**:
 
 |Type|Contents|
 |------|------|
-| Solo |Naked, masturbating, fake penises, fake penises, rubber-taping, anal sex.|
-| Girl/Girl |Kisses, chest touching, chest licking, fingers, fake dicks, oral, boxing, anal, Tribadism|
-| Boy/Girl |Oral, vaginal, punch, anal, intro, inter-ethnic, tan.|
-| Special |Gold rain, paint, water spray, incest|
+| Solo |Nudity, masturbation, dildos, dildo oral sex, creampie commands, anal sex|
+| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex, fisting, anal sex, tribadism|
+| Boy/Girl |Oral sex, vaginal intercourse, fisting, anal sex, creampie, interracial, facial|
+| Special |Golden shower, facial, squirting, taboo themes|
 
 ## Social media
 
 |Platform|Account|Link|
 |------|------|------|
-| Instagram | @itskenziereeves | [987k+Concerner](https://www.instagram.com/itskenziereeves/) |
+| Instagram | @itskenziereeves | [987k+ followers](https://www.instagram.com/itskenziereeves/) |
 | OnlyFans | itskenziereeves | [Link](https://www.babepedia.com/onlyfans/itskenziereeves) |
 | Twitter/X | @ItsKenzieReeves | [Link](https://x.com/ItsKenzieReeves) |
 | TikTok | @ilovemuffinz | [Link](https://www.tiktok.com/@ilovemuffinz) |
@@ -103,11 +103,11 @@ She is Fleshlight Girl, a famous adult toy brander, who has been awarded the Nub
 
 ## Personal life
 
-Kenzie Reeves, aka Madison Jordan Desatels. Her most prominent personal mark was the one with the "Desautels" on her chest - but according to the fans, the tattoo had been removed before she left the industry (not in only one or two scenarios).
+Kenzie Reeves was born Madison Jordan Desautels. Her most prominent personal marking was "Desautels," her maiden name, tattooed on her upper chest. Fans report that the tattoo was removed before she left the industry, although it remained visible in one or two scenes.
 
-She's one of the most popular "porn" actors in adult industry. The "full Nelson" is well known to fans -- a very difficult position that will be cut back to the back with the strapped arms and the suppressed head, in stark contrast to her extremely soft "breath dancer."
+She is one of the most popular petite performers in the adult industry. Fans also know her for the "full nelson" position, a difficult hold in which the restrained person's arms are pulled behind their back and their head is held down, in stark contrast to her extremely flexible ballerina-like physique.
 
-The fan once said "imagine if she's Keanu Reeves' real daughter" but it was just a coincidence. As of December 2025, the Instagram fanship was approximately 99.55 million.
+Fans joked, "imagine if she's Keanu Reeves' real daughter" because she shares his surname, but this was only a coincidence. As of December 2025, she had about 995,000 Instagram followers.
 
 ## References
 

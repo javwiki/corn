@@ -17,41 +17,41 @@ tags:
 
 ## Summary
 
-- **Name**: Lucie Wilde (alias Busty Buffy, Lucie Wild, Lucy Wilde)
+- **Name**: Lucie Wilde (aliases Busty Buffy, Lucie Wild, Lucy Wilde)
 - **Date of birth**: Thursday, 11 January 1996
-- **Place of birth**: Prague, Czech Republic (Prague, Czech Republic)
-- **Nationality**Czech Republic
-- **Ethnicity**Caucasian
-- **Sexual orientation**: staight
-- **Active years**: **2014–2016**(only 2 years, approximately 18-20 years old)
+- **Place of birth**: Prague, Czech Republic
+- **Nationality**: Czech
+- **Ethnicity**: Caucasian
+- **Sexual orientation**: Heterosexual
+- **Active years**: **2014–2016** (only two years, at about 18–20)
 - **Number of works**: 40+ (IAFD as of June 2026)
 - **Occupation**: Former adult model, former porn actress
-- **Status**: **Retired**(Leave 2016, no will to return)
-- **Personal website**: busybuffy.com (former)
+- **Status**: **Retired** (left in 2016; no intention to return)
+- **Personal website**: bustybuffy.com (former)
 
 ## Physical characteristics
 
-|Properties|Details|
+|Characteristic|Details|
 |------|------|
 |Height| 5'6" (167 cm) |
-|Weight| 123 lbs (56 kg) |
-|Body|Slim|
-|Hair color.|Brown (brunette)|
-|Eyes.|Light brown (hazel)|
-|Three Circles| 40–26–37 (B–W–H) |
-|Brass/breasers|32G / 34L (peak period, post-partum reduction to 34C)|
-|International conversions| UK: 32FF, EU: 70G, AU: 10G, JP: 70G |
-|- Boobs.|Real/Natural - once 75HH/ 34L cups, rare for industry|
-|Tattoo.|None|
-|Puncture|None|
+|Weight| 123 lb (56 kg) |
+|Body type|Slim|
+|Hair color|Brown (brunette)|
+|Eyes|Light brown (hazel)|
+|Measurements| 40–26–37 (bust–waist–hips) |
+|Bust/cup|32G / 34L (peak; reduced to 34C after childbirth)|
+|International equivalents| UK: 32FF, EU: 70G, AU: 10G, JP: 70G |
+|Breasts|Natural (real) — once 75HH / 34L, rare in the industry|
+|Tattoos|None|
+|Piercings|None|
 
 ## Career
 
-Lucie Wilde (art name Busty Buffy), a adult model and former porn actress from Prague, Czech Republic, was nakedly taken out of DDF Busty on 31 January 2014 (just over 18 years of age). She's only been in her life for two years, but because of it,**Extremely full of natural breasts.**(A peak of 34L / 75HH) and rapidly generating significant attention in the adult sector.
+Lucie Wilde, under the stage name Busty Buffy, is an adult model and former porn actress from Prague, Czech Republic. She made her nude debut with DDF Busty on 31 January 2014, just after turning 18. Her career lasted only two years, but her extremely full natural breasts (peaking at 34L / 75HH) quickly attracted significant attention in the adult sector.
 
-She was influenced by her then boyfriend, Argo, mainly for financial reasons, and was not motivated to love the industry at first. She was rapidly promoted from a naked model to a hard-core sex actor, and she was in the first hard-core scene with Argo in February 2014. The delegates included * Lucie Wilde Is Awesome!**,* The Outlaw Lucie Wilde*,* Busty Angels #2*,* Voluptuous Wonderland 2*, and Anal Acrobats7 and Legal Porto series.
+She was initially influenced by her then-boyfriend Argo, mainly for financial reasons, and did not love the industry. She was quickly promoted from nude model to hardcore performer and filmed her first hardcore scene with Argo in February 2014. Notable titles include *Lucie Wilde Is Awesome!*, *The Outlaw Lucie Wilde*, *Busty Angels #2*, *Voluptuous Wonderland 2*, and anal and double-penetration scenes in the *Anal Acrobats 7* and *Legal Porno* series.
 
-**Main cooperative workshops/websites**:
+**Main collaborating studios/websites**:
 - DDF Network / DDF Busty
 - Legal Porno
 - Prime Cups
@@ -60,29 +60,29 @@ She was influenced by her then boyfriend, Argo, mainly for financial reasons, an
 - Anal Vids
 - PornHub
 
-**Partner actor.**Argo (ex-boyfriend), Mike Angelo, Matt Ice, Steve Q, Lance Hardwood, Marcus Dupree, Marina Visconti, Kyra Hot, etc.
+**Collaborating performers**: Argo (former boyfriend), Mike Angelo, Matt Ice, Steve Q, Lance Hardwood, Marcus Dupree, Marina Visconti, Kyra Hot, and others.
 
-**Perform type**:
+**Performance types**:
 
 |Type|Contents|
 |------|------|
-| Solo |Naked, masturbated, faked, glued.|
-| Girl/Girl |Kisses, chest touch, chest licks, fingers, fake dicks, oral sex.|
-| Boy/Girl |Oral sex, vaginal intercourse, anal sex, double-caves, internal shooting, inter-ethnicity, pigmentation|
+| Solo |Nudity, masturbation, dildos, creampie commands|
+| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex|
+| Boy/Girl |Oral sex, vaginal intercourse, anal sex, double penetration, creampie, interracial, facial|
 
 ## Personal life
 
-Lucie Wilde was born in a middle-class family in Prague. After pregnancy in 2015, she separated from her former boyfriend, Argo, who was arrested for driving drunks and charged with misdirecting her income (indicated as misappropriating her income). In 2016, Lucie, 20 years old, retired from the adult sector after giving birth to her daughter.
+Lucie Wilde was born into a middle-class family in Prague. After becoming pregnant in 2015, she separated from her former boyfriend Argo, who was arrested for drunk driving and charged with mishandling her income (allegedly misappropriating it). In 2016, at age 20, Lucie retired from the adult industry after giving birth to her daughter.
 
-Interviews in 2020 revealed that she publicly expressed her regret for her adult film career, stating that she "does not like sex in front of the camera" and accusing her ex-boyfriend of being the driver for her career. She also indicated that there was no interest in returning at the present time. She also said that her bisexual behaviour was "gay for pay" — just for work.
+Interviews in 2020 showed that she publicly regretted her adult-film career, saying she "does not like sex in front of the camera" and blaming her former boyfriend for pushing her into it. She also said she had no interest in returning at that time. She described her bisexual behavior as "gay for pay"—something done for the work.
 
-The chest reduction post-surgery cup was reduced to 34C (the fan's title "'G' after retudation is crazy") and focused on raising the daughter.
+After breast-reduction surgery, her cup size fell to 34C (fans joked, "'G' after reduction is crazyyy"), and she focused on raising her daughter.
 
 ## Public image and recent developments
 
-Lucie Wilde's signature is that she had one of the biggest, most natural real breasts in her industry. – 34L / 75HH cups are very rare natural dimensions in adult movie stars. The most perfect things I've ever seen and "together with Merilyn Sekova best titts in history".
+Lucie Wilde was known for having one of the largest natural breasts in the industry. Her 34L / 75HH cup size was exceptionally rare among natural adult performers. Fans called them "the most perfect things I've ever seen" and "together with Merilyn Sekova best tits in history."
 
-She is living in the Czech Republic in a normal life, away from the spotlight, without opening accounts on platforms such as OnlyFans and Fansly.
+She lives an ordinary life in the Czech Republic, away from the spotlight, and has not opened accounts on platforms such as OnlyFans or Fansly.
 
 ## References
 

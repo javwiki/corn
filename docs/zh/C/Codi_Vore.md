@@ -32,8 +32,7 @@ Codi Vore 是一名美国色情女演员与模特，自 2016 年起活跃于成�
 
 ## 参考资料
 
-- [IAFD: Codi Vore](https://www.iafd.com/)
-- [Rog Reviews: Codi Vore](https://www.rogreviews.com/)
+- [IAFD: Codi Vore](https://www.iafd.com/person.rme/id=8cddf0cc-1449-4235-a6b4-94b43019fde6)
 - [Instagram: @officialcodivore](https://www.instagram.com/officialcodivore/)
 - [Twitter/X: @Codi_Vore](https://x.com/Codi_Vore)
 - [TikTok: @codi.vore](https://www.tiktok.com/@codi.vore)

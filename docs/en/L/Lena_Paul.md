@@ -19,20 +19,20 @@ tags:
 - **Alias**: Lena Peach
 - **Platform**: OnlyFans / ManyVids / Instagram / Twitter/X / Linktree
 - **Born**: 12 October 1993, DeLand, Florida, United States
-- **Active years**: 2016 – To date
-- **Number of works**: 730 (IAFD as of 2025)
-- **Occupation**: adult film actresses, models, ex-striking dancers, Net-Red
-- **Notes**: In the name of Lena Peach, with 32 DDD breasts, an Instagram fan of about 1.9 million
+- **Active years**: 2016 – to present
+- **Number of works**: 730 (IAFD, as of 2025)
+- **Occupation**: Adult film actress, model, former stripper, influencer
+- **Notes**: Debuted under the alias "Lena Peach"; has natural 32DDD breasts and about 1.9 million Instagram followers
 
 ## Details
 
-Lena Paul (formerly Pauline Elizabeth Gibson), an American porn actress and model, was a leading adult film industry in 2016 under the alias "Lena Peach". She was born in Drum, Florida, and studied at the University of Louisville, where she studied Latin America and worked in sustainable agricultural-related entrepreneurship in Central America before entering the adult industry.
+Lena Paul, born Pauline Elizabeth Gibson, is an American porn actress and model who debuted in adult films under the alias "Lena Peach" in 2016. She was born in DeLand, Florida, and attended the University of Louisville, where she studied Latin America and worked on sustainable-agriculture entrepreneurship in Central America before entering the adult industry.
 
-Paul, who had first entered the strip industry as a webcam model, was subsequently discovered by stars and first participated in hard-core porno film production in April 2016. She was quickly recognized in the industry with her natural 32DD-type breasts and the kind of handyness of her neighboring girl, working with various mainstream producers, including Reality Kings, Mofos, Brazzers, Naughty America, Evil Angel, Blake, Tuchy, Digital Playground, etc. In her professional life, she has participated in over 700 films, notably lesbian scenes, anal sex and double-interlaced scenes, and Women Seeing Women 140 and Anal Acrobatics are often seen as representatives by fans.
+Paul first entered the stripper industry as a webcam model, was discovered, and made her hardcore film debut in April 2016. She quickly became known for her natural 32DDD breasts and approachable girl-next-door image, working with mainstream producers including Reality Kings, Mofos, Brazzers, Naughty America, Evil Angel, Blacked, Tushy, and Digital Playground. She has appeared in more than 700 films and is especially known for lesbian scenes, anal sex, and double-penetration scenes. Fans often cite *Women Seeking Women 140* and *Anal Acrobatics* as representative titles.
 
-Lena Paul has performed well in the industry awards and has received important honours, including the 2017 DVD "Best New Humanity Award", 2018 XRCO "Best New Humanity Award", 2018 Spank Bank "Best Spectrum Award", 2019 Spank Bank "Annual Oral Star Award" and 2020 AVN "Best Play Award". She has also received dozens of nominations for professional awards such as AVN, XBIZ, Spank Bank and Nightmoves.
+Lena Paul has received numerous industry honors, including the 2017 DVDerotik "Best Newcomer" award, the 2018 XRCO "Best Newcomer" award, the 2018 Spank Bank "Most Beautiful Little Fairy" award, the 2019 Spank Bank "Annual Oral Star" award, and the 2020 AVN "Best Group Sex Scene" award for *Drive*. She has also received dozens of nominations from AVN, XBIZ, Spank Bank, NightMoves, and other organizations.
 
-After 2020, Lena Paul became more involved in content creation and directorship, directing the works of Out with a Bang and Sleeples Nights for Digital Playground. She also publishes her own content directly to fans via the OnlyFans and ManyVids platforms, and accumulates about 1.9 million fans on Instagram. She claimed to be bisexual, had expressed a preference for lesbian sex and had been married before leaving the streets.
+After 2020, Lena Paul became more involved in content creation and directing, directing *Out with a Bang* and *Sleepless Nights* for Digital Playground. She also publishes exclusive content directly to fans through OnlyFans and ManyVids and has about 1.9 million Instagram followers. She has identified as bisexual and said she prefers lesbian sex; she was married before entering the adult industry.
 
 ## References
 

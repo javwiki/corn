@@ -1,7 +1,7 @@
 [project]
 site_name = "Adult Film Performer Encyclopedia"
 site_url = "https://javwiki.github.io/corn/en/"
-site_description = "A reference index of adult film performers."
+site_description = "A machine-translated draft index of adult film performers; facts remain under review."
 site_author = "language learner"
 repo_url = "https://github.com/javwiki/corn"
 repo_name = "javwiki/corn"
@@ -19,6 +19,8 @@ alternate = [
 [project.theme]
 variant = "classic"
 language = "en"
+font = false
+custom_dir = "overrides"
 features = [
   "navigation.instant",
   "navigation.path",
@@ -45,3 +47,6 @@ toggle.icon = "lucide/moon"
 toggle.name = "Follow system preference"
 
 [project.plugins.tags]
+
+[project.plugins.redirects.redirect_maps]
+"L/Elle_Lee.md" = "E/Elle_Lee.md"

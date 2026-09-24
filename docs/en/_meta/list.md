@@ -1,32 +1,79 @@
-# List of adult film actors
+# Adult film performer list
 
-- **Piper Perri**(P) - Completion: 100%
-- **Eva Nyx**(E) - Completion: 100%
-- **Chloe Surreal**(C) - Completion: 95 per cent
-- **Candy Charms**(C) - Completion: 80%
-- **Jennifer Exxotic**(J) - Completion: 70 per cent
-- **Cheyla Collins**(C) - Completion: 70 per cent
-- **Bibi Bugatti**(B) - Completion: 75 per cent
-- **Juliette Stray**(J) - Completion: 85 per cent
-- **Ayumi Anime**(A) - Completion: 95 per cent
-- **Alina Li**(A) - Completion: 95 per cent
-- **Lucy Mochi**(L) - Completion: 95 per cent
-- **Vivian Fox**(V) - Completion: 80%
-- **Abigaiil Morris**(A) - Completion: 90%
-- **Lauren Phillips**(L) - Completion: 95 per cent
-- **Savannah Bond**(S) - Completion: 95 per cent
-- **Chanel Noir**(C) - Completion: 90 per cent
-- **Jade Venus**(J) - Completion: 100%
-- **Korra Del Rio**(K) - Completion: 100%
-- **Jessy Bells**(J) - Completion: 85 per cent
-- **Janelle Fennec**(J) - Completion: 95 per cent
-- **Izzy Wilde**(I) - Completion: 95 per cent
-- **Lucy Lee**(L) - Completion: 100%
-- **Soolin Kelter**(S) - Completion: 100%
-- **Rae Lil Black**(R) - Completion: 100%
-- **Nicole Doshi**(N) - Completion: 100%
-- **Natalie Mars**(N) - Completion: 85 per cent
-- **Codi Vore**(C) - Completion: 100 per cent
-- **Sarina Valentina**(S) - Completion: 90%
-- **Sky Bri**(S) - Completion: 100%
-- **Lily Lou**(L) - Completion: 100%
+- **Piper Perri** (P) - Completion: 100%
+- **Eva Nyx** (E) - Completion: 100%
+- **Chloe Surreal** (C) - Completion: 95%
+- **Candy Charms** (C) - Completion: 80%
+- **Jennifer Exxotic** (J) - Completion: 70%
+- **Cheyla Collins** (C) - Completion: 70%
+- **Bibi Bugatti** (B) - Completion: 75%
+- **Juliette Stray** (J) - Completion: 85%
+- **Ayumi Anime** (A) - Completion: 95%
+- **Alina Li** (A) - Completion: 95%
+- **Lucy Mochi** (L) - Completion: 95%
+- **Vivian Fox** (V) - Completion: 80%
+- **Abigaiil Morris** (A) - Completion: 90%
+- **Lauren Phillips** (L) - Completion: 95%
+- **Savannah Bond** (S) - Completion: 95%
+- **Chanel Noir** (C) - Completion: 90%
+- **Jade Venus** (J) - Completion: 100%
+- **Korra Del Rio** (K) - Completion: 100%
+- **Jessy Bells** (J) - Completion: 85%
+- **Janelle Fennec** (J) - Completion: 95%
+- **Izzy Wilde** (I) - Completion: 95%
+- **Lucy Lee** (L) - Completion: 100%
+- **Soolin Kelter** (S) - Completion: 100%
+- **Rae Lil Black** (R) - Completion: 95%
+- **Nicole Doshi** (N) - Completion: 100%
+- **Natalie Mars** (N) - Completion: 85%
+- **Codi Vore** (C) - Completion: 100%
+- **Sarina Valentina** (S) - Completion: 90%
+- **Sky Bri** (S) - Completion: 90%
+- **Lily Lou** (L) - Completion: 100%
+- **Angel Wicky** (A) - Completion: 100%
+- **Angela White** (A) - Completion: 100%
+- **Asuka Tenshi** (A) - Completion: 45%
+- **Abigail Lust** (A) - Completion: 75%
+- **Autumn Falls** (A) - Completion: 100%
+- **Ava Addams** (A) - Completion: 85%
+- **Bridgette B** (B) - Completion: 100%
+- **Bunny Colby** (B) - Completion: 100%
+- **CoCo Lovelock** (C) - Completion: 95%
+- **Cory Chase** (C) - Completion: 95%
+- **Elle Lee** (E) - Completion: 85%
+- **Ellie Leen** (E) - Completion: 95%
+- **Erin Everheart** (E) - Completion: 95%
+- **Elsa Jean** (E) - Completion: 100%
+- **Harmony Reigns** (H) - Completion: 85%
+- **Jade Kush** (J) - Completion: 90%
+- **Jasmine Grey** (J) - Completion: 85%
+- **Kendra Sunderland** (K) - Completion: 100%
+- **Kenzie Reeves** (K) - Completion: 95%
+- **Lena Paul** (L) - Completion: 95%
+- **Lexi Luna** (L) - Completion: 100%
+- **Lexi Lore** (L) - Completion: 95%
+- **Lia Lin** (L) - Completion: 95%
+- **Lucie Wilde** (L) - Completion: 90%
+- **Lulu Chu** (L) - Completion: 85%
+- **Madison Ivy** (M) - Completion: 95%
+- **Marin Nico** (M) - Completion: 85%
+- **Mia Khalifa** (M) - Completion: 100%
+- **Mia Malkova** (M) - Completion: 95%
+- **Molly Little** (M) - Completion: 90%
+- **Monique Mae** (M) - Completion: 85%
+- **Marica Hase** (M) - Completion: 100%
+- **Natasha Teen** (N) - Completion: 90%
+- **Nicolette Shea** (N) - Completion: 95%
+- **Skye Blue** (S) - Completion: 95%
+- **Sarah Banks** (S) - Completion: 80%
+- **Scarlet Assian** (S) - Completion: 75%
+- **Skyla Novea** (S) - Completion: 95%
+- **Skylar Snow** (S) - Completion: 80%
+- **Skylar Vox** (S) - Completion: 100%
+- **Slimthick Vic** (S) - Completion: 100%
+- **Song Lee** (S) - Completion: 85%
+- **Sophie Dee** (S) - Completion: 95%
+- **Stella Cox** (S) - Completion: 85%
+- **Violet Myers** (V) - Completion: 100%
+- **Vina Sky** (V) - Completion: 95%
+- **Vivian Foxx** (V) - Completion: 65%

@@ -13,21 +13,21 @@ tags:
 ## Summary
 
 - **Name**: Alina Li
-- **Alias**: Aline Li、Alina Lee、Chichi Zhou
+- **Alias**: Aline Li, Alina Lee, Chichi Zhou
 - **Platform**: Twitter/X
-- **Born**: Shanghai, China, 8 September 1994
-- **The active years.**2013 - present (IAFC records to 2026)
-- **Number of works**: 220 (Source: IAFD, as of September 2026)
-- **Occupation**: Sex actress, model
-- **Notes**: Chinese American actor, with companies like Evil Angel, Mile High, New Issues, Elegant Angel, Bang Productions and Jules Jordan Vidio
+- **Born**: 8 September 1994, Shanghai, China
+- **Active years**: 2013 – to present (IAFD records through 2026)
+- **Number of works**: 220 (source: IAFD, as of September 2026)
+- **Occupation**: Adult film actress, model
+- **Notes**: Chinese American performer who has worked with companies including Evil Angel, Mile High, New Sensations, Elegant Angel, Bang Productions, and Jules Jordan Video
 
 ## Details
 
-Alina Li, a Chinese American porn actress and model, born in Shanghai, is Chichi Zhou. Public information indicates that her parents separated at an early age, that she was mainly cared for by different relatives during her childhood; she subsequently moved to the United States as a teenager.
+Alina Li, born Chichi Zhou, is a Chinese American porn actress and model born in Shanghai. Public information indicates that her parents separated when she was young and that different relatives cared for her during her childhood; she later moved to the United States as a teenager.
 
-She entered the adult industry shortly after her high school graduation in 2013, with early works including Party of Three 8. She then worked with the producers or websites of Evil Angel, Mile High, New Systems, Elegant Angel, Bang Productions, Jules Jordan Vidio, Mofos, Bangbros and Naughty America.
+She entered the adult industry shortly after graduating from high school in 2013. Early titles included *Party of Three 8*. She subsequently worked with producers and websites including Evil Angel, Mile High, New Sensations, Elegant Angel, Bang Productions, Jules Jordan Video, Mofos, BangBros, and Naughty America.
 
-Li also participated in works named after personal artists like Ultimate Fuck Toy: Alina Li and worked with director Tori Black. Some of the information stated that she had subsequently reduced the number of adult films and moved to modeling; however, IAFD is still recorded until 2026, so that it is active with IAFD caliber.
+Li also appeared in personal-title productions such as *Ultimate Fuck Toy: Alina Li* and worked with director Tori Black. Some sources say that she later reduced her adult film work and turned to modeling; however, IAFD still lists titles through 2026, so her active status follows the IAFD record.
 
 ## References
 
@@ -35,5 +35,5 @@ Li also participated in works named after personal artists like Ultimate Fuck To
 - [Alina Li - IMDb](https://www.imdb.com/name/nm6168370/)
 - [Alina Li - IMDb Biography](https://www.imdb.com/name/nm6168370/bio/)
 - [Alina Li - Babepedia](https://www.babepedia.com/babe/Alina_Li)
-- [Alina Li, official work Set](https://www.alina-li.com/)
+- [Alina Li, official portfolio](https://www.alina-li.com/)
 - [Twitter/X: @alinalixxx](https://x.com/alinalixxx)

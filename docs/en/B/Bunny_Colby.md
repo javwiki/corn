@@ -6,7 +6,6 @@ tags:
 - Instagram
 - Twitter
 - OnlyFans
-- Adult Actress
 ---
 
 # Bunny Colby
@@ -14,33 +13,33 @@ tags:
 ## Summary
 
 - **Name**: Bunny Colby
-- **Alias**: Nadia Nabakova (name)
+- **Alias**: Nadya Nabakova (real name)
 - **Platform**: Instagram / Twitter / OnlyFans / ManyVids
 - **Born**: 1 December 1992, Harrisburg, Pennsylvania, United States
-- **Active years**: 2017 – To date
-- **Number of works**: 401 (IAFD as of 2025)
-- **Occupation**: adult film actresses, sex models, webcam models
-- **Notes**: Volunteer for Animal Welfare; former BBC Louis Theroux documentary "Forbidden America"
+- **Active years**: 2017 – to present
+- **Number of works**: 401 (IAFD, as of 2025)
+- **Occupation**: Adult film actress, glamour model, webcam model
+- **Notes**: Animal welfare volunteer; appeared in the BBC Louis Theroux documentary *Forbidden America*
 
 ## Details
 
-Bunny Colby (now Nadia Nabakova) is an American adult film actress and model born in Harrisburg, Pennsylvania, with Russian parents. She grew up in Portland, Oregon, and worked as a government social worker (gerontary care), then joined the broadcasting industry online through platforms such as MyFreeCams. In 2017, she signed and officially entered into the LA Direct Models, moved to Los Angeles the same year; shortly after that she left the brokerage company to take her own film and run her business independently under the title of Bunny Colby.
+Bunny Colby, born Nadya Nabakova, is an American adult film actress and model born in Harrisburg, Pennsylvania, to Russian immigrant parents. She grew up in Portland, Oregon, and worked as a government social worker in geriatric care before entering online broadcasting through platforms such as MyFreeCams. In 2017, she signed with LA Direct Models and formally entered the industry, moving to Los Angeles that same year. She soon left the agency to accept her own productions and operate independently under the name Bunny Colby.
 
-She is known for her lively, humorous and performing styles, and she has produced a wide variety of diverse works, including large commercial films on foot, fetish, BDSM, lesbian, anal and hot studios (Brazzers, Vixen, Naughty America, Black, etc.). In January 2020, she was selected by the Penthouse magazine as "Pet of the Month". IAFD Spank Bank Technical Award was granted in 2019; and AVN and XBIZ nominations (e.g. best new person, best scenes, etc.) were received on several occasions.
+She is known for her lively, humorous, and expressive performance style. She has appeared in a wide variety of productions, including commercial features and foot, fetish, BDSM, lesbian, and anal content from prominent studios such as Brazzers, Vixen, Naughty America, and Blacked. In January 2020, *Penthouse* selected her as its "Pet of the Month." She received the IAFD Spank Bank Technical Award in 2019 and has received several AVN and XBIZ nominations, including Best Newcomer and Best Scene.
 
-In addition to the adult sector, she is actively involved in animal rescue and end-of-life care volunteer work, with particular attention to research and rescue of cat leukemia. In 2022, she appeared as one of the leading actors in the BBC documentary, Louis Theroux: Forbidden America (“Porn's Metoo”), which dealt with ethical and interest issues in the industry, including her earlier commercial misconduct suit against LA Direct Modes / Derek Hay (a successful claim was ruled by the California Labour Commissioner in 2019). In addition, she has also been a source of media attention for the 2021 ban on Bumble for "pornography".
+Outside the adult industry, she is active in animal rescue and end-of-life care volunteering, with a particular focus on feline leukemia research and rescue. In 2022, she appeared as one of the central subjects in the BBC documentary *Louis Theroux: Forbidden America* ("Porn's MeToo" episode), which examined ethical and workplace-rights issues in the industry, including her earlier claim against LA Direct Models / Derek Hay over improper business conduct; the California Labor Commissioner ruled in her favor in 2019. She also drew media attention after Bumble banned her in 2021 because of her occupation in pornography.
 
 ## Awards and nominations
 
 |Year|Awards|Category|Result|
 |------|------|------|------|
-| 2020 | Penthouse | Pet of the Month |Awards|
-| 2019 | IAFD Spank Bank | Technical Award |Awards|
-| 2018 | AVN Fan Awards | Hottest Newcomer |Nominations|
-| 2020 | AVN |Multiple categories|Nominations|
-| 2020 | Transgender Erotic Awards |Multiple categories|Nominations|
-| 2021 | Transgender Erotic Awards |Multiple categories|Nominations|
-| 2023 | AVN |Multiple categories|Nominations|
+| 2020 | Penthouse | Pet of the Month |Won|
+| 2019 | IAFD Spank Bank | Technical Award |Won|
+| 2018 | AVN Fan Awards | Hottest Newcomer |Nominated|
+| 2020 | AVN |Multiple categories|Nominated|
+| 2020 | Transgender Erotica Awards |Multiple categories|Nominated|
+| 2021 | Transgender Erotica Awards |Multiple categories|Nominated|
+| 2023 | AVN |Multiple categories|Nominated|
 
 ## References
 

@@ -13,24 +13,24 @@ tags:
 ## Summary
 
 - **Name**: Korra Del Rio
-- **Alias**: K-Monster、Korra Del Rios
+- **Alias**: K-Monster, Korra Del Rios
 - **Platform**: Instagram @realkorradelrio / X @korradelrio
-- **Born**: 27 April 1988, United States (Mialwaki, Wisconsin)
-- **Active years**: 2014 – to date
+- **Born**: 27 April 1988, Milwaukee, Wisconsin, United States
+- **Active years**: 2014 – to present
 - **Number of works**: 413 (IAFD)
-- **Occupation**: Transgender pornist
+- **Occupation**: Transgender porn actress
 - **Height**: 175 cm
 - **Weight**: 61 kg
 - **Measurements**: 34A-28-36
-- **Notes**: 2017 AVN Best Transgender Sex Scene Nomination (Bang My Transny Ass 14)
+- **Notes**: 2017 AVN Best Trans Sex Scene nomination (*Bang My Tranny Ass 14*)
 
 ## Details
 
-Korra Del Rio (April 27, 1988-) is a trans woman born in Milwaukee, Wisconsin, of German and Mexican origin.
+Korra Del Rio, born 27 April 1988, is an American transgender porn actress from Milwaukee, Wisconsin, with German and Mexican heritage.
 
-She entered the gender-trans-adult film industry in 2014 (26 years old), and was followed by the trades of Trans Angels, Devil's Film, Grooby Productions, Third World Media, Ginder X, Trans 500, Evil Angel, Transsensual. The delegates' works include American's Next Top Transny 20 My Transnative Lover 2 Popular T-Girlz Smothered By A Shemale 4 and others.
+She entered transgender adult entertainment in 2014 at age 26 and worked with Trans Angels, Devil's Film, Grooby Productions, Third World Media, Gender X, Trans500, Evil Angel, and Transsensual. Notable titles include *America's Next Top Tranny 20*, *My Transsexual Lover 2*, *Popular T-Girlz*, *Smothered By A Shemale*, and *TS Factor 4*.
 
-In 2017, she was nominated for the AVN Award for Best Transgender Sex Sex. As of IAFD records, 413 works were performed. She openly claimed to be bisexual.
+In 2017, she received an AVN Best Trans Sex Scene nomination for *Bang My Tranny Ass 14*. IAFD lists 413 credits. She has publicly identified as bisexual.
 
 ## References
 

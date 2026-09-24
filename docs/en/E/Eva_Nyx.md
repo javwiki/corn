@@ -22,42 +22,42 @@ tags:
 ## Summary
 
 - **Name**: Eva Nyx
-- **Alias**: Lil Eva, Lil Miss Eva, idiotrawr, rimreaper247 (Babedia Record; IAFD as "no known aliases")
-- **Platform**: OnlyFans / Instagram / Twitter（X）/ TikTok / YouTube / Twitch
+- **Alias**: Lil Eva, Lil Miss Eva, idiotrawr, rimreaper247 (Babepedia record; IAFD lists "no known aliases")
+- **Platform**: OnlyFans / Instagram / Twitter (X) / TikTok / YouTube / Twitch
 - **Born**: 22 April 2001, Portland, OR, Oregon, United States
-- **Active years**: 2022 – to date (IAFD records, 2022, about 21 years old)
-- **Number of works**: 144 Caption records (IAFC, certified September 2026; containing BTS, co-eds and VR works)
-- **Occupation**: Sex actress, content creator
-- **Notes**: "Z Generation" actor born in 2001 and well known for his body, blond blue eyes and family/stepparent work; there is no Wikipedia entry.
+- **Active years**: 2022 – to present (IAFD records; entered at about 21 in 2022)
+- **Number of works**: 144 title records (IAFD, verified September 2026; including behind-the-scenes, compilation, and VR works)
+- **Occupation**: Adult film actress, content creator
+- **Notes**: A "Gen Z" performer born in 2001, known for her full figure, blonde hair and blue eyes, and family/stepparent productions; no Wikipedia entry is available
 
 ## Physical characteristics
 
-|Properties|Details|
+|Characteristic|Details|
 |------|------|
 |Height| 5'1" (155 cm) |
-|Weight| 140 lbs (64 kg) |
-|Three Circles| 34C-28-40 (B–W–H) |
-|Shoes size| US 6 |
-|Hair color.|Blonde.|
-|Pupil|Blue|
-|Body|Rich (chubby, Babepedia)|
-|- Boobs.|Natural|
-|Tattoo.|Two Japanese characters for left hip|
-|Puncture|None|
+|Weight| 140 lb (64 kg) |
+|Measurements| 34C-28-40 (bust–waist–hips) |
+|Shoe size| US 6 |
+|Hair color|Blonde|
+|Eyes|Blue|
+|Body type|Full (chubby, according to Babepedia)|
+|Breasts|Natural|
+|Tattoos|Two Japanese characters on the left hip|
+|Piercings|None|
 
-The above values are taken from IAFD; Babepedia records differences in height 154 cm, weight 132 lbs, triangulation 37-28-38.
+These values are from IAFD. Babepedia lists a height of 154 cm, weight of 132 lb, and measurements of 37-28-38, which differ from the IAFD data.
 
 ## Details
 
-Eva Nyx (22 April 2001-) is an adult American actress born in Portland, Oregon, and started at approximately 21 years of age in 2022; the header of the IAFD information page is provided by Hussein Models. As of September 2026, IAFD recorded 144 of its titles, distributed annually among 8 in 2022, 47 in 2023, 18 in 2024, 45 in 2025, 26 in 2026; Babepedia recorded 134 performances in June 2026.
+Eva Nyx, born 22 April 2001, is an American adult actress from Portland, Oregon. She entered the industry in 2022 at about 21; the profile image on her IAFD page is provided by Hussie Models. As of September 2026, IAFD lists 144 titles: 8 in 2022, 47 in 2023, 18 in 2024, 45 in 2025, and 26 in 2026. Babepedia listed 134 performer credits in June 2026.
 
-Her collaboration covers mainstream brands and emerging platforms, including Team Skeet, Brazzers, Reality Kings, Naughty America, New Systems, Bang Originils, CastingCouch-X, Mylf, Nubiles, Dogfart Network, Amateur Allure, Hussein Pass, Kink.com, Swappz, Girlfrids Films, Gillsway and Pornbox; VR works are available in WakzVR, VRHush, VRBngers, FuckPasVR and BlowVR.
+Her collaborations cover mainstream brands and emerging platforms, including Team Skeet, Brazzers, Reality Kings, Naughty America, New Sensations, Bang Originals, CastingCouch-X, MYLF, Nubiles, Dogfart Network, Amateur Allure, Hussie Pass, Kink.com, Swappz, Girlfriends Films, Girlsway, and Pornbox. Her VR work appears on WankzVR, VRHush, VRBangers, FuckPassVR, and BlowVR.
 
-On the subject, she most frequently appeared in family/stepparent settings (Family Strokes, Sis Loves Me, Dad Crush, Brattysis, MyPervyFamily), with scenes with inner-spelling, facial and ingestion, and works by Dogfart Network, PervyPass and Girls Films, Gillfriends, Gillsway.
+Her work most frequently uses family/stepparent settings (Family Strokes, Sis Loves Me, Dad Crush, Brattysis, and MyPervyFamily), with scenes often featuring creampie, facial, and cum-eating content. She has also appeared in interracial productions for Dogfart Network and PervyPass and lesbian work for Girlfriends Films and Girlsway.
 
-In social media, she runs @lilevanyx, Instagram (Babepedia recorded about 120,000 followers in July 2026) and OnlyFans, Twitter (X) account @rimreaper247, IAFD also records @lilmissnoteva; other platforms include TikTok (@idiotrawr), YouTube (@evanyx), Twitch (lillumisseva) and Linktree (linktr.ee/evanyx). Her rating in Babepedia was 8.39/10 (294 ballots, certified in September 2026).
+On social media, she runs @lilevanyx on Instagram (Babepedia recorded about 120,000 followers in July 2026) and also uses OnlyFans. Her Twitter (X) account is @rimreaper247, while IAFD also records @lilmissnoteva. Other platforms include TikTok (@idiotrawr), YouTube (@evanyx), Twitch (lilmisseva), and Linktree (linktr.ee/evanyx). Her Babepedia rating was 8.39/10 from 294 votes, verified in September 2026.
 
-It should be noted that Babepedia labels her profession as "Basketballball player", which is not available at IAFD, and whose page review section questions his height and player experience, questions his reliability and is not accepted in this entry.
+Notably, Babepedia labels her former occupation as "Basketball Player," but this does not appear in IAFD, and the comments on its page question her height and playing history. Because its reliability is uncertain, this entry does not accept that claim.
 
 ## Social media
 
@@ -65,7 +65,7 @@ It should be noted that Babepedia labels her profession as "Basketballball playe
 |------|------|------|
 | Instagram | @lilevanyx | [instagram.com/lilevanyx](https://www.instagram.com/lilevanyx/) |
 | OnlyFans | lilevanyx | [onlyfans.com/lilevanyx](https://onlyfans.com/lilevanyx) |
-| Twitter/X | @rimreaper247、@lilmissnoteva | [x.com/rimreaper247](https://x.com/rimreaper247) · [x.com/lilmissnoteva](https://x.com/lilmissnoteva) |
+| Twitter/X | @rimreaper247, @lilmissnoteva | [x.com/rimreaper247](https://x.com/rimreaper247) · [x.com/lilmissnoteva](https://x.com/lilmissnoteva) |
 | TikTok | @idiotrawr | [tiktok.com/@idiotrawr](https://www.tiktok.com/@idiotrawr) |
 | YouTube | @evanyx | [youtube.com/@evanyx](https://www.youtube.com/@evanyx) |
 | Twitch | lilmisseva | [twitch.tv/lilmisseva](https://www.twitch.tv/lilmisseva) |

@@ -24,49 +24,49 @@ tags:
 ## Summary
 
 - **Name**: Lexi Lore
-- **Alias**Lexy Lore, Katelyne Marie Aslett.
+- **Alias**: Lexy Lore, Katelyne Marie Aslett (real name)
 - **Date of birth**: Friday, 30 October 1998
-- **Place of birth**Richmond, VA, Virginia, United States
+- **Place of birth**: Richmond, VA, Virginia, United States
 - **Nationality**: United States
-- **Ethnicity**Caucasian
-- **Sexual orientation**Bisexual
-- **The active years.**2017 to date (inactive at about 18 years of age, 9 years of activity)
-- **Number of works**: 574 (IAFD performers credit records as of July 2026)
-- **Cover/Register**: 608 cover + 47 writing collection + 561 video
-- **Occupation**Adult Models, Camgirl, Netnet, Sex actress, YouTube, TikTok Star
+- **Ethnicity**: Caucasian
+- **Sexual orientation**: Bisexual
+- **Active years**: 2017 – to present (entered at about 18; active for nine years)
+- **Number of works**: 574 (IAFD performer credits as of July 2026)
+- **Covers/photo sets**: 608 covers + 47 photo sets + 561 videos
+- **Occupation**: Adult model, camgirl, influencer, porn actress, YouTuber, TikTok star
 - **Personal website**: [thelexilore.com](https://thelexilore.com)
-- **Notes**: Blonde brown eyes, left arm geography tattoo, left shoulder pelvis sunflower tattoo, right nostrils/peant/buncle piercing
+- **Notes**: Blonde with brown eyes; globe tattoo on left arm, sunflower tattoo on left shoulder blade, and piercings in the right nostril, nipples, and navel
 
 ## Physical characteristics
 
-|Properties|Details|
+|Characteristic|Details|
 |------|------|
 |Height| 5'5" (165 cm) |
-|Weight| 105 lbs (48 kg) |
-|Body|Slim|
-|Hair color.|Blonde|
-|Eyes.|Brown (brow)|
-|Three Circles| 37–24–35 (B–W–H) |
-|Brass/breasers| 34C |
-|International conversions| UK: 34C, EU: 75C, AU: 12C, JP: 75C |
-|- Boobs.|Natural (Real/Natural)|
-|Tattoo.|Left arm, Earth monitor, left shoulder, sunflower.|
-|Puncture|Right nostrils, nipples, belly buttons.|
+|Weight| 105 lb (48 kg) |
+|Body type|Slim|
+|Hair color|Blonde|
+|Eyes|Brown|
+|Measurements| 37–24–35 (bust–waist–hips) |
+|Bust/cup| 34C |
+|International equivalents| UK: 34C, EU: 75C, AU: 12C, JP: 75C |
+|Breasts|Natural (real)|
+|Tattoos|Left arm: globe; left shoulder blade: sunflower|
+|Piercings|Right nostril, nipples, navel|
 
 ## Career
 
-Lexi Lore (now Katelyne Marie Aslett) is an American porn actress, YouTube and social media influencer from Richmond, Virginia, who entered the business in 2017 (about 18 years of age). She is known for her "neighborhood girl with a toothcase" (with a tooth orthotic in her early work), blonde brown eyes, 34C natural chests and performance in a wide variety of subjects, such as anal sex, double pentage, oral sex to the anus (ass-to-mouth).
+Lexi Lore, born Katelyne Marie Aslett, is an American porn actress, YouTuber, and social media influencer from Richmond, Virginia. She entered the industry in 2017 at about 18. She is known for her "girl next door with braces" image (she wore orthodontic braces in early work), blonde hair and brown eyes, natural 34C breasts, and work spanning anal sex, double penetration, and ass-to-mouth oral sex.
 
-Reality Kings is evaluated by this cut, blonde teen's inocent face and cultures, and Nubiles calls her "hates following the rules". She got married in December 2020.
+Reality Kings said, "don't be fooled by this cute, blonde teen's innocent face and braces," while Nubiles described her as someone who "hates following the rules." She married in December 2020.
 
-**YouTube/ TikTok Impact**:
-- YouTube: @LexiLore — **79.94 million subscribers**(as of July 2026)
-- TikTok: @itslexilore — **63.66 million persons of concern**(as at August 2025)
-- Instagram: @lexiloreonyoutube — 5.54 million followers
+**YouTube/TikTok influence**:
+- YouTube: @LexiLore — **794,000 subscribers** (as of July 2026)
+- TikTok: @itslexilore — **636,000 followers** (as of August 2025)
+- Instagram: @lexiloreonyoutube — 554,000 followers
 
-She shares the vlog and lifestyle content through YouTube and TikTok, and is a representative adult movie star for multiplatform development.
+She shares vlog and lifestyle content through YouTube and TikTok and is a representative adult performer developing across multiple platforms.
 
-**Main cooperative workshops**:
+**Main collaborating studios**:
 - Team Skeet
 - Brazzers
 - Blacked / Blacked Raw
@@ -82,20 +82,20 @@ She shares the vlog and lifestyle content through YouTube and TikTok, and is a r
 - Family Sex Swap
 - Modern Day Sins
 
-**Perform type**:
+**Performance types**:
 
 |Type|Contents|
 |------|------|
-| Solo |Naked, masturbated, faked, glued.|
-| Girl/Girl |Kisses, chest touching, chest licking, fingers, fake penises, oral sex, anal sex, Tribadism (cracking)|
-| Boy/Girl |Oral sex, vaginal intercourse, anal sex, double-caves, internal shooting, inter-ethnicity, pigmentation|
-| Special |Bondage, pigment, water spray, cross-sex, gang banging, Pussy Gaping|
+| Solo |Nudity, masturbation, dildos, creampie commands|
+| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex, anal sex, tribadism|
+| Boy/Girl |Oral sex, vaginal intercourse, anal sex, double penetration, creampie, interracial, facial|
+| Special |Bondage, facial, squirting, transgender themes, gangbang, pussy gaping|
 
 ## Social media
 
 |Platform|Account|Link|
 |------|------|------|
-| Instagram | @lexiloreonyoutube | [554k+Careers](https://www.instagram.com/lexiloreonyoutube/) |
+| Instagram | @lexiloreonyoutube | [554k+ followers](https://www.instagram.com/lexiloreonyoutube/) |
 | OnlyFans | lexilore | [Link](https://www.babepedia.com/onlyfans/lexilore) |
 | Twitter/X | @MoreLexiLore | [Link](https://x.com/MoreLexiLore) |
 | TikTok | @itslexilore | [Link](https://www.tiktok.com/@itslexilore) |
@@ -106,9 +106,9 @@ She shares the vlog and lifestyle content through YouTube and TikTok, and is a r
 
 ## Personal life
 
-Lexi Lore, aka Katelyne Marie Aslett. Her signature features included the large number of works with a tooth orthotic (braces) filmed early in her career, which was strongly resonating with fans ( "I was SO Turner THE FUCK ON when she worked them").
+Lexi Lore was born Katelyne Marie Aslett. One of her signature early-career features was the large number of productions in which she wore orthodontic braces, which strongly resonated with fans ("I was SO TURNED THE FUCK ON when she wore them").
 
-She got married in December 2020. "Looks like Billy Lourd from American Horror Story" and "aged so well" ("Cute at 20, now absolutely breathing").
+She married in December 2020. Fans commented that she "looks like Billie Lourd from American Horror Story" and "aged so well" ("Cute at 20, now absolutely breathtaking").
 
 ## References
 

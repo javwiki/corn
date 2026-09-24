@@ -16,20 +16,20 @@ tags:
 
 - **Name**: Candy Charms
 - **Alias**: No record
-- **Platform**: Instagram / Twitter（X）
-- **Born**: Unpublished
-- **The active years.**2014 – To date (IMDb records)
-- **Number of works**: The information is not verified
-- **Occupation**: Sex actress, adult content creator
-- **Notes**: Was in Botched and The Power of Born
+- **Platform**: Instagram / Twitter (X)
+- **Born**: Not disclosed
+- **Active years**: 2014 – to present (IMDb records)
+- **Number of works**: Not verified in publicly available sources
+- **Occupation**: Adult film actress, adult content creator
+- **Notes**: Appeared in *Botched* and *The Power of Porn*
 
 ## Details
 
-Candy Charms is an adult actress and content creator from England, mainly under the stage name Candy Charms. The public information links her to Instagram and Twitter accounts and features her public image with blonde and full, breast-surgery.
+Candy Charms is an adult actress and content creator from the United Kingdom who works primarily under the stage name Candy Charms. Public information links her to Instagram and Twitter (X) accounts and presents her public image as blonde and full-figured following breast augmentation.
 
-IMDb data show that Candy Charms has had a record of public video shows since at least 2014, including the real-person show Botched; in 2016 she also performed the Adult Series The Power of Born. There is a lack of sufficient consistency between available sources regarding the number, date of birth and other personal data of her complete adult work, to be updated.
+IMDb data show that Candy Charms has had a public screen-credit record since at least 2014, including an appearance as herself in the reality series *Botched*; in 2016, she also appeared in the adult series *The Power of Porn*. Available sources do not provide sufficiently consistent verification of her complete adult credits, date of birth, or other personal details, which remain to be supplemented.
 
-In 2016, Candy Charms was brought to international media attention for her travel to Iran; the story calls her an adult English film actor. The incident was part of his public media experience and did not amount to a full professional history.
+In 2016, Candy Charms attracted international media attention while traveling to Iran; the relevant report described her as a British adult film performer. The incident forms part of her public media history but does not constitute a complete professional record.
 
 ## References
 

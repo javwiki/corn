@@ -12,17 +12,17 @@ tags:
 - **Name**: Jennifer Exxotic
 - **Alias**: No record
 - **Platform**: Not specified
-- **Born**: Unpublished
-- **Active years**: 2022 – To date (IMDB records)
-- **Number of works**: The information is not verified
-- **Occupation**: Sex actress
-- **Notes**: Has played Brazzers Extra series
+- **Born**: Not disclosed
+- **Active years**: 2022 – to present (IMDb records)
+- **Number of works**: Not verified in publicly available sources
+- **Occupation**: Adult film actress
+- **Notes**: Has appeared in the Brazzers Exxtra series
 
 ## Details
 
-Jennifer Exxitic is an adult actress who uses the title. The information available is less than publicly available and is not yet reliable enough to confirm their birth information, aliases, nationality or full professional experience, so the entry only includes what can be confirmed in the publicly available database.
+Jennifer Exxotic is an adult actress who performs under this stage name. Publicly available information is limited and not yet reliable enough to confirm her birth information, aliases, nationality, or complete professional history, so this entry includes only information confirmed in public databases.
 
-IMDb's actor profile shows that Jennifer Exxotic has had a public performance record since at least 2022, including the Brazzers Exxtra series, where her actor's signature is included on the Sneaky Anal Massage page. The number of their complete works and other occupational information will be supplemented by additional verifiable sources.
+Jennifer Exxotic's IMDb profile shows a public performance record dating back at least to 2022, including work in the Brazzers Exxtra series; her performer credit appears on the page for *Sneaky Anal Massage*. Her complete credit total and other professional information will be supplemented when more verifiable sources become available.
 
 ## References
 

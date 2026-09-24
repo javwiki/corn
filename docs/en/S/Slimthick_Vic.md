@@ -17,20 +17,20 @@ tags:
 - **Alias**: Vic Marie, Victoria Marie, Slim thick Vic Marie, Victoria SlimThick
 - **Platform**: OnlyFans / Instagram / TikTok
 - **Born**: 23 October 1991, Russian Federation
-- **The active years.**2021 – To date
+- **Active years**: 2021 – to present
 - **Number of works**: 380 (IAFD data)
-- **Occupation**: adult film actresses, adult models, strippers, Netnets
-- **Notes**: The stage name is derived from the combination of Slimthick's body-style features and Victoria's short, and it's been used in social media to adult film industry.
+- **Occupation**: Adult film actress, adult model, stripper, influencer
+- **Notes**: The stage name combines the "slimthick" body-type term with "Vic," a shortened form of Victoria; it has been used from social media into the adult industry
 
 ## Details
 
-Slimthick Vic, an artist, Vic Marie, an American porn actress, adult modeler and social media fan, born in Russia, is now active mainly in Miami, Florida. She entered the adult entertainment industry at about 29 in 2021, with her first work filmed at Film Studio `R', and then quickly became a resident actor in a number of well-known production companies (e.g. Brazzers, Blake, Tuchy, Deeper, Naughty America, Reality Kings, Jules Jordan, etc.).
+Slimthick Vic, whose artist name is Vic Marie, is an American porn actress, adult model, and social media influencer born in Russia who is now mainly active in Miami, Florida. She entered adult entertainment in 2021 at about 29. Her first work was filmed at Film Studio 'R, after which she quickly became a regular performer for companies including Brazzers, Blacked, Tushy, Deeper, Naughty America, Reality Kings, and Jules Jordan.
 
-Before entering the adult industry, she was a hairdresser and a private coach, and then performed naked modeling and stripteases through the OnlyFans platform. She indicated that the opportunity to reach out to the adult industry was made known via a YouTube video by Holly Randall, a prominent broker, Spiegler, who decided to try this area.
+Before entering the adult industry, she worked as a hairdresser and personal trainer and later performed nude modeling and stripping through OnlyFans. She said that a YouTube video by Holly Randall introduced her to prominent agent Spiegler and led her to try the industry.
 
-Slimthick Vic is known for his slimthick shape, with blond hair, surrounding 34DD-26-39, and a large number of fans in social media. Her Instagram account @slimthick vic has about 3.2 million fans and the TikTok account has considerable interest. She has been honoured with Twistys Treat Of The Month (March 2023) and Mylf Of The Month (August 2023).
+Slimthick Vic is known for her slimthick figure, blonde hair and blue eyes, measurements of 34DD-26-39, and substantial social media following. Her Instagram account @slimthick_vic has about 3.2 million followers, and her TikTok account also has considerable attention. She received Twistys Treat Of The Month in March 2023 and MYLF Of The Month in August 2023.
 
-In the context of her personal life, Slimthick Vic had revealed in interviews that her parents were members of a small cult (culture) based on a certain Christian foundation, that she had grown up in a very closed correctional environment and had lived in London. At the age of 21, she left her family to live independently, and since then worked in the Hole Foods and set up small hydrotherapy centres, eventually leading to the adult entertainment industry.
+In her personal life, Slimthick Vic has said that her parents belonged to a small cult based on a particular Christian foundation. She grew up in a highly closed religious environment and lived in London. At 21, she left home to live independently, later worked at Whole Foods and founded small wellness centers before eventually entering adult entertainment.
 
 ## References
 

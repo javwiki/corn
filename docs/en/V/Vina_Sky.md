@@ -19,29 +19,29 @@ tags:
 ## Summary
 
 - **Name**: Vina Sky
-- **Alias**: Vina Skyy、vinabambina、vinabambinaoff、vinasky_official、vinaskyy
-- **Platform**: OnlyFans、Instagram、TikTok、Twitter/X、ManyVids
+- **Alias**: Vina Skyy, vinabambina, vinabambinaoff, vinasky_official, vinaskyy
+- **Platform**: OnlyFans, Instagram, TikTok, Twitter/X, ManyVids
 - **Born**: 14 March 1999, Houston, Texas, United States
-- **Active years**: 2018 – To date
-- **Number of works**: 579 (Source: IAFD, as of 2026)
-- **Occupation**Adult film actor, model, exotic dancer (former), Netred, Playboy Model (former)
-- **Nationality/ethnicity**United States (Viet Nam)
-- **Notes**: Fleshlight Girl Advocate; Cherry Of The Month, February 2020; Nubiles Fantasy Of The Month, April 2021; well known in industry in small shape (5'0'/152cm) and Asian descent
+- **Active years**: 2018 – to present
+- **Number of works**: 579 (source: IAFD, as of 2026)
+- **Occupation**: Adult film actress, model, former exotic dancer, influencer, former Playboy model
+- **Nationality/ethnicity**: United States (Vietnamese)
+- **Notes**: Fleshlight Girl representative; CherryPimps Cherry Of The Month in February 2020; Nubiles Fantasy Of The Month in April 2021; known in the industry for her petite 5'0" (152 cm) frame and Asian heritage
 
 ## Details
 
-Via Sky (real name Kelly Nguyen), a Vietnamese actress and model in adult entertainment in the United States, was introduced around 2018 and has been involved in nearly 580 works by 2026. The cooperative studios include Jules Jordan, Naughty America, Brazzers, Tuchy, Cherry Pimps, Devils Film, Reality Kings, Nubiles, etc.
+Vina Sky, born Kelly Nguyen, is a Vietnamese American actress and model in the U.S. adult entertainment industry. She entered around 2018 and had appeared in nearly 580 works by 2026. Her collaborating studios include Jules Jordan, Naughty America, Brazzers, Tushy, Cherry Pimps, Devils Film, Reality Kings, and Nubiles.
 
-Vina Sky, born in Houston, Texas, in 1999, of Vietnamese origin, was only 5 feet tall (approximately 152 cm), weighing approximately 93 pounds (42 kg), and was known in three circles as 32-22-30, with a small, fine Asian girl in the industry. She has been active in adult film since 2018 (about 19 years old), and has received rapid attention with her petite shape and natural body. The types of performance include female kisses and caressing, sex between men and women (vagina and anal), anals, etc., and special subjects such as bukkake, gangbang.
+Vina Sky was born in Houston, Texas, in 1999. She is of Vietnamese descent, 5 feet tall (about 152 cm), weighs about 93 lb (42 kg), and has measurements of 32-22-30. She is known in the industry for her petite, slender Asian figure and gained attention through her petite build and natural body. Her performance categories include female kissing and caressing, vaginal and anal sex, oral-anal sex, and special themes such as bukkake and gangbang.
 
-In addition to the adult video, Vina Sky is active in social media and content platforms. She has about 16,600 fans in Instagram (@thevinasky) (as of April 2026) and is active on TikTok (@vinasky official), Twitter/X (@VinaSky) and OnlyFans (VinaSkyyy). She was selected in Cherry Pimps in February 2020 as "Cherry Of The Month" and was honoured by Nubiles in April 2021 as "Fantasy Of The Month" and as the Flashlight Girl Advocate.
+Beyond adult films, Vina Sky is active on social and content platforms. She has about 16,600 Instagram followers (@thevinasky) as of April 2026 and is active on TikTok (@vinasky_official), Twitter/X (@VinaSkyy), and OnlyFans (VinaSkyy). CherryPimps selected her as Cherry Of The Month in February 2020, and Nubiles honored her as Fantasy Of The Month in April 2021. She is also a Fleshlight Girl representative.
 
-## YouTube interview
+## YouTube interviews
 
-- [Interview with Vina Sky — Dave Naz](https://www.youtube.com/watch?v=SzfuF7iSBkU)Issued on 16 October 2018 for approximately 13 minutes. In an interview, Vina Sky stated that she was from Houston and that the first contact with adults was via webcam, and then worked at sex shop; she contacted the broker via the Internet when she considered her career direction and decided to continue after the first film. She expressed her preference for performances, interaction with audiences and the accumulation of experience and continuous improvement in each shot. She also spoke about her lack of familiarity with industry at the beginning of her career, how she had built confidence over time, and her desire to have her own home and Audi in the future.
-- [Vina Sky Exxxotica NJ Interview — LAST CALL Podcast](https://www.youtube.com/watch?v=M7EIz2TNpWQ): Issued on 5 November 2018 for approximately three minutes. The interview was at Exxotica New Jersey, who stated that this was her first official appearance in Exxotica (who had only been in Miami for a short time), and found the exercise interesting but difficult to wear for long periods of time. She recalled the experience of the extensive filming in 2018, which shifted from webcam and sex shop to adult film industry, and said that she was the most popular actor in the industry, developed chemical reactions with partners and had fantasies for the audience.
+- [Interview with Vina Sky — Dave Naz](https://www.youtube.com/watch?v=SzfuF7iSBkU): published 16 October 2018, approximately 13 minutes. In the interview, Vina Sky said she was from Houston and first encountered adult content through webcam work, then worked in a sex shop. She contacted an agent online when considering her career direction and decided to continue after her first scene. She described enjoying performance, interacting with the audience, accumulating experience, and improving with each scene. She also discussed how unfamiliar she was with the industry at first, how she gradually built confidence, and her desire eventually to have her own home and Audi.
+- [Vina Sky Exxxotica NJ Interview — LAST CALL Podcast](https://www.youtube.com/watch?v=M7EIz2TNpWQ): published 5 November 2018, approximately three minutes. The interview took place at Exxxotica New Jersey. She said it was her first official Exxxotica appearance (she had only briefly attended a Miami event), and that it was interesting but tiring to wear high heels for long periods. She recalled the extensive filming she did in 2018 and her move from webcam and sex-shop work into adult films, saying she enjoyed the performative side of the industry, the chemistry with partners, and presenting fantasies for the audience.
 
-Both videos record the early self-statement of Vina Sky's career: she describes her entry as a gradual shift from webcam and sex shop to professional photography and highlights her subsequent preference to continue because she liked to perform and create. The summary is based on video and its automatic production of subtitles; video content and broadcast data may change over time, and information validation took place on 14 September 2026.
+Both videos record Vina Sky's early account of her career: she describes a gradual transition from webcam and sex-shop work to professional filming and emphasizes that she later chose to continue because she enjoyed performing and creating. The summary is based on the videos and their automatically generated subtitles; video content and view data may change, and the information was verified on 14 September 2026.
 
 ## References
 

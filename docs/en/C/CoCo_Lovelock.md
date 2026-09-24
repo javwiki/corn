@@ -21,40 +21,40 @@ tags:
 ## Summary
 
 - **Name**: CoCo Lovelock
-- **Alias**: Corina Marie Skeirik (in original name), Coco Lovecock (Porn World)
+- **Alias**: Corina Marie Skeirik (real name), Coco Lovecock (Porn World)
 - **Date of birth**: Thursday, 10 June 1999
 - **Place of birth**: Henderson, Nevada, USA / Las Vegas
 - **Nationality**: United States
-- **Ethnicity**Caucasian
-- **Sexual orientation**Bisexual
-- **Active years**: 2019 to date (intaken at approximately 20 years of age, active for 7 years)
-- **Number of works**: 429 (IAFD performers credit records as of June 2026)
-- **Cover/Register**: 384 cover + 22 writing collection + 362 video
-- **Occupation**Adult modeling, Internet red, porn actresses
+- **Ethnicity**: Caucasian
+- **Sexual orientation**: Bisexual
+- **Active years**: 2019 – to present (entered at about 20; active for seven years)
+- **Number of works**: 429 (IAFD performer credits as of June 2026)
+- **Covers/photo sets**: 384 covers + 22 photo sets + 362 videos
+- **Occupation**: Adult model, influencer, porn actress
 - **Homepage**: [thecocolovelock.com](https://thecocolovelock.com/)
 
 ## Physical characteristics
 
-|Properties|Details|
+|Characteristic|Details|
 |------|------|
 |Height| 4'10" (147 cm) |
 |Weight| 100 lbs (45 kg) |
-|Body|Slim|
-|Hair color.|Blonde|
-|Eyes.|Blue|
-|Three Circles| 34–24–34 (B–W–H) |
-|Brass/breasers| 32B |
-|International conversions| UK: 32B, EU: 70B, AU: 10B, JP: 70B |
-|- Boobs.|Natural (Real/Natural)|
-|Tattoos.|Inside the right wrist, left finger, right hip flower.|
+|Body type|Slim|
+|Hair color|Blonde|
+|Eyes|Blue|
+|Measurements| 34–24–34 (bust–waist–hips) |
+|Bust/cup| 32B |
+|International equivalents| UK: 32B, EU: 70B, AU: 10B, JP: 70B |
+|Breasts|Natural (real)|
+|Tattoos|Inside right wrist, left finger, and right hip (flower)|
 
 ## Career
 
-CoCo Lovelock (now Corina Marie Skeirik), an American porn actress and social media activist from the Las Vegas region, entered the industry in 2019 (about 20 years of age), with 429 performers' credit records on IAFD, with over 429 film entries, one of the most productive actors in the industry.
+CoCo Lovelock, born Corina Marie Skeirik, is an American porn actress and social media creator from the Las Vegas area. She entered the industry in 2019 at about 20 and has 429 performer credits on IAFD and more than 429 film entries, making her one of the industry's most prolific performers.
 
-She is known for her small body (4'10) and the blonde blue-eyed "neighbor girl", for her work in the Pure Taboo incest theme, Black Blake Raw/Exxtra Small and Naughty America series. Her performances included water spraying, inner shooting, anal sex, facial, group sex, and so on.
+She is known for her petite 4'10" frame and blonde, blue-eyed "girl next door" image. She is particularly recognized for Pure Taboo's taboo incest themes, Blacked Raw/Exxxtra Small interracial productions, and Naughty America series. Her scenes include squirting, creampie, anal sex, facial, and group sex.
 
-**Main cooperative workshops**:
+**Main collaborating studios**:
 - Team Skeet
 - Exxxtra Small
 - Brazzers
@@ -73,20 +73,20 @@ She is known for her small body (4'10) and the blonde blue-eyed "neighbor girl",
 - Sis Loves Me
 - Deeper
 
-**Perform type**:
+**Performance types**:
 
 |Type|Contents|
 |------|------|
-| Solo |Naked, masturbated, faked, glued.|
-| Girl/Girl |Kisses, chest touch, chest licks, fingers, fake dicks, oral sex.|
-| Boy/Girl |Oral sex, vaginal intercourse, anal sex, double-caves, internal shooting, inter-ethnicity, pigmentation|
-| Special |Golden rain, pigment, water spray, incest, transsex, gang sex|
+| Solo |Nudity, masturbation, dildo use, creampie commands|
+| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex|
+| Boy/Girl |Oral sex, vaginal intercourse, anal sex, double penetration, creampie, interracial, facial|
+| Special |Golden shower, facial, squirting, taboo themes, transgender themes, group sex|
 
 ## Social media
 
 |Platform|Account|Link|
 |------|------|------|
-| Instagram | @cocolovelockx | [520k+ Concerner](https://www.instagram.com/cocolovelockx/) |
+| Instagram | @cocolovelockx | [520k+ followers](https://www.instagram.com/cocolovelockx/) |
 | OnlyFans | cocolovelock | [Link](https://www.babepedia.com/onlyfans/cocolovelock) |
 | Twitter/X | @OfficialCocolov | [Link](https://x.com/OfficialCocolov) |
 | Facebook | coco.lovelock6 | [Link](https://www.facebook.com/coco.lovelock6) |
@@ -95,11 +95,11 @@ She is known for her small body (4'10) and the blonde blue-eyed "neighbor girl",
 
 ## Personal life
 
-CoCo Lovelock, by the name of Corina Marie Skeirik, was born in Henderson, Nevada (suburban area of Las Vegas). She's often called "Coco Melon" by her fans.
+CoCo Lovelock was born Corina Marie Skeirik in Henderson, Nevada, a Las Vegas suburb. Fans often call her "Coco Melon."
 
-Her signature is that she is extremely small (4'10" and 147cm) and has a significant blonde, neighboring girl-like natural appearance, which is very well recognized among "poly" actors. The fan reviews often refer to "amazing tits for such a small woman". She has multiple tattoos (right wrist, left finger, right hip flower), but is often criticized as a controversial topic of "selling her first heart and dripping on her."
+Her signature traits are her extremely petite frame (4'10"; 147 cm), prominent blonde hair, blue eyes, and a natural girl-next-door appearance, which make her highly recognizable among petite performers. Fans often comment, "amazing tits for such a small woman." She has several tattoos (right wrist, left finger, and a flower on her right hip) and has often been criticized in the controversial "selling out" and "dripping ink on her" discourse.
 
-It is noteworthy that she was about 20 years old when she left the street (born in 1999) and belonged to the adult star group of the "00s and later generation".
+Notably, she entered the industry at about 20 (born in 1999) and belongs to the post-2000 generation of adult performers.
 
 ## References
 

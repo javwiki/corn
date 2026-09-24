@@ -26,22 +26,22 @@ tags:
 - **Occupation**: Transgender porn actress, adult model
 - **Nationality**: United States
 - **Ethnicity**: Caucasian
-- **Body Data**: height 5'7', weight 125 lbs (57 kg), triangulation 38D-28-38, shoe size US 10
+- **Body data**: Height 5'7" (170 cm), weight 125 lb (57 kg), measurements 38D-28-38, shoe size US 10
 - **Hair color**: Blonde
-- **Pupil**Blue
-- **Tattoo.**: None
-- **Puncture**Ears, nipples.
-- **Remarks**Trans woman, mainly in the role of Bottom, and toop and solo
+- **Eye color**: Blue
+- **Tattoos**: None
+- **Piercings**: Ears, nipples
+- **Notes**: Trans woman who primarily plays Bottom roles, as well as Top and Solo scenes
 
 ## Details
 
-Janele Fennec, an American transsexual porn actress and adult model, was born in Denver, Colorado. She entered the adult film industry at the age of about 27 in 2014, and was active mainly in the area of transgender adult film. Her career spans 2014-2025 and works with many well-known studios, including Grooby Productions, Evil Angel, TransAngels, Trans-Ansian Fantasies, TransErotica, Ginder X Films, Devil's Film, TwoTgirs, VRBangers, PrePlay Media, CX WOW, Mile High, Transsensual, VIP Media, Exile Distribution, Exquisite, Pulse Distribution, Adult Time, Trans Glamour, ManyVids, TSPOV, Trans 500, Pure-TS, Creation of Adam, etc.
+Janelle Fennec is an American transgender porn actress and adult model from Denver, Colorado. She entered adult entertainment at about 27 in 2014 and worked primarily in transgender adult films. Her career spans 2014–2025 and includes work with well-known studios such as Grooby Productions, Evil Angel, TransAngels, Transational Fantasies, TransErotica, Gender X Films, Devil's Film, TwoTgirls, VRBangers, Pure Play Media, CX WOW, Mile High, Transsensual, VIP Digital Media, Exile Distribution, Exquisite, Pulse Distribution, AdultTime, Trans Glamour, ManyVids, TSPOV, Trans500, Pure-TS, and Creation of Adam.
 
-She played a role in the show mainly as Bottom, but also as a participant in Top and Solo scenes. The type of work covers VR virtual reality, anal intercourse, pigmentation, internalization, A2M, etc.
+She primarily plays Bottom roles but also appears in Top and Solo scenes. Her work includes VR, anal sex, facial, creampie, A2M, and other genres.
 
-Janele Fennec gained wide recognition in the industry and won the Transgender Europe Awards (TEA) Trust Fantasy Girl of the Year award in 2019. She also received various nominations for TEA in the same year, including Best Boy/Girl Scene (three nominations), Best Hardcore Model, Best Solo Model. In addition, she was nominated successively in 2019 and 2020 by XBiz Awards Trans Performer of the Year.
+Janelle Fennec became widely recognized in the industry and won the Transational Fantasy Girl of the Year award at the Transgender Erotica Awards (TEA) in 2019. That year she also received TEA nominations for Best Boy/Girl Scene (three nominations), Best Hardcore Model, and Best Solo Model. She was also nominated for the XBIZ Trans Performer of the Year award in 2019 and 2020.
 
-In social media, Janelle Fennec is quite active. She has about 4.17 million followers on Twitter/X (@JanelleFennec), and has been publishing content since she joined in April 2016. Her main platform for paying for content includes OnlyFans.com/janellefennec and ManyVids (janellefennec.manyvids.com). In addition, she has been active on platforms such as Instagram (@janellefennecréturns), TikTok (@janellefenec), Twitch (twich.tv/janellefennec), Snapchat and Reddit. Her personal website, Janellefennec.com, used to be a window for the work.
+Janelle Fennec is active on social media. She has about 41,700 Twitter/X followers (@JanelleFennec) and has published content since joining in April 2016. Her principal paid-content platforms are OnlyFans (onlyfans.com/janellefennec) and ManyVids (janellefennec.manyvids.com). She is also active on Instagram (@janellefennecreturns), TikTok (@janellefennec), Twitch (twitch.tv/janellefennec), Snapchat, and Reddit. Her personal website, janellefennec.com, formerly served as a showcase for her work.
 
 ## References
 

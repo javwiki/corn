@@ -24,46 +24,46 @@ tags:
 ## Summary
 
 - **Name**: Molly Little
-- **Alias**: maybemolly (ManyVids/Instagram/Tweet/OnlyFans), Nicole Buro (name), Molly (OnlyFans/TNVGirls)
+- **Alias**: maybemollyy (ManyVids/Instagram/Twitter/OnlyFans), Nicole Buro (real name), Molly (OnlyFans/TNVGirls)
 - **Date of birth**: Monday, 10 February 2003
 - **Place of birth**: Fairfax, Virginia, United States
 - **Nationality**: United States
-- **Ethnicity**Caucasian (Italian descent)
-- **Sexual orientation**: staight
-- **The active years.**2021 to date (intaken at about 18 years of age, active for 5 years)
-- **Number of works**: IAFD performer credites (as of 2026)
-- **Cover/Register**: 378 cover + 87 writing real + 291 video
-- **Occupation**Adult model, ex-camgirl, ex-striking dancer, ex-playboy model, porn actress
-- **Homepage**@Instagram@maybemollyyy (disused), Twitter/X@MaybeMolly, Facebook Molly Little XX
+- **Ethnicity**: Caucasian (Italian descent)
+- **Sexual orientation**: Heterosexual
+- **Active years**: 2021 – to present (entered at about 18; active for five years)
+- **Number of works**: IAFD performer credits (as of 2026)
+- **Covers/photo sets**: 378 covers + 87 photo sets + 291 videos
+- **Occupation**: Adult model, former camgirl, former stripper, former Playboy model, porn actress
+- **Homepage**: Instagram @maybemollyyy (disused), Twitter/X @MaybeMollyy, Facebook Molly Little XX
 
 ## Physical characteristics
 
-|Properties|Details|
+|Characteristic|Details|
 |------|------|
 |Height| 5'3" (160 cm) |
-|Weight| 110 lbs (50 kg) |
-|Body|Slim|
-|Hair color.|Blonde|
-|Eyes.|Brown (brow)|
-|Three Circles| 32–22–32 (B–W–H) |
-|Brass/breasers| 32B |
-|International conversions| UK: 32B, EU: 70B, AU: 10B, JP: 70B |
-|- Boobs.|Natural (Real/Natural)|
-|Tattoos.|Three mushrooms in the upper abdomen, and a little butterfly near the left thumb.|
+|Weight| 110 lb (50 kg) |
+|Body type|Slim|
+|Hair color|Blonde|
+|Eyes|Brown|
+|Measurements| 32–22–32 (bust–waist–hips) |
+|Bust/cup| 32B |
+|International equivalents| UK: 32B, EU: 70B, AU: 10B, JP: 70B |
+|Breasts|Natural (real)|
+|Tattoos|Three mushrooms on the upper abdomen and a small butterfly near the left thumb|
 
 ## Career
 
-Molly Little (now Nicole Buro) is an American porn actress from Fairfax, Virginia, and a former Playboy model who entered the business in 2021 (18 years old). She is known for her small, big eyes, "neighbor girls" and her performance in Nubiles, Brazzers, Stepsiblings Caught, Family Strokes, etc.
+Molly Little, born Nicole Buro, is an American porn actress from Fairfax, Virginia, and a former Playboy model who entered the industry in 2021 at age 18. She is known for her petite, slim figure, large eyes, "girl next door" image, and work with Nubiles, Brazzers, Stepsiblings Caught, Family Strokes, and others.
 
-She was born in a supportive family, was a performer from a young age and participated in school theatres and local theatres. She claims to be Italian (reddit self-narrating). In 2021 she started stripping and stripping, and then on 22 February 2022 she passed the first adult film through the NetVideo Girls studio. She has since cooperated with many well-known studios.
+She was born into a supportive family, loved performing from a young age, and participated in school and local theater productions. She claims Italian heritage (self-reported on Reddit). In 2021, she began dancing and stripping, then made her adult-film debut with NetVideoGirls on 22 February 2022. She has since worked with many well-known studios.
 
 **Important awards and nominations**:
-- 2023 AVN Nomination: Stepsis and Friend Ned My Dick
-- 2024 XBIZ Award: All-Sex Release Best Actress (Molly's Way)
+- 2023 AVN nomination: Best Threesome Sex Scene (*Stepsis and Friend Need My Dick*)
+- 2024 XBIZ Award: All-Sex Release Best Actress (*Molly's Way*)
 - Nubiles Flavor Of The Month: September 2022, April 2026
 - Nubiles Fantasy Of The Month: June 2026
 
-**Main cooperative workshops**:
+**Main collaborating studios**:
 - Nubiles
 - Brazzers
 - Naughty America
@@ -78,20 +78,20 @@ She was born in a supportive family, was a performer from a young age and partic
 - Hussie Pass / Hussie Models
 - Exxxtra Small
 
-**Perform type**:
+**Performance types**:
 
 |Type|Contents|
 |------|------|
-| Solo |Naked, masturbating, fake dick, fake dick. Hand it over.|
-| Girl/Girl |Kisses, chest touch, chest licks, fingers, fake penises, oral sex, Tribadism|
-| Boy/Girl |Oral, vaginal, anal, intro, inter-ethnic, tan.|
-| Special |Golden rain, pregnant women, pigments, group sex|
+| Solo |Nudity, masturbation, dildos, dildo oral sex|
+| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex, tribadism|
+| Boy/Girl |Oral sex, vaginal intercourse, anal sex, creampie, interracial, facial|
+| Special |Golden shower, pregnancy, facial, group sex|
 
 ## Social media
 
 |Platform|Account|Link|
 |------|------|------|
-| Instagram |Maybemollyyyyy (disable)| [436k+ focusr (historical data)](https://www.instagram.com/) |
+| Instagram |maybemollyyy (disused)| [436k+ followers (historical data)](https://www.instagram.com/) |
 | OnlyFans | mollylittlexxx | [Link](https://www.babepedia.com/onlyfans/mollylittlexxx) |
 | OnlyFans 2 | maybemollyy | [Link](https://www.babepedia.com/onlyfans/maybemollyy) |
 | Fansly | maybemollyy | [Link](https://www.fansly.com/maybemollyy) |
@@ -102,11 +102,11 @@ She was born in a supportive family, was a performer from a young age and partic
 
 ## Personal life
 
-Molly Little, this is Nicole Buro. Her unique personal mark is the triple mushroom tattoos in the upper abdomen and the butterfly tattoos near her left thumb (the fan thinks the mushroom tattoos are "a little ridiculous" and is read as "enhanced consciousness, spiritual awakening, consciousness expansion".
+Molly Little was born Nicole Buro. Her most distinctive personal markings are three mushroom tattoos on her upper abdomen and a butterfly tattoo near her left thumb. Fans consider the mushroom tattoos "a little ridiculous" and sometimes interpret them as symbols of "enhanced consciousness, spiritual awakening, and consciousness expansion."
 
-One of her interesting favorites is**Bikram yoga**- Hot yoga in high temperatures, fixed series of 26 positions. She claims to be enjoying herself, which undoubtedly adds significantly to her flexible performance.
+One of her interests is **Bikram yoga**—hot yoga at 105°F (41°C) in a fixed sequence of 26 poses. She says she enjoys it, which clearly adds to her flexibility on screen.
 
-High school completion in 2025. As of 2025, the Instagram fanship was approximately 43.36 million. As of 2026, she was pregnant (reddio self-narrating), and some of the fans noticed "breeding" (resulting from pregnancy).
+She completed high school in 2025. As of 2025, she had about 436,000 Instagram followers.
 
 ## References
 

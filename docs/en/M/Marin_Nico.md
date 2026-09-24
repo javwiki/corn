@@ -14,16 +14,16 @@ tags:
 - **Name**: Marin Nico
 - **Alias**: Marin Niko
 - **Platform**: Instagram
-- **Born**: Japan, 2003 (date unknown)
-- **Active years**: 2025 – to date
-- **Occupation**: Sex actress
-- **Notes**: Arrival around the age of 22 in 2025; the main entry on the Babepedia platform is "Marin Niko"
+- **Born**: 2003, Japan (date unknown)
+- **Active years**: 2025 – to present
+- **Occupation**: Adult film actress
+- **Notes**: Debuted around 2025 at about 22; the main Babepedia entry is listed as "Marin Niko"
 
 ## Details
 
-Marin Nico (also Marin Niko) is a Japanese porn actress born in 2003. She went out around 2025, where she was mainly performing hard-core films, performing the sexual (oral sex, vaginal intercourse, double infertiles, internal injections) and single-person naked and masturbating. According to data from Babepedia, she had black hair, about 5 feet 3 inches (160 cm) tall, 35-23-33 in three dimensions and had breast surgeries.
+Marin Nico, also known as Marin Niko, is a Japanese porn actress born in 2003. She debuted around 2025, primarily performing in hardcore productions involving heterosexual sex (oral sex, vaginal intercourse, double insemination, and creampie) as well as solo nudity and masturbation. Babepedia lists black hair, a height of about 5 feet 3 inches (160 cm), measurements of 35-23-33, and breast augmentation.
 
-In social media, she's on Instagram.`@marinnico.official`The number of nominal activities was approximately 2,000 fans as of the time of recording. Her work was published through various channels, including iStripper.
+On social media, she is active on Instagram as @marinnico.official and had approximately 2,000 followers when the information was recorded. Her work has been distributed through channels including iStripper.
 
 ## References
 

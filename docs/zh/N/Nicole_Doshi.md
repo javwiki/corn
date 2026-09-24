@@ -32,8 +32,7 @@ Nicole Doshi 是一名华裔/亚裔色情女演员与模特，自 2021 年起活
 
 ## 参考资料
 
-- [IAFD: Nicole Doshi](https://www.iafd.com/)
-- [Rog Reviews: Nicole Doshi](https://www.rogreviews.com/)
+- [IAFD: Nicole Doshi](https://www.iafd.com/person.rme/id=bca57377-e8a2-4372-aef2-070a54a5b193)
 - [Instagram: @yesdoshi](https://www.instagram.com/yesdoshi/)
 - [Twitter/X: @nicoledoshi](https://x.com/nicoledoshi)
 - [TikTok: @nicoledoshixo](https://www.tiktok.com/@nicoledoshixo)

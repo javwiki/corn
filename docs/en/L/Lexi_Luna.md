@@ -16,20 +16,20 @@ tags:
 - **Name**: Lexi Luna
 - **Alias**: Not available
 - **Platform**: OnlyFans / CamSoda / Pornhub
-- **Birth**1988 or 1989 (age 36-37)
-- **Active years**: 2016 – To date
+- **Birth**: 1988 or 1989 (age 36–37)
+- **Active years**: 2016 – to present
 - **Number of works**: Not available
-- **Occupation**: adult film actresses, models, former primary school teachers
-- **Nick/Tabel**: "The Gentleman's Porn Star" , MILF performer
-- **Notes**: Five years in primary education, then transitioned to adult trade
+- **Occupation**: Adult film actress, model, former primary-school teacher
+- **Nickname/label**: "The Gentleman's Porn Star," MILF performer
+- **Notes**: Worked in primary education for five years before entering the adult industry
 
 ## Details
 
-Lexi Luna, an American porn actress, is known for the role of "Milf" and is known by fans as "The Gentleman's Porn Star". She entered the adult film industry in 2016, after having been a primary school teacher for five years. Luna stated that the low pay and social isolation of the teacher career prompted her to explore expression through online relationships such as FetLife and eventually to be discovered by porno companies.
+Lexi Luna is an American porn actress known for MILF roles and called "The Gentleman's Porn Star" by fans. She entered the adult film industry in 2016 after working as a primary-school teacher for five years. Luna said the low pay and social isolation of teaching led her to explore sexuality and relationships through online communities such as FetLife, where she was eventually discovered by adult companies.
 
-After entering the industry, Luna developed a very visible screen image - a mature woman who was confident, proactive and controlled. She is known for her role as step-mom and is usually the lead actor in the scene. On the Pornhub platform, her work was viewed over 411 million times. In addition to traditional films, she also provided customized video services through OnlyFans, which reportedly cost as much as $100 per minute. During the wildfire in Hawaii in 2023, she staged a charity show at CamSoda to raise funds for the victims.
+After entering the industry, Luna developed a highly recognizable screen persona: a confident, proactive, self-assured mature woman. She is known for playing "step-mom" and other roles and usually directs the pace of a scene. Her work on Pornhub has received more than 411 million views. In addition to traditional films, she offered customized video services through OnlyFans, reportedly costing as much as \$100 per minute. During the 2023 Hawaii wildfires, she held a charity show at CamSoda to raise money for victims.
 
-Luna is one of the image ambassadors for the Adult Time brand, alongside actors Lauren Phillips, Siri Dahl and Leana Lovins. She has received many industry awards to date, including the KnightMoves "Miss Community" in 2017, the Cornhub "The Most popular MILF" in 2025, the XRCO "MILF Annual Performer" in 2025, and the AVN "MILF Annual Performer" Award and the Doppio Senso Night "The Best International MILF" Award in 2026.
+Luna is one of the Adult Time brand ambassadors, alongside Lauren Phillips, Siri Dahl, and Leana Lovings. She has received many industry awards, including NightMoves Miss Congeniality in 2017, Pornhub's Most Popular MILF in 2025, XRCO MILF Performer of the Year in 2025, the AVN MILF Performer of the Year award in 2026, and Doppio Senso Night's Best International MILF award in 2026.
 
 ## References
 

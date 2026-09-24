@@ -1,0 +1,26 @@
+Corn Encyclopedia Notice
+=======================
+
+Copyright (c) 2026 javwiki
+
+The repository's original software and documentation are licensed under the
+MIT License. See LICENSE for the complete terms.
+
+Third-party components and attributions
+---------------------------------------
+
+* The initial Chinese-to-English translation workflow used Argos Translate
+  1.11.0 with the OPUS-MT zh-en model package (translate-zh_en 1.9). The
+  translation model is attributed to Jörg Tiedemann and Santhosh Thottingal
+  and is distributed under CC BY 4.0. See TRANSLATION.md for historical
+  details.
+* Person names, biographies, platform names, award names, and trademarks
+  remain the property of their respective owners and are used for
+  identification and attribution. Their inclusion does not imply endorsement
+  or affiliation.
+* External links and cited sources remain subject to their owners' terms.
+  The generated site does not relicense third-party source material.
+
+The English edition is a machine-translation draft under review. Readers
+must consult the cited public sources and should not treat the English text
+as independently verified fact.

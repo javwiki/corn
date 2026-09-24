@@ -14,25 +14,25 @@ tags:
 
 - **Name**: Vivian Fox
 - **Alias**: No record
-- **Platform**: Twitter/ X/ Other Platform Not specified
+- **Platform**: Twitter/X / other platform not specified
 - **Born**: 22 March 1996, Austin, Texas, United States
-- **Active years**: 2021 – To date
-- **Number of works**: Not verified (no uniform database number is provided for publicly available information)
-- **Occupation**: Sex actress, model
-- **Notes**: Was in the "Wømen Seeing Women 184" and "Lesbian Massage Club 1" by the Gilfriends Films
+- **Active years**: 2021 – to present
+- **Number of works**: Not verified (publicly available information does not provide a consistent database total)
+- **Occupation**: Adult film actress, model
+- **Notes**: Appeared in Girlfriends Films' *Women Seeking Women 184* and *Lesbian Massage Club 1*
 
 ## Details
 
-Vivian Fox, an American adult film actor, was born in Austin, Texas, on March 22, 1996. She is involved in adult content creation under the Vivian Fox ' s stage name, which should be distinguished from the Vivian Fox entries already available in the warehouse.
+Vivian Fox is an American adult film actress. Public information lists her as born in Austin, Texas, on 22 March 1996. She participates in adult content under the stage name Vivian Fox, which should be distinguished from the existing Vivian Foxx entry in the repository.
 
-Fox started showing up in public film material around 2021 and later participated in the work of the Girlfriends Fillms on the subject of female homosexuality. The official blog of the Girlfriends Films described her performances of Women Seeing Women 184 and Lesbian Massage Club 1, and published her interview with Fleshbot.
+Fox began appearing in public film records around 2021 and later participated in Girlfriends Films' women-with-women productions. The official Girlfriends Films blog discussed her appearances in *Women Seeking Women 184* and *Lesbian Massage Club 1* and published her Fleshbot interview.
 
-As there is currently less publicly available information that can be verified, this entry is not available for the time being with the unrecognized aliases, platform account numbers and total number of works; it can be updated on the basis of IAFD or other reliable databases.
+Because little verifiable public information is currently available, this entry does not list unconfirmed aliases, platform accounts, or a total number of works. It can be updated if IAFD or another reliable database provides additional information.
 
 ## References
 
 - [Vivian Fox - IMDb](https://www.imdb.com/name/nm12961390/)
 - [Vivian Fox - IMDb Biography](https://www.imdb.com/name/nm12961390/bio/)
-- [Vivian Fox - Civils Films official blog](https://www.girlfriendsfilmsnews.com/fleshbot-20-questions-interview-vivan-fox/)
+- [Vivian Fox - Girlfriends Films official blog](https://www.girlfriendsfilmsnews.com/fleshbot-20-questions-interview-vivan-fox/)
 - [Vivian Fox - Babepedia](https://www.babepedia.com/babe/Vivian_Fox)
 - [Twitter/X: @the_velvetfoxxx](https://twitter.com/the_velvetfoxxx)

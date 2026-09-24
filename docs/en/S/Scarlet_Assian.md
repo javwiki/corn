@@ -16,23 +16,23 @@ tags:
 ## Summary
 
 - **Name**: Scarlet Assian
-- **Alias**: Scarlett, Scarlet Loting, ScarletQ, Buonapite Assian, Scarlett Assian
-- **Platform**: Instagram、Twitter/X、Fansly、OnlyFans、Linktree
-- **Born**: 1994 Jakarta, Indonesia
-- **Active years**: 2022 – To date
-- **Occupation**Adult model, charm model, porn actress
-- **Ethnicity**Asian
-- **Notes**: From 2022, around 27 years old, a grown Indonesian actor who has been on the road for recent years
+- **Alias**: Scarlett, Scarlet Loting (real name), ScarletQ, BuonapetiteAssian, Scarlett Assian
+- **Platform**: Instagram, Twitter/X, Fansly, OnlyFans, Linktree
+- **Born**: 1994, Jakarta, Indonesia
+- **Active years**: 2022 – to present
+- **Occupation**: Adult model, glamour model, porn actress
+- **Ethnicity**: Asian
+- **Notes**: Debuted in 2022 at about 27; an Indonesian performer active in recent years
 
 ## Details
 
-Scarlet Assian, an Indonesian adult model and porn actress, was born in Jakarta in 1994 and officially entered the adult entertainment industry at the age of 27 in 2022. She is known for her small body (4 feet and 11 inches/approximately 149 cm) and a full body curve, with a three-fold radius of 34-24-35, a 34D (manual reinforcement) cup, a weight of about 118 pounds (54 kg) and a thin body type.
+Scarlet Assian is an Indonesian adult model and porn actress born in Jakarta in 1994. She formally entered adult entertainment in 2022 at about 27. She is known for her petite 4 feet 11 inches (about 149 cm) frame, full curves, measurements of 34-24-35, 34D augmented breasts, weight of about 118 lb (54 kg), and slim build.
 
-She has been a mirrorer of several prominent adult magazines and brands, including the Indonesian magazine Putri Cinta, the adult love website Raw Erotic and StasyQ publications, which have produced a total of 10 cover and 10 original collections. She also runs her own personal fee website, Scarletassianxo.
+She has appeared for several prominent adult magazines and brands, including the Indonesian magazine *Putri Cinta*, the adult site Raw Erotic, and publications under StasyQ, completing ten cover shoots and ten photo sets. She also runs her own paid website, scarletassianxo.
 
-In the social media, Scarlet Assian has about 123,000 fans in Instagram (as of March 2026) with an account number @scarletassian , which regularly publishes the daily content of fashion and life. She was more active on Twitter/X, with about 374,000 fans, and published over 2,000 tweets, and promoted her Fansly pay subscription link in her personal profile. Her Linktree (linktr.ee/scarlet.assian24) summarizes all links to the website, including social platforms and personal works.
+On social media, Scarlet Assian has about 123,000 Instagram followers as of March 2026 under @scarletassian_, regularly sharing fashion and everyday content. She is more active on Twitter/X, where she has about 37,400 followers and has posted more than 2,000 tweets; her profile promotes her Fansly paid subscription. Her Linktree at linktr.ee/scarlet.assian24 brings together links to social platforms and her personal websites.
 
-As a more active adult model for emerging generations in Indonesia in recent years, the emergence of Scarlet Assian has also added a new face to the adult modeling field in South-East Asia. She received a combined rating of 8.75/10 (219 votes) on Babepedia, ranking 3846th in her ranking.
+As one of the more active new-generation adult models from Indonesia in recent years, Scarlet Assian has added a new presence to Southeast Asia's adult modeling scene. Babepedia gives her an overall rating of 8.75/10 from 219 votes, with a highest ranking of 3,846.
 
 ## References
 

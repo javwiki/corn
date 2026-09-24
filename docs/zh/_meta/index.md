@@ -6,3 +6,4 @@
 
 - [list.yaml](list.yaml) - 条目列表（数据源）
 - [list.md](list.md) - 人类可读的条目列表（自动生成）
+- [source.yaml](source.yaml) - 数据源

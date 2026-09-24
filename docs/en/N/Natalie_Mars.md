@@ -21,34 +21,34 @@ tags:
 
 - **Name**: Natalie Mars
 - **Platform**: OnlyFans / ManyVids / Twitter / Instagram
-- **Born**: 3 February 1984, Little Rock, Arkansas, Arkansas, USA
-- **Active years**: 2015 –2025
-- **Number of works**: 729 (IAFD actors); 2 (director works)
-- **Occupation**: Transgender porno, director, content creator
+- **Born**: 3 February 1984, Little Rock, Arkansas, United States
+- **Active years**: 2015–2025
+- **Number of works**: 729 (IAFD performer credits); 2 (directing credits)
+- **Occupation**: Transgender porn actress, director, content creator
 - **Height**: 5 feet 6 inches (168 cm)
-- **Weight**: 134 lbs (61 kg)
+- **Weight**: 134 lb (61 kg)
 - **Measurements**: 34A-28-37
-- **Hair color**: Brown/Red
+- **Hair color**: Brown/red
 - **Eye color**: Green
-- **Notes**: First actor to perform Japan's Milky Cat and Legal Porto; married to Damazonia
+- **Notes**: First transgender performer to appear in Japanese Milky Cat and Legal Porno productions; formerly married to Damazonia
 
 ## Details
 
-Natalie Mars (3 February 1984-) is an American transsex porn actor, director and content creator born in Rock City, Arkansas. She entered the profession at around 31-2015, and with her bold style of performance she quickly became one of the most visible performers in the industry.
+Natalie Mars, born 3 February 1984, is an American transgender porn actress, director, and content creator from Little Rock, Arkansas. She entered the industry at about 31 in 2015 and quickly became one of the most recognizable performers in the transgender adult industry through her bold performance style.
 
-Mars created many "first" in his career. In 2019, she became the first gender-transsexual actor to perform Japanese Milky Cat production (FB-26 Bukkake T-Girl Natalie Mars), working with 46 men in the film. In 2020, she became the first transsex actor to perform the production of Giorgio Grandi "Legal Porto " (BTG001 Busted T-Girls), in which she worked with 5 men and completed three sets of anal sex (triple anal), which later became one of the most popular works on the site.
+Mars achieved several career "firsts." In 2019, she became the first transgender performer to appear in a Japanese Milky Cat production, *FB-26 Bukkake T-Girl Natalie Mars*, working with 46 men. In 2020, she became the first transgender performer in a Giorgio Grandi Legal Porno production, *BTG001 Busted T-Girls*, working with five men and completing three anal-sex sequences ("triple anal"); it later became one of the site's most popular titles.
 
-Her performance was known for the intense hard-core field. The term "fuck" is widely used (over 400 in a 65-minute film) and is highly acoustic, bi-alphaic, and social. She had described Belladonna, Kelly Wells, Proxy Paige and Rocco Siffredi as her professional idol, and the extremist performer, HotKinkyjo, as her greatest inspiration.
+Her performances were known for intense hardcore content, including frequent use of the word "fuck" (more than 400 times in one 65-minute film) and a preference for anal sex, double anal, and fisting. She cited Belladonna, Kelly Wells, Proxy Paige, and Rocco Siffredi as professional idols and extreme performer HotKinkyJo as her greatest inspiration.
 
-Mars has a very good record of the award. 2020 was the peak year of her career, winning the annual AVN Intersex Performer Award, the AVN Fan Award, the most popular intersex porn star and the most popular intersex live star, and the XBiz Intersex Performer Award. In addition, she has been recognized on several occasions by Transgender Europe Awards (TEA), including the Best New Face (2016), Best Hard Nuclear Model (2019), Best Hard Nuclear Performer (2020) and Best Homemade Content Creator (2021). She also received the PornHub Awards Most popular cross-sex performer Award in 2019.
+Mars had an outstanding awards record. In 2020, the peak of her career, she won the AVN Transgender Performer of the Year award, the AVN Fan Awards for Favorite Trans Cam Star and Favorite Trans Porn Star, and the XBIZ Trans Performer of the Year award. She also received repeated recognition from the Transgender Erotica Awards (TEA), including Best New Face (2016), Best Hardcore Model (2019), Best Hardcore Performer (2020), and Best Self-Produced Content Creator (2021). In 2019, she won Pornhub Awards' Most Popular Trans Performer award.
 
-In the area of personal life, she married a transsexual performer, Mistress Damazonia, a "suspect of impulse" decision, on 26 January 2020, and divorced a year later, but they remained friendly.
+In her personal life, Mars married transgender performer Mistress Damazonia on 26 January 2020 in what she described as an impulse decision. They divorced a year later but remained friendly.
 
-Her social media influence is remarkable: Twitter (@theNataliMars) has about 59.5 million fans, Instagram (@the.natali.mars) and OnlyFans are also active. She also sells homemade adult content through the ManyVids platform.
+Her social media influence is substantial: Twitter (@theNatalieMars) has about 595,000 followers, while Instagram (@the.natalie.mars) and OnlyFans are also active. She sells self-produced adult content through ManyVids.
 
 ### Main award records
 
-|Year|Awarding institution|Awards|
+|Year|Awarding organization|Award|
 |---|---|---|
 | 2016 | TEA | Best New Face |
 | 2017 | TEA | Grooby Girl of the Year |
@@ -58,11 +58,11 @@ Her social media influence is remarkable: Twitter (@theNataliMars) has about 59.
 | 2019 | TEA | Best Hardcore Model |
 | 2019 | TEA | MV Trans Model of the Year |
 | 2019 | Fetish Awards | Favorite Transgender Fetish Performer / Webcam Performer |
-| 2019 | PornHub Awards | Most Popular Trans Performer |
+| 2019 | Pornhub Awards | Most Popular Trans Performer |
 | 2020 | AVN Awards | Fan Award: Favorite Trans Cam Star |
 | 2020 | AVN Awards | Fan Award: Favorite Trans Porn Star |
 | 2020 | AVN Awards | Transgender Performer of the Year |
-| 2020 | XBiz Awards | Trans Performer of the Year |
+| 2020 | XBIZ Awards | Trans Performer of the Year |
 | 2020 | TEA | Best Hardcore Performer |
 | 2020 | TEA | Kink's Kinkiest T-Girl Domme |
 | 2020 | GayVN Awards | Best Bi Sex Scene — Free For All |

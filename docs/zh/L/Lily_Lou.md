@@ -88,7 +88,7 @@ Lily Lou 是来自华盛顿特区的美国色情女演员、模特及社交媒�
 | OnlyFans | lilylouofficial | [链接](https://www.babepedia.com/onlyfans/lilylouofficial) |
 | Twitter/X | @LilyLouOfficial | [链接](https://x.com/LilyLouOfficial) |
 | TikTok | @lily.lou.1o3 | [链接](https://www.tiktok.com/@lily.lou.1o3) |
-| YouTube | @lilylouofficial | [链接](http://www.youtube.com/@lilylouofficial) |
+| YouTube | @lilylouofficial | [链接](https://www.youtube.com/@lilylouofficial) |
 | Twitch | @lilylouofficial | [链接](https://www.twitch.tv/lilylouofficial) |
 | IMDb | nm11384585 | [链接](https://www.imdb.com/name/nm11384585/) |
 | IAFD | ID: d8eed34a | [链接](https://www.iafd.com/person.rme/id=d8eed34a-410e-479c-8064-1f9c05253880/gender=f) |

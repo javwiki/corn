@@ -15,20 +15,20 @@ tags:
 - **Alias**: Kirsty Hill, Mary Beth, Sofia D., Sophia Dee, Sophie D
 - **Platform**: OnlyFans
 - **Born**: 17 January 1984, Wales
-- **Active years**: 2005 – to date
-- **Number of works**: 898 (Source: IAFD)
-- **Occupation**: adult film actresses, models, investors, writers, network content creators
-- **Remarks**American citizenship of Welsh origin, top-level Forbes content creator
+- **Active years**: 2005 – to present
+- **Number of works**: 898 (source: IAFD)
+- **Occupation**: Adult film actress, model, investor, writer, web content creator
+- **Notes**: Welsh-American; Forbes top content creator
 
 ## Details
 
-Sophie Dee, sometimes under the name Kirsty Hill, was born on 17 January 1984 in a poor family in Wales. Her childhood was difficult, growing up in a small village in Wales, and her family was dependent on government relief. She started working as a teenager, initially as a stripper and naked modeler.
+Sophie Dee, sometimes credited as Kirsty Hill, was born on 17 January 1984 into a poor family in Wales. Her childhood was difficult: she grew up in a small Welsh village and her family depended on government assistance. She began working as a teenager, first as a stripper and nude model.
 
-In 2005, Sophie Dee entered the adult film industry, and was quickly given attention with her full body and her golden hair. Her career spans a wide range of mainstream adult film production companies, including Naughty America, Brazzers, Kink.com, Bang Bros, etc. According to IAFD, she performed 898 works.
+In 2005, Sophie Dee entered the adult film industry and quickly attracted attention with her full figure and blonde hair. Her career spans major adult companies including Naughty America, Brazzers, Kink.com, and Bang Bros. IAFD (the Internet Adult Film Database) lists 898 works for her.
 
-In 2017, Sophie Dee joined the OnlyFans platform and quickly became one of the most paid creators on the platform. According to the New York Post, she earned about $350,000 a month at her peak and millions of dollars a year. She was elected to the Forbes top content creator list in 2022, and became one of the few women adult content creators to have this recognition.
+In 2017, Sophie Dee joined OnlyFans and quickly became one of its highest-earning creators. The *New York Post* reported that she earned about \$350,000 per month at her peak and millions of dollars per year. In 2022, she was included in Forbes' top content-creator list, becoming one of the few female adult content creators to receive that recognition.
 
-At the moment, Sophie Dee lives in Vegas, Nevada, living with her boyfriend. In her interview, she stated that she had developed a habit of prudent financial management through childhood poverty, and that she invested most of her income in stocks, bonds, encrypted currency and commercial projects.
+Sophie Dee currently lives in Las Vegas, Nevada, with her boyfriend. She has said that growing up in poverty taught her to manage money carefully and that she invests much of her income in stocks, bonds, cryptocurrency, and business projects.
 
 ## References
 
@@ -36,4 +36,3 @@ At the moment, Sophie Dee lives in Vegas, Nevada, living with her boyfriend. In 
 - [Babepedia](https://www.babepedia.com/babe/Sophie_Dee)
 - [Forbes](https://forbes.com/profile/sophie-dee/)
 - [New York Post](https://nypost.com/2022/09/23/im-an-onlyfans-top-earner-i-grew-up-poor-but-now-a-millionaire/)
-- [Wikipedia Draft](https://en.wikipedia.org/wiki/Draft:Sophie_Dee)

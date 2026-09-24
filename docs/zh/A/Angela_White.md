@@ -54,7 +54,7 @@ XBIZ 称怀特为"澳大利亚最知名的成人表演者之一"，《每日野�
 - [Angela White - IAFD](https://www.iafd.com/person.rme/id=9d655dea-1397-458e-9416-568e23bc8b9c)
 - [Angela White - Adult Film Database](https://www.adultfilmdatabase.com/actor.cfm?actorid=42938)
 - [Angela White - Babepedia](https://www.babepedia.com/babe/Angela_White)
-- [Angela White 官方网站](http://www.angelawhite.com)
+- [Angela White 官方网站](https://www.angelawhite.com)
 - [Twitter/X: @angelawhite](https://x.com/angelawhite)
 - [Instagram: @angelawhite](https://www.instagram.com/angelawhite/)
 - [OnlyFans](https://onlyfans.com/angelawhite)

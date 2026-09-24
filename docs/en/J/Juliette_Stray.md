@@ -13,21 +13,21 @@ tags:
 ## Summary
 
 - **Name**: Juliette Stray
-- **Alias**Candi Bimbo Doll (statutory name)
+- **Alias**: Candi Bimbo Doll (legal name)
 - **Platform**: Twitter/X
-- **Born**: 4 June 1983, California, USA (IMDb)
-- **Active years**: 2009-present
-- **Number of works**: Uncounted (IAFC, certified September 2026)
-- **Occupation**: Transgender pornist, content creator
-- **Notes**: Call Juliette Stray as an adult film artist; reported in 2024 because of the court approval to change the legal name to Candi Bimba Doll
+- **Born**: 4 June 1983, California, United States (IMDb)
+- **Active years**: 2009 – to present
+- **Number of works**: Not counted (IAFD, verified September 2026)
+- **Occupation**: Transgender porn actress, content creator
+- **Notes**: Uses Juliette Stray as her adult-film stage name; received media coverage in 2024 after a court approved the legal-name change to Candi Bimbo Doll
 
 ## Details
 
-Juliette Stray is an American transsexual pornist and content creator. Public video sources indicate that she has been involved in adult video at least since 2009; her professional status has been using the title Juliette Stray, and the 2024 report also clearly states that she will not change the stage name for this change.
+Juliette Stray is an American transgender porn actress and content creator. Public screen sources indicate that she has been involved in adult productions since at least 2009. Her professional identity has continued to use the stage name Juliette Stray, and the 2024 report states that she would not change it following the legal-name change.
 
-In 2024, the First District Court of Appeal of California overturned the decision of the San Francisco High Court, approving her change of legal name to Candi Bimbo Doll. She indicated that the name was used mainly for personal identity expression and that it was still used professionally for Juliette Stray, who had been in the brand for many years.
+In 2024, the California Court of Appeal, First Appellate District, overturned the San Francisco Superior Court's decision and approved her legal-name change to Candi Bimbo Doll. She said the name primarily expresses her personal identity, while she would continue using Juliette Stray professionally because she had used that name for many years.
 
-Her public image is characterized by a highly feminine aesthetic and bimbofication and links to the audience via Twitter/X. With regard to the number of works, this document uses the IAFD personal page as the entry for verification, but does not extrapolate or add unconfirmed statistics to this editorial.
+Her public image is characterized by a highly feminine aesthetic and "bimbofication," and she connects with her audience through Twitter/X and adult content platforms. This entry uses her IAFD personal page as the verification source for her credits but does not extrapolate or add unconfirmed totals.
 
 ## References
 

@@ -12,17 +12,17 @@ tags:
 - **Name**: Cheyla Collins
 - **Alias**: No record
 - **Platform**: Not specified
-- **Born**: Unpublished
+- **Born**: Not disclosed
 - **Active years**: 2023 – 2024 (IMDb record)
-- **Number of works**: The information is not verified
-- **Occupation**: Sex actress
-- **Notes**: IMDb records its performance of the "Porn Box" series
+- **Number of works**: Not verified in publicly available sources
+- **Occupation**: Adult film actress
+- **Notes**: IMDb records her appearances in the *Porn Box* series
 
 ## Details
 
-Cheyla Collins is an adult actress who uses the title. The information available is less than publicly available and is not yet reliable enough to confirm their birth information, aliases, nationality or full professional experience, so the entry only includes what can be confirmed in the publicly available database.
+Cheyla Collins is an adult actress who performs under this stage name. Publicly available information is limited and not yet reliable enough to confirm her birth information, aliases, nationality, or complete professional history, so this entry includes only information confirmed in public databases.
 
-The IMDb's actor profile shows Cheyla Collins performing the adult television series " Port Box " in 2023-2024, with 4 albums on the page. In addition to the series, the number of its full works and other performance information will be supplemented by additional verifiable information.
+Collins's IMDb performer profile shows that she appeared in the adult television series *Porn Box* in 2023–2024, with four episode credits listed. Beyond this series, her complete credit total and other performance information will be supplemented when more verifiable information becomes available.
 
 ## References
 

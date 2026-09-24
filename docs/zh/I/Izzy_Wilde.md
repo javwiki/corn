@@ -34,13 +34,13 @@ tags:
 
 ## 详情
 
-Izzy Wilde（1996年11月1日－）是一名美国跨性别（trans woman）色情演员、模特及内容创作者，出生于美国。她于 2020 年（约 24 岁时）进入成人行业，以 Izzy Wilde 为艺名迅速在跨性别成人影片领域崭露头角。截至 2025 年，她在 IAFD 上拥有约 200 部作品记录。^[1]
+Izzy Wilde（1996年11月1日－）是一名美国跨性别（trans woman）色情演员、模特及内容创作者，出生于美国。她于 2020 年（约 24 岁时）进入成人行业，以 Izzy Wilde 为艺名迅速在跨性别成人影片领域崭露头角。截至 2025 年，她在 IAFD 上拥有约 200 部作品记录。
 
 职业生涯中，Izzy 与众多知名成人制片公司合作，包括 Grooby Productions、Evil Angel、TransAngels、Gender X Films、AdultTime、Devil's Film、Kink.com、Pornbox 及 ManyVids 等。她以在跨性别（TS）题材中的活跃表现而闻名，多次在群交场景中担任主导角色。
 
-Izzy 的表演获得了行业多项重要奖项的认可。她曾多次获得 AVN Awards 提名，包括 Best Trans Newcomer（2022）、Trans Performer of the Year（2023、2024、2025），并在 2024 年和 2025 年连续两届赢得 Best Trans Group Sex Scene 奖项。在 Transgender Erotica Awards（TEA）中，她于 2022 年和 2023 年连续获得 Fan Choice Award（粉丝选择奖）。此外，她在 2024 年 GayVN Awards 中凭借《Call Center Cocks (II)》赢得 Best Bi Sex Scene 奖项。^[1]
+Izzy 的表演获得了行业多项重要奖项的认可。她曾多次获得 AVN Awards 提名，包括 Best Trans Newcomer（2022）、Trans Performer of the Year（2023、2024、2025），并在 2024 年和 2025 年连续两届赢得 Best Trans Group Sex Scene 奖项。在 Transgender Erotica Awards（TEA）中，她于 2022 年和 2023 年连续获得 Fan Choice Award（粉丝选择奖）。此外，她在 2024 年 GayVN Awards 中凭借《Call Center Cocks (II)》赢得 Best Bi Sex Scene 奖项。
 
-2024 年 9 月，Izzy 接受了性别重置手术（bottom surgery）。2025 年 2 月 14 日（情人节），她以新名 Zoe Summers 举办了名为"Valentine's Day Pussy Reveal"的直播活动，在其个人网站 ZoeSummers.com 上公开庆祝自己完成转型。此后的作品以 Zoe Summers 名义发布。^[1]
+2024 年 9 月，Izzy 接受了性别重置手术（bottom surgery）。2025 年 2 月 14 日（情人节），她以新名 Zoe Summers 举办了名为"Valentine's Day Pussy Reveal"的直播活动，在其个人网站 ZoeSummers.com 上公开庆祝自己完成转型。此后的作品以 Zoe Summers 名义发布。
 
 ### 奖项与提名
 

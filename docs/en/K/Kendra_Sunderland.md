@@ -19,40 +19,40 @@ tags:
 - **Name**: Kendra Sunderland
 - **Alias**: Library Girl, KSLibraryGirl, Kendra Sutherland, Babyyygirl420
 - **Platform**: Instagram, OnlyFans, TikTok, YouTube, Twitch, Twitter/X
-- **Born**: Salem, Oregon, Oregon, United States, 16 June 1995
-- **The active years.**2014 - present
-- **Number of works**: 236 (Source: IAFD, July 2026)
-- **Occupation**: adult film actresses, models, webcam models, OnlyFans creators
-- **Nationality/ethnicity**: US / Caucasian White
+- **Born**: 16 June 1995, Salem, Oregon, United States
+- **Active years**: 2014 – to present
+- **Number of works**: 236 (source: IAFD, July 2026)
+- **Occupation**: Adult film actress, model, webcam model, OnlyFans creator
+- **Nationality/ethnicity**: United States / Caucasian White
 - **Height**: 5 feet 9 inches (1.75 m)
-- **Three Circles**37-25-35 inches ( chest-side-ass)
-- **Notes**: Famous of live webcasting at the University of Oregon Library in 2015, known as "Library Girl"
+- **Measurements**: 37–25–35 inches (bust–waist–hips)
+- **Notes**: Became known as "Library Girl" after livestreaming from the Oregon State University library in 2015
 
 ## Details
 
-Kendra Jane Sunderland, widely known as "Library Girl" (Library Girl), is the live broadcaster of an American porn actress, model and webcam. She was born on 16 June 1995 in Salem, Oregon. In 2014, she began live webcasting on MyFreeCams platform during her university, performing under the name Babyygirl420 and earning hundreds of dollars a day.
+Kendra Jane Sunderland, widely known as "Library Girl," is an American porn actress, model, and webcam performer. She was born in Salem, Oregon, on 16 June 1995. In 2014, while attending university, she began livestreaming on MyFreeCams under the name Babyyygirl420 and earning hundreds of dollars per day.
 
-In January 2015, Sandland conducted a bold webcam live at the University Library in Oregon, where she was naked and masturbated, and the video was subsequently uploaded to the Porthub by anonymous users and quickly red. The incident, which brought her national attention, also led to her being expelled from university, facing charges of public indecency and a fine of over $6,000. She finally admitted her guilt and paid a fine of $1,000. This event became one of the most marked viral transmissions in the history of the adult entertainment industry.
+In January 2015, Sunderland conducted a bold webcam performance in the Oregon State University library, where she appeared topless and masturbated. Anonymous users subsequently uploaded the video to Pornhub, where it spread rapidly. The incident brought her national attention and also resulted in her expulsion, public-indecency charges, and a proposed fine of more than \$6,000. She ultimately pleaded guilty and paid a \$1,000 fine. The incident became one of the adult entertainment industry's most notable viral events.
 
-Following the incident, Sandrand travelled to Los Angeles, California, to pursue adult entertainment. She was the winner of the "Nicest Tits" fan prize, designed by the singer Kanye West, which she won in the first Pornhub prize in 2018. She has also received several awards for important industries, including the 2016 XBIZ Cyberstar Award, the 2017 and 2018 AVN Best Sex scene awards, the 2024 XBIZ Best Sex scene award and the 2025 XIMA Best Sex scene award. She had a contract with Vixen Media Group (who became freelance after the expiration of the 2023 contract) and owned a large number of works for prominent adult production companies such as Brazzers, Naughty America, Blaked, and Tushy.
+After the incident, Sunderland moved to Los Angeles, California, to pursue adult entertainment. She became widely known after winning the fan-voted "Nicest Tits" award at the inaugural Pornhub Awards in 2018; the award's merchandise hoodie was designed by the singer Kanye West. She has also received several major industry honors, including the 2016 XBIZ Cyber Star Award, AVN Best Sex Scene awards in 2017 and 2018, the 2024 XBIZ Best Sex Scene award, and the 2025 XMA Best Sex Scene award. She was contracted to Vixen Media Group and became a freelance performer after her contract expired in 2023. She has numerous credits with prominent adult companies such as Brazzers, Naughty America, Blacked, and Tushy.
 
-In addition to adult films, Sandrand was filmed for Penthous, rated as "Penthouse Pete of the Month" in May 2015, and posted on Playboy. She also launched a sex toy series named "Kendra Sunderland Colletion", including products such as "Eager Beaver" and "Cutie Booty".
+In addition to adult films, Sunderland has appeared in *Penthouse*, was named Penthouse Pet of the Month in May 2015, and has appeared on Playboy. She also launched the sex-toy line "Kendra Sunderland Collection," including products such as "Eager Beaver" and "Cutie Booty."
 
-With regard to social media, Sandrand has a large number of fans on various platforms. As of 2026, she had about 965,000 fans in Instagram (had reached 2.2 million before it was banned for controversial posts), in TikTok about 177,000 fans, in YouTube about 182,000 subscribers and in Twitch about 132,000 fans. She regularly shares personal and career-related content in social media.
+On social media, Sunderland has a substantial following across several platforms. As of 2026, she had about 965,000 Instagram followers (having previously reached 2.2 million before the account was banned for controversial posts), about 177,000 TikTok followers, about 18,200 YouTube subscribers, and about 13,200 Twitch followers. She regularly shares personal and career-related content on social media.
 
 ### Main awards
 
-|Year|Awards|Category|Works|
+|Year|Awards|Category|Work|
 |------|------|------|------|
 | 2015 | NightMoves Award |Miss Congeniality| — |
 | 2016 | XBIZ Award |Web Star of the Year| — |
-| 2016 | NightMoves Award |Best online image (crowd selection)| — |
-| 2017 | AVN Award |Best sex scene with men (with Mick Blue)| Natural Beauties |
+| 2016 | NightMoves Award |Best Online Image (fan choice)| — |
+| 2017 | AVN Award |Best Boy/Girl Sex Scene (with Mick Blue)| Natural Beauties |
 | 2017 | Vixen |Angel of the Year| — |
-| 2018 | AVN Award |Best three-person sex scene (with Jason Brown & Ricky Johnson)| Kendra's Obsession |
-| 2018 | Pornhub Award |The most beautiful breasts.| — |
-| 2024 | XBIZ Award |Best sex scene - Goonzu style| Take Me to Your Breeder |
-| 2025 | XMA Award |Best sex scene - small. Category| Negotiation |
+| 2018 | AVN Award |Best Threesome Sex Scene (with Jason Brown & Ricky Johnson)| Kendra's Obsession |
+| 2018 | Pornhub Awards |Most Beautiful Breasts (fan award)| — |
+| 2024 | XBIZ Award |Best Sex Scene – Gonzo style| Take Me to Your Breeder |
+| 2025 | XMA Award |Best Sex Scene – Small category| Negotiation |
 
 ## References
 

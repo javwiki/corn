@@ -25,20 +25,20 @@ tags:
 - **Alias**: asianhotwife
 - **Platform**: OnlyFans / Instagram / TikTok / Twitter/X / YouTube / Fansly / Twitch / ManyVids
 - **Born**: 1 December 1985, Hong Kong
-- **Active years**: 2023 – To date
-- **Number of works**: Unrecognized (IAFD query timed out)
-- **Occupation**Adult model, Hotwife, MILF, porn actress, content creator
-- **Notes**: real life swingers with hotwife, active in Reddit, X, Fetliffe social platforms
+- **Active years**: 2023 – to present
+- **Number of works**: Unconfirmed (the IAFD query timed out)
+- **Occupation**: Adult model, Hotwife, MILF porn actress, content creator
+- **Notes**: Swinger and hotwife in real life; active on Reddit, X, Fetlife, and other social platforms
 
 ## Details
 
-Monique Mae (also known as Asianhotwife), an Asian adult model, MILF porn actress and social media creator born on 1 December 1985, entered the adult entertainment industry in 2023 (about 37 years of age). She is known as "Hotwife" and "Swinger" and often displays the real life of a wife-to-wife exchange and multiple sexual relations on social media and adult platforms.
+Monique Mae, also known as asianhotwife, is an Asian adult model, MILF porn actress, and social media content creator born in Hong Kong on 1 December 1985. She entered the adult entertainment industry in 2023 at about 37. She is known for her "Hotwife" and "Swinger" identities and often shares experiences of wife swapping and group relationships on social media and adult platforms.
 
-In the area of social media, Monique Mae was active on X (formerly Twitter) under the name @Asianhotwife, calling himself The OG AsianHotwife, with about 141,000 fans. She has about 57,000 fans in Instagram (@asianhotwifettv). She is also active in social platforms such as Reddit and Fetliffe, where she interacts with men, couples and women to share her lifestyle and content.
+On social media, Monique Mae is active on X (formerly Twitter) as @Asianhotwife_ and calls herself "The OG AsianHotwife." She has about 141,000 followers there and about 57,000 Instagram followers (@asianhotwifettv). She is also active on Reddit and Fetlife, interacting with men, couples, and women to share her lifestyle and content.
 
-In addition to social media, Monique Mae maintains accounts on various fee-paying content platforms, including OnlyFans (@asianhotwife), Fansly (@asianhotwife) and ManyVids (@asianhotwife), providing exclusive video and photo content to fans through subscriptions. She also has a live channel in Twich (AsianHotwife), and YouTube is @AsianHotwifeTV.
+Monique Mae also maintains accounts on paid-content platforms, including OnlyFans (@asianhotwife), Fansly (@asianhotwife), and ManyVids (@asianhotwife), providing exclusive video and photo content to subscribers. She has a Twitch channel (AsianHotwife) and a YouTube channel at @AsianHotwifeTTV.
 
-According to Boobpedia, Monique Mae is approximately 5 feet tall (approximately 152-154 cm) and weighs approximately 115 pounds (approximately 52 kg), and has an average body size of 36D bras of natural origin.
+According to Boobpedia, Monique Mae is approximately 5 feet tall (152–154 cm), weighs about 115 lb (52 kg), and has an average build with natural 36D breasts.
 
 ## References
 

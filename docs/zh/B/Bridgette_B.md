@@ -38,4 +38,4 @@ Bridgette B 是出生于西班牙巴塞罗那的美国色情女演员，现定�
 - [XVIDEOS 艺人主页](https://www.xvideos.com/pornstars/bridgette-b)
 - [Pornhub 艺人主页](https://www.pornhub.com/pornstar/bridgette-b)
 - [Twitch 频道](https://www.twitch.tv/bridgetteb)
-- [官方网站 / OnlyFans](http://itsbridgetteb.com/)
+- [官方网站 / OnlyFans](https://itsbridgetteb.com/)
