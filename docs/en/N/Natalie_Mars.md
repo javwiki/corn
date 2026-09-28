@@ -24,7 +24,7 @@ tags:
 - **Born**: 3 February 1984, Little Rock, Arkansas, United States
 - **Active years**: 2015–2025
 - **Number of works**: 729 (IAFD performer credits); 2 (directing credits)
-- **Occupation**: Transgender porn actress, director, content creator
+- **Occupation**: Transgender adult film actress, director, content creator
 - **Height**: 5 feet 6 inches (168 cm)
 - **Weight**: 134 lb (61 kg)
 - **Measurements**: 34A-28-37
@@ -34,7 +34,7 @@ tags:
 
 ## Details
 
-Natalie Mars, born 3 February 1984, is an American transgender porn actress, director, and content creator from Little Rock, Arkansas. She entered the industry at about 31 in 2015 and quickly became one of the most recognizable performers in the transgender adult industry through her bold performance style.
+Natalie Mars, born 3 February 1984, is an American transgender adult film actress, director, and content creator from Little Rock, Arkansas. She entered the industry at about 31 in 2015 and quickly became one of the most recognizable performers in the transgender adult industry through her bold performance style.
 
 Mars achieved several career "firsts." In 2019, she became the first transgender performer to appear in a Japanese Milky Cat production, *FB-26 Bukkake T-Girl Natalie Mars*, working with 46 men. In 2020, she became the first transgender performer in a Giorgio Grandi Legal Porno production, *BTG001 Busted T-Girls*, working with five men and completing three anal-sex sequences ("triple anal"); it later became one of the site's most popular titles.
 

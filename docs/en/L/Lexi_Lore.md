@@ -33,7 +33,7 @@ tags:
 - **Active years**: 2017 – to present (entered at about 18; active for nine years)
 - **Number of works**: 574 (IAFD performer credits as of July 2026)
 - **Covers/photo sets**: 608 covers + 47 photo sets + 561 videos
-- **Occupation**: Adult model, camgirl, influencer, porn actress, YouTuber, TikTok star
+- **Occupation**: Adult model, camgirl, influencer, adult film actress, YouTuber, TikTok star
 - **Personal website**: [thelexilore.com](https://thelexilore.com)
 - **Notes**: Blonde with brown eyes; globe tattoo on left arm, sunflower tattoo on left shoulder blade, and piercings in the right nostril, nipples, and navel
 
@@ -55,7 +55,7 @@ tags:
 
 ## Career
 
-Lexi Lore, born Katelyne Marie Aslett, is an American porn actress, YouTuber, and social media influencer from Richmond, Virginia. She entered the industry in 2017 at about 18. She is known for her "girl next door with braces" image (she wore orthodontic braces in early work), blonde hair and brown eyes, natural 34C breasts, and work spanning anal sex, double penetration, and ass-to-mouth oral sex.
+Lexi Lore, born Katelyne Marie Aslett, is an American adult film actress, YouTuber, and social media influencer from Richmond, Virginia. She entered the industry in 2017 at about 18. She is known for her "girl next door with braces" image (she wore orthodontic braces in early work), blonde hair and brown eyes, natural 34C breasts, and work spanning anal sex, double penetration, and ass-to-mouth oral sex.
 
 Reality Kings said, "don't be fooled by this cute, blonde teen's innocent face and braces," while Nubiles described her as someone who "hates following the rules." She married in December 2020.
 

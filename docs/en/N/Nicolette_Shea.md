@@ -21,12 +21,12 @@ tags:
 - **Born**: 18 November 1986, Las Vegas, Nevada, United States
 - **Active years**: 2011 – to present
 - **Number of works**: 241 (source: IAFD)
-- **Occupation**: Adult model, dancer, webcam model, MILF porn actress, former Playboy Playmate
+- **Occupation**: Adult model, dancer, webcam model, MILF adult film actress, former Playboy Playmate
 - **Notes**: 57th Playboy Cybergirl of the Month (October 2011); Yugoslav, French, and Irish heritage
 
 ## Details
 
-Nicolette Shea is an American porn actress, adult model, and webcam model from Las Vegas. She is 5 feet 10 inches (177 cm) tall and is known for her naturally red-blonde hair, green eyes, and full 36F figure. Her career began outside adult entertainment: she worked as a blackjack dealer in a casino before being discovered by Playboy in 2011 and named Playboy Cybergirl of the Week (June 2011) and Cybergirl of the Month (October 2011).
+Nicolette Shea is an American adult film actress, adult model, and webcam model from Las Vegas. She is 5 feet 10 inches (177 cm) tall and is known for her naturally red-blonde hair, green eyes, and full 36F figure. Her career began outside adult entertainment: she worked as a blackjack dealer in a casino before being discovered by Playboy in 2011 and named Playboy Cybergirl of the Week (June 2011) and Cybergirl of the Month (October 2011).
 
 She subsequently worked with leading adult companies including Brazzers, Digital Playground, Reality Kings, and Twistys, appearing in 241 films. She is known for MILF and mature-woman roles and is one of the industry's best-known blonde, big-breasted performers. She also runs a personal subscription channel on OnlyFans.
 

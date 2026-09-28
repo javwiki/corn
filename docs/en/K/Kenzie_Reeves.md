@@ -32,7 +32,7 @@ tags:
 - **Sexual orientation**: Bisexual
 - **Active years**: 2017 – to present (entered at about 19; active for nine years)
 - **Number of works**: 748 (IAFD performer credits as of June 2026)
-- **Occupation**: Adult model, former stripper, influencer, porn actress
+- **Occupation**: Adult model, former stripper, influencer, adult film actress
 
 ## Physical characteristics
 
@@ -52,7 +52,7 @@ tags:
 
 ## Career
 
-Kenzie Reeves, born Madison Jordan Desautels, is an American porn actress and model from Concord, New Hampshire. She entered the industry in 2017 at about 19 and has 748 performer credits on IAFD, making her one of the industry's most prolific and recognizable petite performers.
+Kenzie Reeves, born Madison Jordan Desautels, is an American adult film actress and model from Concord, New Hampshire. She entered the industry in 2017 at about 19 and has 748 performer credits on IAFD, making her one of the industry's most prolific and recognizable petite performers.
 
 She is known for her 4'10" (147 cm) frame, 90-pound weight, blonde hair and hazel eyes, ballerina-like flexibility, and extreme performances involving anal sex, fisting, and taboo themes. Fans call her the "little duck machine" and often compare her with Piper Perri, Lexi Lore, and Molly Little.
 

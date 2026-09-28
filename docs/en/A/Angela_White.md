@@ -22,7 +22,7 @@ tags:
 
 ## Details
 
-Angela Gabrielle White is a female adult film actress and director from Sydney, Australia, widely regarded as one of the industry's most prominent and influential performers. She began her career while still in high school in 2003, with the Score Group filming her first scene after her 18th birthday. In 2007, she played Ruby in the fifth season of the Australian television comedy *Pizza*, demonstrating her talent in mainstream acting. Her first hardcore adult film was released in 2011.
+Angela Gabrielle White is an adult film actress and director from Sydney, Australia, widely regarded as one of the industry's most prominent and influential performers. She began her career while still in high school in 2003, with the Score Group filming her first scene after her 18th birthday. In 2007, she played Ruby in the fifth season of the Australian television comedy *Pizza*, demonstrating her talent in mainstream acting. Her first hardcore adult film was released in 2011.
 
 White graduated from the University of Melbourne in 2010 with a first-class honours degree in gender studies. She studied the experiences of female performers in the Australian adult industry, and her honours thesis, *The Porn Performer: The Radical Potential of Pleasure in Pornography*, was published in *The Routledge Companion to Media, Sex and Sexuality* in 2017. She said she hoped to undertake a doctorate to expand her research to a wider range of performers. In October 2014, she signed a distribution agreement with Girlfriends Films. That same month, Fleshlight announced her as its newest "Fleshlight Girl," making her the first Australian to receive the title.
 

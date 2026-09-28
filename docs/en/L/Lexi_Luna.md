@@ -25,7 +25,7 @@ tags:
 
 ## Details
 
-Lexi Luna is an American porn actress known for MILF roles and called "The Gentleman's Porn Star" by fans. She entered the adult film industry in 2016 after working as a primary-school teacher for five years. Luna said the low pay and social isolation of teaching led her to explore sexuality and relationships through online communities such as FetLife, where she was eventually discovered by adult companies.
+Lexi Luna is an American adult film actress known for MILF roles and called "The Gentleman's Porn Star" by fans. She entered the adult film industry in 2016 after working as a primary-school teacher for five years. Luna said the low pay and social isolation of teaching led her to explore sexuality and relationships through online communities such as FetLife, where she was eventually discovered by adult companies.
 
 After entering the industry, Luna developed a highly recognizable screen persona: a confident, proactive, self-assured mature woman. She is known for playing "step-mom" and other roles and usually directs the pace of a scene. Her work on Pornhub has received more than 411 million views. In addition to traditional films, she offered customized video services through OnlyFans, reportedly costing as much as \$100 per minute. During the 2023 Hawaii wildfires, she held a charity show at CamSoda to raise money for victims.
 

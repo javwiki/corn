@@ -25,7 +25,7 @@ tags:
 
 ## Details
 
-Lauren Phillips is an American porn actress, director, and specialty dancer born and raised in Atlantic City, New Jersey. She graduated from Rutgers University with a dance degree and worked as a dancer, nanny, and webcam performer before entering the adult industry.
+Lauren Phillips is an American adult film actress, director, and specialty dancer born and raised in Atlantic City, New Jersey. She graduated from Rutgers University with a dance degree and worked as a dancer, nanny, and webcam performer before entering the adult industry.
 
 She began filming adult films in 2013, first working with Reality Kings and later with companies including Evil Angel, Hustler, Wicked Pictures, Brazzers, Kink.com, Girlsway, and Naughty America. She also operates personal websites and subscription platforms for fans and participates in the *Inside the Industry* radio program.
 

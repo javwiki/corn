@@ -26,12 +26,12 @@ tags:
 - **Born**: 7 April 1997, Amsterdam, Netherlands
 - **Active years**: 2018 – to present
 - **Number of works**: 44 (IAFD) / 30+ (XXXBios)
-- **Occupation**: Adult model, porn actress, webcam model, content creator
+- **Occupation**: Adult model, adult film actress, webcam model, content creator
 - **Notes**: Nominated for "Female Cam Model of the Year" at the 2019 XBIZ Europa Awards and for "Best New Foreign Starlet" and "Hottest Newcomer (Fan Award)" at the 2021 AVN Awards; of Russian and Korean heritage
 
 ## Details
 
-Ellie Leen, born 7 April 1997, is a Dutch adult model, porn actress, and content creator from Amsterdam. She is of Russian and Korean heritage and is known for her petite but toned figure (165 cm tall; measurements 36-24-36; 36B breasts) and natural beauty.
+Ellie Leen, born 7 April 1997, is a Dutch adult model, adult film actress, and content creator from Amsterdam. She is of Russian and Korean heritage and is known for her petite but toned figure (165 cm tall; measurements 36-24-36; 36B breasts) and natural beauty.
 
 Ellie first entered adult entertainment as a webcam model and was active on Chaturbate under the account ellieleen. After rapidly building an audience, she formally debuted in early 2019 with Vixen and filmed her first production, *Without Even Trying*, with Christian Clay. She then appeared with Jia Lissa and Christian Clay in the threesome scene *A Time And A Place*.
 

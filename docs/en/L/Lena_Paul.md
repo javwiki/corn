@@ -26,7 +26,7 @@ tags:
 
 ## Details
 
-Lena Paul, born Pauline Elizabeth Gibson, is an American porn actress and model who debuted in adult films under the alias "Lena Peach" in 2016. She was born in DeLand, Florida, and attended the University of Louisville, where she studied Latin America and worked on sustainable-agriculture entrepreneurship in Central America before entering the adult industry.
+Lena Paul, born Pauline Elizabeth Gibson, is an American adult film actress and model who debuted in adult films under the alias "Lena Peach" in 2016. She was born in DeLand, Florida, and attended the University of Louisville, where she studied Latin America and worked on sustainable-agriculture entrepreneurship in Central America before entering the adult industry.
 
 Paul first entered the stripper industry as a webcam model, was discovered, and made her hardcore film debut in April 2016. She quickly became known for her natural 32DDD breasts and approachable girl-next-door image, working with mainstream producers including Reality Kings, Mofos, Brazzers, Naughty America, Evil Angel, Blacked, Tushy, and Digital Playground. She has appeared in more than 700 films and is especially known for lesbian scenes, anal sex, and double-penetration scenes. Fans often cite *Women Seeking Women 140* and *Anal Acrobatics* as representative titles.
 

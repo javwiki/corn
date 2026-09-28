@@ -19,12 +19,12 @@ tags:
 - **Born**: 5 July 2000, Montana, United States
 - **Active years**: 2020 – to present
 - **Number of works**: 280+ (IAFD)
-- **Occupation**: Transgender porn actress, glamour model, camgirl
+- **Occupation**: Transgender adult film actress, glamour model, camgirl
 - **Notes**: 2022 AVN Best Trans Newcomer; 2023/2025 AVN Best Trans Sex Scene; 2025 AVN Best Trans Group Sex Scene; 2025/2026 XMA Best Trans Sex Scene
 
 ## Details
 
-Jade Venus, born 5 July 2000, is an American transgender porn actress, glamour model, and camgirl from Montana. She began transitioning at 14 in February 2015, when she used the name Casey Campanian, and later described herself as a transgender activist. After experiencing bullying at school in Havre, she transferred to Hellgate High School in Missoula and graduated in 2018.
+Jade Venus, born 5 July 2000, is an American transgender adult film actress, glamour model, and camgirl from Montana. She began transitioning at 14 in February 2015, when she used the name Casey Campanian, and later described herself as a transgender activist. After experiencing bullying at school in Havre, she transferred to Hellgate High School in Missoula and graduated in 2018.
 
 She entered the adult industry at the end of 2020 at age 20 and has since worked with Gender X, Devil's Film, Transsensual, Evil Angel, AdultTime, Trans Angels, Brazzers, Girlsway, Mile High, and Kink.com. She has more than 280 credits.
 

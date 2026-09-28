@@ -26,7 +26,7 @@ tags:
 
 ## Details
 
-Nicole Doshi is a Chinese American/Asian porn actress and model active in adult entertainment since 2021. IAFD lists 468 works, making her one of the most prolific and popular Asian performers in the industry.
+Nicole Doshi is a Chinese American/Asian adult film actress and model active in adult entertainment since 2021. IAFD lists 468 works, making her one of the most prolific and popular Asian performers in the industry.
 
 She has appeared in work from numerous prominent studios, including Jules Jordan (*Analyzed Asian Nicole Doshi* and *Big Cock Connoisseur Nicole Doshi*), Kinky Spa, Evil Angel, Amateur Allure, ManyVids, BANG, Spizoo, VR Bangers, Vixen, and Devil's Film. She is known for her Asian features, full figure, and active participation in DP, squirting, and BBC interracial themes. She also operates her personal OnlyFans account.
 

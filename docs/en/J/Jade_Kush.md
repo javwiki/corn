@@ -21,7 +21,7 @@ tags:
 - **Born**: 27 September 1998, Guangzhou, Guangdong Province, China
 - **Active years**: 2017 – to present
 - **Number of works**: 262 (source: IAFD, as of July 2026)
-- **Occupation**: Adult model, porn actress
+- **Occupation**: Adult model, adult film actress
 - **Nationality**: China / United States (dual citizenship)
 - **Ethnicity**: Asian
 - **Body data**: Height 5'1" (154 cm), weight 105 lb (48 kg), measurements 32-24-34, 32DD cup (natural)
@@ -29,7 +29,7 @@ tags:
 
 ## Details
 
-Jade Kush is a Chinese American porn actress and adult model who entered the adult entertainment industry at 18 in 2017. She is known for her naturally voluptuous figure—a slim body with natural 32DD breasts—and is highly recognizable in the industry. Her early work focuses on Asian themes and the "hotwife" genre, and she has worked with leading studios including Blacked, Brazzers, Vixen, Elegant Angel, Team Skeet, Slayed, Naughty America, New Sensations, and Devil's Film.
+Jade Kush is a Chinese American adult film actress and adult model who entered the adult entertainment industry at 18 in 2017. She is known for her naturally voluptuous figure—a slim body with natural 32DD breasts—and is highly recognizable in the industry. Her early work focuses on Asian themes and the "hotwife" genre, and she has worked with leading studios including Blacked, Brazzers, Vixen, Elegant Angel, Team Skeet, Slayed, Naughty America, New Sensations, and Devil's Film.
 
 Jade Kush was born in Guangzhou, China, grew up in Connecticut, later considered Chicago her hometown, and now lives in Los Angeles. She is very active on social media, with about 194,000 Instagram followers (@justqueenjade) and 143,000 Twitter/X followers (@JadeKushXIII). She publishes paid content through OnlyFans (kushqueenj) and uses Linktree (linktr.ee/kushqueenjade). She also livestreams on Twitch (kushqueenjade) to interact with fans.
 

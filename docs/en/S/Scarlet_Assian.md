@@ -20,13 +20,13 @@ tags:
 - **Platform**: Instagram, Twitter/X, Fansly, OnlyFans, Linktree
 - **Born**: 1994, Jakarta, Indonesia
 - **Active years**: 2022 – to present
-- **Occupation**: Adult model, glamour model, porn actress
+- **Occupation**: Adult model, glamour model, adult film actress
 - **Ethnicity**: Asian
 - **Notes**: Debuted in 2022 at about 27; an Indonesian performer active in recent years
 
 ## Details
 
-Scarlet Assian is an Indonesian adult model and porn actress born in Jakarta in 1994. She formally entered adult entertainment in 2022 at about 27. She is known for her petite 4 feet 11 inches (about 149 cm) frame, full curves, measurements of 34-24-35, 34D augmented breasts, weight of about 118 lb (54 kg), and slim build.
+Scarlet Assian is an Indonesian adult model and adult film actress born in Jakarta in 1994. She formally entered adult entertainment in 2022 at about 27. She is known for her petite 4 feet 11 inches (about 149 cm) frame, full curves, measurements of 34-24-35, 34D augmented breasts, weight of about 118 lb (54 kg), and slim build.
 
 She has appeared for several prominent adult magazines and brands, including the Indonesian magazine *Putri Cinta*, the adult site Raw Erotic, and publications under StasyQ, completing ten cover shoots and ten photo sets. She also runs her own paid website, scarletassianxo.
 

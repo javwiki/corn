@@ -23,7 +23,7 @@ tags:
 - **Born**: 6 June 1987, Denver, Colorado, United States
 - **Active years**: 2014 – 2025
 - **Number of works**: 105 (source: IAFD, as of 2025)
-- **Occupation**: Transgender porn actress, adult model
+- **Occupation**: Transgender adult film actress, adult model
 - **Nationality**: United States
 - **Ethnicity**: Caucasian
 - **Body data**: Height 5'7" (170 cm), weight 125 lb (57 kg), measurements 38D-28-38, shoe size US 10
@@ -35,7 +35,7 @@ tags:
 
 ## Details
 
-Janelle Fennec is an American transgender porn actress and adult model from Denver, Colorado. She entered adult entertainment at about 27 in 2014 and worked primarily in transgender adult films. Her career spans 2014–2025 and includes work with well-known studios such as Grooby Productions, Evil Angel, TransAngels, Transational Fantasies, TransErotica, Gender X Films, Devil's Film, TwoTgirls, VRBangers, Pure Play Media, CX WOW, Mile High, Transsensual, VIP Digital Media, Exile Distribution, Exquisite, Pulse Distribution, AdultTime, Trans Glamour, ManyVids, TSPOV, Trans500, Pure-TS, and Creation of Adam.
+Janelle Fennec is an American transgender adult film actress and adult model from Denver, Colorado. She entered adult entertainment at about 27 in 2014 and worked primarily in transgender adult films. Her career spans 2014–2025 and includes work with well-known studios such as Grooby Productions, Evil Angel, TransAngels, Transational Fantasies, TransErotica, Gender X Films, Devil's Film, TwoTgirls, VRBangers, Pure Play Media, CX WOW, Mile High, Transsensual, VIP Digital Media, Exile Distribution, Exquisite, Pulse Distribution, AdultTime, Trans Glamour, ManyVids, TSPOV, Trans500, Pure-TS, and Creation of Adam.
 
 She primarily plays Bottom roles but also appears in Top and Solo scenes. Her work includes VR, anal sex, facial, creampie, A2M, and other genres.
 

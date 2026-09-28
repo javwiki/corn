@@ -22,7 +22,7 @@ tags:
 
 ## Details
 
-Autumn Falls is an American porn actress and adult model active in adult entertainment since 2018. IAFD lists 258 works, making her one of the industry's more prolific and popular performers.
+Autumn Falls is an American adult film actress and adult model active in adult entertainment since 2018. IAFD lists 258 works, making her one of the industry's more prolific and popular performers.
 
 She has appeared in work from numerous well-known studios, including Jules Jordan (*Made The Naughty List*, *First Anal*), Elegant Angel, Naughty America, BANG, Evil Angel, ManyVids, MrLuckyPOV, Amateur Allure, and Penthouse Gold. She is known in the industry for her natural, full breasts and youthful appearance, and often appears in "Busty Teen" productions.
 

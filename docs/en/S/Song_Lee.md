@@ -19,7 +19,7 @@ tags:
 - **Platform**: OnlyFans / Instagram / Twitter/X / TikTok
 - **Born**: 7 August 1991, Las Vegas, Nevada, United States
 - **Active years**: 2019 – to present
-- **Occupation**: Adult model, porn actress
+- **Occupation**: Adult model, adult film actress
 - **Nationality/ethnicity**: United States / Korean (Asian)
 - **Notes**: Her X (Twitter) bio calls her a "former porn star" and says she currently uses an OnlyFans paid subscription as her main platform
 - **Physical characteristics**: Height 5'1" (154 cm), weight 135 lb (61 kg), measurements 36-30-37, 36D natural breasts, black hair, brown eyes

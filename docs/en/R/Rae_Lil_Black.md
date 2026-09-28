@@ -24,12 +24,12 @@ tags:
 - **Born**: 17 August 1996, Osaka, Japan
 - **Active years**: 2017/2018–2025 (adult industry); transitioned out of the adult industry in 2025
 - **Number of works**: 116 (IAFD)
-- **Occupation**: Former porn actress, influencer, YouTuber, ASMR/mukbang content creator
+- **Occupation**: Former adult film actress, influencer, YouTuber, ASMR/mukbang content creator
 - **Notes**: Left the adult industry and continues creating gaming, vlog, ASMR, and mukbang content
 
 ## Details
 
-Rae Lil Black, born 17 August 1996, is a Japanese former porn actress, influencer, and content creator from Osaka. She debuted at about 20 under the stage name Lil Rae Black. Her first hardcore title was released on Pornhub in 2018 and received millions of views in its first week. She received two Pornhub Awards nominations in 2019, as well as nominations from XBIZ Awards and AVN Awards. In 2021, AVN ranked her among Pornhub's top 30 most popular female models; she rose to 18th in 2022. Nutaku's turn-based RPG *Heavy Metal Babes* (2020) also featured her as a playable character.
+Rae Lil Black, born 17 August 1996, is a Japanese former adult film actress, influencer, and content creator from Osaka. She debuted at about 20 under the stage name Lil Rae Black. Her first hardcore title was released on Pornhub in 2018 and received millions of views in its first week. She received two Pornhub Award nominations in 2019, as well as nominations from XBIZ Awards and AVN Awards. In 2021, AVN ranked her among Pornhub's top 30 most popular female models; she rose to 18th in 2022. Nutaku's turn-based RPG *Heavy Metal Babes* (2020) also featured her as a playable character.
 
 From 2020 to 2024, she appeared in eight Vixen Media Group films. She opened her own OnlyFans account and appeared on the cover of *Richardson*, issue 25.
 

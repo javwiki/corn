@@ -18,12 +18,12 @@ tags:
 - **Born**: 4 June 1983, California, United States (IMDb)
 - **Active years**: 2009 – to present
 - **Number of works**: Not counted (IAFD, verified September 2026)
-- **Occupation**: Transgender porn actress, content creator
+- **Occupation**: Transgender adult film actress, content creator
 - **Notes**: Uses Juliette Stray as her adult-film stage name; received media coverage in 2024 after a court approved the legal-name change to Candi Bimbo Doll
 
 ## Details
 
-Juliette Stray is an American transgender porn actress and content creator. Public screen sources indicate that she has been involved in adult productions since at least 2009. Her professional identity has continued to use the stage name Juliette Stray, and the 2024 report states that she would not change it following the legal-name change.
+Juliette Stray is an American transgender adult film actress and content creator. Public screen sources indicate that she has been involved in adult productions since at least 2009. Her professional identity has continued to use the stage name Juliette Stray, and the 2024 report states that she would not change it following the legal-name change.
 
 In 2024, the California Court of Appeal, First Appellate District, overturned the San Francisco Superior Court's decision and approved her legal-name change to Candi Bimbo Doll. She said the name primarily expresses her personal identity, while she would continue using Juliette Stray professionally because she had used that name for many years.
 

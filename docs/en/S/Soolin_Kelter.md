@@ -23,7 +23,7 @@ tags:
 
 ## Details
 
-Soolin Kelter, also known as Devin Lee, Jessica Kelter, Soolin Keher, and Tianna Soo, is a Korean/Asian porn actress and model who was active from 2006 to 2008. IAFD lists 28 works for her.
+Soolin Kelter, also known as Devin Lee, Jessica Kelter, Soolin Keher, and Tianna Soo, is a Korean/Asian adult film actress and model who was active from 2006 to 2008. IAFD lists 28 works for her.
 
 She appeared in Naughty America's *Asian 1 On 1* series (No. 786) and in Kink.com's *Whipped Ass* (No. 4148, with Harmony). She also performed for several other studios, including Bangbros. She was among the Asian performers active on mainstream platforms in that early period.
 

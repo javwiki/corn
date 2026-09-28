@@ -24,7 +24,7 @@ tags:
 
 ## Details
 
-Lucy Lee is a Czech/European porn actress. IAFD lists two performers with the same name, both Czech, who were active between 2002 and 2014 and have more than 650 credits combined.
+Lucy Lee is a Czech/European adult film actress. IAFD lists two performers with the same name, both Czech, who were active between 2002 and 2014 and have more than 650 credits combined.
 
 Their principal studios include Naughty America (*Asian 1 On 1*, *My Sister's Hot Friend*, and *Naughty Office*), Kink.com (*Men in Pain* and *Ultimate Surrender*), PinkVisual, Private, DDF Network, and BANG. Early work focused on Asian-themed series, including portraying Asian women with black hair, before becoming more diverse. The other Lucy Lee also appeared in productions from European studios such as Pixandvideo, Dorcel Club, and 21Sextury Network.
 

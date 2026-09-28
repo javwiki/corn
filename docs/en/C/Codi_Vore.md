@@ -26,7 +26,7 @@ tags:
 
 ## Details
 
-Codi Vore is an American porn actress and model active in adult entertainment since 2016. IAFD lists 175 works. She is a contracted performer with The Score Group and has appeared repeatedly in the group's "Score POV" and "Score XXX" series.
+Codi Vore is an American adult film actress and model active in adult entertainment since 2016. IAFD lists 175 works. She is a contracted performer with The Score Group and has appeared repeatedly in the group's "Score POV" and "Score XXX" series.
 
 She has appeared in productions including *Codi Vore's First SCORE XXX* (2018), *Codi Vore: Once Upon A Time In The Breast* (2022), and *Codi Vore: Score P.o.v. Big Boob Sex* (2023). Her work also spans platforms including ManyVids, AdultTime.com, Pure Taboo, and Dogfart Network. She is known for her full natural breasts and lively on-screen presence.
 

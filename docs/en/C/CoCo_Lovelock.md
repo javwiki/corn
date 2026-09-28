@@ -30,7 +30,7 @@ tags:
 - **Active years**: 2019 – to present (entered at about 20; active for seven years)
 - **Number of works**: 429 (IAFD performer credits as of June 2026)
 - **Covers/photo sets**: 384 covers + 22 photo sets + 362 videos
-- **Occupation**: Adult model, influencer, porn actress
+- **Occupation**: Adult model, influencer, adult film actress
 - **Homepage**: [thecocolovelock.com](https://thecocolovelock.com/)
 
 ## Physical characteristics
@@ -50,7 +50,7 @@ tags:
 
 ## Career
 
-CoCo Lovelock, born Corina Marie Skeirik, is an American porn actress and social media creator from the Las Vegas area. She entered the industry in 2019 at about 20 and has 429 performer credits on IAFD and more than 429 film entries, making her one of the industry's most prolific performers.
+CoCo Lovelock, born Corina Marie Skeirik, is an American adult film actress and social media creator from the Las Vegas area. She entered the industry in 2019 at about 20 and has 429 performer credits on IAFD and more than 429 film entries, making her one of the industry's most prolific performers.
 
 She is known for her petite 4'10" frame and blonde, blue-eyed "girl next door" image. She is particularly recognized for Pure Taboo's taboo incest themes, Blacked Raw/Exxxtra Small interracial productions, and Naughty America series. Her scenes include squirting, creampie, anal sex, facial, and group sex.
 

@@ -27,7 +27,7 @@ tags:
 
 ## Details
 
-Bridgette B is an American porn actress born in Barcelona, Spain, and now based in Barcelona. She formally entered the adult film industry in 2008 and underwent breast augmentation the following year (2009), increasing from a C cup to DDD (E). She quickly became known in the industry for her big-breasted blonde image and became one of the most popular performers in the BIG Tits / MILF category.
+Bridgette B is an American adult film actress born in Barcelona, Spain, and now based in Barcelona. She formally entered the adult film industry in 2008 and underwent breast augmentation the following year (2009), increasing from a C cup to DDD (E). She quickly became known in the industry for her big-breasted blonde image and became one of the most popular performers in the BIG Tits / MILF category.
 
 Her mainstream work has covered oral-anal sex, anal sex, lesbian scenes, and group sex. She has worked with well-known adult studios and websites including Brazzers, Bang Bros, Team Skeet, Reality Kings, Family Strokes, Digital Playground, Girls Way, Wicked Pictures, and Naughty America. On XVIDEOS, she has more than 760,000 subscribers and over 2.2 billion cumulative video views; on Pornhub, she has more than 315,000 subscribers and over 647 million views.
 

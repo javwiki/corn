@@ -35,7 +35,7 @@ tags:
 
 ## Details
 
-Elsa Jean, born Sapphire Nicole Howell on 1 September 1996, is an American porn actress, model, web content creator, and podcast host from North Canton, Ohio. She became widely known for her sweet, blonde image and was regarded by the industry as one of the most popular adult stars from the mid-2010s through the 2020s.
+Elsa Jean, born Sapphire Nicole Howell on 1 September 1996, is an American adult film actress, model, web content creator, and podcast host from North Canton, Ohio. She became widely known for her sweet, blonde image and was regarded by the industry as one of the most popular adult stars from the mid-2010s through the 2020s.
 
 Before entering the industry, Elsa worked in a grocery store and at Starbucks in Washington, D.C. She later adopted the nickname "Elsa," after the Disney princess, while working as a stripper. In June 2015, at about 18, she made her adult-film debut and appeared with companies including 3rd Degree, Evil Angel, Digital Sin, Blacked, and Airerose Entertainment, as well as websites such as Zefporn, Team Skeet, Ero Curves, and New Sensations. In April 2020, she underwent breast augmentation from A to C. In 2021, she paused performing for health reasons.
 
@@ -45,7 +45,7 @@ She has worked with prominent performers including Riley Reid, Vina Sky, Karlie 
 
 On social media, Elsa has **2.6 million** Instagram followers (@elsajeanofficial) and a large Twitter/X following (@elsajeanisme). She also operates accounts on TikTok (@elsajeanofficialx), OnlyFans (elsadreamjean), Fansly (elsajean), and YouTube (the Heartbreakers Podcast channel). She has remained highly active and was still listed as performing continuously on IAFD as of 2026.
 
-Elsa began directing in 2020, directing scenes in her own work. She is a **Fleshlight Girl** brand representative and won "Nicest Pussy" at the 2019 Pornhub Awards and "Masturbator of the Year" at the 2019 Spank Bank Awards. She has received numerous industry nominations, including AVN Awards nominations for "Female Performer of the Year" (2018, 2019, 2021, and 2022) and "Best New Starlet" (2017), as well as nominations and awards from organizations including XBIZ, XRCO, Spank Bank, and NightMoves.
+Elsa began directing in 2020, directing scenes in her own work. She is a **Fleshlight Girl** brand representative and won "Nicest Pussy" at the 2019 Pornhub Awards and "Masturbator of the Year" at the 2019 Spank Bank Awards. She has received numerous industry nominations, including AVN Award nominations for "Female Performer of the Year" (2018, 2019, 2021, and 2022) and "Best New Starlet" (2017), as well as nominations and awards from organizations including XBIZ, XRCO, Spank Bank, and NightMoves.
 
 **Selected honors**:
 - Twistys Treat Of The Month: November 2016

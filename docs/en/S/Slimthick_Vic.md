@@ -24,7 +24,7 @@ tags:
 
 ## Details
 
-Slimthick Vic, whose artist name is Vic Marie, is an American porn actress, adult model, and social media influencer born in Russia who is now mainly active in Miami, Florida. She entered adult entertainment in 2021 at about 29. Her first work was filmed at Film Studio 'R, after which she quickly became a regular performer for companies including Brazzers, Blacked, Tushy, Deeper, Naughty America, Reality Kings, and Jules Jordan.
+Slimthick Vic, whose artist name is Vic Marie, is an American adult film actress, adult model, and social media influencer born in Russia who is now mainly active in Miami, Florida. She entered adult entertainment in 2021 at about 29. Her first work was filmed at Film Studio 'R, after which she quickly became a regular performer for companies including Brazzers, Blacked, Tushy, Deeper, Naughty America, Reality Kings, and Jules Jordan.
 
 Before entering the adult industry, she worked as a hairdresser and personal trainer and later performed nude modeling and stripping through OnlyFans. She said that a YouTube video by Holly Randall introduced her to prominent agent Spiegler and led her to try the industry.
 

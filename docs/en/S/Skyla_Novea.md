@@ -33,7 +33,7 @@ tags:
 
 ## Details
 
-Skyla Novea is an American porn actress and adult model from Miami, Florida. She debuted under the alias Ginger Elle and later became widely known as Skyla Novea. She entered the adult industry in 2013 at about 19 and quickly became an industry figure known for her full bust (34DD after surgery) and curvy figure. She worked with leading studios including Brazzers, Blacked, Blacked Raw, Tushy, Naughty America, Mofos, Reality Kings, Elegant Angel, Cherry Pimps, and Team Skeet.
+Skyla Novea is an American adult film actress and adult model from Miami, Florida. She debuted under the alias Ginger Elle and later became widely known as Skyla Novea. She entered the adult industry in 2013 at about 19 and quickly became an industry figure known for her full bust (34DD after surgery) and curvy figure. She worked with leading studios including Brazzers, Blacked, Blacked Raw, Tushy, Naughty America, Mofos, Reality Kings, Elegant Angel, Cherry Pimps, and Team Skeet.
 
 Skyla Novea received several industry award nominations. In 2018, she received an AVN Best Threesome (B/B/G) nomination for *Bombshell Skyla Novea*; in 2019, she received an AVN Best Double Penetration (DP) Scene nomination for *It's A Family Thing 2*. She was also nominated several times by Spank Bank Awards and won "The Next Porn Mega Star" in 2018. Her highest Babepedia ranking was 1,154th, with a score of 8.64/10 and more than 400 votes.
 

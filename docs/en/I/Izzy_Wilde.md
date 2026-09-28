@@ -21,7 +21,7 @@ tags:
 - **Born**: 1 November 1996, United States
 - **Active years**: 2020–2025
 - **Number of works**: 200 (IAFD)
-- **Occupation**: Transgender porn actress, model, content creator
+- **Occupation**: Transgender adult film actress, model, content creator
 - **Height**: 5 feet 8 inches (173 cm)
 - **Weight**: 59 kg (129 lb)
 - **Measurements**: 34C-30-35
@@ -34,11 +34,11 @@ tags:
 
 ## Details
 
-Izzy Wilde, born 1 November 1996, is an American transgender porn actress, model, and content creator. She entered the adult industry in 2020 at about 24 and quickly became visible in transgender adult films under the name Izzy Wilde. As of 2025, IAFD listed about 200 credits.
+Izzy Wilde, born 1 November 1996, is an American transgender adult film actress, model, and content creator. She entered the adult industry in 2020 at about 24 and quickly became visible in transgender adult films under the name Izzy Wilde. As of 2025, IAFD listed about 200 credits.
 
 During her career, Izzy worked with well-known adult companies including Grooby Productions, Evil Angel, TransAngels, Gender X Films, AdultTime, Devil's Film, Kink.com, Pornbox, and ManyVids. She is known for her active participation in transgender (TS) genres and has often taken a leading role in group scenes.
 
-Izzy's performances have been recognized by several major industry awards. She received multiple AVN Awards nominations, including Best Trans Newcomer (2022) and Trans Performer of the Year (2023, 2024, and 2025), and won Best Trans Group Sex Scene in consecutive years in 2024 and 2025. At the Transgender Erotica Awards (TEA), she won the Fan Choice Award in 2022 and 2023. In 2024, she also won Best Bi Sex Scene at the GayVN Awards for *Call Center Cocks (II)*.
+Izzy's performances have been recognized by several major industry awards. She received multiple AVN Award nominations, including Best Trans Newcomer (2022) and Trans Performer of the Year (2023, 2024, and 2025), and won Best Trans Group Sex Scene in consecutive years in 2024 and 2025. At the Transgender Erotica Awards (TEA), she won the Fan Choice Award in 2022 and 2023. In 2024, she also won Best Bi Sex Scene at the GayVN Awards for *Call Center Cocks (II)*.
 
 In September 2024, Izzy underwent gender affirmation surgery (bottom surgery). On 14 February 2025 (Valentine's Day), she held a livestream titled "Valentine's Day Pussy Reveal" under her new name Zoe Summers, publicly marking the completion of her transition on her personal website ZoeSummers.com. Subsequent work was released under Zoe Summers.
 

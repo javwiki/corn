@@ -14,8 +14,8 @@ tags:
 
 ## Summary
 
-- **Name**: Marica Hase（まりか）
-- **Alias**: Marika Hase (Marika Hase / 長谷真理香), Marika, Marica, Marica Haze, Marica Boomer, Marcia Hase, Mari Hase, Mirica
+- **Name**: Marica Hase (まりか)
+- **Alias**: Marika Hase (長谷真理香), Marika, Marica, Marica Haze, Marica Boomer, Marcia Hase, Mari Hase, Mirica
 - **Platform**: OnlyFans / Instagram / Twitter / TikTok / ManyVids
 - **Born**: 26 September 1981, Tokyo, Japan
 - **Active years**: 2009 – to present

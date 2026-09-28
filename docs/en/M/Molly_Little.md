@@ -33,7 +33,7 @@ tags:
 - **Active years**: 2021 – to present (entered at about 18; active for five years)
 - **Number of works**: IAFD performer credits (as of 2026)
 - **Covers/photo sets**: 378 covers + 87 photo sets + 291 videos
-- **Occupation**: Adult model, former camgirl, former stripper, former Playboy model, porn actress
+- **Occupation**: Adult model, former camgirl, former stripper, former Playboy model, adult film actress
 - **Homepage**: Instagram @maybemollyyy (disused), Twitter/X @MaybeMollyy, Facebook Molly Little XX
 
 ## Physical characteristics
@@ -53,7 +53,7 @@ tags:
 
 ## Career
 
-Molly Little, born Nicole Buro, is an American porn actress from Fairfax, Virginia, and a former Playboy model who entered the industry in 2021 at age 18. She is known for her petite, slim figure, large eyes, "girl next door" image, and work with Nubiles, Brazzers, Stepsiblings Caught, Family Strokes, and others.
+Molly Little, born Nicole Buro, is an American adult film actress from Fairfax, Virginia, and a former Playboy model who entered the industry in 2021 at age 18. She is known for her petite, slim figure, large eyes, "girl next door" image, and work with Nubiles, Brazzers, Stepsiblings Caught, Family Strokes, and others.
 
 She was born into a supportive family, loved performing from a young age, and participated in school and local theater productions. She claims Italian heritage (self-reported on Reddit). In 2021, she began dancing and stripping, then made her adult-film debut with NetVideoGirls on 22 February 2022. She has since worked with many well-known studios.
 

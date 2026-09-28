@@ -23,7 +23,7 @@ tags:
 
 ## Details
 
-Alina Li, born Chichi Zhou, is a Chinese American porn actress and model born in Shanghai. Public information indicates that her parents separated when she was young and that different relatives cared for her during her childhood; she later moved to the United States as a teenager.
+Alina Li, born Chichi Zhou, is a Chinese American adult film actress and model born in Shanghai. Public information indicates that her parents separated when she was young and that different relatives cared for her during her childhood; she later moved to the United States as a teenager.
 
 She entered the adult industry shortly after graduating from high school in 2013. Early titles included *Party of Three 8*. She subsequently worked with producers and websites including Evil Angel, Mile High, New Sensations, Elegant Angel, Bang Productions, Jules Jordan Video, Mofos, BangBros, and Naughty America.
 

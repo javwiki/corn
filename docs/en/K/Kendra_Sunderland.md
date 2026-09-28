@@ -30,7 +30,7 @@ tags:
 
 ## Details
 
-Kendra Jane Sunderland, widely known as "Library Girl," is an American porn actress, model, and webcam performer. She was born in Salem, Oregon, on 16 June 1995. In 2014, while attending university, she began livestreaming on MyFreeCams under the name Babyyygirl420 and earning hundreds of dollars per day.
+Kendra Jane Sunderland, widely known as "Library Girl," is an American adult film actress, model, and webcam performer. She was born in Salem, Oregon, on 16 June 1995. In 2014, while attending university, she began livestreaming on MyFreeCams under the name Babyyygirl420 and earning hundreds of dollars per day.
 
 In January 2015, Sunderland conducted a bold webcam performance in the Oregon State University library, where she appeared topless and masturbated. Anonymous users subsequently uploaded the video to Pornhub, where it spread rapidly. The incident brought her national attention and also resulted in her expulsion, public-indecency charges, and a proposed fine of more than \$6,000. She ultimately pleaded guilty and paid a \$1,000 fine. The incident became one of the adult entertainment industry's most notable viral events.
 

@@ -21,14 +21,14 @@ tags:
 - **Platform**: Instagram / TikTok / Twitter / OnlyFans / YouTube / Twitch / Fansly
 - **Born**: 10 April 1999, Phoenix, Arizona, United States
 - **Active years**: 2022 – to present
-- **Occupation**: Adult model, porn actress
+- **Occupation**: Adult model, adult film actress
 - **Nationality**: United States
 - **Ethnicity**: Korean-American
 - **Notes**: Active on social media under the alias "Daintybabyelle"
 
 ## Details
 
-Elle Lee, whose stage name is Elle Lee and whose aliases include Daintybabyelle, Tiffdiffuwu, elleleeirl, and elleleeuwu, is a Korean-American adult model and porn actress. She was born in Phoenix, Arizona, on 10 April 1999 and entered the adult entertainment industry in 2022 at about age 23.
+Elle Lee, whose stage name is Elle Lee and whose aliases include Daintybabyelle, Tiffdiffuwu, elleleeirl, and elleleeuwu, is a Korean-American adult model and adult film actress. She was born in Phoenix, Arizona, on 10 April 1999 and entered the adult entertainment industry in 2022 at about age 23.
 
 Elle Lee rapidly gained momentum within a few years and has worked with prominent adult production companies including Blacked Raw, Vixen, Pornhub, Hustler, Reality Kings, Team Skeet, Throated, Jules Jordan, Evil Angel, Dorcel Vision, and VR Bangers. Her work covers both mainstream and VR content, and she has a notable profile among Asian adult performers.
 

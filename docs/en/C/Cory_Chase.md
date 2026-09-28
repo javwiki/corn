@@ -20,7 +20,7 @@ tags:
 - **Born**: 25 February 1981, Trenton, New Jersey, United States
 - **Active years**: 2009 – to present (active for more than 17 years)
 - **Number of works**: 1,538 (IAFD)
-- **Occupation**: Porn actress, adult model, camgirl and podcast host, influencer, MILF porn star
+- **Occupation**: Adult film actress, adult model, camgirl and podcast host, influencer, MILF porn star
 - **Notes**: Bisexual; has 790 cc breast implants (latest surgery in December 2024); holds both German and United States citizenship
 
 ## Details

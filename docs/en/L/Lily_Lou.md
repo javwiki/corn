@@ -30,7 +30,7 @@ tags:
 - **Active years**: 2015 – to present (entered at about 18; active for 11 years)
 - **Number of works**: 273 (IAFD performer credits as of July 2026)
 - **Covers/photo sets**: 274 covers + 11 photo sets + 263 videos
-- **Occupation**: Adult model, former cosplayer, cosplayer, stripper, fetish model, influencer, porn actress
+- **Occupation**: Adult model, former cosplayer, cosplayer, stripper, fetish model, influencer, adult film actress
 
 ## Physical characteristics
 
@@ -49,7 +49,7 @@ tags:
 
 ## Career
 
-Lily Lou is an American porn actress, model, and social media influencer from Washington, D.C., active in adult entertainment since 2015 at about 18. She has 273 performer credits on IAFD and has appeared in more than 275 films.
+Lily Lou is an American adult film actress, model, and social media influencer from Washington, D.C., active in adult entertainment since 2015 at about 18. She has 273 performer credits on IAFD and has appeared in more than 275 films.
 
 She was Twistys' Treat Of The Month in February 2024 and is known for her work in anal sex, squirting, group scenes, and fetish themes.
 

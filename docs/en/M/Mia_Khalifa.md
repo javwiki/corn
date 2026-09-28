@@ -20,7 +20,7 @@ tags:
 - **Born**: 10 February 1993, Beirut, Lebanon
 - **Active years**: 2014–2018 (adult films) / 2018 – to present (social media and content creation)
 - **Number of works**: 53 (IAFD)
-- **Occupation**: Former porn actress, webcam model, social media celebrity, sports commentator, OnlyFans creator
+- **Occupation**: Former adult film actress, webcam model, social media celebrity, sports commentator, OnlyFans creator
 - **Notes**: A 2014 Bang Bros scene in which she wore a hijab caused global controversy; after a roughly three-month adult-film career, she became Pornhub's most-searched performer before moving into media and activism
 
 ## Details

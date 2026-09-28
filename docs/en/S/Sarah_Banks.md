@@ -22,7 +22,7 @@ tags:
 
 ## Details
 
-Sarah Banks, born 23 April 1997 in Calabasas, California, is an American retired porn actress and adult model who performs under the name Sarah Banks and formerly used the alias Sarah Mae Gaines. She entered the adult industry in 2016 at about 19 and formally retired in 2019, after an active career of about three years.
+Sarah Banks, born 23 April 1997 in Calabasas, California, is an American retired adult film actress and adult model who performs under the name Sarah Banks and formerly used the alias Sarah Mae Gaines. She entered the adult industry in 2016 at about 19 and formally retired in 2019, after an active career of about three years.
 
 Banks is known as the "Ebony Anal Queen" and has mainly performed anal, bukkake, and group scenes. She is 5 feet tall (about 152 cm), has 32D implants and nipple piercings, and has a petite but curvy figure. Her Twistys biography says that she had earned an associate degree by age 18 and grew up in San Fernando Valley, known as "Porn Valley"; knowing someone in the industry influenced her decision to enter it.
 

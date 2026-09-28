@@ -19,12 +19,12 @@ tags:
 - **Born**: 22 September 1991, London, United Kingdom
 - **Active years**: 2012 – to present
 - **Number of works**: 176 (source: IAFD)
-- **Occupation**: Adult model, porn actress, cam model
+- **Occupation**: Adult model, adult film actress, cam model
 - **Notes**: British white performer known for her full figure and large breasts
 
 ## Details
 
-Harmony Reigns is a British adult model and porn actress born in London on 22 September 1991. She debuted in 2012 and has since appeared in more than 176 films listed by IAFD. She is known for her full figure (46-31-39) and 38H breasts and is one of the industry's most recognizable British performers.
+Harmony Reigns is a British adult model and adult film actress born in London on 22 September 1991. She debuted in 2012 and has since appeared in more than 176 films listed by IAFD. She is known for her full figure (46-31-39) and 38H breasts and is one of the industry's most recognizable British performers.
 
 She has worked with prominent adult studios including Brazzers, DDF Network, Bang Bros, and Woodman Casting X. Her work covers a variety of genres, including foot fetish, CFNM, and MILF. Her career peaked between 2015 and 2019, when she appeared in numerous productions.
 

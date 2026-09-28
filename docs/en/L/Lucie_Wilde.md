@@ -25,7 +25,7 @@ tags:
 - **Sexual orientation**: Heterosexual
 - **Active years**: **2014–2016** (only two years, at about 18–20)
 - **Number of works**: 40+ (IAFD as of June 2026)
-- **Occupation**: Former adult model, former porn actress
+- **Occupation**: Former adult model, former adult film actress
 - **Status**: **Retired** (left in 2016; no intention to return)
 - **Personal website**: bustybuffy.com (former)
 
@@ -47,7 +47,7 @@ tags:
 
 ## Career
 
-Lucie Wilde, under the stage name Busty Buffy, is an adult model and former porn actress from Prague, Czech Republic. She made her nude debut with DDF Busty on 31 January 2014, just after turning 18. Her career lasted only two years, but her extremely full natural breasts (peaking at 34L / 75HH) quickly attracted significant attention in the adult sector.
+Lucie Wilde, under the stage name Busty Buffy, is an adult model and former adult film actress from Prague, Czech Republic. She made her nude debut with DDF Busty on 31 January 2014, just after turning 18. Her career lasted only two years, but her extremely full natural breasts (peaking at 34L / 75HH) quickly attracted significant attention in the adult sector.
 
 She was initially influenced by her then-boyfriend Argo, mainly for financial reasons, and did not love the industry. She was quickly promoted from nude model to hardcore performer and filmed her first hardcore scene with Argo in February 2014. Notable titles include *Lucie Wilde Is Awesome!*, *The Outlaw Lucie Wilde*, *Busty Angels #2*, *Voluptuous Wonderland 2*, and anal and double-penetration scenes in the *Anal Acrobats 7* and *Legal Porno* series.
 

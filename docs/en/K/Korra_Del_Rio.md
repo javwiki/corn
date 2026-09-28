@@ -18,7 +18,7 @@ tags:
 - **Born**: 27 April 1988, Milwaukee, Wisconsin, United States
 - **Active years**: 2014 – to present
 - **Number of works**: 413 (IAFD)
-- **Occupation**: Transgender porn actress
+- **Occupation**: Transgender adult film actress
 - **Height**: 175 cm
 - **Weight**: 61 kg
 - **Measurements**: 34A-28-36
@@ -26,7 +26,7 @@ tags:
 
 ## Details
 
-Korra Del Rio, born 27 April 1988, is an American transgender porn actress from Milwaukee, Wisconsin, with German and Mexican heritage.
+Korra Del Rio, born 27 April 1988, is an American transgender adult film actress from Milwaukee, Wisconsin, with German and Mexican heritage.
 
 She entered transgender adult entertainment in 2014 at age 26 and worked with Trans Angels, Devil's Film, Grooby Productions, Third World Media, Gender X, Trans500, Evil Angel, and Transsensual. Notable titles include *America's Next Top Tranny 20*, *My Transsexual Lover 2*, *Popular T-Girlz*, *Smothered By A Shemale*, and *TS Factor 4*.
 
