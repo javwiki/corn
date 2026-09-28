@@ -1,24 +1,24 @@
 [project]
-site_name = "成人影片演员百科"
+site_name = "Adult Film Performer Encyclopedia"
 site_url = "https://javwiki.github.io/corn/"
-site_description = "成人影片演员相关资料索引。"
+site_description = "A machine-translated draft index of adult film performers; facts remain under review."
 site_author = "language learner"
 repo_url = "https://github.com/javwiki/corn"
 repo_name = "javwiki/corn"
-edit_uri = "edit/main/docs/zh/"
-docs_dir = "docs/zh"
+edit_uri = "edit/main/docs/en/"
+docs_dir = "docs/en"
 site_dir = "site"
 use_directory_urls = true
 
 [project.extra]
 alternate = [
-  { name = "中文", link = "/corn/", lang = "zh" },
-  { name = "English", link = "/corn/en/", lang = "en" },
+  { name = "English", link = "/corn/", lang = "en" },
+  { name = "中文", link = "/corn/zh/", lang = "zh" },
 ]
 
 [project.theme]
 variant = "classic"
-language = "zh"
+language = "en"
 font = false
 custom_dir = "overrides"
 features = [
@@ -29,25 +29,122 @@ features = [
   "search.highlight",
 ]
 
-# Follow the user's system color preference by default.
 [[project.theme.palette]]
 media = "(prefers-color-scheme)"
 toggle.icon = "lucide/sun-moon"
-toggle.name = "切换到浅色模式"
+toggle.name = "Switch to light mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
-toggle.name = "切换到深色模式"
+toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "跟随系统设置"
+toggle.name = "Follow system preference"
 
 [project.plugins.tags]
 
 [project.plugins.redirects.redirect_maps]
 "L/Elle_Lee.md" = "E/Elle_Lee.md"
+# English used to be published under /corn/en/ before it became the site root.
+# These redirects keep the previously published English URLs working.
+"en/index.md" = "index.md"
+"en/_meta/index.md" = "_meta/index.md"
+"en/_meta/list.md" = "_meta/list.md"
+"en/A/Abigaiil_Morris.md" = "A/Abigaiil_Morris.md"
+"en/A/Abigail_Lust.md" = "A/Abigail_Lust.md"
+"en/A/Alina_Li.md" = "A/Alina_Li.md"
+"en/A/Angel_Wicky.md" = "A/Angel_Wicky.md"
+"en/A/Angela_White.md" = "A/Angela_White.md"
+"en/A/Asuka_Tenshi.md" = "A/Asuka_Tenshi.md"
+"en/A/Autumn_Falls.md" = "A/Autumn_Falls.md"
+"en/A/Ava_Addams.md" = "A/Ava_Addams.md"
+"en/A/Ayumi_Anime.md" = "A/Ayumi_Anime.md"
+"en/A/index.md" = "A/index.md"
+"en/B/Bibi_Bugatti.md" = "B/Bibi_Bugatti.md"
+"en/B/Bridgette_B.md" = "B/Bridgette_B.md"
+"en/B/Bunny_Colby.md" = "B/Bunny_Colby.md"
+"en/B/index.md" = "B/index.md"
+"en/C/Candy_Charms.md" = "C/Candy_Charms.md"
+"en/C/Chanel_Noir.md" = "C/Chanel_Noir.md"
+"en/C/Cheyla_Collins.md" = "C/Cheyla_Collins.md"
+"en/C/Chloe_Surreal.md" = "C/Chloe_Surreal.md"
+"en/C/CoCo_Lovelock.md" = "C/CoCo_Lovelock.md"
+"en/C/Codi_Vore.md" = "C/Codi_Vore.md"
+"en/C/Cory_Chase.md" = "C/Cory_Chase.md"
+"en/C/index.md" = "C/index.md"
+"en/E/Elle_Lee.md" = "E/Elle_Lee.md"
+"en/E/Ellie_Leen.md" = "E/Ellie_Leen.md"
+"en/E/Elsa_Jean.md" = "E/Elsa_Jean.md"
+"en/E/Erin_Everheart.md" = "E/Erin_Everheart.md"
+"en/E/Eva_Nyx.md" = "E/Eva_Nyx.md"
+"en/E/index.md" = "E/index.md"
+"en/H/Harmony_Reigns.md" = "H/Harmony_Reigns.md"
+"en/H/index.md" = "H/index.md"
+"en/I/Izzy_Wilde.md" = "I/Izzy_Wilde.md"
+"en/I/index.md" = "I/index.md"
+"en/J/Jade_Kush.md" = "J/Jade_Kush.md"
+"en/J/Jade_Venus.md" = "J/Jade_Venus.md"
+"en/J/Janelle_Fennec.md" = "J/Janelle_Fennec.md"
+"en/J/Jasmine_Grey.md" = "J/Jasmine_Grey.md"
+"en/J/Jennifer_Exxotic.md" = "J/Jennifer_Exxotic.md"
+"en/J/Jessy_Bells.md" = "J/Jessy_Bells.md"
+"en/J/Juliette_Stray.md" = "J/Juliette_Stray.md"
+"en/J/index.md" = "J/index.md"
+"en/K/Kendra_Sunderland.md" = "K/Kendra_Sunderland.md"
+"en/K/Kenzie_Reeves.md" = "K/Kenzie_Reeves.md"
+"en/K/Korra_Del_Rio.md" = "K/Korra_Del_Rio.md"
+"en/K/index.md" = "K/index.md"
+"en/L/Lauren_Phillips.md" = "L/Lauren_Phillips.md"
+"en/L/Lena_Paul.md" = "L/Lena_Paul.md"
+"en/L/Lexi_Lore.md" = "L/Lexi_Lore.md"
+"en/L/Lexi_Luna.md" = "L/Lexi_Luna.md"
+"en/L/Lia_Lin.md" = "L/Lia_Lin.md"
+"en/L/Lily_Lou.md" = "L/Lily_Lou.md"
+"en/L/Lucie_Wilde.md" = "L/Lucie_Wilde.md"
+"en/L/Lucy_Lee.md" = "L/Lucy_Lee.md"
+"en/L/Lucy_Mochi.md" = "L/Lucy_Mochi.md"
+"en/L/Lulu_Chu.md" = "L/Lulu_Chu.md"
+"en/L/index.md" = "L/index.md"
+"en/M/Madison_Ivy.md" = "M/Madison_Ivy.md"
+"en/M/Marica_Hase.md" = "M/Marica_Hase.md"
+"en/M/Marin_Nico.md" = "M/Marin_Nico.md"
+"en/M/Mia_Khalifa.md" = "M/Mia_Khalifa.md"
+"en/M/Mia_Malkova.md" = "M/Mia_Malkova.md"
+"en/M/Molly_Little.md" = "M/Molly_Little.md"
+"en/M/Monique_Mae.md" = "M/Monique_Mae.md"
+"en/M/index.md" = "M/index.md"
+"en/N/Natalie_Mars.md" = "N/Natalie_Mars.md"
+"en/N/Natasha_Teen.md" = "N/Natasha_Teen.md"
+"en/N/Nicole_Doshi.md" = "N/Nicole_Doshi.md"
+"en/N/Nicolette_Shea.md" = "N/Nicolette_Shea.md"
+"en/N/index.md" = "N/index.md"
+"en/P/Piper_Perri.md" = "P/Piper_Perri.md"
+"en/P/index.md" = "P/index.md"
+"en/R/Rae_Lil_Black.md" = "R/Rae_Lil_Black.md"
+"en/R/index.md" = "R/index.md"
+"en/S/Sarah_Banks.md" = "S/Sarah_Banks.md"
+"en/S/Sarina_Valentina.md" = "S/Sarina_Valentina.md"
+"en/S/Savannah_Bond.md" = "S/Savannah_Bond.md"
+"en/S/Scarlet_Assian.md" = "S/Scarlet_Assian.md"
+"en/S/Sky_Bri.md" = "S/Sky_Bri.md"
+"en/S/Skye_Blue.md" = "S/Skye_Blue.md"
+"en/S/Skyla_Novea.md" = "S/Skyla_Novea.md"
+"en/S/Skylar_Snow.md" = "S/Skylar_Snow.md"
+"en/S/Skylar_Vox.md" = "S/Skylar_Vox.md"
+"en/S/Slimthick_Vic.md" = "S/Slimthick_Vic.md"
+"en/S/Song_Lee.md" = "S/Song_Lee.md"
+"en/S/Soolin_Kelter.md" = "S/Soolin_Kelter.md"
+"en/S/Sophie_Dee.md" = "S/Sophie_Dee.md"
+"en/S/Stella_Cox.md" = "S/Stella_Cox.md"
+"en/S/index.md" = "S/index.md"
+"en/V/Vina_Sky.md" = "V/Vina_Sky.md"
+"en/V/Violet_Myers.md" = "V/Violet_Myers.md"
+"en/V/Vivian_Fox.md" = "V/Vivian_Fox.md"
+"en/V/Vivian_Foxx.md" = "V/Vivian_Foxx.md"
+"en/V/index.md" = "V/index.md"
+"en/Y/index.md" = "Y/index.md"

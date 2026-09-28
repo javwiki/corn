@@ -1,8 +1,8 @@
 # 成人影片演员百科 / Adult Film Performer Encyclopedia
 
-本仓库使用 Zensical 构建中英双语人物资料型百科。中文内容位于 `docs/zh/`，英文内容位于 `docs/en/`；两个目录使用相同的相对路径。
+本仓库使用 Zensical 构建中英双语人物资料型百科，默认语言为英文。中文内容位于 `docs/zh/`，英文内容位于 `docs/en/`；两个目录使用相同的相对路径。
 
-This repository uses Zensical to build a bilingual Chinese-English encyclopedia. Chinese content lives in `docs/zh/`, English content in `docs/en/`, and matching pages use the same relative path.
+This repository uses Zensical to build a bilingual Chinese-English encyclopedia, with English as the default language. Chinese content lives in `docs/zh/`, English content in `docs/en/`, and matching pages use the same relative path.
 
 翻译所用模型、实测速度、质量限制与维护流程见 [TRANSLATION.md](TRANSLATION.md)。
 
@@ -48,11 +48,11 @@ cd "$(git -C . rev-parse --show-toplevel)"
 预览时使用 `uv.lock` 锁定的环境，不使用未锁定的全局 `zensical`：
 
 ```bash
-# 中文
+# 英文（默认语言，站点根目录）
 uv run --locked --project . zensical serve --config-file zensical.toml
 
-# 英文
-uv run --locked --project . zensical serve --config-file zensical.en.toml
+# 中文
+uv run --locked --project . zensical serve --config-file zensical.zh.toml
 ```
 
 ### 完整校验
@@ -67,8 +67,8 @@ uv run --locked --project . zensical serve --config-file zensical.en.toml
 
 1. 使用锁定的 Ruff 检查 Python 校验器的 lint 和格式；
 2. `check_i18n.py`：检查双语文件集合与规范路径、Zensical 配置契约、条目 front matter/tags/H1、`list.yaml`/`list.md`、字母 `index.md` 链接、本地 Markdown 目标，以及危险 HTML/协议等安全和 Markdown 问题；同时比较双语社交 handle，以及可识别的身高、体重、作品数量、百分比和 `万/亿` 数量级。该脚本不访问网络；
-3. 在仓库内临时 staging 目录中，用锁定的 Zensical 0.0.62 以 `--clean --strict` 分别构建中文和英文站点；任一构建失败时保留上一份 `site/`；
-4. 验证两个入口、两个 404 页面和 Elle Lee 旧路径重定向后，才在同一文件系统内替换正式 `site/`；
+3. 在仓库内临时 staging 目录中，用锁定的 Zensical 0.0.62 以 `--clean --strict` 先构建英文、再构建中文站点（中文输出嵌套在 `site/zh/`）；任一构建失败时保留上一份 `site/`；
+4. 验证两个入口、两个 404 页面、Elle Lee 旧路径重定向和 `/corn/en/*` 退役路径重定向后，才在同一文件系统内替换正式 `site/`；
 5. 将根目录的 `LICENSE` 与 `NOTICE` 复制进发布产物。
 
 需要单独诊断时可以运行：
@@ -78,12 +78,12 @@ uv run --locked --project . ruff check scripts
 uv run --locked --project . ruff format --check scripts
 uv run --locked --project . python scripts/check_i18n.py --root .
 uv run --locked --project . zensical build --config-file zensical.toml --clean --strict
-uv run --locked --project . zensical build --config-file zensical.en.toml --clean --strict
+uv run --locked --project . zensical build --config-file zensical.zh.toml --clean --strict
 ```
 
 提交前还可以运行 `git diff --check` 检查空白错误；它不是站点构建校验。
 
-`site/` 和 `site/en/` 是构建产物，已被 `.gitignore` 忽略，不要提交。现有中文版 URL 保持不变，英文版发布在 `/en/`；页眉语言选择器和页面级 `hreflang` 会保留当前人物路径。根 404 页面为双语，避免英文路径错误时只显示中文；主题使用系统字体，不向 Google Fonts 发起请求。发布产物包含 `LICENSE` 与 `NOTICE`。如果 fork、改名、迁移域名或更改默认分支，必须同步修改两份 Zensical 配置中的 `site_url`/alternate/repository 路径，以及 `scripts/check_i18n.py` 中的 canonical URL/目录常量；共享模板会从配置读取语言首页，校验器会故意阻止未同步的部署。校验器对数字、单位、handle 和链接的检查只说明双语结果的结构/一致性，不检查外部 URL 是否可访问、来源是否支持某项事实、英文翻译是否正确或奖项信息是否过时；这些仍需要人工复核。
+英文是默认语言，占用站点根目录并发布在 `/corn/`；中文发布在 `/corn/zh/`。`site/` 和 `site/zh/` 是构建产物，已被 `.gitignore` 忽略，不要提交。英文此前发布在 `/corn/en/`，该前缀下的每个已发布页面都保留重定向到新的根目录路径，校验器会阻止遗漏；此前发布在 `/corn/` 的中文 URL 现在显示同一人物的英文页面。页眉语言选择器和页面级 `hreflang` 会保留当前人物路径。根 404 页面为双语，避免某一语言路径错误时只显示另一种语言；主题使用系统字体，不向 Google Fonts 发起请求。发布产物包含 `LICENSE` 与 `NOTICE`。如果 fork、改名、迁移域名或更改默认分支，必须同步修改两份 Zensical 配置中的 `site_url`/alternate/repository 路径，以及 `scripts/check_i18n.py` 中的默认语言、canonical URL 和目录常量；共享模板会从配置读取语言首页，校验器会故意阻止未同步的部署。校验器对数字、单位、handle 和链接的检查只说明双语结果的结构/一致性，不检查外部 URL 是否可访问、来源是否支持某项事实、英文翻译是否正确或奖项信息是否过时；这些仍需要人工复核。
 
 ## 内容、敏感信息与来源规则
 

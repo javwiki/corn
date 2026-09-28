@@ -46,8 +46,8 @@ scripts/check_i18n.py          ← 双语文档结构/安全/一致性校验
 scripts/build_site.sh          ← 锁定环境中的完整双语构建
 pyproject.toml                 ← Python/直接依赖与 uv 版本约束
 uv.lock                        ← 锁定的传递依赖与哈希
-zensical.toml                  ← 中文 Zensical 配置
-zensical.en.toml               ← 英文 Zensical 配置
+zensical.toml                  ← 英文 Zensical 配置（默认语言，站点根目录）
+zensical.zh.toml               ← 中文 Zensical 配置（发布在 /corn/zh/）
 overrides/                     ← 双语 404 与页面级语言链接共享模板
 ```
 
@@ -203,11 +203,13 @@ uv run --locked --project . python scripts/check_i18n.py --root .
 
 校验器会从脚本位置推导仓库根目录，检查双语路径/配置、front matter 与安全 tags、人物页结构、`list.yaml`/`list.md`、字母 `index.md` 链接、本地 Markdown 目标、原始 HTML/事件属性、危险或 HTTP 协议、未定义数字引用、未转义 `$`、IAFD 首页和 Wikipedia Draft 等来源问题；同时比较 URL/handle、身高/体重、作品数量、百分比和 `万/亿` 数量级。先修复所有校验错误，再继续构建。
 
-`./scripts/build_site.sh` 会从自身位置推导仓库根目录，在 `uv run --locked` 环境中执行校验，再在 staging 目录中以锁定的 Zensical 0.0.62 分别执行中文和英文的 `--clean --strict` 构建；成功后才替换 `site/`，并复制 `LICENSE`/`NOTICE`。需要诊断时可分别运行：
+英文是默认语言，占用站点根目录（`/corn/`），中文发布在 `/corn/zh/`。新增或删除英文页面时，还要同步 `zensical.toml` 的 `[project.plugins.redirects.redirect_maps]`：每个已发布页面都要有一条 `en/<相对路径> = <相对路径>`，把旧的 `/corn/en/*` 路径重定向到新的根目录路径；校验器会检查这张表与 `docs/en/` 的页面集合完全一致。
+
+`./scripts/build_site.sh` 会从自身位置推导仓库根目录，在 `uv run --locked` 环境中执行校验，再在 staging 目录中以锁定的 Zensical 0.0.62 先构建英文（`site/`）、再构建中文（`site/zh/`）的 `--clean --strict` 构建；成功后才替换 `site/`，并复制 `LICENSE`/`NOTICE`。需要诊断时可分别运行：
 
 ```bash
 uv run --locked --project . zensical build --config-file zensical.toml --clean --strict
-uv run --locked --project . zensical build --config-file zensical.en.toml --clean --strict
+uv run --locked --project . zensical build --config-file zensical.zh.toml --clean --strict
 git diff --check
 ```
 

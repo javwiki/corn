@@ -1,24 +1,24 @@
 [project]
-site_name = "Adult Film Performer Encyclopedia"
-site_url = "https://javwiki.github.io/corn/en/"
-site_description = "A machine-translated draft index of adult film performers; facts remain under review."
+site_name = "成人影片演员百科"
+site_url = "https://javwiki.github.io/corn/zh/"
+site_description = "成人影片演员相关资料索引。"
 site_author = "language learner"
 repo_url = "https://github.com/javwiki/corn"
 repo_name = "javwiki/corn"
-edit_uri = "edit/main/docs/en/"
-docs_dir = "docs/en"
-site_dir = "site/en"
+edit_uri = "edit/main/docs/zh/"
+docs_dir = "docs/zh"
+site_dir = "site/zh"
 use_directory_urls = true
 
 [project.extra]
 alternate = [
-  { name = "中文", link = "/corn/", lang = "zh" },
-  { name = "English", link = "/corn/en/", lang = "en" },
+  { name = "English", link = "/corn/", lang = "en" },
+  { name = "中文", link = "/corn/zh/", lang = "zh" },
 ]
 
 [project.theme]
 variant = "classic"
-language = "en"
+language = "zh"
 font = false
 custom_dir = "overrides"
 features = [
@@ -29,22 +29,23 @@ features = [
   "search.highlight",
 ]
 
+# Follow the user's system color preference by default.
 [[project.theme.palette]]
 media = "(prefers-color-scheme)"
 toggle.icon = "lucide/sun-moon"
-toggle.name = "Switch to light mode"
+toggle.name = "切换到浅色模式"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
-toggle.name = "Switch to dark mode"
+toggle.name = "切换到深色模式"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "Follow system preference"
+toggle.name = "跟随系统设置"
 
 [project.plugins.tags]
 

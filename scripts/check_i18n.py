@@ -36,14 +36,20 @@ YAML_ERRORS = (
 
 
 LANGUAGES = ("zh", "en")
+# English is the default language and owns the site root; Chinese is nested
+# below it so both editions can be built into one ``site/`` output tree.
+DEFAULT_LANGUAGE = "en"
+NESTED_LANGUAGE = "zh"
 CANONICAL_SITE_ROOT = "https://javwiki.github.io/corn/"
 CANONICAL_SITE_URLS = {
-    "zh": CANONICAL_SITE_ROOT,
-    "en": CANONICAL_SITE_ROOT + "en/",
+    "en": CANONICAL_SITE_ROOT,
+    "zh": CANONICAL_SITE_ROOT + "zh/",
 }
 CANONICAL_DOCS_DIRS = {lang: f"docs/{lang}" for lang in LANGUAGES}
-CANONICAL_SITE_DIRS = {"zh": "site", "en": "site/en"}
-CONFIG_FILES = {"zh": "zensical.toml", "en": "zensical.en.toml"}
+CANONICAL_SITE_DIRS = {"en": "site", "zh": "site/zh"}
+CONFIG_FILES = {"en": "zensical.toml", "zh": "zensical.zh.toml"}
+# Retired English prefixes: /corn/en/<page> now resolves through the root.
+RETIRED_URL_PREFIX = "en/"
 ALLOWED_PROTOCOLS = {"https", "mailto", "tel"}
 DANGEROUS_PROTOCOLS = {"http", "javascript", "vbscript", "data", "file", "about"}
 SOCIAL_DOMAINS = {
@@ -1143,9 +1149,16 @@ def check_config_contracts(root: Path, reporter: Reporter) -> None:
             reporter.error(
                 "config",
                 path,
-                "project.use_directory_urls must remain true for the nested site/en layout",
+                "project.use_directory_urls must remain true for the nested site/zh layout",
             )
         theme = project.get("theme")
+        if isinstance(theme, dict) and theme.get("language") != lang:
+            reporter.error(
+                "config",
+                path,
+                f"project.theme.language must be {lang!r}, "
+                f"got {theme.get('language')!r}",
+            )
         if not isinstance(theme, dict) or theme.get("custom_dir") != "overrides":
             reporter.error(
                 "config",
@@ -1163,15 +1176,18 @@ def check_config_contracts(root: Path, reporter: Reporter) -> None:
             if isinstance(project.get("extra"), dict)
             else None
         )
+        # The default language must be listed first and point at the site root;
+        # the nested edition keeps its own prefix.
         expected_alternate = [
-            {"name": "中文", "link": "/corn/", "lang": "zh"},
-            {"name": "English", "link": "/corn/en/", "lang": "en"},
+            {"name": "English", "link": "/corn/", "lang": "en"},
+            {"name": "中文", "link": "/corn/zh/", "lang": "zh"},
         ]
         if alternate != expected_alternate:
             reporter.error(
                 "config",
                 path,
-                "project.extra.alternate does not describe the zh/en site contract",
+                "project.extra.alternate must list English (/corn/) before "
+                "中文 (/corn/zh/)",
             )
 
     override = root / "overrides" / "404.html"
@@ -1199,27 +1215,88 @@ def check_config_contracts(root: Path, reporter: Reporter) -> None:
                         f"page-level language template is missing {marker!r}",
                     )
 
-    if "zh" in projects and "en" in projects:
-        zh_url = projects["zh"].get("site_url")
-        en_url = projects["en"].get("site_url")
+    if NESTED_LANGUAGE in projects and DEFAULT_LANGUAGE in projects:
+        default_url = projects[DEFAULT_LANGUAGE].get("site_url")
+        nested_url = projects[NESTED_LANGUAGE].get("site_url")
         if (
-            isinstance(zh_url, str)
-            and isinstance(en_url, str)
-            and (not en_url.startswith(zh_url) or not en_url.endswith("/"))
+            isinstance(default_url, str)
+            and isinstance(nested_url, str)
+            and (
+                not nested_url.startswith(default_url)
+                or not nested_url.endswith("/")
+                or nested_url == default_url
+            )
         ):
             reporter.error(
                 "config",
-                root / CONFIG_FILES["en"],
-                "English site_url must be a child URL of the Chinese site_url",
+                root / CONFIG_FILES[NESTED_LANGUAGE],
+                f"{NESTED_LANGUAGE} site_url must be a child URL of the "
+                f"{DEFAULT_LANGUAGE} site_url",
             )
-        zh_site = PurePosixPath(str(projects["zh"].get("site_dir", "")))
-        en_site = PurePosixPath(str(projects["en"].get("site_dir", "")))
-        if en_site != zh_site / "en":
+        default_site = PurePosixPath(
+            str(projects[DEFAULT_LANGUAGE].get("site_dir", ""))
+        )
+        nested_site = PurePosixPath(str(projects[NESTED_LANGUAGE].get("site_dir", "")))
+        if nested_site != default_site / NESTED_LANGUAGE:
             reporter.error(
                 "config",
-                root / CONFIG_FILES["en"],
-                "English site_dir must be nested below the Chinese site_dir as <site_dir>/en",
+                root / CONFIG_FILES[NESTED_LANGUAGE],
+                f"{NESTED_LANGUAGE} site_dir must be nested below the "
+                f"{DEFAULT_LANGUAGE} site_dir as <site_dir>/{NESTED_LANGUAGE}",
             )
+
+    check_retired_url_redirects(root, projects.get(DEFAULT_LANGUAGE, {}), reporter)
+
+
+def check_retired_url_redirects(
+    root: Path, project: dict[str, Any], reporter: Reporter
+) -> None:
+    """The default edition used to be published under a language prefix.
+
+    Every page it published must now also be reachable through a redirect, so
+    existing links keep resolving after the site root changed hands.
+    """
+
+    plugins = project.get("plugins")
+    redirects = plugins.get("redirects") if isinstance(plugins, dict) else None
+    maps = redirects.get("redirect_maps") if isinstance(redirects, dict) else None
+    if not isinstance(maps, dict):
+        reporter.error(
+            "config",
+            root / CONFIG_FILES[DEFAULT_LANGUAGE],
+            "project.plugins.redirects.redirect_maps must define the retired "
+            "language-prefix redirects",
+        )
+        return
+    # Only Markdown files become published pages; list.yaml/source.yaml are
+    # data sources and are deliberately not part of the retired URL set.
+    pages = {
+        page
+        for page in relative_files(root / CANONICAL_DOCS_DIRS[DEFAULT_LANGUAGE])
+        if page.endswith(".md")
+    }
+    missing = sorted(
+        page for page in pages if maps.get(f"{RETIRED_URL_PREFIX}{page}") != page
+    )
+    for page in missing:
+        reporter.error(
+            "config",
+            root / CONFIG_FILES[DEFAULT_LANGUAGE],
+            f"retired URL /corn/{RETIRED_URL_PREFIX}{page} has no redirect to "
+            f"/corn/{page}",
+        )
+    stale = sorted(
+        source
+        for source in maps
+        if source.startswith(RETIRED_URL_PREFIX)
+        and source[len(RETIRED_URL_PREFIX) :] not in pages
+    )
+    for source in stale:
+        reporter.error(
+            "config",
+            root / CONFIG_FILES[DEFAULT_LANGUAGE],
+            f"retired-URL redirect {source!r} does not match any published page",
+        )
 
 
 def load_list(root: Path, lang: str, reporter: Reporter) -> dict[str, Any] | None:
@@ -1851,9 +1928,11 @@ def main(argv: list[str] | None = None) -> int:
     if reporter.errors:
         reporter.emit()
         return 1
-    count = len(actor_files(root / "docs" / "zh"))
+    count = len(actor_files(root / CANONICAL_DOCS_DIRS[NESTED_LANGUAGE]))
     print(
-        f"documentation validation passed ({count} actor pages; i18n trees match and build contracts are consistent)"
+        f"documentation validation passed ({count} actor pages; default language "
+        f"{DEFAULT_LANGUAGE!r} at the site root, {NESTED_LANGUAGE!r} under "
+        f"/{NESTED_LANGUAGE}/; i18n trees match and build contracts are consistent)"
     )
     return 0
 
