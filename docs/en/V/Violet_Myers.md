@@ -30,11 +30,11 @@ tags:
 
 ## Details
 
-Violet Myers is an American actress, model, and internet creator active in the U.S. adult entertainment industry. She entered around 2018 and had appeared in more than 330 works by 2026, with studios including Blacked, Brazzers, Tushy, Vixen, Naughty America, and Reality Kings.
+Violet Myers is an American actress, model, and internet creator active in the U.S. adult entertainment industry. She entered the industry around 2018 and had appeared in more than 330 works by 2026, with studios including Blacked, Brazzers, Tushy, Vixen, Naughty America, and Reality Kings.
 
-Myers was born in Los Angeles in 1997, has Mexican and Middle Eastern (Turkish) heritage, and considers herself mixed. She has natural 34DDD breasts and notable 34DDD-28-36 measurements, and is known in the industry for her curves. She has been active on platforms including OnlyFans, ManyVids, and Twitch, attracting many fans through livestreams, cosplay, and gaming content, and calls herself an "anime waifu."
+Myers was born in Los Angeles in 1997, has Mexican and Middle Eastern (Turkish) heritage, and considers herself mixed. She has natural 34DDD breasts and notable 34DDD-28-36 measurements, and is known in the industry for her curves. She has been active on platforms including OnlyFans, ManyVids, and Twitch, where she has attracted a large following through livestreams, cosplay, and gaming content, and describes herself as an "anime waifu."
 
-Early in her career, she performed under the name Luna Bunny before gradually gaining attention as Violet Myers. In 2019, she completed her first interracial production for DickDrainers.com. In 2021, she first performed an anal scene for Tushy. Alongside adult films, she has actively participated in anime conventions and released personal merchandise in collaboration with Fleshlight.
+Early in her career, she performed under the name Luna Bunny before gradually gaining attention as Violet Myers. In 2019, she completed her first interracial production for DickDrainers.com. In 2021, she first performed an anal scene for Tushy. Alongside adult films, she has appeared at anime conventions and released personal merchandise in collaboration with Fleshlight.
 
 Violet Myers has received multiple AVN nominations and awards, including 2024 wins for Best Boy/Girl Sex Scene (*She Ruined Me*) and the fan-voted Favorite Female Porn Star. She has also received nominations from Urban X Awards, Spank Bank Awards, XBIZ Awards, and XMA Awards.
 
@@ -42,21 +42,21 @@ Violet Myers has received multiple AVN nominations and awards, including 2024 wi
 
 |Year|Awards|Category|Result|
 |------|------|------|------|
-| 2020 | AVN Awards | Fan Award: Hottest Newcomer |Nominated|
-| 2020 | AVN Awards | Fan Award: Most Spectacular Boobs |Nominated|
-| 2020 | XBIZ Awards | Best New Starlet |Nominated|
-| 2021 | AVN Awards | Fan Award: Favorite Female Porn Star |Nominated|
-| 2021 | Fleshbot Awards | Best Oral Scene |Nominated|
-| 2023 | AVN Awards | Best Female/Female Sex Scene |Nominated|
-| 2023 | AVN Awards | Best Foursome/Orgy Sex Scene |Nominated|
-| 2023 | Urban X Awards | Female Performer of the Year |Nominated|
+| 2020 | AVN Awards | Fan Award: Hottest Newcomer | Nominated |
+| 2020 | AVN Awards | Fan Award: Most Spectacular Boobs | Nominated |
+| 2020 | XBIZ Awards | Best New Starlet | Nominated |
+| 2021 | AVN Awards | Fan Award: Favorite Female Porn Star | Nominated |
+| 2021 | Fleshbot Awards | Best Oral Scene | Nominated |
+| 2023 | AVN Awards | Best Female/Female Sex Scene | Nominated |
+| 2023 | AVN Awards | Best Foursome/Orgy Sex Scene | Nominated |
+| 2023 | Urban X Awards | Female Performer of the Year | Nominated |
 | 2024 | AVN Awards | Best Boy/Girl Sex Scene (*She Ruined Me*) | **Won** |
 | 2024 | AVN Awards | Fan Award: Favorite Female Porn Star | **Won** |
 | 2024 | AVN Awards | Fan Award: Hottest All-Girl Creator Collab | **Won** |
-| 2025 | AVN Awards | Best Gangbang Scene (*Low Rider*) |Nominated|
-| 2025 | AVN Awards | Best POV Sex Scene |Nominated|
-| 2025 | XRCO Awards | Vicki Chase Orgasmic Oralist |Nominated|
-| 2026 | AVN Awards | Best Solo/Tease Performance |Nominated|
+| 2025 | AVN Awards | Best Gangbang Scene (*Low Rider*) | Nominated |
+| 2025 | AVN Awards | Best POV Sex Scene | Nominated |
+| 2025 | XRCO Awards | Vicki Chase Orgasmic Oralist | Nominated |
+| 2026 | AVN Awards | Best Solo/Tease Performance | Nominated |
 | 2026 | AVN Awards | Fan Award: Favorite Cosplayer | **Won** |
 
 ## References

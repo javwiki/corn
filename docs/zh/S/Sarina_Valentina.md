@@ -17,8 +17,8 @@ tags:
 - **名称**: Sarina Valentina
 - **别名**: Alexis Sharp（本名）、Alexis Saige、Alexis
 - **平台**: OnlyFans / Twitter/X / Instagram / ManyVids
-- **出生**: 1988年10月8日，美国宾夕法尼亚州费城（Philadelphia, PA）（Twitter 资料显示为 10 月 6 日）
-- **活跃年代**: 2006 – 2023（约 97 部作品，数据来源：IAFD）
+- **出生**: 1988 年 10 月 8 日，美国宾夕法尼亚州费城（Philadelphia, PA）（Twitter 资料显示为 10 月 6 日）
+- **活跃年代**: 2006–2023（约 97 部作品，数据来源：IAFD）
 - **职业**: 跨性别成人影片演员、魅力模特
 - **国籍**: 美国
 - **族裔**: 高加索白种人
@@ -36,7 +36,7 @@ tags:
 
 Sarina Valentina（本名 Alexis Sharp）出生于美国费城，是一位跨性别成人影片演员和魅力模特。她在青少年时期（约 14 岁）开始性别过渡，接受激素替代疗法（HRT）和睾丸切除术。2007 年以 Alexis 为艺名在 Shemale Yum 网站首次亮相成人业界，早期在 Grooby Productions 等制片厂拍摄独奏内容。2010 年推出个人付费网站，事业逐步扩大。
 
-Valentina 是跨性别成人影片领域的标志性人物之一，与 Evil Angel、Devil's Film、Mile High、Pure Play Media、CX WOW、TransAngels、Kink.com 等主要制片厂均有合作。她在跨性别成人奖项中表现亮眼，曾连续三年（2011–2013）获得 Tranny Awards（现 Transgender Erotica Awards）"最佳独奏模特"奖。此外，她多次获得 AVN 奖"年度跨性别表演者"提名（2013、2014），以及 XRCO、NightMoves、PornHub Awards 等行业奖项提名。
+Valentina 是跨性别成人影片领域的标志性人物之一，与 Evil Angel、Devil's Film、Mile High、Pure Play Media、CX WOW、TransAngels、Kink.com 等主要制片厂均有合作。她在跨性别成人奖项中表现亮眼，曾连续三年（2011–2013）获得 Tranny Awards（现 Transgender Erotica Awards）「最佳独奏模特」奖。此外，她多次获得 AVN 奖「年度跨性别表演者」提名（2013、2014），以及 XRCO、NightMoves、PornHub Awards 等行业奖项提名。
 
 在付费订阅平台方面，Sarina Valentina 活跃于 OnlyFans 和 ManyVids，提供独家成人内容。她在 Twitter/X（@SarinaValentina）拥有约 25.3 万关注者，日常分享生活与工作动态。
 

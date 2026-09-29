@@ -25,9 +25,9 @@ tags:
 
 ## Details
 
-Cory Chase is one of the most prolific MILF (mature-woman) porn actresses in the United States. Since debuting in 2009, she has accumulated more than 1,538 credits on IAFD and has remained active for nearly 20 years. She is known for "stepmother/mature woman" roles and has worked for a long time with mainstream studios including Brazzers, MYLF, Naughty America, Twistys, Reality Kings, and Taboo Heat while also operating her own subscription platform.
+Cory Chase is one of the most prolific MILF (mature woman) adult film actresses in the United States. Since her 2009 debut, she has accumulated more than 1,538 credits on IAFD and has remained active for nearly 20 years. She is known for "stepmother/mature woman" roles and has worked for years with mainstream studios including Brazzers, MYLF, Naughty America, Twistys, Reality Kings, and Taboo Heat while also operating her own subscription platform.
 
-Her career has received numerous awards and nominations. She won the AVN prize "Fan Award: Favorite Indie Clip Star" for three consecutive years (2019–2021) and "Fan Voted: Favorite MILF" at the 2022 Pornhub Awards. In 2026, she won the AVN "Fan Award: Favorite MILF Star." She has also received multiple nominations for "MILF Performer of the Year" and awards from XMA, XRCO, and NightMoves. MYLF named her "MYLF Of The Month" in July 2021 and November 2023.
+Her career has earned numerous awards and nominations. She won the AVN prize "Fan Award: Favorite Indie Clip Star" for three consecutive years (2019–2021) and "Fan Voted: Favorite MILF" at the 2022 Pornhub Awards. In 2026, she won the AVN "Fan Award: Favorite MILF Star." She has also received multiple nominations for "MILF Performer of the Year" and awards from XMA, XRCO, and NightMoves. MYLF named her "MYLF Of The Month" in July 2021 and November 2023.
 
 On social media, Cory Chase has about 340,000 Instagram followers as of February 2026 (accounts mrs.c.chase / CoryChase2.0). Her active Twitter/X account is @CoryChaseXXX. She publishes paid content on OnlyFans and ManyVids, streams on MyFreeCams, and maintains a Linktree directory at linktr.ee/theCoryChase.
 

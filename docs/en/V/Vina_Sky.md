@@ -30,9 +30,9 @@ tags:
 
 ## Details
 
-Vina Sky, born Kelly Nguyen, is a Vietnamese American actress and model in the U.S. adult entertainment industry. She entered around 2018 and had appeared in nearly 580 works by 2026. Her collaborating studios include Jules Jordan, Naughty America, Brazzers, Tushy, Cherry Pimps, Devils Film, Reality Kings, and Nubiles.
+Vina Sky, born Kelly Nguyen, is a Vietnamese American actress and model in the U.S. adult entertainment industry. She entered the industry around 2018 and had appeared in nearly 580 works by 2026. The studios she has worked for include Jules Jordan, Naughty America, Brazzers, Tushy, Cherry Pimps, Devils Film, Reality Kings, and Nubiles.
 
-Vina Sky was born in Houston, Texas, in 1999. She is of Vietnamese descent, 5 feet tall (about 152 cm), weighs about 93 lb (42 kg), and has measurements of 32-22-30. She is known in the industry for her petite, slender Asian figure and gained attention through her petite build and natural body. Her performance categories include female kissing and caressing, vaginal and anal sex, oral-anal sex, and special themes such as bukkake and gangbang.
+Vina Sky was born in Houston, Texas, in 1999. She is of Vietnamese descent, 5 feet tall (about 152 cm), weighs about 93 lb (42 kg), and has measurements of 32-22-30. She is known in the industry for her petite, slender Asian frame and her natural body. She performs in female kissing and caressing, vaginal and anal sex, oral-anal sex, and special themes such as bukkake and gangbang.
 
 Beyond adult films, Vina Sky is active on social and content platforms. She has about 16,600 Instagram followers (@thevinasky) as of April 2026 and is active on TikTok (@vinasky_official), Twitter/X (@VinaSkyy), and OnlyFans (VinaSkyy). CherryPimps selected her as Cherry Of The Month in February 2020, and Nubiles honored her as Fantasy Of The Month in April 2021. She is also a Fleshlight Girl representative.
 

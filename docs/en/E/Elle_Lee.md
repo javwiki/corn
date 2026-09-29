@@ -28,13 +28,13 @@ tags:
 
 ## Details
 
-Elle Lee, whose stage name is Elle Lee and whose aliases include Daintybabyelle, Tiffdiffuwu, elleleeirl, and elleleeuwu, is a Korean-American adult model and adult film actress. She was born in Phoenix, Arizona, on 10 April 1999 and entered the adult entertainment industry in 2022 at about age 23.
+Elle Lee (stage name), also known as Daintybabyelle, Tiffdiffuwu, elleleeirl, and elleleeuwu, is a Korean-American adult model and adult film actress. Born in Phoenix, Arizona, on 10 April 1999, she entered the adult entertainment industry in 2022 at about 23.
 
-Elle Lee rapidly gained momentum within a few years and has worked with prominent adult production companies including Blacked Raw, Vixen, Pornhub, Hustler, Reality Kings, Team Skeet, Throated, Jules Jordan, Evil Angel, Dorcel Vision, and VR Bangers. Her work covers both mainstream and VR content, and she has a notable profile among Asian adult performers.
+Elle Lee rose to prominence within a few years and has worked with prominent adult production companies including Blacked Raw, Vixen, Pornhub, Hustler, Reality Kings, Team Skeet, Throated, Jules Jordan, Evil Angel, Dorcel Vision, and VR Bangers. She has appeared in both mainstream and VR productions and is well known among Asian adult performers.
 
-Elle Lee is active on social media. She has about 345,000 Instagram followers (@elleleeofficial) and about 379,000 Twitter/X followers (@daintybabyelle). She also operates accounts on TikTok (@elleleeofficial), YouTube (@OfficialElleLee), Twitch (xellelee), and Fansly (elleleeofficial), publishes paid content through OnlyFans (daintybabyelle), and uses the website elleleeuwu.com.
+On social media, Elle Lee has about 345,000 Instagram followers (@elleleeofficial) and about 379,000 Twitter/X followers (@daintybabyelle). She also runs accounts on TikTok (@elleleeofficial), YouTube (@OfficialElleLee), Twitch (xellelee), and Fansly (elleleeofficial), publishes paid content through OnlyFans (daintybabyelle), and uses the website elleleeuwu.com.
 
-Elle Lee is 5 feet 5 inches tall (about 165 cm), weighs about 108 pounds (49 kg), and has a slim build. She has black hair, brown eyes, and measurements of 36-26-35 (bust-waist-hips). Her tattoos include text on her left forearm and a design on her left shoulder/upper arm.
+Elle Lee stands 5 feet 5 inches tall (about 165 cm), weighs about 108 pounds (49 kg), and has a slim build. She has black hair, brown eyes, and measurements of 36-26-35 (bust-waist-hips). Her tattoos include text on her left forearm and a design on her left shoulder/upper arm.
 
 ## References
 

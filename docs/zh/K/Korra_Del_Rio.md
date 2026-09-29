@@ -15,8 +15,8 @@ tags:
 - **名称**: Korra Del Rio
 - **别名**: K-Monster、Korra Del Rios
 - **平台**: Instagram @realkorradelrio / X @korradelrio
-- **出生**: 1988年4月27日，美国（威斯康星州密尔沃基）
-- **活跃年代**: 2014 –至今
+- **出生**: 1988 年 4 月 27 日，美国（威斯康星州密尔沃基）
+- **活跃年代**: 2014 – 至今
 - **作品数量**: 413 部（IAFD）
 - **职业**: 跨性别色情演员
 - **身高**: 175 cm
@@ -26,7 +26,7 @@ tags:
 
 ## 详情
 
-Korra Del Rio（1988年4月27日－）是一名美国跨性别（trans woman）色情演员，出生于威斯康星州密尔沃基，家族有德国与墨西哥血统。
+Korra Del Rio（1988 年 4 月 27 日–）是一名美国跨性别（trans woman）色情演员，出生于威斯康星州密尔沃基，家族有德国与墨西哥血统。
 
 她于 2014 年（26 岁）进入跨性别成人影片行业，先后为 Trans Angels、Devil's Film、Grooby Productions、Third World Media、Gender X、Trans500、Evil Angel、Transsensual 等片商出演。代表作品包括《America's Next Top Tranny 20》《My Transexual Lover 2》《Popular T-Girlz》《Smothered By A Shemale》《TS Factor 4》等。
 

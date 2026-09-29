@@ -19,16 +19,16 @@ tags:
 - **名称**: Elle Lee
 - **别名**: Daintybabyelle, Tiffdiffuwu, elleleeirl, elleleeuwu
 - **平台**: Instagram / TikTok / Twitter / OnlyFans / YouTube / Twitch / Fansly
-- **出生**: 1999年4月10日，美国亚利桑那州凤凰城
+- **出生**: 1999 年 4 月 10 日，美国亚利桑那州凤凰城
 - **活跃年代**: 2022 – 至今
 - **职业**: 成人模特、色情女演员
 - **国籍**: 美国
 - **族裔**: 韩美混血
-- **备注**: 以别名 "Daintybabyelle" 活跃于社交媒体
+- **备注**: 以别名 「Daintybabyelle」活跃于社交媒体
 
 ## 详情
 
-Elle Lee（艺名），别名 Daintybabyelle、Tiffdiffuwu、elleleeirl、elleleeuwu，是一位美国韩美混血成人模特和色情女演员。她于1999年4月10日出生在美国亚利桑那州凤凰城，2022年（约23岁时）进入成人娱乐行业。
+Elle Lee（艺名），别名 Daintybabyelle、Tiffdiffuwu、elleleeirl、elleleeuwu，是一位美国韩美混血成人模特和色情女演员。她于 1999 年 4 月 10 日出生在美国亚利桑那州凤凰城，2022 年（约 23 岁时）进入成人娱乐行业。
 
 Elle Lee 在短短几年内迅速走红，曾与多家知名成人制片公司合作，包括 Blacked Raw、Vixen、Pornhub、Hustler、Reality Kings、Team Skeet、Throated、Jules Jordan、Evil Angel、Dorcel Vision、VR Bangers 等。她的作品涵盖主流和 VR 内容，在亚洲裔成人演员中拥有较高知名度。
 

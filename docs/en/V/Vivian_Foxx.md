@@ -18,7 +18,7 @@ tags:
 - **Alias**: Vivian (NVG Network)
 - **Platform**: ManyVids, Naughty America, TeamSkeet, Girlfriends Films, etc.
 - **Born**: Unknown
-- **Active years**: 2021 – 2024
+- **Active years**: 2021–2024
 - **Number of works**: 46 (IAFD records)
 - **Occupation**: Adult film actress, model
 - **Nationality**: United States
@@ -37,9 +37,9 @@ tags:
 
 ## Details
 
-Vivian Foxx is an American adult film actress who entered the industry in 2021. She has worked mainly with well-known production platforms including Naughty America, TeamSkeet, Girlfriends Films, and NVG Network. Her work covers heterosexual, lesbian, and other adult genres.
+Vivian Foxx is an American adult film actress who entered the industry in 2021. She has worked mainly with well-known production companies including Naughty America, TeamSkeet, Girlfriends Films, and NVG Network. She has worked in heterosexual, lesbian, and other adult genres.
 
-Foxx is known for her full figure (34D breasts) and black hair. She also has personal content on ManyVids, including oral-anal and gangbang scenes. The "Foxx" in her stage name uses a double x, unlike the more common single-x spelling, and she is sometimes credited simply as "Vivian" in some works.
+Foxx is known for her full figure (34D breasts) and black hair. She also has personal content on ManyVids, including oral-anal and gangbang scenes. The "Foxx" in her stage name uses a double x, unlike the more common single-x spelling, and she is sometimes credited simply as "Vivian."
 
 Her co-stars include Mila Taylor and other women who have also appeared with male performers from major studios. As of 2024, IAFD listed 46 of her works.
 

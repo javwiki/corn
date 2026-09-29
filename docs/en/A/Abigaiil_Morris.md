@@ -27,7 +27,7 @@ tags:
 
 ## Details
 
-Abigail Morris is an American adult film actress, model, and digital content creator born in Ohio. She first gained attention through Instagram, cosplay, fashion modeling, and livestream content, and previously worked in data analysis, retail, and film sets.
+Abigail Morris is an American adult film actress, model, and digital content creator born in Ohio. She first gained attention through Instagram, cosplay, fashion modeling, and livestream content, and previously worked in data analysis, retail, and on film sets.
 
 Around 2018, she began producing independent web content. In 2021, she entered the professional adult film industry through companies including Reality Kings. She has since worked with Brazzers, RK Prime, and others while continuing to create content directly for fans on OnlyFans, livestreaming platforms, and social media.
 

@@ -16,7 +16,7 @@ tags:
 - **名称**: Natasha Teen
 - **别名**: Natasha 10 / Natasha10 / natashaa_10（Chaturbate）
 - **平台**: Instagram / Twitter / OnlyFans / Chaturbate
-- **出生**: 1990年11月27日，哥伦比亚麦德林（Medellín, Colombia）
+- **出生**: 1990 年 11 月 27 日，哥伦比亚麦德林（Medellín, Colombia）
 - **活跃年代**: 2018 – 至今
 - **作品数量**: 182 部（来源：IAFD）
 - **职业**: 色情女演员、模特、角色扮演者（Cosplayer）

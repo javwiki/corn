@@ -18,8 +18,8 @@ tags:
 - **平台**: Twitter / Instagram / OnlyFans / CashApp / Venmo
 - **出生**: 约 2002 年（24 岁）
 - **国籍**: 🇨🇳 中国（Chinese American）
-- **现居**: 美国加利福尼亚州洛杉矶 (Los Angeles, CA)
-- **活跃年份**: 2021–至今（至少至 2026 年）
+- **现居**: 美国加利福尼亚州洛杉矶（Los Angeles, CA）
+- **活跃年份**: 2021 – 至今（至少至 2026 年）
 - **职业**: 模特、社交媒体影响者、成人内容创作者
 - **代词**: they/them
 - **Twitter**: @luluchuofficial（约 56.3 万粉丝，5,950+ 推文，加入于 2019 年 9 月）
@@ -30,7 +30,7 @@ tags:
 
 ## 详情
 
-Lulu Chu（约 2002 年生，24 岁）是一名中国裔美国成人内容创作者与社交媒体影响者，现居洛杉矶。她在 Twitter（@luluchuofficial）拥有约 56.3 万粉丝，自 2019 年入驻，并使用 they/them 代词。她的 Twitter 简介注明"18+ ONLY"，并通过 OnlyFans、CashApp 和 Venmo 发布独家付费内容。备份账户为 @yrlocalpornstar。
+Lulu Chu（约 2002 年生，24 岁）是一名中国裔美国成人内容创作者与社交媒体影响者，现居洛杉矶。她在 Twitter（@luluchuofficial）拥有约 56.3 万粉丝，自 2019 年入驻，并使用 they/them 代词。她的 Twitter 简介注明「18+ ONLY」，并通过 OnlyFans、CashApp 和 Venmo 发布独家付费内容。备份账户为 @yrlocalpornstar。
 
 职业生涯方面，Lulu 于 2021 年 10 月与 Reality Kings 签订独家合约，同时被业界知名厂牌签入。她曾出演 Kayden Kross 编剧兼导演的 Deeper 工作室旗舰系列剧集 **Muse**（2020–2021），该剧集在 AVN 奖中斩获多项大奖，包括 Grand Reel、最佳导演（剧情片）、最佳剧本（剧情片）、最佳剪辑和最佳摄影。她在 *Muse* 第二季中饰演工作/家庭失衡的职业女性角色，成为该剧集的核心演员之一。
 

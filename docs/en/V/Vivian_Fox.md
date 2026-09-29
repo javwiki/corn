@@ -23,11 +23,11 @@ tags:
 
 ## Details
 
-Vivian Fox is an American adult film actress. Public information lists her as born in Austin, Texas, on 22 March 1996. She participates in adult content under the stage name Vivian Fox, which should be distinguished from the existing Vivian Foxx entry in the repository.
+Vivian Fox is an American adult film actress. Public sources list her as born in Austin, Texas, on 22 March 1996. She works under the stage name Vivian Fox and should not be confused with the unrelated performer Vivian Foxx.
 
-Fox began appearing in public film records around 2021 and later participated in Girlfriends Films' women-with-women productions. The official Girlfriends Films blog discussed her appearances in *Women Seeking Women 184* and *Lesbian Massage Club 1* and published her Fleshbot interview.
+Fox began appearing in public film records around 2021 and later took part in Girlfriends Films' women-with-women productions. The official Girlfriends Films blog has covered her appearances in *Women Seeking Women 184* and *Lesbian Massage Club 1* and published her Fleshbot interview.
 
-Because little verifiable public information is currently available, this entry does not list unconfirmed aliases, platform accounts, or a total number of works. It can be updated if IAFD or another reliable database provides additional information.
+Verifiable public information on her remains limited: no aliases, platform accounts, or total number of works have been confirmed.
 
 ## References
 

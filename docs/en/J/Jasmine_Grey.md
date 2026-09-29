@@ -32,7 +32,7 @@ Jasmine Grey entered the industry in the early 2000s and appeared primarily in p
 
 On 10 December 2005, Jasmine Grey died in a car accident at only 21. Her premature death prompted mourning among fans and colleagues. Platforms including CandyGirlVideo and GlamourCon created memorial pages for her. IMDb also records her real name, Michelle Suzanne Grayshaw, to preserve her credits.
 
-Jasmine Grey is buried in Ohio, and Find a Grave has a memorial page for her. She is also one of the glamour models included in Boobpedia.
+Jasmine Grey was buried in Ohio, and Find a Grave has a memorial page for her. She is also among the glamour models listed in Boobpedia.
 
 ## References
 

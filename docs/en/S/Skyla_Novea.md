@@ -26,7 +26,7 @@ tags:
 - **Alias**: Ginger Elle / Ginger Ellee / Percilla Riclof / Abby
 - **Platform**: OnlyFans (skylanoveaxxx), Instagram, Twitter/X, YouTube
 - **Born**: 7 May 1994, Miami, Florida, United States
-- **Active years**: 2013 – 2024
+- **Active years**: 2013–2024
 - **Number of works**: 191 (IAFD records)
 - **Occupation**: Adult film actress, adult model, influencer
 - **Notes**: Bisexual; underwent breast augmentation from C to DD in January 2016; English/Dutch heritage

@@ -32,19 +32,19 @@ She entered the adult industry at the end of 2020 at age 20 and has since worked
 
 |Year|Awards|Category|Result|
 |---|---|---|---|
-| 2022 | AVN Awards |Best Trans Newcomer|Won|
-| 2022 | AVN Awards |Best Trans Sex Scene (*His First Trans Encounter 2*)|Nominated|
-| 2022 | AVN Awards |Best Trans Group Sex Scene (*Take a Ride on the Trans Train 2*, *Trans Pool Party 3*)|Nominated|
-| 2022 | XBIZ Awards |Trans Performer of the Year / Best Trans Sex Scene (*Jade Venus: Trans Superstar*, *Kept*)|Nominated|
-| 2023 | AVN Awards |Best Trans Sex Scene (*PansexualX Porn Crush 4*)|Won|
-| 2023 | AVN Awards |Trans Performer of the Year / Best Trans Film Performance (*Neighborly Greetings*)|Nominated|
-| 2024 | AVN Awards |Performer of the Year, film performance, sex scene, group scene|Nominated|
-| 2024 | XBIZ Awards |Performer of the Year / Best Trans Sex Scene|Nominated|
-| 2025 | AVN Awards |Best Trans Sex Scene (*Trans Slumber Party*)|Won|
-| 2025 | AVN Awards |Best Trans Group Sex Scene (*Gorgons & Goddesses*)|Won|
-| 2025 | XMA Awards |Best Trans Sex Scene (*Gorgons & Goddesses*)|Won|
-| 2026 | XMA Awards |Best Trans Sex Scene (*Trans Orgy*)|Won|
-| 2026 | AVN Awards / XMA Awards |Performer of the Year, film performance, group scenes, etc.|Nominated|
+| 2022 | AVN Awards | Best Trans Newcomer | Won |
+| 2022 | AVN Awards | Best Trans Sex Scene (*His First Trans Encounter 2*) | Nominated |
+| 2022 | AVN Awards | Best Trans Group Sex Scene (*Take a Ride on the Trans Train 2*, *Trans Pool Party 3*) | Nominated |
+| 2022 | XBIZ Awards | Trans Performer of the Year / Best Trans Sex Scene (*Jade Venus: Trans Superstar*, *Kept*) | Nominated |
+| 2023 | AVN Awards | Best Trans Sex Scene (*PansexualX Porn Crush 4*) | Won |
+| 2023 | AVN Awards | Trans Performer of the Year / Best Trans Film Performance (*Neighborly Greetings*) | Nominated |
+| 2024 | AVN Awards | Performer of the Year, film performance, sex scene, group scene | Nominated |
+| 2024 | XBIZ Awards | Performer of the Year / Best Trans Sex Scene | Nominated |
+| 2025 | AVN Awards | Best Trans Sex Scene (*Trans Slumber Party*) | Won |
+| 2025 | AVN Awards | Best Trans Group Sex Scene (*Gorgons & Goddesses*) | Won |
+| 2025 | XMA Awards | Best Trans Sex Scene (*Gorgons & Goddesses*) | Won |
+| 2026 | XMA Awards | Best Trans Sex Scene (*Trans Orgy*) | Won |
+| 2026 | AVN Awards / XMA Awards | Performer of the Year, film performance, group scenes, etc. | Nominated |
 
 ## References
 

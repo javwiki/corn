@@ -34,11 +34,11 @@ tags:
 
 ## Details
 
-Izzy Wilde, born 1 November 1996, is an American transgender adult film actress, model, and content creator. She entered the adult industry in 2020 at about 24 and quickly became visible in transgender adult films under the name Izzy Wilde. As of 2025, IAFD listed about 200 credits.
+Izzy Wilde, born 1 November 1996, is an American transgender adult film actress, model, and content creator. She entered the adult industry in 2020 at about 24 and quickly established herself in transgender adult productions as Izzy Wilde. As of 2025, IAFD listed about 200 credits.
 
-During her career, Izzy worked with well-known adult companies including Grooby Productions, Evil Angel, TransAngels, Gender X Films, AdultTime, Devil's Film, Kink.com, Pornbox, and ManyVids. She is known for her active participation in transgender (TS) genres and has often taken a leading role in group scenes.
+During her career, Izzy worked with well-known adult companies including Grooby Productions, Evil Angel, TransAngels, Gender X Films, AdultTime, Devil's Film, Kink.com, Pornbox, and ManyVids. She is known for her active involvement in transgender (TS) genres and has often taken the lead in group scenes.
 
-Izzy's performances have been recognized by several major industry awards. She received multiple AVN Award nominations, including Best Trans Newcomer (2022) and Trans Performer of the Year (2023, 2024, and 2025), and won Best Trans Group Sex Scene in consecutive years in 2024 and 2025. At the Transgender Erotica Awards (TEA), she won the Fan Choice Award in 2022 and 2023. In 2024, she also won Best Bi Sex Scene at the GayVN Awards for *Call Center Cocks (II)*.
+Her performances have been recognized by several major industry awards. She received multiple AVN Award nominations, including Best Trans Newcomer (2022) and Trans Performer of the Year (2023, 2024, and 2025), and won Best Trans Group Sex Scene in both 2024 and 2025. At the Transgender Erotica Awards (TEA), she won the Fan Choice Award in 2022 and 2023. In 2024, she also won Best Bi Sex Scene at the GayVN Awards for *Call Center Cocks (II)*.
 
 In September 2024, Izzy underwent gender affirmation surgery (bottom surgery). On 14 February 2025 (Valentine's Day), she held a livestream titled "Valentine's Day Pussy Reveal" under her new name Zoe Summers, publicly marking the completion of her transition on her personal website ZoeSummers.com. Subsequent work was released under Zoe Summers.
 
@@ -46,30 +46,30 @@ In September 2024, Izzy underwent gender affirmation surgery (bottom surgery). O
 
 |Year|Awards|Category|Result|
 |---|---|---|---|
-| 2021 | Fleshbot Awards (Trans) |7 nominations (including Performer of the Year, Best Ass, and Best Social Media Personality)|Nominated|
-| 2021 | Transgender Erotica Awards | Best Girl-Girl Scene, Best Hardcore Performer, Best Internet Personality, Best New Face, Best Solo Model |Nominated|
-| 2022 | AVN Awards | Best Trans Newcomer |Nominated|
-| 2022 | AVN Awards | Best Trans Group Sex Scene – *TS Girls On Top 5* |Nominated|
-| 2022 | XBiz Awards | Trans Performer of the Year |Nominated|
-| 2022 | Transgender Erotica Awards | Fan Choice Award |Won|
-| 2022 | Transgender Erotica Awards |7 other nominations|Nominated|
-| 2023 | AVN Awards | Trans Performer of the Year |Nominated|
-| 2023 | AVN Awards | Best Thespian – Trans/X – *Black Sheep* |Nominated|
-| 2023 | AVN Awards | Best Trans Group Sex Scene – *Two Cucks In A Pod* |Nominated|
-| 2023 | AVN Awards | Best Trans One-on-One Sex Scene – *Black Sheep* |Nominated|
-| 2023 | Transgender Erotica Awards | Fan Choice Award |Won|
+| 2021 | Fleshbot Awards (Trans) | 7 nominations (including Performer of the Year, Best Ass, and Best Social Media Personality) | Nominated |
+| 2021 | Transgender Erotica Awards | Best Girl-Girl Scene, Best Hardcore Performer, Best Internet Personality, Best New Face, Best Solo Model | Nominated |
+| 2022 | AVN Awards | Best Trans Newcomer | Nominated |
+| 2022 | AVN Awards | Best Trans Group Sex Scene – *TS Girls On Top 5* | Nominated |
+| 2022 | XBiz Awards | Trans Performer of the Year | Nominated |
+| 2022 | Transgender Erotica Awards | Fan Choice Award | Won |
+| 2022 | Transgender Erotica Awards | 7 other nominations | Nominated |
+| 2023 | AVN Awards | Trans Performer of the Year | Nominated |
+| 2023 | AVN Awards | Best Thespian – Trans/X – *Black Sheep* | Nominated |
+| 2023 | AVN Awards | Best Trans Group Sex Scene – *Two Cucks In A Pod* | Nominated |
+| 2023 | AVN Awards | Best Trans One-on-One Sex Scene – *Black Sheep* | Nominated |
+| 2023 | Transgender Erotica Awards | Fan Choice Award | Won |
 | 2024 | AVN Awards | Best Trans Group Sex Scene – *Horny Golden Goddesses* | **Won** |
-| 2024 | AVN Awards | Trans Performer of the Year |Nominated|
-| 2024 | AVN Awards | Best Thespian – Trans/X – *Country Girls Do It Better* |Nominated|
-| 2024 | AVN Awards | Best Trans One-on-One Sex Scene – *Trans Am* |Nominated|
-| 2024 | AVN Awards | Fan Award: Favorite Trans Porn Star |Nominated|
+| 2024 | AVN Awards | Trans Performer of the Year | Nominated |
+| 2024 | AVN Awards | Best Thespian – Trans/X – *Country Girls Do It Better* | Nominated |
+| 2024 | AVN Awards | Best Trans One-on-One Sex Scene – *Trans Am* | Nominated |
+| 2024 | AVN Awards | Fan Award: Favorite Trans Porn Star | Nominated |
 | 2024 | GayVN Awards | Best Bi Sex Scene – *Call Center Cocks (II)* | **Won** |
 | 2025 | AVN Awards | Best Trans Group Sex Scene – *Gorgons and Goddesses* | **Won** |
-| 2025 | AVN Awards | Transgender Performer of the Year |Nominated|
-| 2025 | AVN Awards | Best Trans Group Sex Scene – *Turning Up The Heat* |Nominated|
-| 2025 | AVN Awards | Best VR Trans Sex Scene – *Let's Have Some Fun (IV)* |Nominated|
-| 2025 | XMA Fan Awards | Favorite Trans Performer |Nominated|
-| 2025 | XRCO Awards | Trans Performer of the Year |Nominated|
+| 2025 | AVN Awards | Transgender Performer of the Year | Nominated |
+| 2025 | AVN Awards | Best Trans Group Sex Scene – *Turning Up The Heat* | Nominated |
+| 2025 | AVN Awards | Best VR Trans Sex Scene – *Let's Have Some Fun (IV)* | Nominated |
+| 2025 | XMA Fan Awards | Favorite Trans Performer | Nominated |
+| 2025 | XRCO Awards | Trans Performer of the Year | Nominated |
 
 ## References
 

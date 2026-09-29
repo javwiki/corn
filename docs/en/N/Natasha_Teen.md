@@ -24,9 +24,9 @@ tags:
 
 ## Details
 
-Natasha Teen is a Colombian adult film actress, model, and role-player from Medellín. She entered the industry around 2018 and quickly gained recognition for her blonde, blue-eyed appearance and full figure. She is especially known for anal scenes and high-intensity performances such as double anal penetration (DAP), triple anal penetration (TAP), and fisting, giving her considerable recognition among performers in those genres.
+Natasha Teen is a Colombian adult film actress, model, and role-player from Medellín. She entered the industry around 2018 and quickly gained recognition for her blonde, blue-eyed appearance and full figure. She is especially known for anal scenes and high-intensity performances such as double anal penetration (DAP), triple anal penetration (TAP), and fisting, which have made her a recognizable name among performers in those genres.
 
-In 2020, Natasha Teen received the Spank Bank Technical Award "Relentlessly Insatiable" and was nominated for three Spank Bank Awards: Gangbanged Girl of the Year, Triple Anal Performer of the Year, and Double Anal Performer of the Year, further strengthening her reputation in anal-themed work.
+In 2020, Natasha Teen received the Spank Bank Technical Award "Relentlessly Insatiable" and was nominated for three Spank Bank Awards — Gangbanged Girl of the Year, Triple Anal Performer of the Year, and Double Anal Performer of the Year — further strengthening her reputation for anal-themed work.
 
 In addition to traditional adult films, Natasha Teen has worked extensively in virtual-reality adult content, producing videos for platforms such as VirtualTaboo, VR Bangers, and DarkroomVR. She is also active on social media, with about 71,000 Instagram followers, sharing work, everyday life, and role-play content.
 

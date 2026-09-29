@@ -33,7 +33,7 @@ tags:
 
 ## Details
 
-Skye Blue is an American adult film actress and model who has accumulated about 314 works since debuting in 2015 (source: IAFD). She is known for her blonde, blue-eyed appearance, full 32D figure, and lively performance style, and has worked with well-known studios including Brazzers, Naughty America, Blacked, Vixen, MetArt, and Jules Jordan Video. Her work covers heterosexual, lesbian (LezOnly), and virtual-reality content, and in recent years she has also developed her own creator direction and appeared on subscription platforms such as OnlyFans and Fansly.
+Skye Blue is an American adult film actress and model with about 314 credited works since her 2015 debut (source: IAFD). She is known for her blonde, blue-eyed appearance, her full 32D bust, and her lively performance style, and has worked with well-known studios including Brazzers, Naughty America, Blacked, Vixen, MetArt, and Jules Jordan Video. Her scenes have included heterosexual, lesbian (LezOnly), and virtual-reality content, and in recent years she has also built a following as a creator, appearing on subscription platforms such as OnlyFans and Fansly.
 
 Skye Blue has received multiple industry nominations. In 2023, she received five AVN Award nominations for *Torn (II)*, *Taste of Kunst 1*, and *Mean Girls*: Best All-Girl Group Sex Scene, Best International All-Female Sex Scene, Best Solo/Tease Performance, Best Supporting Actress, and Best Virtual Reality Sex Scene. In 2024, she received three more AVN Fan Award nominations: Favorite Porn Star Creator, Hottest All-Girl Creator Collab, and Most Spectacular Boobs. She was also nominated in 2020 by Spank Bank Awards for Best Body Built For Sin and in 2025 by XMA Fan Awards for Favorite Girl/Girl Performer.
 
@@ -43,16 +43,16 @@ On social media, Skye Blue is active on Twitter/X (@skyebluewantsu) and Instagra
 
 |Year|Awards|Category|Work|Result|
 |---|---|---|---|---|
-| 2023 | AVN Award | Best All-Girl Group Sex Scene | Torn (II) |Nominated|
-| 2023 | AVN Award | Best International All-Female Sex Scene | Taste of Kunst 1 |Nominated|
-| 2023 | AVN Award | Best Solo/Tease Performance | Taste of Kunst 1 |Nominated|
-| 2023 | AVN Award | Best Supporting Actress | Taste of Kunst 1 |Nominated|
-| 2023 | AVN Award | Best Virtual Reality Sex Scene | Mean Girls |Nominated|
-| 2024 | AVN Award | Fan Award: Favorite Porn Star Creator | — |Nominated|
-| 2024 | AVN Award | Fan Award: Hottest All-Girl Creator Collab | — |Nominated|
-| 2024 | AVN Award | Fan Award: Most Spectacular Boobs | — |Nominated|
-| 2020 | Spank Bank Award | Best Body Built For Sin | — |Nominated|
-| 2025 | XMA Fan Award | Favorite Girl/Girl Performer | — |Nominated|
+| 2023 | AVN Award | Best All-Girl Group Sex Scene | Torn (II) | Nominated |
+| 2023 | AVN Award | Best International All-Female Sex Scene | Taste of Kunst 1 | Nominated |
+| 2023 | AVN Award | Best Solo/Tease Performance | Taste of Kunst 1 | Nominated |
+| 2023 | AVN Award | Best Supporting Actress | Taste of Kunst 1 | Nominated |
+| 2023 | AVN Award | Best Virtual Reality Sex Scene | Mean Girls | Nominated |
+| 2024 | AVN Award | Fan Award: Favorite Porn Star Creator | — | Nominated |
+| 2024 | AVN Award | Fan Award: Hottest All-Girl Creator Collab | — | Nominated |
+| 2024 | AVN Award | Fan Award: Most Spectacular Boobs | — | Nominated |
+| 2020 | Spank Bank Award | Best Body Built For Sin | — | Nominated |
+| 2025 | XMA Fan Award | Favorite Girl/Girl Performer | — | Nominated |
 
 ## References
 

@@ -20,9 +20,9 @@ tags:
 
 ## Details
 
-Jennifer Exxotic is an adult actress who performs under this stage name. Publicly available information is limited and not yet reliable enough to confirm her birth information, aliases, nationality, or complete professional history, so this entry includes only information confirmed in public databases.
+Jennifer Exxotic is an adult film actress who performs under that stage name. Publicly available information is limited and not yet reliable enough to confirm her birth information, aliases, nationality, or complete professional history; only facts confirmed in public databases are reported here.
 
-Jennifer Exxotic's IMDb profile shows a public performance record dating back at least to 2022, including work in the Brazzers Exxtra series; her performer credit appears on the page for *Sneaky Anal Massage*. Her complete credit total and other professional information will be supplemented when more verifiable sources become available.
+Jennifer Exxotic's IMDb profile shows a public performance record dating back at least to 2022, including work in the Brazzers Exxtra series; her performer credit appears on the page for *Sneaky Anal Massage*. Her complete credit total and other professional details remain unverified.
 
 ## References
 

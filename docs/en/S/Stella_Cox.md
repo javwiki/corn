@@ -23,7 +23,7 @@ tags:
 
 ## Details
 
-Stella Cox is a well-known adult film actress and model from Rome, Italy, who has remained active since entering the industry in 2013. She is known for her natural 32D breasts and petite 163 cm frame, and is one of the representative faces of the European adult industry.
+Stella Cox is a well-known adult film actress and model from Rome, Italy, who has remained active since entering the industry in 2013. She is known for her natural 32D bust and petite 163 cm frame, and is one of the most recognizable figures in the European adult industry.
 
 Stella's career spans more than a decade and includes double penetration (DP), oral, anal, group, and lesbian scenes. She has worked with prominent brands and studios including Brazzers, Kink.com, DDF Network, Monty's POV, Blacks On Blondes, Fake Driving School, Fake Agent, Private, and Viv Thomas. Her work is popular online, with more than 592 videos and 215 million views on xHamster, and more than 477 videos and nearly 280 million views on Pornhub.
 

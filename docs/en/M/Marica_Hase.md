@@ -25,11 +25,11 @@ tags:
 
 ## Details
 
-Marica Hase was born in Tokyo and debuted under the name Marika Hase (長谷真理香) while working as a gravure model. In 2009, she entered the adult video (AV) industry after receiving a special award at the SOD Star Cinderella audition and released her first production that December. From 2010, she worked with leading AV companies including Moodyz, Cross (クロス), and Japan Home Video. In 2012, she entered the U.S. market and became one of the very few performers to transition successfully from Japanese AV to the U.S. adult industry.
+Marica Hase was born in Tokyo and debuted under her real name, Marika Hase (長谷真理香), while working as a gravure model. In 2009, after receiving a special award at an SOD Star Cinderella audition, she entered the adult video (AV) industry and released her first production that December. From 2010, she worked with leading AV companies including Moodyz, Cross (クロス), and Japan Home Video. In 2012, she entered the U.S. market and became one of the very few performers to transition successfully from Japanese AV to the U.S. adult industry.
 
 In January 2013, Marica Hase was selected as Penthouse's Pet of the Month, becoming the first Japanese woman to receive that honor. She subsequently worked with leading U.S. studios including Brazzers, Evil Angel, Kink.com, Wicked Pictures, and Bang Bros. As of 2025, she had about 125,000 Pornhub subscribers and more than 146 million video views.
 
-In early 2019, she publicly disclosed that she had been diagnosed with breast cancer at the end of 2018 and raised approximately \$50,000 through GoFundMe for a bilateral mastectomy and reconstruction. She donated the remaining funds to City of Hope National Medical Center in California.
+In early 2019, she publicly disclosed that she had been diagnosed with breast cancer at the end of 2018, and raised approximately \$50,000 through GoFundMe to fund a bilateral mastectomy and reconstruction. She donated the remaining funds to City of Hope National Medical Center in California.
 
 ---
 
@@ -39,7 +39,7 @@ In early 2019, she publicly disclosed that she had been diagnosed with breast ca
 |------|------|
 |Height|5 feet 2 inches (approximately 157 cm)|
 |Weight|100 pounds (approximately 45 kg)|
-|Measurements| 33DDD-30-34 |
+| Measurements | 33DDD-30-34 |
 |Hair color|Black|
 |Eyes|Brown|
 |Ethnicity|Asian (Japan)|

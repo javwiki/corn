@@ -16,7 +16,7 @@ tags:
 - **名称**: Skylar Vox
 - **别名**: Dylan Vox, Dylan Voxe, Dylann (NVG Network), Dylann Vox
 - **平台**: OnlyFans、ManyVids、Twitter、Instagram
-- **出生**: 2000年1月9日，美国佛罗里达州迈阿密（26岁）
+- **出生**: 2000 年 1 月 9 日，美国佛罗里达州迈阿密（26 岁）
 - **活跃年代**: 2019 – 至今（约 19 岁出道）
 - **作品数量**: 309 部（来源：IAFD）
 - **职业**: 色情女演员、模特
@@ -27,9 +27,9 @@ tags:
 
 Skylar Vox 是一位美国成人影片演员，以约 19 岁之龄于 2019 年出道，迅速凭借其丰满的胸部（34DD）和娇小的身材（5 尺 2 寸）在业界崭露头角。她出生于佛罗里达州迈阿密，早期以 Dylan Vox 等别名在 NVG Network 旗下活动，后改用 Skylar Vox 作为主要艺名。
 
-她的职业生涯起步于 POV 和casting类影片，合作过多家一线发行商，包括 Brazzers、Evil Angel、Naughty America、Vixen、Bang Bros 等。其社交平台活跃度极高，在 OnlyFans、ManyVids、Twitter 和 Instagram（@theskylarvox_）上拥有大量粉丝。2025 年数据显示她仍处于活跃状态，持续产出新作。
+她的职业生涯起步于 POV 和 casting 类影片，合作过多家一线发行商，包括 Brazzers、Evil Angel、Naughty America、Vixen、Bang Bros 等。其社交平台活跃度极高，在 OnlyFans、ManyVids、Twitter 和 Instagram（@theskylarvox_）上拥有大量粉丝。2025 年数据显示她仍处于活跃状态，持续产出新作。
 
-Skylar Vox 曾获得多项行业奖项提名：2021 年 AVN Awards 提名"最佳新人奖"和"最火辣新人奖"；2020 年 Spank Bank Awards 提名"年度丰腴美"和"继女/继姐年度人物"；2021 年 XRCO Awards 提名"个人最爱"和"青少年之梦"，以及 Nightmoves 奖项提名及获奖。
+Skylar Vox 曾获得多项行业奖项提名：2021 年 AVN Awards 提名「最佳新人奖」和「最火辣新人奖」；2020 年 Spank Bank Awards 提名「年度丰腴美」和「继女/继姐年度人物」；2021 年 XRCO Awards 提名「个人最爱」和「青少年之梦」，以及 Nightmoves 奖项提名及获奖。
 
 2021 年她出演了《Big Naturals 53》《Women Seeking Women 181》《Women Seeking Women 182》等作品。
 

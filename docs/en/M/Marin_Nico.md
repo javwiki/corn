@@ -21,9 +21,9 @@ tags:
 
 ## Details
 
-Marin Nico, also known as Marin Niko, is a Japanese adult film actress born in 2003. She debuted around 2025, primarily performing in hardcore productions involving heterosexual sex (oral sex, vaginal intercourse, double insemination, and creampie) as well as solo nudity and masturbation. Babepedia lists black hair, a height of about 5 feet 3 inches (160 cm), measurements of 35-23-33, and breast augmentation.
+Marin Nico, also known as Marin Niko, is a Japanese adult film actress born in 2003. She debuted around 2025, working mainly in hardcore productions involving heterosexual sex (oral sex, vaginal intercourse, double insemination, and creampie) as well as solo nudity and masturbation. According to Babepedia, she has black hair, a height of about 5 feet 3 inches (160 cm), measurements of 35-23-33, and breast augmentation.
 
-On social media, she is active on Instagram as @marinnico.official and had approximately 2,000 followers when the information was recorded. Her work has been distributed through channels including iStripper.
+She is active on Instagram as @marinnico.official, with approximately 2,000 followers when the information was recorded. Her work has been distributed through channels including iStripper.
 
 ## References
 

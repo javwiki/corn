@@ -25,9 +25,9 @@ tags:
 
 ## Details
 
-Lexi Luna is an American adult film actress known for MILF roles and called "The Gentleman's Porn Star" by fans. She entered the adult film industry in 2016 after working as a primary-school teacher for five years. Luna said the low pay and social isolation of teaching led her to explore sexuality and relationships through online communities such as FetLife, where she was eventually discovered by adult companies.
+Lexi Luna is an American adult film actress known for MILF roles and nicknamed "The Gentleman's Porn Star" by fans. She entered the adult film industry in 2016 after five years as a primary-school teacher. Luna has said that the low pay and social isolation of teaching drove her to explore her sexuality through online communities such as FetLife, where adult companies eventually discovered her.
 
-After entering the industry, Luna developed a highly recognizable screen persona: a confident, proactive, self-assured mature woman. She is known for playing "step-mom" and other roles and usually directs the pace of a scene. Her work on Pornhub has received more than 411 million views. In addition to traditional films, she offered customized video services through OnlyFans, reportedly costing as much as \$100 per minute. During the 2023 Hawaii wildfires, she held a charity show at CamSoda to raise money for victims.
+After entering the industry, Luna developed a highly recognizable screen persona: a confident, assertive mature woman. She is known for playing "step-mom" and similar roles and usually sets the pace of a scene. Her work on Pornhub has drawn more than 411 million views. Alongside traditional films, she offers customized video services through OnlyFans, reportedly costing as much as \$100 a minute. During the 2023 Hawaii wildfires, she staged a charity show at CamSoda to raise money for victims.
 
 Luna is one of the Adult Time brand ambassadors, alongside Lauren Phillips, Siri Dahl, and Leana Lovings. She has received many industry awards, including NightMoves Miss Congeniality in 2017, Pornhub's Most Popular MILF in 2025, XRCO MILF Performer of the Year in 2025, the AVN MILF Performer of the Year award in 2026, and Doppio Senso Night's Best International MILF award in 2026.
 

@@ -36,20 +36,20 @@ tags:
 
 |Characteristic|Details|
 |------|------|
-|Height| 5'1" (154 cm) |
-|Weight| 125 lb (57 kg) |
+| Height | 5'1" (154 cm) |
+| Weight | 125 lb (57 kg) |
 |Body type|Athletic|
 |Hair color|Brown (dyed pink after July 2022)|
 |Eyes|Brown|
-|Measurements| 32–25–38 (bust–waist–hips) |
+| Measurements | 32–25–38 (bust–waist–hips) |
 |Bust/cup|32H cup|
-|International equivalents| UK: 32G, EU: 70H, AU: 10H, JP: 70H |
+| International equivalents | UK: 32G, EU: 70H, AU: 10H, JP: 70H |
 |Breasts|Implants/enhanced (700 cc silicone implants in July 2022)|
 |Other|Brazilian buttock lift in February 2023|
 
 ## Career
 
-Lily Lou is an American adult film actress, model, and social media influencer from Washington, D.C., active in adult entertainment since 2015 at about 18. She has 273 performer credits on IAFD and has appeared in more than 275 films.
+Lily Lou is an American adult film actress, model, and social media influencer from Washington, D.C., who entered adult entertainment in 2015 at about 18. She has 273 performer credits on IAFD and has appeared in more than 275 films.
 
 She was Twistys' Treat Of The Month in February 2024 and is known for her work in anal sex, squirting, group scenes, and fetish themes.
 
@@ -75,10 +75,10 @@ She was Twistys' Treat Of The Month in February 2024 and is known for her work i
 
 |Type|Contents|
 |------|------|
-| Solo |Nudity, masturbation, dildos, dildo oral sex, creampie commands, anal sex, fisting|
-| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex, fisting, anal sex|
-| Boy/Girl |Oral sex, vaginal intercourse, fisting, anal sex, double penetration, creampie, facial|
-| Special |Golden shower, bukkake, squirting, group sex|
+| Solo | Nudity, masturbation, dildos, dildo oral sex, creampie commands, anal sex, fisting |
+| Girl/Girl | Kissing, breast touching, breast licking, fingers, dildos, oral sex, fisting, anal sex |
+| Boy/Girl | Oral sex, vaginal intercourse, fisting, anal sex, double penetration, creampie, facial |
+| Special | Golden shower, bukkake, squirting, group sex |
 
 ## Social media
 
@@ -95,7 +95,7 @@ She was Twistys' Treat Of The Month in February 2024 and is known for her work i
 
 ## Personal life
 
-Lily Lou was born in Washington, D.C. Her career is divided into two phases: early brown hair and natural breasts; after July 2022, she changed her image substantially, dyeing her hair pink and undergoing augmentation with 700 cc silicone implants, followed by a Brazilian buttock lift in February 2023. The transition sparked broad discussion among fans: some miss her earlier natural image, while others feel she became much more popular after receiving the large implants.
+Lily Lou was born in Washington, D.C. Her career divides into two phases: an early one of brown hair and natural breasts, and, after July 2022, a second phase in which she changed her image substantially, dyeing her hair pink and undergoing augmentation with 700 cc silicone implants, followed by a Brazilian buttock lift in February 2023. The change sparked broad discussion among fans: some miss her earlier natural look, while others feel she has become much more popular since getting the large implants.
 
 ## References
 

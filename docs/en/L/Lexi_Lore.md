@@ -41,14 +41,14 @@ tags:
 
 |Characteristic|Details|
 |------|------|
-|Height| 5'5" (165 cm) |
-|Weight| 105 lb (48 kg) |
+| Height | 5'5" (165 cm) |
+| Weight | 105 lb (48 kg) |
 |Body type|Slim|
 |Hair color|Blonde|
 |Eyes|Brown|
-|Measurements| 37–24–35 (bust–waist–hips) |
-|Bust/cup| 34C |
-|International equivalents| UK: 34C, EU: 75C, AU: 12C, JP: 75C |
+| Measurements | 37–24–35 (bust–waist–hips) |
+| Bust/cup | 34C |
+| International equivalents | UK: 34C, EU: 75C, AU: 12C, JP: 75C |
 |Breasts|Natural (real)|
 |Tattoos|Left arm: globe; left shoulder blade: sunflower|
 |Piercings|Right nostril, nipples, navel|
@@ -64,7 +64,7 @@ Reality Kings said, "don't be fooled by this cute, blonde teen's innocent face a
 - TikTok: @itslexilore — **636,000 followers** (as of August 2025)
 - Instagram: @lexiloreonyoutube — 554,000 followers
 
-She shares vlog and lifestyle content through YouTube and TikTok and is a representative adult performer developing across multiple platforms.
+She shares vlog and lifestyle content on YouTube and TikTok and has become a notable adult performer with a presence across several platforms.
 
 **Main collaborating studios**:
 - Team Skeet
@@ -86,10 +86,10 @@ She shares vlog and lifestyle content through YouTube and TikTok and is a repres
 
 |Type|Contents|
 |------|------|
-| Solo |Nudity, masturbation, dildos, creampie commands|
-| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex, anal sex, tribadism|
-| Boy/Girl |Oral sex, vaginal intercourse, anal sex, double penetration, creampie, interracial, facial|
-| Special |Bondage, facial, squirting, transgender themes, gangbang, pussy gaping|
+| Solo | Nudity, masturbation, dildos, creampie commands |
+| Girl/Girl | Kissing, breast touching, breast licking, fingers, dildos, oral sex, anal sex, tribadism |
+| Boy/Girl | Oral sex, vaginal intercourse, anal sex, double penetration, creampie, interracial, facial |
+| Special | Bondage, facial, squirting, transgender themes, gangbang, pussy gaping |
 
 ## Social media
 
@@ -106,7 +106,7 @@ She shares vlog and lifestyle content through YouTube and TikTok and is a repres
 
 ## Personal life
 
-Lexi Lore was born Katelyne Marie Aslett. One of her signature early-career features was the large number of productions in which she wore orthodontic braces, which strongly resonated with fans ("I was SO TURNED THE FUCK ON when she wore them").
+Lexi Lore was born Katelyne Marie Aslett. One of the hallmarks of her early career was the large number of productions in which she wore orthodontic braces, a look that strongly resonated with fans ("I was SO TURNED THE FUCK ON when she wore them").
 
 She married in December 2020. Fans commented that she "looks like Billie Lourd from American Horror Story" and "aged so well" ("Cute at 20, now absolutely breathtaking").
 

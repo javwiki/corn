@@ -33,14 +33,14 @@ tags:
 
 |Characteristic|Details|
 |------|------|
-|Height| 5'6" (167 cm) |
-|Weight| 123 lb (56 kg) |
+| Height | 5'6" (167 cm) |
+| Weight | 123 lb (56 kg) |
 |Body type|Slim|
 |Hair color|Brown (brunette)|
 |Eyes|Light brown (hazel)|
-|Measurements| 40–26–37 (bust–waist–hips) |
+| Measurements | 40–26–37 (bust–waist–hips) |
 |Bust/cup|32G / 34L (peak; reduced to 34C after childbirth)|
-|International equivalents| UK: 32FF, EU: 70G, AU: 10G, JP: 70G |
+| International equivalents | UK: 32FF, EU: 70G, AU: 10G, JP: 70G |
 |Breasts|Natural (real) — once 75HH / 34L, rare in the industry|
 |Tattoos|None|
 |Piercings|None|
@@ -49,7 +49,7 @@ tags:
 
 Lucie Wilde, under the stage name Busty Buffy, is an adult model and former adult film actress from Prague, Czech Republic. She made her nude debut with DDF Busty on 31 January 2014, just after turning 18. Her career lasted only two years, but her extremely full natural breasts (peaking at 34L / 75HH) quickly attracted significant attention in the adult sector.
 
-She was initially influenced by her then-boyfriend Argo, mainly for financial reasons, and did not love the industry. She was quickly promoted from nude model to hardcore performer and filmed her first hardcore scene with Argo in February 2014. Notable titles include *Lucie Wilde Is Awesome!*, *The Outlaw Lucie Wilde*, *Busty Angels #2*, *Voluptuous Wonderland 2*, and anal and double-penetration scenes in the *Anal Acrobats 7* and *Legal Porno* series.
+She entered the industry under the influence of her then-boyfriend Argo, largely for financial reasons rather than any love of the work. She moved quickly from nude modelling to hardcore and filmed her first hardcore scene with Argo in February 2014. Notable titles include *Lucie Wilde Is Awesome!*, *The Outlaw Lucie Wilde*, *Busty Angels #2*, *Voluptuous Wonderland 2*, and anal and double-penetration scenes in the *Anal Acrobats 7* and *Legal Porno* series.
 
 **Main collaborating studios/websites**:
 - DDF Network / DDF Busty
@@ -66,15 +66,15 @@ She was initially influenced by her then-boyfriend Argo, mainly for financial re
 
 |Type|Contents|
 |------|------|
-| Solo |Nudity, masturbation, dildos, creampie commands|
-| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex|
-| Boy/Girl |Oral sex, vaginal intercourse, anal sex, double penetration, creampie, interracial, facial|
+| Solo | Nudity, masturbation, dildos, creampie commands |
+| Girl/Girl | Kissing, breast touching, breast licking, fingers, dildos, oral sex |
+| Boy/Girl | Oral sex, vaginal intercourse, anal sex, double penetration, creampie, interracial, facial |
 
 ## Personal life
 
 Lucie Wilde was born into a middle-class family in Prague. After becoming pregnant in 2015, she separated from her former boyfriend Argo, who was arrested for drunk driving and charged with mishandling her income (allegedly misappropriating it). In 2016, at age 20, Lucie retired from the adult industry after giving birth to her daughter.
 
-Interviews in 2020 showed that she publicly regretted her adult-film career, saying she "does not like sex in front of the camera" and blaming her former boyfriend for pushing her into it. She also said she had no interest in returning at that time. She described her bisexual behavior as "gay for pay"—something done for the work.
+In 2020 interviews she said she regretted her adult-film career, stating that she "does not like sex in front of the camera" and blaming her former boyfriend for pushing her into it. She also said she had no interest in returning at that time. She described her bisexual work as "gay for pay" — something done for the work.
 
 After breast-reduction surgery, her cup size fell to 34C (fans joked, "'G' after reduction is crazyyy"), and she focused on raising her daughter.
 

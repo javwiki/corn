@@ -17,13 +17,13 @@ tags:
 - **别名**: Erin Everhart / Mistress Nyx / Nym Fleurette / Queen Nyx
 - **昵称**: Rapornzel
 - **平台**: OnlyFans / Twitter / Instagram / Twitch
-- **出生**: 1993年5月7日，美国俄勒冈州波特兰 (Portland, OR)
-- **现居**: 内华达州拉斯维加斯 (Las Vegas, NV)
+- **出生**: 1993 年 5 月 7 日，美国俄勒冈州波特兰（Portland, OR）
+- **现居**: 内华达州拉斯维加斯（Las Vegas, NV）
 - **活跃年份**: 2018–2026（IAFD 记录）
 - **作品数量**: 237 部（IAFD）
 - **职业**: 模特、演员、社交媒体影响者、成人内容创作者
 - **种族/国籍**: 高加索裔 / 美国
-- **身高/体重**: 5'9" (175 cm) / 125 lbs (57 kg)
+- **身高/体重**: 5'9"（175 cm）/ 125 lbs（57 kg）
 - **三围**: 32B-26-39
 - **发色/瞳色**: 棕发 / 蓝眼
 - **鞋码**: US 9
@@ -35,7 +35,7 @@ tags:
 
 ## 详情
 
-Erin Everheart（1993年5月7日－）是一名美国模特、社交媒体影响者及成人内容创作者，出生于俄勒冈州波特兰，现居内华达州拉斯维加斯。她以长发造型闻名，在 Twitter 上使用昵称 "Rapornzel"（人鱼女王之意）。
+Erin Everheart（1993 年 5 月 7 日–）是一名美国模特、社交媒体影响者及成人内容创作者，出生于俄勒冈州波特兰，现居内华达州拉斯维加斯。她以长发造型闻名，在 Twitter 上使用昵称 「Rapornzel」（人鱼女王之意）。
 
 自 2018 年进入行业以来，Erin 已出演 237 部成人影片（截至 2026 年 IAFD 记录），活跃于 Brazzers、Evil Angel、Jules Jordan Video、kink.com、Naughty America、Dogfart Network 等知名制片厂。她的作品题材广泛，涵盖肛交、群交、BDSM、女同、VR 成人内容等多元类型。
 

@@ -25,19 +25,19 @@ tags:
 - **名称**: Skyla Novea
 - **别名**: Ginger Elle / Ginger Ellee / Percilla Riclof / Abby
 - **平台**: OnlyFans (skylanoveaxxx)、Instagram、Twitter/X、YouTube
-- **出生**: 1994年5月7日，美国佛罗里达州迈阿密（Miami, Florida）
-- **活跃年代**: 2013 – 2024
+- **出生**: 1994 年 5 月 7 日，美国佛罗里达州迈阿密（Miami, Florida）
+- **活跃年代**: 2013–2024
 - **作品数量**: 191 部（IAFD 记录）
 - **职业**: 色情女演员、成人模特、网红
-- **备注**: 双性恋；2016年1月接受隆胸手术（C→DD）；英语/荷兰血统
+- **备注**: 双性恋；2016 年 1 月接受隆胸手术（C→DD）；英语/荷兰血统
 
 ## 详情
 
-Skyla Novea 是一位来自佛罗里达州迈阿密的美国色情女演员和成人模特，以别名 Ginger Elle 出道，后以 Skyla Novea 之名广为人知。她于2013年约19岁时进入成人行业，迅速以其丰满的上围（术后 34DD）和曲线身材成为行业内的标志性人物之一。她曾与众多顶级工作室合作，包括 Brazzers、Blacked、Blacked Raw、Tushy、Naughty America、Mofos、Reality Kings、Elegant Angel、Cherry Pimps、Team Skeet 等。
+Skyla Novea 是一位来自佛罗里达州迈阿密的美国色情女演员和成人模特，以别名 Ginger Elle 出道，后以 Skyla Novea 之名广为人知。她于 2013 年约 19 岁时进入成人行业，迅速以其丰满的上围（术后 34DD）和曲线身材成为行业内的标志性人物之一。她曾与众多顶级工作室合作，包括 Brazzers、Blacked、Blacked Raw、Tushy、Naughty America、Mofos、Reality Kings、Elegant Angel、Cherry Pimps、Team Skeet 等。
 
-Skyla Novea 在职业生涯中获得多项行业奖项提名：2018年凭《Bombshell Skyla Novea》获 AVN 奖最佳三人行（B/B/G）提名；2019年凭《It's A Family Thing 2》获 AVN 奖最佳双插（DP）场景提名。此外，她还在 Spank Bank Awards 中多次获得提名，并于2018年赢得"The Next Porn Mega Star"奖项。在 Babepedia 上，她的最高排名达到第1154位，评分8.64/10，累计超过400张投票。
+Skyla Novea 在职业生涯中获得多项行业奖项提名：2018 年凭《Bombshell Skyla Novea》获 AVN 奖最佳三人行（B/B/G）提名；2019 年凭《It's A Family Thing 2》获 AVN 奖最佳双插（DP）场景提名。此外，她还在 Spank Bank Awards 中多次获得提名，并于 2018 年赢得「The Next Porn Mega Star」奖项。在 Babepedia 上，她的最高排名达到第 1154 位，评分 8.64/10，累计超过 400 张投票。
 
-在社交媒体方面，Skyla Novea 在 Instagram 上拥有约69万粉丝（截至2023年12月），在 Twitter/X 上拥有约4.5万粉丝。她的 YouTube 频道 "SkylaGang" 以及 OnlyFans 付费订阅（skylanoveaxxx）是她持续活跃的重要平台。她还通过 Linktree（linkfly.to/Skylanovea）汇总了所有社交媒体链接。她的 Twitter 个人资料标注为"Retired • Cat Mom"，表明她已从一线拍摄中淡出，专注于社交媒体和 OnlyFans 内容。
+在社交媒体方面，Skyla Novea 在 Instagram 上拥有约 69 万粉丝（截至 2023 年 12 月），在 Twitter/X 上拥有约 4.5 万粉丝。她的 YouTube 频道 「SkylaGang」以及 OnlyFans 付费订阅（skylanoveaxxx）是她持续活跃的重要平台。她还通过 Linktree（linkfly.to/Skylanovea）汇总了所有社交媒体链接。她的 Twitter 个人资料标注为「Retired • Cat Mom」，表明她已从一线拍摄中淡出，专注于社交媒体和 OnlyFans 内容。
 
 ## 参考资料
 

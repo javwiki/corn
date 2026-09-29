@@ -15,9 +15,9 @@ tags:
 - **名称**: Alina Li
 - **别名**: Aline Li、Alina Lee、Chichi Zhou
 - **平台**: Twitter/X
-- **出生**: 1994年9月8日，中国上海
-- **活跃年代**: 2013 – 至今（IAFD记录至2026年）
-- **作品数量**: 220 部（来源：IAFD，截至2026年9月）
+- **出生**: 1994 年 9 月 8 日，中国上海
+- **活跃年代**: 2013 – 至今（IAFD 记录至 2026 年）
+- **作品数量**: 220 部（来源：IAFD，截至 2026 年 9 月）
 - **职业**: 色情女演员、模特
 - **备注**: 以华裔美国演员身份活动，曾与 Evil Angel、Mile High、New Sensations、Elegant Angel、Bang Productions 和 Jules Jordan Video 等公司合作
 

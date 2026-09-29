@@ -25,9 +25,9 @@ tags:
 
 ## Details
 
-Savannah Bond is an Australian adult film actress and content creator born in Melbourne. She studied beauty care and worked in retail, later worked as a stripper in Melbourne and Sydney, and then moved to Townsville, Queensland.
+Savannah Bond is an Australian adult film actress and content creator born in Melbourne. She studied beauty care and worked in retail before working as a stripper in Melbourne and Sydney, and eventually moved to Townsville, Queensland.
 
-She began her adult-film career with Jules Jordan in Los Angeles in 2019, initially working mainly for Jules Jordan Video. During the COVID-19 pandemic, she continued publishing through OnlyFans and with other Australian performers. After restrictions eased, she moved to Los Angeles and continued working with Jules Jordan, Evil Angel, Vixen Media Group, and others.
+She began her adult-film career with Jules Jordan in Los Angeles in 2019, initially working mainly for Jules Jordan Video. During the COVID-19 pandemic, she continued releasing content through OnlyFans alongside other Australian performers. After restrictions eased, she moved to Los Angeles and continued working with Jules Jordan, Evil Angel, Vixen Media Group, and others.
 
 Bond received Fleshbot and AVN honors for *Savannah Bond Beach Bikini Slut*, and AVN, XBIZ, and other industry awards for productions including *Blacked Raw V56*. CherryPimps also selected her as a monthly model.
 

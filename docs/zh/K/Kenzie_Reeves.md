@@ -25,36 +25,36 @@ tags:
 
 - **名称**: Kenzie Reeves
 - **别名**: Ava Cumz、Kenzie Reese、Madison Jordan Desautels（本名）
-- **出生日期**: 1997年7月7日（星期一）
+- **出生日期**: 1997 年 7 月 7 日（星期一）
 - **出生地**: 美国新罕布什尔州康科德
 - **国籍**: 美国
 - **种族**: 高加索人
 - **性取向**: 双性恋（bisexual）
-- **活跃年代**: 2017年至今（约19岁入行，活跃9年）
-- **作品数量**: 748部（IAFD表演者信用记录，截至2026年6月）
+- **活跃年代**: 2017 年至今（约 19 岁入行，活跃 9 年）
+- **作品数量**: 748 部（IAFD 表演者信用记录，截至 2026 年 6 月）
 - **职业**: 成人模特、脱衣舞娘（前）、网红、色情女演员
 
 ## 身体特征
 
 | 属性 | 详情 |
 |------|------|
-| 身高 | 4'10" (147 cm) |
-| 体重 | 90 lbs (41 kg) |
+| 身高 | 4'10"（147 cm） |
+| 体重 | 90 lbs（41 kg） |
 | 体型 | 苗条（slim） |
 | 发色 | 金发（blonde） |
 | 眼睛 | 淡褐色（hazel） |
-| 三围 | 34–22–32 (B–W–H) |
+| 三围 | 34–22–32 （B–W–H） |
 | 胸围/罩杯 | 30B |
 | 国际换算 | UK: 30B, EU: 65B, AU: 8B, JP: 65B |
 | 胸部 | 天然（Real/Natural） |
-| 纹身 | 上胸"Desautels"（已去除）；右大腿右侧捕梦网 |
+| 纹身 | 上胸「Desautels」（已去除）；右大腿右侧捕梦网 |
 | 穿孔 | 无 |
 
 ## 职业生涯
 
-Kenzie Reeves（本名 Madison Jordan Desautels）是来自新罕布什尔州康科德的美国色情女演员和模特，2017年（约19岁）入行，在 IAFD 上拥有748个表演者信用记录。她是行业中产量最高、最受认可的娇小体型演员之一。
+Kenzie Reeves（本名 Madison Jordan Desautels）是来自新罕布什尔州康科德的美国色情女演员和模特，2017 年（约 19 岁）入行，在 IAFD 上拥有 748 个表演者信用记录。她是行业中产量最高、最受认可的娇小体型演员之一。
 
-她以4'10"（147cm）、仅90磅的极端娇小身材、金发淡褐色眼睛、"芭蕾舞者"般的柔韧性以及在肛交、拳交、乱伦（incest）题材中的极限表演而闻名。粉丝称她为"little duck machine"，常与 Piper Perri、Lexi Lore、Molly Little 等对比。
+她以 4'10"（147cm）、仅 90 磅的极端娇小身材、金发淡褐色眼睛、「芭蕾舞者」般的柔韧性以及在肛交、拳交、乱伦（incest）题材中的极限表演而闻名。粉丝称她为「little duck machine」，常与 Piper Perri、Lexi Lore、Molly Little 等对比。
 
 她是 Fleshlight Girl（知名成人玩具品牌代言人），多次获得 Nubiles 月度荣誉。
 
@@ -103,11 +103,11 @@ Kenzie Reeves（本名 Madison Jordan Desautels）是来自新罕布什尔州康
 
 ## 个人生活
 
-Kenzie Reeves 本名 Madison Jordan Desautels。她最显著的个人标记是上胸部曾纹有"Desautels"（娘家姓）字样——但据粉丝称，这一纹身已在她退出行业前去除（仅1-2个场景中没有）。
+Kenzie Reeves 本名 Madison Jordan Desautels。她最显著的个人标记是上胸部曾纹有「Desautels」（娘家姓）字样——但据粉丝称，这一纹身已在她退出行业前去除（仅 1-2 个场景中没有）。
 
-她是成人行业中使用率最高的"娇小"类演员代表之一。以"full nelson"（全名纳尔逊）体位被粉丝熟知——这是一种将被绑者双臂反剪到背后、头被压制的高难度体位，与她极端柔韧的"芭蕾舞者"体质形成鲜明对比。
+她是成人行业中使用率最高的「娇小」类演员代表之一。以「full nelson」（全名纳尔逊）体位被粉丝熟知——这是一种将被绑者双臂反剪到背后、头被压制的高难度体位，与她极端柔韧的「芭蕾舞者」体质形成鲜明对比。
 
-粉丝曾开玩笑说"imagine if she's Keanu Reeves' real daughter"（她与 Keane Reeves 姓氏相同），但这只是巧合。截至 2025 年 12 月 Instagram 粉丝约 99.5 万。
+粉丝曾开玩笑说「imagine if she's Keanu Reeves' real daughter」（她与 Keane Reeves 姓氏相同），但这只是巧合。截至 2025 年 12 月 Instagram 粉丝约 99.5 万。
 
 ## 参考资料
 

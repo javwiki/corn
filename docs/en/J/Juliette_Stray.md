@@ -23,11 +23,11 @@ tags:
 
 ## Details
 
-Juliette Stray is an American transgender adult film actress and content creator. Public screen sources indicate that she has been involved in adult productions since at least 2009. Her professional identity has continued to use the stage name Juliette Stray, and the 2024 report states that she would not change it following the legal-name change.
+Juliette Stray is an American transgender adult film actress and content creator. Public screen sources indicate that she has been involved in adult productions since at least 2009. She has continued to use Juliette Stray as her professional name, and the 2024 report states that she would not change it following the legal-name change.
 
 In 2024, the California Court of Appeal, First Appellate District, overturned the San Francisco Superior Court's decision and approved her legal-name change to Candi Bimbo Doll. She said the name primarily expresses her personal identity, while she would continue using Juliette Stray professionally because she had used that name for many years.
 
-Her public image is characterized by a highly feminine aesthetic and "bimbofication," and she connects with her audience through Twitter/X and adult content platforms. This entry uses her IAFD personal page as the verification source for her credits but does not extrapolate or add unconfirmed totals.
+Her public image is characterized by a highly feminine aesthetic and "bimbofication," and she connects with her audience through Twitter/X and adult content platforms. Her IAFD personal page serves as the verification source for her credits; no unconfirmed totals are given.
 
 ## References
 

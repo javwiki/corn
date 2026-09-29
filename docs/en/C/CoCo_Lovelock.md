@@ -37,14 +37,14 @@ tags:
 
 |Characteristic|Details|
 |------|------|
-|Height| 4'10" (147 cm) |
-|Weight| 100 lbs (45 kg) |
+| Height | 4'10" (147 cm) |
+| Weight | 100 lbs (45 kg) |
 |Body type|Slim|
 |Hair color|Blonde|
 |Eyes|Blue|
-|Measurements| 34–24–34 (bust–waist–hips) |
-|Bust/cup| 32B |
-|International equivalents| UK: 32B, EU: 70B, AU: 10B, JP: 70B |
+| Measurements | 34–24–34 (bust–waist–hips) |
+| Bust/cup | 32B |
+| International equivalents | UK: 32B, EU: 70B, AU: 10B, JP: 70B |
 |Breasts|Natural (real)|
 |Tattoos|Inside right wrist, left finger, and right hip (flower)|
 
@@ -77,10 +77,10 @@ She is known for her petite 4'10" frame and blonde, blue-eyed "girl next door" i
 
 |Type|Contents|
 |------|------|
-| Solo |Nudity, masturbation, dildo use, creampie commands|
-| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex|
-| Boy/Girl |Oral sex, vaginal intercourse, anal sex, double penetration, creampie, interracial, facial|
-| Special |Golden shower, facial, squirting, taboo themes, transgender themes, group sex|
+| Solo | Nudity, masturbation, dildo use, creampie commands |
+| Girl/Girl | Kissing, breast touching, breast licking, fingers, dildos, oral sex |
+| Boy/Girl | Oral sex, vaginal intercourse, anal sex, double penetration, creampie, interracial, facial |
+| Special | Golden shower, facial, squirting, taboo themes, transgender themes, group sex |
 
 ## Social media
 

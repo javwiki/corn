@@ -17,9 +17,9 @@ tags:
 - **名称**: Lucy Mochi
 - **别名**: Asian Mochi、LucysMochi
 - **平台**: Instagram / Twitter/X / OnlyFans / Fansly / ManyVids
-- **出生**: 2001年3月8日，中国上海
+- **出生**: 2001 年 3 月 8 日，中国上海
 - **活跃年代**: 2023 – 至今
-- **作品数量**: 35 部（来源：IAFD，截至2026年9月10日）
+- **作品数量**: 35 部（来源：IAFD，截至 2026 年 9 月 10 日）
 - **职业**: 色情女演员、模特、网络内容创作者
 - **备注**: 以 Lucy Mochi 和 Asian Mochi 名义活动，曾与 Brazzers、Jules Jordan、Reality Kings、Girlsway 等平台合作
 

@@ -37,7 +37,7 @@ Abigail Lust has mainly worked with Trans500.com and appeared in several "Big Bo
 
 In 2024–2025, Abigail Lust began working with Big Booty TGirls Studios on *Apple Bottom Trans 45* (2025), *Culo Grande Trans 49/58/59* (2024–2025), and *Phat Ass TGirls 59* (2025).
 
-On social media, her Twitter account is @abisexxx (the follower count could not be confirmed through web_fetch; the link comes from the IAFD page).
+On social media, her Twitter account is @abisexxx (the follower count is unverified; the link comes from the IAFD page).
 
 ## References
 

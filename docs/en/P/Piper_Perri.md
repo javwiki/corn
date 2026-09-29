@@ -39,10 +39,10 @@ tags:
 
 |Characteristic|Details|
 |------|------|
-|Height| 4'9" (145 cm) |
-|Weight| 81 lb (37 kg) |
-|Measurements| 32A-26-36 (bust–waist–hips) |
-|Shoe size| US 4 |
+| Height | 4'9" (145 cm) |
+| Weight | 81 lb (37 kg) |
+| Measurements | 32A-26-36 (bust–waist–hips) |
+| Shoe size | US 4 |
 |Hair color|Blonde|
 |Eyes|Brown|
 |Body type|Slim, petite|
@@ -60,25 +60,25 @@ As of September 2026, IAFD listed 437 title records: 3 in 2014, 108 in 2015, 110
 
 Her collaborators include mainstream networks and DVD distributors such as Brazzers, Reality Kings, Mofos, Nubiles/PornPros, Team Skeet, New Sensations, Digital Playground, Digital Sin, Elegant Angel, Girlfriends Films, Girlsway, Kink.com, Dogfart Network, BangBros, Passion HD, Colette, and Mile High. Her VR work appears on HoloGirlsVR, WankzVR, BaDoinkVR, and VR Bangers. According to IAFD's note field, of 437 records, 145 are marked bald, 128 include facial, 58 are LezOnly, 27 include creampie, 12 are VR, and 16 are non-sexual appearances; 14 of the latter are from Wood Rocket's interview series *Ask A Porn Star*.
 
-Her best-known cultural influence is the meme "Piper Perri Surrounded": a 2015 set photograph showing her seated on a white couch with five men standing behind her. It spread widely after anonymous users posted it to 9GAG in January 2016, and Know Your Meme created an entry in June 2018; its confirmations exceeded 3.7 million by 2026.
+Her best-known contribution to popular culture is the meme "Piper Perri Surrounded": a 2015 set photograph showing her seated on a white couch with five men standing behind her. It spread widely after anonymous users posted it to 9GAG in January 2016, and Know Your Meme created an entry in June 2018; its confirmations exceeded 3.7 million by 2026.
 
-Public sources disagree about her retirement. Babepedia says she retired in 2020, labels her a "former adult model/former porn star," and records her active years as 2014–2025. IAFD records 2014–2023, and many entries after 2021 are compilations or inventory releases. This entry follows IAFD's credit record and does not assert whether she retired.
+Public sources disagree about her retirement. Babepedia says she retired in 2020, labels her a "former adult model/former porn star," and records her active years as 2014–2025. IAFD records 2014–2023, and many entries after 2021 are compilations or inventory releases. The active years given above follow IAFD's credit record, and whether she retired is not asserted.
 
 ### Awards and nominations
 
 |Year|Awards|Category|Result|
 |---|---|---|---|
-| 2016 | Spank Bank Technical Awards | Able To Swallow Her Weight In Cum |Won|
-| 2016–2019 | Spank Bank Awards |Multiple categories (Fun Sized Fuck Bunny, Tightest Twat, VR Star of the Year, etc.)|Nominated|
-| 2017 | AVN Awards | Best New Starlet |Nominated|
-| 2017 | AVN Fan Award | Hottest Newcomer |Nominated|
-| 2017 | AVN Awards | Best All-Girl Group Sex Scene (*Violation of Piper Perri*) |Nominated|
-| 2017 | XBIZ Awards | Best Sex Scene – All-Sex Release (*Interracial Teens*) |Nominated|
-| 2017 | XRCO Awards | New Starlet of the Year |Nominated|
-| 2018 | AVN Awards | Best Virtual Reality Sex Scene (*Sorority Hookup 2*) |Nominated|
-| 2018 | XBIZ Awards | Best Sex Scene – Vignette Release (*Cumming of Age*) |Nominated|
-| 2018 | XBIZ Awards | Best Sex Scene – Virtual Reality (*Sorority Hookup 1*, *Action Is a Go - 2*) |Nominated|
-| 2019 | AVN Awards | Best Actress - Featurette (*Fuck Me First Daddy*) |Nominated|
+| 2016 | Spank Bank Technical Awards | Able To Swallow Her Weight In Cum | Won |
+| 2016–2019 | Spank Bank Awards | Multiple categories (Fun Sized Fuck Bunny, Tightest Twat, VR Star of the Year, etc.) | Nominated |
+| 2017 | AVN Awards | Best New Starlet | Nominated |
+| 2017 | AVN Fan Award | Hottest Newcomer | Nominated |
+| 2017 | AVN Awards | Best All-Girl Group Sex Scene (*Violation of Piper Perri*) | Nominated |
+| 2017 | XBIZ Awards | Best Sex Scene – All-Sex Release (*Interracial Teens*) | Nominated |
+| 2017 | XRCO Awards | New Starlet of the Year | Nominated |
+| 2018 | AVN Awards | Best Virtual Reality Sex Scene (*Sorority Hookup 2*) | Nominated |
+| 2018 | XBIZ Awards | Best Sex Scene – Vignette Release (*Cumming of Age*) | Nominated |
+| 2018 | XBIZ Awards | Best Sex Scene – Virtual Reality (*Sorority Hookup 1*, *Action Is a Go - 2*) | Nominated |
+| 2019 | AVN Awards | Best Actress - Featurette (*Fuck Me First Daddy*) | Nominated |
 
 The records above come from the awards section of Piper Perri's IAFD personal page (verified September 2026).
 

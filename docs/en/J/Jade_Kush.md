@@ -29,9 +29,9 @@ tags:
 
 ## Details
 
-Jade Kush is a Chinese American adult film actress and adult model who entered the adult entertainment industry at 18 in 2017. She is known for her naturally voluptuous figure—a slim body with natural 32DD breasts—and is highly recognizable in the industry. Her early work focuses on Asian themes and the "hotwife" genre, and she has worked with leading studios including Blacked, Brazzers, Vixen, Elegant Angel, Team Skeet, Slayed, Naughty America, New Sensations, and Devil's Film.
+Jade Kush is a Chinese American adult film actress and adult model who entered the adult entertainment industry at 18 in 2017. She is known for her naturally voluptuous figure—a slim build with a natural 32DD bust—and is highly recognizable in the industry. Her early work focused on Asian themes and the "hotwife" genre, and she has worked with leading studios including Blacked, Brazzers, Vixen, Elegant Angel, Team Skeet, Slayed, Naughty America, New Sensations, and Devil's Film.
 
-Jade Kush was born in Guangzhou, China, grew up in Connecticut, later considered Chicago her hometown, and now lives in Los Angeles. She is very active on social media, with about 194,000 Instagram followers (@justqueenjade) and 143,000 Twitter/X followers (@JadeKushXIII). She publishes paid content through OnlyFans (kushqueenj) and uses Linktree (linktr.ee/kushqueenjade). She also livestreams on Twitch (kushqueenjade) to interact with fans.
+Jade Kush was born in Guangzhou, China, grew up in Connecticut, later took Chicago as her hometown, and now lives in Los Angeles. She is very active on social media, with about 194,000 Instagram followers (@justqueenjade) and 143,000 Twitter/X followers (@JadeKushXIII). She publishes paid content through OnlyFans (kushqueenj) and uses Linktree (linktr.ee/kushqueenjade). She also livestreams on Twitch (kushqueenjade) to interact with fans.
 
 Her career includes traditional film production, VR content (with collaborators including BaDoinkVR and VR Bangers), and social media content creation. IAFD lists more than 262 performance credits for her to date.
 

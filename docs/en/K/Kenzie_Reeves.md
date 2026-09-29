@@ -38,14 +38,14 @@ tags:
 
 |Characteristic|Details|
 |------|------|
-|Height| 4'10" (147 cm) |
-|Weight| 90 lb (41 kg) |
+| Height | 4'10" (147 cm) |
+| Weight | 90 lb (41 kg) |
 |Body type|Slim|
 |Hair color|Blonde|
 |Eyes|Light brown (hazel)|
-|Measurements| 34–22–32 (bust–waist–hips) |
-|Bust/cup| 30B |
-|International equivalents| UK: 30B, EU: 65B, AU: 8B, JP: 65B |
+| Measurements | 34–22–32 (bust–waist–hips) |
+| Bust/cup | 30B |
+| International equivalents | UK: 30B, EU: 65B, AU: 8B, JP: 65B |
 |Breasts|Natural (real)|
 |Tattoos|"Desautels" on upper chest (removed); dreamcatcher on the outer right thigh|
 |Piercings|None|
@@ -84,10 +84,10 @@ She is a Fleshlight Girl brand representative and has received Nubiles monthly h
 
 |Type|Contents|
 |------|------|
-| Solo |Nudity, masturbation, dildos, dildo oral sex, creampie commands, anal sex|
-| Girl/Girl |Kissing, breast touching, breast licking, fingers, dildos, oral sex, fisting, anal sex, tribadism|
-| Boy/Girl |Oral sex, vaginal intercourse, fisting, anal sex, creampie, interracial, facial|
-| Special |Golden shower, facial, squirting, taboo themes|
+| Solo | Nudity, masturbation, dildos, dildo oral sex, creampie commands, anal sex |
+| Girl/Girl | Kissing, breast touching, breast licking, fingers, dildos, oral sex, fisting, anal sex, tribadism |
+| Boy/Girl | Oral sex, vaginal intercourse, fisting, anal sex, creampie, interracial, facial |
+| Special | Golden shower, facial, squirting, taboo themes |
 
 ## Social media
 

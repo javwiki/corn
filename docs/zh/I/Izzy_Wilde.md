@@ -18,29 +18,29 @@ tags:
 - **名称**: Izzy Wilde
 - **别名**: Zoe Summers
 - **平台**: OnlyFans / ManyVids / Pornhub / Twitter / Bluesky
-- **出生**: 1996年11月1日，美国
+- **出生**: 1996 年 11 月 1 日，美国
 - **活跃年代**: 2020 –2025
 - **作品数量**: 200 部（IAFD）
 - **职业**: 跨性别色情演员、模特、内容创作者
-- **身高**: 5 英尺 8 英寸 (173 cm)
-- **体重**: 59 kg (129 lbs)
+- **身高**: 5 英尺 8 英寸（173 cm）
+- **体重**: 59 kg（129 lbs）
 - **三围**: 34C-30-35
 - **发色**: 棕色/金色/挑染
 - **瞳色**: 未知
 - **鞋码**: US 7
 - **纹身**: 右手阴阳图案，右肩胛骨行星与星星图案
 - **穿孔**: 右鼻孔、肚脐、舌
-- **备注**: 2024 年 9 月接受性别重置手术（bottom surgery），2025 年 2 月 14 日以新名 Zoe Summers 举办"Valentine's Day Pussy Reveal"直播活动，正式完成转型
+- **备注**: 2024 年 9 月接受性别重置手术（bottom surgery），2025 年 2 月 14 日以新名 Zoe Summers 举办「Valentine's Day Pussy Reveal」直播活动，正式完成转型
 
 ## 详情
 
-Izzy Wilde（1996年11月1日－）是一名美国跨性别（trans woman）色情演员、模特及内容创作者，出生于美国。她于 2020 年（约 24 岁时）进入成人行业，以 Izzy Wilde 为艺名迅速在跨性别成人影片领域崭露头角。截至 2025 年，她在 IAFD 上拥有约 200 部作品记录。
+Izzy Wilde（1996 年 11 月 1 日–）是一名美国跨性别（trans woman）色情演员、模特及内容创作者，出生于美国。她于 2020 年（约 24 岁时）进入成人行业，以 Izzy Wilde 为艺名迅速在跨性别成人影片领域崭露头角。截至 2025 年，她在 IAFD 上拥有约 200 部作品记录。
 
 职业生涯中，Izzy 与众多知名成人制片公司合作，包括 Grooby Productions、Evil Angel、TransAngels、Gender X Films、AdultTime、Devil's Film、Kink.com、Pornbox 及 ManyVids 等。她以在跨性别（TS）题材中的活跃表现而闻名，多次在群交场景中担任主导角色。
 
 Izzy 的表演获得了行业多项重要奖项的认可。她曾多次获得 AVN Awards 提名，包括 Best Trans Newcomer（2022）、Trans Performer of the Year（2023、2024、2025），并在 2024 年和 2025 年连续两届赢得 Best Trans Group Sex Scene 奖项。在 Transgender Erotica Awards（TEA）中，她于 2022 年和 2023 年连续获得 Fan Choice Award（粉丝选择奖）。此外，她在 2024 年 GayVN Awards 中凭借《Call Center Cocks (II)》赢得 Best Bi Sex Scene 奖项。
 
-2024 年 9 月，Izzy 接受了性别重置手术（bottom surgery）。2025 年 2 月 14 日（情人节），她以新名 Zoe Summers 举办了名为"Valentine's Day Pussy Reveal"的直播活动，在其个人网站 ZoeSummers.com 上公开庆祝自己完成转型。此后的作品以 Zoe Summers 名义发布。
+2024 年 9 月，Izzy 接受了性别重置手术（bottom surgery）。2025 年 2 月 14 日（情人节），她以新名 Zoe Summers 举办了名为「Valentine's Day Pussy Reveal」的直播活动，在其个人网站 ZoeSummers.com 上公开庆祝自己完成转型。此后的作品以 Zoe Summers 名义发布。
 
 ### 奖项与提名
 

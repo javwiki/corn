@@ -22,9 +22,9 @@ tags:
 
 ## Details
 
-Bibi Bugatti is an adult actress and content creator who performs under this stage name. Available public information does not provide a sufficiently reliable legal name, date of birth, or complete personal history, so this entry records only occupational information that can be cross-checked in public databases.
+Bibi Bugatti is an adult actress and content creator who works under that stage name. Publicly available information does not establish a reliable legal name, date of birth, or complete personal history, so only occupational information that can be cross-checked in public databases is recorded.
 
-According to Bibi Bugatti's IAFD profile and IMDb credits, she has had a public performance record since at least 2023, including *Fake Taxi*; 2024 records also include the Scoreland and VIP 4K series. Her remaining credits, aliases, and personal social accounts will be added if verifiable information becomes available.
+According to Bibi Bugatti's IAFD profile and IMDb credits, she has had a public performance record since at least 2023, including *Fake Taxi*, with 2024 records also covering the Scoreland and VIP 4K series. Her remaining credits, aliases, and personal social accounts are not documented in publicly verifiable sources.
 
 ## References
 

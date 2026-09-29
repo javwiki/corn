@@ -26,7 +26,7 @@ tags:
 
 ## Details
 
-Song Lee is an American adult film actress of Korean descent, born in Las Vegas, Nevada, on 7 August 1991. She entered the adult industry in 2019 at about 27 and became recognizable for her Asian features and full figure ("size queen"). Her scenes include lesbian, straight, and transgender fetish content, and she has worked with brands including Brazzers, All Over 30, and EvolvedFights.com.
+Song Lee is an American adult film actress of Korean descent, born in Las Vegas, Nevada, on 7 August 1991. She entered the adult industry in 2019 at about 27 and became known for her Asian features and her full figure ("size queen"). Her scenes include lesbian, straight, and transgender fetish content, and she has worked with brands including Brazzers, All Over 30, and EvolvedFights.com.
 
 On social media, Song Lee has about 95,000 Instagram followers (@official_songlee) and about 190,000 X/Twitter followers (@SongLeeXXX). Her bio describes her as an "Asian MILF turned size queen." She operates the OnlyFans paid subscription page songleexxx and the personal website songlee.xxx, and is also active on TikTok (@songleexx).
 

@@ -34,11 +34,11 @@ XBIZ describes White as "one of Australia's most famous adult performers," while
 
 |Awards|Number of wins|Number of nominations|
 |------|---------|---------|
-|AVN Awards| 68 | 56 |
-|XRCO Awards| 23 | 28 |
-|XBIZ Awards| 11 | 59 |
-|NightMoves Awards| 7 | 15 |
-|Pornhub Awards| 3 | 15 |
+| AVN Awards | 68 | 56 |
+| XRCO Awards | 23 | 28 |
+| XBIZ Awards | 11 | 59 |
+| NightMoves Awards | 7 | 15 |
+| Pornhub Awards | 3 | 15 |
 | **Total** | **112** | **173** |
 
 - AVN Hall of Fame (Video division), 2018

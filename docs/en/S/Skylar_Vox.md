@@ -25,9 +25,9 @@ tags:
 
 ## Details
 
-Skylar Vox is an American adult film actress who debuted in 2019 at about 19 and quickly gained attention for her full breasts (34DD) and petite 5 feet 2 inch frame. She was born in Miami, Florida, and early in her career worked under aliases such as Dylan Vox at NVG Network before adopting Skylar Vox as her main stage name.
+Skylar Vox is an American adult film actress who debuted in 2019 at about 19 and quickly gained attention for her full bust (34DD) and petite frame, at 5 feet 2 inches. She was born in Miami, Florida, and early in her career worked under aliases such as Dylan Vox at NVG Network before adopting Skylar Vox as her main stage name.
 
-Her career began in POV and casting productions, working with leading distributors including Brazzers, Evil Angel, Naughty America, Vixen, and Bang Bros. She is highly active on social platforms, with a large following on OnlyFans, ManyVids, Twitter, and Instagram (@theskylarvox_). Data for 2025 indicate that she remains active and continues to release new work.
+She began her career in POV and casting productions, working with leading distributors including Brazzers, Evil Angel, Naughty America, Vixen, and Bang Bros. She is highly active on social platforms, with a large following on OnlyFans, ManyVids, Twitter, and Instagram (@theskylarvox_). Figures for 2025 indicate that she remains active and continues to release new work.
 
 Skylar Vox has received nominations for several industry awards: AVN Awards in 2021 for Best New Starlet and Hottest Newcomer; Spank Bank Awards in 2020 for "Funty of the Year" and "Next Stepdaughter/Sister of the Year"; XRCO Awards in 2021 for "Person's Favorite" and "Dream of Youth"; and NightMoves nominations and awards.
 

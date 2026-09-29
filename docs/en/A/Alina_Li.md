@@ -23,11 +23,11 @@ tags:
 
 ## Details
 
-Alina Li, born Chichi Zhou, is a Chinese American adult film actress and model born in Shanghai. Public information indicates that her parents separated when she was young and that different relatives cared for her during her childhood; she later moved to the United States as a teenager.
+Alina Li, born Chichi Zhou, is a Chinese American adult film actress and model from Shanghai. Public information indicates that her parents separated when she was young and that different relatives cared for her during her childhood; she later moved to the United States as a teenager.
 
 She entered the adult industry shortly after graduating from high school in 2013. Early titles included *Party of Three 8*. She subsequently worked with producers and websites including Evil Angel, Mile High, New Sensations, Elegant Angel, Bang Productions, Jules Jordan Video, Mofos, BangBros, and Naughty America.
 
-Li also appeared in personal-title productions such as *Ultimate Fuck Toy: Alina Li* and worked with director Tori Black. Some sources say that she later reduced her adult film work and turned to modeling; however, IAFD still lists titles through 2026, so her active status follows the IAFD record.
+Li also appeared in productions named after her stage name, such as *Ultimate Fuck Toy: Alina Li*, and worked with director Tori Black. Some sources say that she later reduced her adult film work and turned to modeling; however, IAFD still lists titles through 2026, so she is listed as active on the basis of the IAFD record.
 
 ## References
 

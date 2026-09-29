@@ -16,15 +16,15 @@ tags:
 - **名称**: Jade Venus
 - **别名**: Casey Campanian（2015 年前曾用，见西班牙语维基百科）
 - **平台**: Instagram @jadexvenus / X @jadexvenus
-- **出生**: 2000年7月5日，美国（蒙大拿州）
-- **活跃年代**: 2020 –至今
+- **出生**: 2000 年 7 月 5 日，美国（蒙大拿州）
+- **活跃年代**: 2020 – 至今
 - **作品数量**: 280 余部（IAFD）
 - **职业**: 跨性别色情演员、情色模特、camgirl
 - **备注**: 2022 年 AVN 最佳跨性别新人；2023/2025 AVN 最佳跨性别性爱场景；2025 AVN 最佳跨性别群交场景；2025/2026 XMA 最佳跨性别性爱场景
 
 ## 详情
 
-Jade Venus（2000年7月5日－）是一名美国跨性别（trans woman）色情演员、情色模特及 camgirl，出生于蒙大拿州。14 岁（2015 年 2 月）开始性别过渡，当时使用姓名 Casey Campanian，并自称跨性别活动人士；因校园欺凌曾在 Havre 就读，后转至 Missoula 的 Hellgate 高中，2018 年毕业。
+Jade Venus（2000 年 7 月 5 日–）是一名美国跨性别（trans woman）色情演员、情色模特及 camgirl，出生于蒙大拿州。14 岁（2015 年 2 月）开始性别过渡，当时使用姓名 Casey Campanian，并自称跨性别活动人士；因校园欺凌曾在 Havre 就读，后转至 Missoula 的 Hellgate 高中，2018 年毕业。
 
 她于 2020 年底（20 岁）进入成人行业，此后为 Gender X、Devil's Film、Transsensual、Evil Angel、Adult Time、Trans Angels、Brazzers、Girlsway、Mile High、Kink.com 等片商出演。累计出演 280 余部作品。
 

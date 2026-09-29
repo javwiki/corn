@@ -27,9 +27,9 @@ tags:
 
 Lucy Mochi is a Chinese American adult film actress and web content creator born in Shanghai, China. IAFD data indicate that she entered the adult industry around 2023 and uses Lucy Mochi as her main stage name, along with aliases such as Asian Mochi and LucysMochi.
 
-Her public credits span platforms and production companies including Brazzers, Jules Jordan, Reality Kings, Girlsway, Kink.com, Vixen, and ManyVids. She also operates channels aimed directly at fans through Instagram, Twitter/X, OnlyFans, Fansly, and ManyVids.
+Her public credits span platforms and production companies including Brazzers, Jules Jordan, Reality Kings, Girlsway, Kink.com, Vixen, and ManyVids. She also runs fan-facing channels on Instagram, Twitter/X, OnlyFans, Fansly, and ManyVids.
 
-As of 10 September 2026, IAFD listed 35 of her works. Because she remains active, the number of works and her platform status may change over time.
+As of 10 September 2026, IAFD listed 35 of her titles. Because she remains active, the number of works and her platform status may change over time.
 
 ## References
 

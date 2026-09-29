@@ -19,7 +19,7 @@ tags:
 
 - **名称**: Nicole Doshi
 - **平台**: OnlyFans / Jules Jordan / Kinky Spa / Amateur Allure
-- **活跃年代**: 2021 –至今（IAFD 记录至 2026）
+- **活跃年代**: 2021 – 至今（IAFD 记录至 2026）
 - **作品数量**: 468 部（IAFD）
 - **职业**: 色情女演员、模特
 - **备注**: 华裔/亚裔，活跃于多个顶级平台

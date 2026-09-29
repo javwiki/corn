@@ -21,7 +21,7 @@ tags:
 - **Alias**: Jenelle Fennec
 - **Platform**: OnlyFans / Instagram / Twitter/X / TikTok / Twitch / ManyVids / Snapchat / Reddit / SextPanther
 - **Born**: 6 June 1987, Denver, Colorado, United States
-- **Active years**: 2014 – 2025
+- **Active years**: 2014–2025
 - **Number of works**: 105 (source: IAFD, as of 2025)
 - **Occupation**: Transgender adult film actress, adult model
 - **Nationality**: United States
@@ -41,7 +41,7 @@ She primarily plays Bottom roles but also appears in Top and Solo scenes. Her wo
 
 Janelle Fennec became widely recognized in the industry and won the Transational Fantasy Girl of the Year award at the Transgender Erotica Awards (TEA) in 2019. That year she also received TEA nominations for Best Boy/Girl Scene (three nominations), Best Hardcore Model, and Best Solo Model. She was also nominated for the XBIZ Trans Performer of the Year award in 2019 and 2020.
 
-Janelle Fennec is active on social media. She has about 41,700 Twitter/X followers (@JanelleFennec) and has published content since joining in April 2016. Her principal paid-content platforms are OnlyFans (onlyfans.com/janellefennec) and ManyVids (janellefennec.manyvids.com). She is also active on Instagram (@janellefennecreturns), TikTok (@janellefennec), Twitch (twitch.tv/janellefennec), Snapchat, and Reddit. Her personal website, janellefennec.com, formerly served as a showcase for her work.
+Janelle Fennec is active on social media. She has about 41,700 Twitter/X followers (@JanelleFennec) and has posted there since joining in April 2016. Her principal paid-content platforms are OnlyFans (onlyfans.com/janellefennec) and ManyVids (janellefennec.manyvids.com). She is also active on Instagram (@janellefennecreturns), TikTok (@janellefennec), Twitch (twitch.tv/janellefennec), Snapchat, and Reddit. Her personal website, janellefennec.com, formerly served as a showcase for her work.
 
 ## References
 

@@ -17,9 +17,9 @@ tags:
 - **名称**: Savannah Bond
 - **别名**: Kelli Anne Oxley
 - **平台**: OnlyFans / Instagram / Twitch / Linktree
-- **出生**: 1990年6月6日，澳大利亚维多利亚州墨尔本
+- **出生**: 1990 年 6 月 6 日，澳大利亚维多利亚州墨尔本
 - **活跃年代**: 2019 – 至今
-- **作品数量**: 100余部（IMDb公开片目口径）
+- **作品数量**: 100 余部（IMDb 公开片目口径）
 - **职业**: 色情女演员、制片人、网络内容创作者
 - **备注**: 曾获 AVN、XBIZ、Pornhub 和 Urban X 等行业奖项，长期与 Jules Jordan 合作
 

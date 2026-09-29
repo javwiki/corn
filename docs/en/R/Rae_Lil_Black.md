@@ -29,11 +29,11 @@ tags:
 
 ## Details
 
-Rae Lil Black, born 17 August 1996, is a Japanese former adult film actress, influencer, and content creator from Osaka. She debuted at about 20 under the stage name Lil Rae Black. Her first hardcore title was released on Pornhub in 2018 and received millions of views in its first week. She received two Pornhub Award nominations in 2019, as well as nominations from XBIZ Awards and AVN Awards. In 2021, AVN ranked her among Pornhub's top 30 most popular female models; she rose to 18th in 2022. Nutaku's turn-based RPG *Heavy Metal Babes* (2020) also featured her as a playable character.
+Rae Lil Black, born 17 August 1996, is a Japanese former adult film actress, influencer, and content creator from Osaka. She debuted at about 20 under the stage name Lil Rae Black. Her first hardcore title was released on Pornhub in 2018 and received millions of views in its first week. She received two Pornhub Award nominations in 2019, as well as nominations from XBIZ Awards and AVN Awards. In 2021, AVN ranked her among Pornhub's top 30 most popular female models, a position she improved on in 2022, when she rose to 18th. Nutaku's turn-based RPG *Heavy Metal Babes* (2020) also featured her as a playable character.
 
 From 2020 to 2024, she appeared in eight Vixen Media Group films. She opened her own OnlyFans account and appeared on the cover of *Richardson*, issue 25.
 
-After leaving the adult industry, she became a content creator, sharing gaming, vlogs, ASMR, and mukbang content on YouTube, TikTok, Instagram, and Twitch. She gave a TEDx Talk in Bangkok in November 2023.
+After leaving the adult industry, she has worked as a content creator, sharing gaming, vlogs, ASMR, and mukbang content on YouTube, TikTok, Instagram, and Twitch. She delivered a TEDx talk in Bangkok in November 2023.
 
 ### Award nomination record
 
@@ -43,7 +43,7 @@ After leaving the adult industry, she became a content creator, sharing gaming, 
 | 2020 | XBIZ Awards / XBIZ Cam Awards | Female Clip Artist of the Year / Best Female Clip Artist |
 | 2021 | 38th AVN Awards | Best New Foreign Starlet |
 | 2022 | 4th Pornhub Awards | Top Blowjob Performer |
-| 2023 | 40th AVN Awards |Best International Male/Female Sex Scene, etc.|
+| 2023 | 40th AVN Awards | Best International Male/Female Sex Scene, etc. |
 | 2024 | 41st AVN Awards | Best International All-Girl / Boy-Girl Sex Scene |
 
 ## References

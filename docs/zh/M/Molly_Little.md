@@ -25,14 +25,14 @@ tags:
 
 - **名称**: Molly Little
 - **别名**: maybemollyy（ManyVids/Instagram/Twitter/OnlyFans）、Nicole Buro（本名）、Molly（OnlyFans/TNVGirls）
-- **出生日期**: 2003年2月10日（星期一）
+- **出生日期**: 2003 年 2 月 10 日（星期一）
 - **出生地**: 美国弗吉尼亚州费尔法克斯
 - **国籍**: 美国
 - **种族**: 高加索人（意大利血统）
 - **性取向**: 异性恋（straight）
-- **活跃年代**: 2021年至今（约18岁入行，活跃5年）
-- **作品数量**: IAFD performer credits（截至2026）
-- **封面/写真**: 378封面 + 87写真集 + 291视频
+- **活跃年代**: 2021 年至今（约 18 岁入行，活跃 5 年）
+- **作品数量**: IAFD performer credits（截至 2026）
+- **封面/写真**: 378 封面 + 87 写真集 + 291 视频
 - **职业**: 成人模特、前_camgirl、前脱衣舞娘、前《花花公子》模特、色情女演员
 - **个人主页**: Instagram @maybemollyyy（已停用）、Twitter/X @MaybeMollyy、Facebook Molly Little XX
 
@@ -40,12 +40,12 @@ tags:
 
 | 属性 | 详情 |
 |------|------|
-| 身高 | 5'3" (160 cm) |
-| 体重 | 110 lbs (50 kg) |
+| 身高 | 5'3"（160 cm） |
+| 体重 | 110 lbs（50 kg） |
 | 体型 | 苗条（slim） |
 | 发色 | 金发（blonde） |
 | 眼睛 | 棕色（brown） |
-| 三围 | 32–22–32 (B–W–H) |
+| 三围 | 32–22–32 （B–W–H） |
 | 胸围/罩杯 | 32B |
 | 国际换算 | UK: 32B, EU: 70B, AU: 10B, JP: 70B |
 | 胸部 | 天然（Real/Natural） |
@@ -53,15 +53,15 @@ tags:
 
 ## 职业生涯
 
-Molly Little（本名 Nicole Buro）是来自弗吉尼亚州费尔法克斯的美国色情女演员、前《花花公子》模特，2021年（18岁）入行。她以娇小苗条、大眼睛、"邻家女孩"形象以及在 Nubiles、Brazzers、Stepsiblings Caught、Family Strokes 等系列中的表现而闻名。
+Molly Little（本名 Nicole Buro）是来自弗吉尼亚州费尔法克斯的美国色情女演员、前《花花公子》模特，2021 年（18 岁）入行。她以娇小苗条、大眼睛、「邻家女孩」形象以及在 Nubiles、Brazzers、Stepsiblings Caught、Family Strokes 等系列中的表现而闻名。
 
 她出生于支持型家庭，从小热爱表演，曾参与学校剧和本地剧院制作。她自称是意大利血统（Reddit 自述）。2021 年她先开始从事脱衣舞/裸体舞（dancing and stripping），随后于 2022 年 2 月 22 日通过 NetVideoGirls 工作室首次亮相成人电影。此后她与众多知名工作室合作。
 
 **重要奖项和提名**:
 - 2023 AVN 提名：最佳三人性爱场景（Stepsis and Friend Need My Dick）
 - 2024 XBIZ 奖项：All-Sex Release 最佳女演员（Molly's Way）
-- Nubiles Flavor Of The Month：2022年9月、2026年4月
-- Nubiles Fantasy Of The Month：2026年6月
+- Nubiles Flavor Of The Month：2022 年 9 月、2026 年 4 月
+- Nubiles Fantasy Of The Month：2026 年 6 月
 
 **主要合作工作室**:
 - Nubiles
@@ -102,7 +102,7 @@ Molly Little（本名 Nicole Buro）是来自弗吉尼亚州费尔法克斯的�
 
 ## 个人生活
 
-Molly Little 本名 Nicole Buro。她最独特的个人标记是中上腹部的三连蘑菇纹身和左拇指附近的蝴蝶纹身（粉丝认为蘑菇纹身"有点荒唐"，有人解读为"增强觉知、灵性觉醒、意识扩展"）。
+Molly Little 本名 Nicole Buro。她最独特的个人标记是中上腹部的三连蘑菇纹身和左拇指附近的蝴蝶纹身（粉丝认为蘑菇纹身「有点荒唐」，有人解读为「增强觉知、灵性觉醒、意识扩展」）。
 
 她的一项有趣爱好是 **Bikram 瑜伽**——在 105°F (41°C) 高温下、固定序列 26 个姿势的热瑜伽。她自称非常享受，这对她的柔韧性表演无疑有显著加成。
 

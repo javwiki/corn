@@ -34,10 +34,10 @@ tags:
 
 |Characteristic|Details|
 |------|------|
-|Height| 5'1" (155 cm) |
-|Weight| 140 lb (64 kg) |
-|Measurements| 34C-28-40 (bust–waist–hips) |
-|Shoe size| US 6 |
+| Height | 5'1" (155 cm) |
+| Weight | 140 lb (64 kg) |
+| Measurements | 34C-28-40 (bust–waist–hips) |
+| Shoe size | US 6 |
 |Hair color|Blonde|
 |Eyes|Blue|
 |Body type|Full (chubby, according to Babepedia)|
@@ -53,11 +53,11 @@ Eva Nyx, born 22 April 2001, is an American adult actress from Portland, Oregon.
 
 Her collaborations cover mainstream brands and emerging platforms, including Team Skeet, Brazzers, Reality Kings, Naughty America, New Sensations, Bang Originals, CastingCouch-X, MYLF, Nubiles, Dogfart Network, Amateur Allure, Hussie Pass, Kink.com, Swappz, Girlfriends Films, Girlsway, and Pornbox. Her VR work appears on WankzVR, VRHush, VRBangers, FuckPassVR, and BlowVR.
 
-Her work most frequently uses family/stepparent settings (Family Strokes, Sis Loves Me, Dad Crush, Brattysis, and MyPervyFamily), with scenes often featuring creampie, facial, and cum-eating content. She has also appeared in interracial productions for Dogfart Network and PervyPass and lesbian work for Girlfriends Films and Girlsway.
+Her work most frequently uses family/stepparent settings (Family Strokes, Sis Loves Me, Dad Crush, Brattysis, and MyPervyFamily), with scenes often featuring creampie, facial, and cum-eating content. She has also appeared in interracial productions for Dogfart Network and PervyPass, and in lesbian productions for Girlfriends Films and Girlsway.
 
 On social media, she runs @lilevanyx on Instagram (Babepedia recorded about 120,000 followers in July 2026) and also uses OnlyFans. Her Twitter (X) account is @rimreaper247, while IAFD also records @lilmissnoteva. Other platforms include TikTok (@idiotrawr), YouTube (@evanyx), Twitch (lilmisseva), and Linktree (linktr.ee/evanyx). Her Babepedia rating was 8.39/10 from 294 votes, verified in September 2026.
 
-Notably, Babepedia labels her former occupation as "Basketball Player," but this does not appear in IAFD, and the comments on its page question her height and playing history. Because its reliability is uncertain, this entry does not accept that claim.
+Notably, Babepedia labels her former occupation as "Basketball Player," but this does not appear in IAFD, and the comments on its page question her height and playing history. Because its reliability is uncertain, that claim is not accepted.
 
 ## Social media
 

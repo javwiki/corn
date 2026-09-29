@@ -35,13 +35,13 @@ tags:
 
 ## Details
 
-Erin Everheart, born 7 May 1993, is an American model, social media influencer, and adult content creator from Portland, Oregon, who currently resides in Las Vegas, Nevada. She is known for her long hair and uses the nickname "Rapornzel" on Twitter.
+Erin Everheart, born 7 May 1993, is an American model, social media influencer, and adult content creator from Portland, Oregon, and currently resides in Las Vegas, Nevada. She is known for her long hair and uses the nickname "Rapornzel" on Twitter.
 
-Since entering the industry in 2018, Erin has appeared in 237 adult films as of the 2026 IAFD record. She has worked with prominent studios including Brazzers, Evil Angel, Jules Jordan Video, Kink.com, Naughty America, and Dogfart Network. Her work spans a broad range of genres, including anal, group, BDSM, lesbian, and VR adult content.
+Since entering the industry in 2018, Erin has appeared in 237 adult films, according to IAFD's 2026 record. She has worked with prominent studios including Brazzers, Evil Angel, Jules Jordan Video, Kink.com, Naughty America, and Dogfart Network. Her work spans a broad range of genres, including anal, group, BDSM, lesbian, and VR productions.
 
 In 2024, Erin received an AVN Best Gangbang Scene nomination for *No Cum Dodging Allowed 14* (Jules Jordan Video). She has also modeled for the cover of *Hustler*.
 
-In addition to the main stage names recorded by IAFD, Erin performs under several aliases: Mistress Nyx (BDSM), Nym Fleurette (younger roles), and Queen Nyx (women/sensual-dominatrix themes).
+In addition to the main stage names recorded by IAFD, Erin has also performed under several aliases: Mistress Nyx (BDSM), Nym Fleurette (younger roles), and Queen Nyx (women/sensual-dominatrix themes).
 
 On social media, she has about 199,000 Twitter followers (joined in 2011). Her Instagram account @erineverheart remains active, and she publishes exclusive content through OnlyFans.com/erineverheart.
 

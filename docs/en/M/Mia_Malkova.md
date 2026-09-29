@@ -28,13 +28,13 @@ tags:
 
 Mia Malkova, born Melissa Ann Hevner on 1 July 1992 in Palm Springs, California, worked at fast-food chains such as McDonald's and Sizzler before entering the adult industry. In 2012, she entered adult entertainment at the invitation of a friend, Natasha Malkova (not a relative), using "Malkova" as her stage surname.
 
-Malkova began with nude and softcore modeling before quickly moving into hardcore films. In December 2012, she was named Twistys Treat of the Month and received Twistys Treat of the Year in 2013. She worked with prominent adult companies including Brazzers, Digital Playground, Naughty America, Jules Jordan Video, Blacked, Tushy, Vixen, Evil Angel, and HardX. She married Danny Mountain in 2014 and divorced in 2018.
+Malkova started out in nude and softcore modeling before moving quickly into hardcore films. In December 2012, she was named Twistys Treat of the Month and received Twistys Treat of the Year in 2013. She worked with prominent adult companies including Brazzers, Digital Playground, Naughty America, Jules Jordan Video, Blacked, Tushy, Vixen, Evil Angel, and HardX. She married Danny Mountain in 2014 and divorced in 2018.
 
-She has won numerous awards. In 2014, she won the AVN Best New Starlet award. In 2017, she won the XBIZ Best Actress – Feature Release award for *The Preacher's Daughter*. In 2018, she also received Pornhub honors including Hottest Female Ass and Most Popular Female Performer by Women.
+She has won numerous awards, among them the AVN Best New Starlet award in 2014 and, for *The Preacher's Daughter*, the XBIZ Best Actress – Feature Release award in 2017. In 2018 she also received Pornhub honors including Hottest Female Ass and Most Popular Female Performer by Women.
 
 Outside adult films, Malkova appeared in Ram Gopal Varma's short documentary *God, Sex and Truth* (2018) and the Indian erotic thriller *Climax* (2020). She also appeared in music videos including G-Eazy's "Still Be Friends" (2020) and Ninja Sex Party's "Wondering Tonight" (2020).
 
-Since 2022, Malkova has gradually transitioned to Twitch gaming and OnlyFans content creation. She has more than 650,000 Twitch followers and has attracted wide attention through gaming livestreams. As of 2026, she has about 11.5 million Instagram followers, 3.5 million on Twitter/X, and 2.3 million on TikTok.
+Since 2022, Malkova has gradually transitioned to Twitch gaming and OnlyFans content creation. She has more than 650,000 Twitch followers and has drawn a wide audience through her gaming livestreams. As of 2026, she has about 11.5 million Instagram followers, 3.5 million on Twitter/X, and 2.3 million on TikTok.
 
 Malkova is recognized as one of the world's most popular adult film actresses, known for her physical flexibility, distinctive appearance, and bisexuality. She has publicly stated that she is an atheist. Her brother Justin Hunt is also an adult film actor.
 

@@ -25,14 +25,14 @@ tags:
 
 - **名称**: Lexi Lore
 - **别名**: Lexy Lore、Katelyne Marie Aslett（本名）
-- **出生日期**: 1998年10月30日（星期五）
+- **出生日期**: 1998 年 10 月 30 日（星期五）
 - **出生地**: 美国弗吉尼亚州里士满（Richmond, VA）
 - **国籍**: 美国
 - **种族**: 高加索人
 - **性取向**: 双性恋（bisexual）
-- **活跃年代**: 2017年至今（约18岁入行，活跃9年）
-- **作品数量**: 574部（IAFD表演者信用记录，截至2026年7月）
-- **封面/写真**: 608封面 + 47写真集 + 561视频
+- **活跃年代**: 2017 年至今（约 18 岁入行，活跃 9 年）
+- **作品数量**: 574 部（IAFD 表演者信用记录，截至 2026 年 7 月）
+- **封面/写真**: 608 封面 + 47 写真集 + 561 视频
 - **职业**: 成人模特、camgirl、网红、色情女演员、YouTuber、TikTok Star
 - **个人网站**: [thelexilore.com](https://thelexilore.com)
 - **备注**: 金发棕眼，左臂地球仪纹身，左肩胛骨太阳花纹身，右鼻孔/乳头/肚脐穿孔
@@ -41,12 +41,12 @@ tags:
 
 | 属性 | 详情 |
 |------|------|
-| 身高 | 5'5" (165 cm) |
-| 体重 | 105 lbs (48 kg) |
+| 身高 | 5'5"（165 cm） |
+| 体重 | 105 lbs（48 kg） |
 | 体型 | 苗条（slim） |
 | 发色 | 金发（blonde） |
 | 眼睛 | 棕色（brown） |
-| 三围 | 37–24–35 (B–W–H) |
+| 三围 | 37–24–35 （B–W–H） |
 | 胸围/罩杯 | 34C |
 | 国际换算 | UK: 34C, EU: 75C, AU: 12C, JP: 75C |
 | 胸部 | 天然（Real/Natural） |
@@ -55,14 +55,14 @@ tags:
 
 ## 职业生涯
 
-Lexi Lore（本名 Katelyne Marie Aslett）是来自弗吉尼亚州里士满的美国色情女演员、YouTuber 和社交媒体影响者，2017年（约18岁）入行。她以"戴牙套的邻家女孩"形象（在早期作品中佩戴牙齿矫正器）、金发棕眼、34C 天然胸部以及在肛交、双穴（double penetration）、口交到肛交（ass-to-mouth）等多元题材中的表现而闻名。
+Lexi Lore（本名 Katelyne Marie Aslett）是来自弗吉尼亚州里士满的美国色情女演员、YouTuber 和社交媒体影响者，2017 年（约 18 岁）入行。她以「戴牙套的邻家女孩」形象（在早期作品中佩戴牙齿矫正器）、金发棕眼、34C 天然胸部以及在肛交、双穴（double penetration）、口交到肛交（ass-to-mouth）等多元题材中的表现而闻名。
 
-Reality Kings 评价她"don't be fooled by this cute, blonde teen's innocent face and braces"，Nubiles 则称她"hates following the rules"。她于 2020 年 12 月结婚。
+Reality Kings 评价她「don't be fooled by this cute, blonde teen's innocent face and braces」，Nubiles 则称她「hates following the rules」。她于 2020 年 12 月结婚。
 
 **YouTube/TikTok 影响力**:
-- YouTube: @LexiLore — **79.4万订阅者**（截至2026年7月）
-- TikTok: @itslexilore — **63.6万关注者**（截至2025年8月）
-- Instagram: @lexiloreonyoutube — 55.4万关注者
+- YouTube: @LexiLore — **79.4 万订阅者**（截至 2026 年 7 月）
+- TikTok: @itslexilore — **63.6 万关注者**（截至 2025 年 8 月）
+- Instagram: @lexiloreonyoutube — 55.4 万关注者
 
 她通过 YouTube 和 TikTok 分享 vlog 和生活方式内容，是多平台发展的代表性成人影星。
 
@@ -106,9 +106,9 @@ Reality Kings 评价她"don't be fooled by this cute, blonde teen's innocent fac
 
 ## 个人生活
 
-Lexi Lore 本名 Katelyne Marie Aslett。她的标志性特征包括：在职业生涯早期佩戴牙齿矫正器（braces）拍摄了大量作品，这在粉丝中引起强烈反响（"I was SO TURNED THE FUCK ON when she wore them"）。
+Lexi Lore 本名 Katelyne Marie Aslett。她的标志性特征包括：在职业生涯早期佩戴牙齿矫正器（braces）拍摄了大量作品，这在粉丝中引起强烈反响（「I was SO TURNED THE FUCK ON when she wore them」）。
 
-她于 2020 年 12 月结婚。粉丝常评论她 "looks like Billie Lourd from American Horror Story"（《美国恐怖故事》中的 Billie Lourd），以及"aged so well"（"20岁时可爱，现在绝对 breathtaking"）。
+她于 2020 年 12 月结婚。粉丝常评论她 「looks like Billie Lourd from American Horror Story」（《美国恐怖故事》中的 Billie Lourd），以及「aged so well」（「20 岁时可爱，现在绝对 breathtaking」）。
 
 ## 参考资料
 

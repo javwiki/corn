@@ -31,13 +31,13 @@ tags:
 
 ## Details
 
-Ellie Leen, born 7 April 1997, is a Dutch adult model, adult film actress, and content creator from Amsterdam. She is of Russian and Korean heritage and is known for her petite but toned figure (165 cm tall; measurements 36-24-36; 36B breasts) and natural beauty.
+Ellie Leen, born 7 April 1997, is a Dutch adult model, adult film actress, and content creator from Amsterdam. She is of Russian and Korean heritage and is known for her petite but toned figure (165 cm tall; measurements 36-24-36; a 36B bust) and her natural looks.
 
 Ellie first entered adult entertainment as a webcam model and was active on Chaturbate under the account ellieleen. After rapidly building an audience, she formally debuted in early 2019 with Vixen and filmed her first production, *Without Even Trying*, with Christian Clay. She then appeared with Jia Lissa and Christian Clay in the threesome scene *A Time And A Place*.
 
-She subsequently produced work for leading adult companies including Lets Doe It, Marc Dorcel, MetArt, Mofos (MindGeek), and Wow Girls. Notable work includes a lesbian sex scene in Marc Dorcel's *Bad Girls #2: Lesbian Desires* with Jia Lissa and Sophie Sparks, which received a 2021 AVN Awards nomination for "Best Foreign-Shot All-Girl Sex Scene." She also filmed several lesbian productions for Lets Doe It's *A Girl Knows* channel, including *Hot Lesbian Threesome By The Fireplace*.
+She subsequently produced work for leading adult companies including Lets Doe It, Marc Dorcel, MetArt, Mofos (MindGeek), and Wow Girls. Notable work includes a lesbian sex scene in Marc Dorcel's *Bad Girls #2: Lesbian Desires* with Jia Lissa and Sophie Sparks, which received a 2021 AVN Awards nomination for "Best Foreign-Shot All-Girl Sex Scene." She also filmed several lesbian productions for the *A Girl Knows* series from Lets Doe It, including *Hot Lesbian Threesome By The Fireplace*.
 
-In addition to screen work, Ellie operates personal accounts on several digital platforms, including OnlyFans (ellieleen1), Fansly (EllieLeen1), ManyVids (EllieLeen1), and FanCentro. She has a large following on Instagram (@itsnotellieleen) and Twitter/X (@EllieLeen1). Babepedia lists about 186,000 Instagram followers and about 426,000 Twitter followers.
+In addition to screen work, Ellie runs her own accounts on several digital platforms, including OnlyFans (ellieleen1), Fansly (EllieLeen1), ManyVids (EllieLeen1), and FanCentro. She has a large following on Instagram (@itsnotellieleen) and Twitter/X (@EllieLeen1); according to Babepedia, she has about 186,000 Instagram followers and about 426,000 Twitter followers.
 
 ## References
 
