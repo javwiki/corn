@@ -31,7 +31,7 @@
 uv sync --locked
 ```
 
-`pyproject.toml` 固定直接依赖 `pyyaml==6.0.2`、`zensical==0.0.62`，开发依赖固定为 `ruff==0.16.8`；`uv.lock` 锁定解析后的传递依赖与哈希。Zensical 本身最低支持 Python 3.10，但本项目选择 Python 3.12 以保持本地锁文件与 CI 使用的 Python 版本一致。不要手改 `uv.lock`；依赖变更后应通过 `uv` 更新并审阅锁文件。
+`pyproject.toml` 固定直接依赖 `pyyaml==6.0.2`、`zensical==0.0.62`，开发依赖固定为 `ruff==0.16.8`；`uv.lock` 锁定解析后的传递依赖与哈希。Zensical 本身最低支持 Python 3.10，但本项目选择 Python 3.12 以保持锁文件与本地校验环境一致。不要手改 `uv.lock`；依赖变更后应通过 `uv` 更新并审阅锁文件。
 
 ## 预览、构建与完整校验
 
@@ -85,9 +85,9 @@ uv run --locked --project . zensical build --config-file zensical.zh.toml --clea
 
 ### GitHub Actions 部署
 
-[`.github/workflows/docs.yml`](.github/workflows/docs.yml) 采用 [Zensical 官方 GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions) 的流程，使用 GitHub 的 `configure-pages`、`checkout`、`setup-python`、`upload-pages-artifact` 和 `deploy-pages` actions。CI 使用 Python 3.12.11，通过 `pip` 安装 `zensical==0.0.62`，直接为两份语言配置运行 `zensical build --clean --strict`，将 `LICENSE` 和 `NOTICE` 复制到 `site/` 后上传。CI 不使用 `uv` 或 `scripts/build_site.sh`；锁文件和完整校验脚本用于推送前的本地校验。
+[`.github/workflows/docs.yml`](.github/workflows/docs.yml) 采用 [Zensical 官方 GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions) 的流程，使用 GitHub 的 `configure-pages`、`checkout`、`setup-python`、`upload-pages-artifact` 和 `deploy-pages` actions。CI 与官方示例一致，使用 `ubuntu-latest`、Python `3.x` 和不固定版本的 `pip install zensical`，然后运行 `zensical build --clean`。额外的中文构建和许可证复制步骤用于保留双语站点及其声明。CI 不使用 `uv` 或 `scripts/build_site.sh`；锁文件和完整校验脚本用于推送前的本地校验。
 
-Pull request 构建两种语言，不授予部署权限。推送到 `main` 或在 `main` 上手动运行时，通过 `github-pages` environment 构建并部署。每次推送前都必须在本地通过完整 lint、i18n 和构建产物校验；CI 在推送后直接构建站点。在仓库 **Settings → Pages → Build and deployment** 中将 **Source** 设置为 **GitHub Actions**；修改该设置需要仓库管理权限。
+推送到 `main` 时，通过 `github-pages` environment 部署。每次推送前都必须在本地通过完整 lint、i18n、strict 构建和产物校验。CI 使用当前可安装的最新 Zensical，而非本地锁定版本。在仓库 **Settings → Pages → Build and deployment** 中将 **Source** 设置为 **GitHub Actions**；修改该设置需要仓库管理权限。
 
 英文是默认语言，占用站点根目录并发布在 `/corn/`；中文发布在 `/corn/zh/`。`site/` 和 `site/zh/` 是构建产物，已被 `.gitignore` 忽略，不要提交。英文此前发布在 `/corn/en/`，该前缀下的每个已发布页面都保留重定向到新的根目录路径，校验器会阻止遗漏；此前发布在 `/corn/` 的中文 URL 现在显示同一人物的英文页面。页眉语言选择器和页面级 `hreflang` 会保留当前人物路径。根 404 页面为双语，避免某一语言路径错误时只显示另一种语言；主题使用系统字体，不向 Google Fonts 发起请求。发布产物包含 `LICENSE` 与 `NOTICE`。如果 fork、改名、迁移域名或更改默认分支，必须同步修改两份 Zensical 配置中的 `site_url`/alternate/repository 路径，以及 `scripts/check_i18n.py` 中的默认语言、canonical URL 和目录常量；共享模板会从配置读取语言首页，校验器会故意阻止未同步的部署。校验器对数字、单位、handle 和链接的检查只说明双语结果的结构/一致性，不检查外部 URL 是否可访问、来源是否支持某项事实、英文翻译是否正确或奖项信息是否过时；这些仍需要人工复核。
 

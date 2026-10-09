@@ -31,7 +31,7 @@ Install or refresh the locked environment:
 uv sync --locked
 ```
 
-`pyproject.toml` pins the direct dependencies to `pyyaml==6.0.2` and `zensical==0.0.62`, and the development dependency to `ruff==0.16.8`. `uv.lock` locks resolved transitive dependencies and hashes. Zensical itself supports Python 3.10 and later, but this project uses Python 3.12 to keep the local lockfile and Python version consistent with CI. Do not edit `uv.lock` manually; update it through `uv` after dependency changes and review the result.
+`pyproject.toml` pins the direct dependencies to `pyyaml==6.0.2` and `zensical==0.0.62`, and the development dependency to `ruff==0.16.8`. `uv.lock` locks resolved transitive dependencies and hashes. Zensical itself supports Python 3.10 and later, but this project uses Python 3.12 to keep the lockfile and local validation environment consistent. Do not edit `uv.lock` manually; update it through `uv` after dependency changes and review the result.
 
 ## Preview, build, and full validation
 
@@ -85,9 +85,9 @@ Also run `git diff --check` before pushing to check whitespace errors; it does n
 
 ### GitHub Actions deployment
 
-[`.github/workflows/docs.yml`](.github/workflows/docs.yml) follows the [official Zensical GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions), using GitHub’s `configure-pages`, `checkout`, `setup-python`, `upload-pages-artifact`, and `deploy-pages` actions. CI installs `zensical==0.0.62` with `pip` on Python 3.12.11 and runs `zensical build --clean --strict` directly for each language configuration. It copies `LICENSE` and `NOTICE` into `site/` before uploading it. CI does not use `uv` or `scripts/build_site.sh`; the lockfile and full validation script are used locally before pushing.
+[`.github/workflows/docs.yml`](.github/workflows/docs.yml) follows the [official Zensical GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions), using GitHub’s `configure-pages`, `checkout`, `setup-python`, `upload-pages-artifact`, and `deploy-pages` actions. CI uses `ubuntu-latest`, Python `3.x`, and unpinned `pip install zensical`, followed by `zensical build --clean`, as in the official example. The additional Chinese build and license-copy steps preserve the bilingual site and its notices. CI does not use `uv` or `scripts/build_site.sh`; the lockfile and full validation script are used locally before pushing.
 
-Pull requests build both languages without deployment permissions. Pushes to `main` and manual runs on `main` build and deploy through the `github-pages` environment. The full lint, i18n, and output checks must pass locally before every push; CI performs the direct site builds after a push. In repository **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**; changing this setting requires repository administration access.
+Pushes to `main` deploy through the `github-pages` environment. The full lint, i18n, strict-build, and output checks must pass locally before every push. CI uses the latest available Zensical rather than the locally locked version. In repository **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**; changing this setting requires repository administration access.
 
 English is the default language, occupies the site root, and is published at `/corn/`; Chinese is published at `/corn/zh/`. `site/` and `site/zh/` are build outputs ignored by `.gitignore`; do not commit them. English was previously published at `/corn/en/`, and every previously published page under that prefix retains a redirect to its new root-level path. The validator prevents missing redirects. Previously published Chinese URLs under `/corn/` now display the same performer's English page.
 
