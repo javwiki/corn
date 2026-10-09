@@ -57,7 +57,7 @@ uv run --locked --project . zensical serve --config-file zensical.zh.toml
 
 ### 完整校验
 
-提交前运行仓库提供的完整校验脚本：
+每次推送前都必须运行仓库提供的完整校验脚本，包括文档和 workflow 修改。后续有任何编辑都要重新运行；只有校验成功后才能推送：
 
 ```bash
 ./scripts/build_site.sh
@@ -81,7 +81,13 @@ uv run --locked --project . zensical build --config-file zensical.toml --clean -
 uv run --locked --project . zensical build --config-file zensical.zh.toml --clean --strict
 ```
 
-提交前还可以运行 `git diff --check` 检查空白错误；它不是站点构建校验。
+推送前还必须运行 `git diff --check` 检查空白错误；它不能替代完整站点校验。提交并推送到 `main` 前，检查 `git status`，只暂存本次预期修改的文件。
+
+### GitHub Actions 部署
+
+[`.github/workflows/docs.yml`](.github/workflows/docs.yml) 采用 [Zensical 官方 GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions) 的流程，使用 GitHub 的 `configure-pages`、`checkout`、`setup-python`、`upload-pages-artifact` 和 `deploy-pages` actions。本项目保留 Python 3.12.11、`uv==0.12.5` 和锁定依赖，通过 `./scripts/build_site.sh` 校验并构建两种语言，再上传 `site/`。
+
+Pull request 只运行校验，不授予部署权限。推送到 `main` 或在 `main` 上手动运行时，通过 `github-pages` environment 构建并部署。CI 在推送后运行，不能代替推送前必须完成的本地校验。在仓库 **Settings → Pages → Build and deployment** 中将 **Source** 设置为 **GitHub Actions**；修改该设置需要仓库管理权限。
 
 英文是默认语言，占用站点根目录并发布在 `/corn/`；中文发布在 `/corn/zh/`。`site/` 和 `site/zh/` 是构建产物，已被 `.gitignore` 忽略，不要提交。英文此前发布在 `/corn/en/`，该前缀下的每个已发布页面都保留重定向到新的根目录路径，校验器会阻止遗漏；此前发布在 `/corn/` 的中文 URL 现在显示同一人物的英文页面。页眉语言选择器和页面级 `hreflang` 会保留当前人物路径。根 404 页面为双语，避免某一语言路径错误时只显示另一种语言；主题使用系统字体，不向 Google Fonts 发起请求。发布产物包含 `LICENSE` 与 `NOTICE`。如果 fork、改名、迁移域名或更改默认分支，必须同步修改两份 Zensical 配置中的 `site_url`/alternate/repository 路径，以及 `scripts/check_i18n.py` 中的默认语言、canonical URL 和目录常量；共享模板会从配置读取语言首页，校验器会故意阻止未同步的部署。校验器对数字、单位、handle 和链接的检查只说明双语结果的结构/一致性，不检查外部 URL 是否可访问、来源是否支持某项事实、英文翻译是否正确或奖项信息是否过时；这些仍需要人工复核。
 

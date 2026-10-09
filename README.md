@@ -57,7 +57,7 @@ uv run --locked --project . zensical serve --config-file zensical.zh.toml
 
 ### Full validation
 
-Run the repository's full validation script before committing:
+Run the repository's full validation script before every push, including documentation and workflow changes. Rerun it after any further edits; push only when it succeeds:
 
 ```bash
 ./scripts/build_site.sh
@@ -81,7 +81,13 @@ uv run --locked --project . zensical build --config-file zensical.toml --clean -
 uv run --locked --project . zensical build --config-file zensical.zh.toml --clean --strict
 ```
 
-You can also run `git diff --check` before committing to check whitespace errors; it does not validate the site build.
+Also run `git diff --check` before pushing to check whitespace errors; it does not replace the full site validation. Inspect `git status` and stage only intended files before committing and pushing to `main`.
+
+### GitHub Actions deployment
+
+[`.github/workflows/docs.yml`](.github/workflows/docs.yml) follows the [official Zensical GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions), using GitHub’s `configure-pages`, `checkout`, `setup-python`, `upload-pages-artifact`, and `deploy-pages` actions. The project retains Python 3.12.11, `uv==0.12.5`, locked dependencies, and `./scripts/build_site.sh` to validate and build both languages before uploading `site/`.
+
+Pull requests run validation without deployment permissions. Pushes to `main` and manual runs on `main` build and deploy through the `github-pages` environment. CI checks run after a push and do not replace the required local checks before pushing. In repository **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**; changing this setting requires repository administration access.
 
 English is the default language, occupies the site root, and is published at `/corn/`; Chinese is published at `/corn/zh/`. `site/` and `site/zh/` are build outputs ignored by `.gitignore`; do not commit them. English was previously published at `/corn/en/`, and every previously published page under that prefix retains a redirect to its new root-level path. The validator prevents missing redirects. Previously published Chinese URLs under `/corn/` now display the same performer's English page.
 

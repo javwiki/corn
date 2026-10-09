@@ -1,0 +1,65 @@
+# Based on https://zensical.org/docs/publish-your-site/#with-github-actions
+name: Documentation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    name: Validate pull request
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12.11"
+      - name: Install locked build tooling
+        run: python -m pip install uv==0.12.5
+      - name: Validate and build both language sites
+        run: ./scripts/build_site.sh
+
+  deploy:
+    name: Build and deploy GitHub Pages
+    if: (github.event_name == 'push' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v6
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12.11"
+      - name: Install locked build tooling
+        run: python -m pip install uv==0.12.5
+      - name: Validate and build both language sites
+        run: ./scripts/build_site.sh
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+          include-hidden-files: false
+      - uses: actions/deploy-pages@v5
+        id: deployment
