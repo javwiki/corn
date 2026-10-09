@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   validate:
-    name: Validate pull request
+    name: Build pull request
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-24.04
     timeout-minutes: 15
@@ -28,10 +28,9 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12.11"
-      - name: Install locked build tooling
-        run: python -m pip install uv==0.12.5
-      - name: Validate and build both language sites
-        run: ./scripts/build_site.sh
+      - run: pip install zensical==0.0.62
+      - run: zensical build --config-file zensical.toml --clean --strict
+      - run: zensical build --config-file zensical.zh.toml --clean --strict
 
   deploy:
     name: Build and deploy GitHub Pages
@@ -53,10 +52,11 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12.11"
-      - name: Install locked build tooling
-        run: python -m pip install uv==0.12.5
-      - name: Validate and build both language sites
-        run: ./scripts/build_site.sh
+      - run: pip install zensical==0.0.62
+      - run: zensical build --config-file zensical.toml --clean --strict
+      - run: zensical build --config-file zensical.zh.toml --clean --strict
+      - name: Include license notices
+        run: cp LICENSE NOTICE site/
       - uses: actions/upload-pages-artifact@v5
         with:
           path: site
