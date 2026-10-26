@@ -30,6 +30,15 @@ In 2020, Natasha Teen received the Spank Bank Technical Award "Relentlessly Insa
 
 In addition to traditional adult films, Natasha Teen has worked extensively in virtual-reality adult content, producing videos for platforms such as VirtualTaboo, VR Bangers, and DarkroomVR. She is also active on social media, with about 71,000 Instagram followers, sharing work, everyday life, and role-play content.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2020 | Spank Bank Awards | Relentlessly Insatiable (Technical Award) | — | Won |
+| 2020 | Spank Bank Awards | Gangbanged Girl of the Year | — | Nominated |
+| 2020 | Spank Bank Awards | Triple Anal Performer of the Year | — | Nominated |
+| 2020 | Spank Bank Awards | Double Anal Performer of the Year | — | Nominated |
+
 ## References
 
 - [IAFD](https://www.iafd.com/person.rme/id=a4567d9c-3ad6-466e-9d6c-984bc02fd6a5)

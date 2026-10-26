@@ -49,6 +49,7 @@ Violet Myers 曾多次获得 AVN 奖提名并获奖，包括 2024 年「最佳�
 | 2021 | Fleshbot Awards | Best Oral Scene | 提名 |
 | 2023 | AVN Awards | Best Female/Female Sex Scene | 提名 |
 | 2023 | AVN Awards | Best Foursome/Orgy Sex Scene | 提名 |
+| 2023 | Fleshbot Awards | Female Performer of the Year | 获奖 |
 | 2023 | Urban X Awards | Female Performer of the Year | 提名 |
 | 2024 | AVN Awards | Best Boy/Girl Sex Scene (*She Ruined Me*) | **获奖** |
 | 2024 | AVN Awards | Fan Award: Favorite Female Porn Star | **获奖** |
@@ -58,6 +59,7 @@ Violet Myers 曾多次获得 AVN 奖提名并获奖，包括 2024 年「最佳�
 | 2025 | XRCO Awards | Vicki Chase Orgasmic Oralist | 提名 |
 | 2026 | AVN Awards | Best Solo/Tease Performance | 提名 |
 | 2026 | AVN Awards | Fan Award: Favorite Cosplayer | **获奖** |
+| 2026 | Pornhub Awards | Most Popular Female Performer | **获奖** |
 
 ## 参考资料
 

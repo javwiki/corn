@@ -26,6 +26,12 @@ Autumn Falls is an American adult film actress and model who has worked in the a
 
 She has appeared in productions for numerous well-known studios, including Jules Jordan (*Made The Naughty List*, *First Anal*), Elegant Angel, Naughty America, BANG, Evil Angel, ManyVids, MrLuckyPOV, Amateur Allure, and Penthouse Gold. She is known in the industry for her natural, full breasts and youthful appearance, and often appears in "Busty Teen" productions.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2020 | XBIZ Awards | Best New Starlet | — | Won |
+
 ## References
 
 - [IAFD: Autumn Falls](https://www.iafd.com/person.rme/id=f3653ee2-88fc-47d0-8099-b1efdd575ab4)

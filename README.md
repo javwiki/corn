@@ -68,7 +68,7 @@ The script derives the repository root from its own location and runs the follow
 1. Check the Python validators with the locked Ruff linter and formatter.
 2. Run `check_i18n.py` to check bilingual file sets and canonical paths, the Zensical configuration contract, article front matter/tags/H1 headings, `list.yaml`/`list.md`, alphabetical `index.md` links, local Markdown targets, and security/Markdown issues such as unsafe HTML or protocols. It also compares social handles and recognizable heights, weights, work counts, percentages, and quantities expressed with `万` (ten thousand) or `亿` (one hundred million). This script does not access the network.
 3. Build the English site, then the Chinese site, with locked Zensical 0.0.62 and `--clean --strict` in a temporary staging directory inside the repository. Chinese output is nested under `site/zh/`. If either build fails, the previous `site/` is preserved.
-4. Verify both entry points, both 404 pages, redirects for Elle Lee's old paths, and redirects for retired `/corn/en/*` paths before replacing the final `site/` on the same filesystem.
+4. Verify both entry points and both 404 pages before replacing the final `site/` on the same filesystem.
 5. Copy the root `LICENSE` and `NOTICE` into the published output.
 
 For individual diagnostics, run:
@@ -89,7 +89,7 @@ Also run `git diff --check` before pushing to check whitespace errors; it does n
 
 Pushes to `main` deploy through the `github-pages` environment. The full lint, i18n, strict-build, and output checks must pass locally before every push. CI uses the latest available Zensical rather than the locally locked version. In repository **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**; changing this setting requires repository administration access.
 
-English is the default language, occupies the site root, and is published at `/corn/`; Chinese is published at `/corn/zh/`. `site/` and `site/zh/` are build outputs ignored by `.gitignore`; do not commit them. English was previously published at `/corn/en/`, and every previously published page under that prefix retains a redirect to its new root-level path. The validator prevents missing redirects. Previously published Chinese URLs under `/corn/` now display the same performer's English page.
+English is the default language, occupies the site root, and is published at `/corn/`; Chinese is published at `/corn/zh/`. `site/` and `site/zh/` are build outputs ignored by `.gitignore`; do not commit them. The site does not maintain compatibility redirects: current paths are canonical. This includes the former `/corn/en/` prefix and renamed pages such as Elle Lee's old `/L/Elle_Lee/` path. Previously published Chinese URLs under `/corn/` now display the same performer's English page.
 
 The header language selector and page-level `hreflang` links preserve the current performer path. The root 404 page is bilingual so that an invalid language-specific path does not show only the other language. The theme uses system fonts and makes no requests to Google Fonts. Published output includes `LICENSE` and `NOTICE`.
 

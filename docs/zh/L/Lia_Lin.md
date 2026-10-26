@@ -38,6 +38,16 @@ Lia Lin 是一位巴西出生、拥有菲律宾血统的成人影片演员和模
 
 社交媒体方面，她在 Instagram（@LiaLinxo）拥有约 29.5 万粉丝（截至 2026 年 3 月数据），TikTok（@LiaLinxo）、Twitter/X（@LiaLyenn）、Fansly（@LiaLinOF）均有活跃账号，并通过 Snapchat（@kim_rossii）与粉丝互动。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2023 | AVN Awards | Best International Boy/Girl Sex Scene | *Lia Lin Mystery Man* | 提名 |
+| 2024 | AVN Awards | Best International Group Sex Scene（2 项提名） | — | 提名 |
+| 2025 | AVN Awards | Best International All-Girl Sex Scene | *What Is Love - Scene 2* | 获奖 |
+| 2025 | AVN Awards | International Female Performer of the Year | — | 提名 |
+| 2026 | AVN Awards | Best VR One-on-One Sex Scene | — | 提名 |
+
 ## 参考资料
 
 - [Babepedia](https://www.babepedia.com/babe/Lia_Lin)

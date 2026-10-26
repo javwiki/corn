@@ -1,5 +1,6 @@
 # The actor with the letter L
 
+- [Lana Rhoades](Lana_Rhoades.md)
 - [Lauren Phillips](Lauren_Phillips.md)
 - [Lena Paul](Lena_Paul.md)
 - [Lexi Lore](Lexi_Lore.md)

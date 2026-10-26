@@ -48,6 +48,3 @@ toggle.icon = "lucide/moon"
 toggle.name = "跟随系统设置"
 
 [project.plugins.tags]
-
-[project.plugins.redirects.redirect_maps]
-"L/Elle_Lee.md" = "E/Elle_Lee.md"

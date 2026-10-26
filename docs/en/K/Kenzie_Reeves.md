@@ -58,10 +58,6 @@ She is known for her 4'10" (147 cm) frame, 90-pound weight, blonde hair and haze
 
 She is a Fleshlight Girl brand representative and has received Nubiles monthly honors on several occasions.
 
-**Important awards**:
-- 2019 XRCO Award: Teen Dream
-- 2020 AVN Award: Best Virtual Reality Sex Scene (with Sofie Reyez, Jillian Janson, Gina Valentina, and Tommy Gunn for *The Wanking Dead: Doctors Orders*)
-
 **Main collaborating studios**:
 - Evil Angel
 - Elegant Angel
@@ -88,6 +84,19 @@ She is a Fleshlight Girl brand representative and has received Nubiles monthly h
 | Girl/Girl | Kissing, breast touching, breast licking, fingers, dildos, oral sex, fisting, anal sex, tribadism |
 | Boy/Girl | Oral sex, vaginal intercourse, fisting, anal sex, creampie, interracial, facial |
 | Special | Golden shower, facial, squirting, taboo themes |
+
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2019 | XRCO Awards | Teen Dream | — | Won |
+| 2019 | NightMoves Awards | Unsung Performer of the Year (Editor's Choice) | — | Won |
+| 2019 | XBIZ Awards | Best Sex Scene – Feature Movie | *A Trailer Park Taboo* | Won |
+| 2019 | AVN Awards | Best New Starlet | — | Nominated |
+| 2019 | AVN Awards | Best Actress – Feature | *A Trailer Park Taboo* | Nominated |
+| 2020 | AVN Awards | Best Virtual Reality Sex Scene | *The Wanking Dead: Doctors Orders* | Won |
+| 2020 | AVN Awards | Female Performer of the Year | — | Nominated |
+| 2020 | AVN Awards | Fan Award: Favorite Female Porn Star | — | Nominated |
 
 ## Social media
 

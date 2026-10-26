@@ -31,6 +31,23 @@ She began filming adult films in 2013, first working with Reality Kings and late
 
 Phillips has received numerous industry nominations and honors, including NightMoves Miss Congeniality in 2016, the NightMoves editors' choice Adult Star of the Year website award, and induction into the NightMoves Hall of Fame in 2020. She has also been nominated for AVN, XBIZ, and XRCO awards and continues to perform, host, and create content.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2016 | NightMoves Awards | Miss Congeniality | — | Won |
+| 2017 | NightMoves Awards | Adult Performer Website of the Year (Editor's Choice) | laurenphillips.com | Won |
+| 2018 | NightMoves Awards | Most Underrated Female Performer (Editor's Choice) | — | Won |
+| 2019 | NightMoves Awards | Social Media Star of the Year (Editor's Choice) | — | Won |
+| 2020 | NightMoves Awards | Hall of Fame | — | Inducted |
+| 2022 | NightMoves Awards | Best All-Girl Performer | — | Won |
+| 2023 | NightMoves Awards | Triple Play Award (Dancing/Performing/Directing) | — | Won |
+| 2023 | AltStar Awards | Fan Favorite Female Performer of the Year | — | Won |
+| 2024 | XBIZ Awards | MILF Performer of the Year | — | Won |
+| 2024 | NightMoves Awards | Best Girl/Girl Performer | — | Won |
+| 2025 | NightMoves Awards | Industry Ambassador Award | — | Won |
+| 2026 | NightMoves Awards | Best MILF Performer | — | Won |
+
 ## References
 
 - [Lauren Phillips - Wikipedia](https://en.wikipedia.org/wiki/Lauren_Phillips_%28American_actress%29)

@@ -30,6 +30,14 @@ Nicole Doshi is a Chinese American/Asian adult film actress and model who has wo
 
 She has appeared in work from numerous prominent studios, including Jules Jordan (*Analyzed Asian Nicole Doshi* and *Big Cock Connoisseur Nicole Doshi*), Kinky Spa, Evil Angel, Amateur Allure, ManyVids, BANG, Spizoo, VR Bangers, Vixen, and Devil's Film. She is known for her Asian features, full figure, and work in DP, squirting, and BBC interracial themes. She also operates her own OnlyFans account.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2023 | NightMoves Awards | Best New Starlet | — | Won |
+| 2023 | XBIZ Awards | Best New Starlet | — | Won |
+| 2023 | XRCO Awards | New Starlet | — | Won |
+
 ## References
 
 - [IAFD: Nicole Doshi](https://www.iafd.com/person.rme/id=bca57377-e8a2-4372-aef2-070a54a5b193)

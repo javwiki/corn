@@ -57,12 +57,6 @@ Molly Little（本名 Nicole Buro）是来自弗吉尼亚州费尔法克斯的�
 
 她出生于支持型家庭，从小热爱表演，曾参与学校剧和本地剧院制作。她自称是意大利血统（Reddit 自述）。2021 年她先开始从事脱衣舞/裸体舞（dancing and stripping），随后于 2022 年 2 月 22 日通过 NetVideoGirls 工作室首次亮相成人电影。此后她与众多知名工作室合作。
 
-**重要奖项和提名**:
-- 2023 AVN 提名：最佳三人性爱场景（Stepsis and Friend Need My Dick）
-- 2024 XBIZ 奖项：All-Sex Release 最佳女演员（Molly's Way）
-- Nubiles Flavor Of The Month：2022 年 9 月、2026 年 4 月
-- Nubiles Fantasy Of The Month：2026 年 6 月
-
 **主要合作工作室**:
 - Nubiles
 - Brazzers
@@ -86,6 +80,14 @@ Molly Little（本名 Nicole Buro）是来自弗吉尼亚州费尔法克斯的�
 | Girl/Girl | 接吻、胸部触摸、胸部舔舐、手指、假阳具、口交、Tribadism（摩擦） |
 | Boy/Girl | 口交、阴道性交、肛交、内射、种族间、颜射 |
 | Special | 黄金雨、孕妇、颜射、群交 |
+
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2023 | AVN Awards | Best Three-Way Sex Scene | *Stepsis and Friend Need My Dick* | 提名 |
+| 2024 | XBIZ Awards | Best Actress – All-Sex Release | *Molly's Way* | 获奖 |
+| 2024 | XRCO Awards | Cream Dream | — | 获奖 |
 
 ## 社交媒体
 

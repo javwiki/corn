@@ -29,6 +29,18 @@ Jessy Bells 在业界获得了多项奖项提名。2019 年，她被 Transgender
 
 除了成人影片事业，Jessy Bells 也活跃于社交媒体平台。她在 Twitter/X（@JessyBellYana）上拥有约 3.6 万粉丝，经常与粉丝互动并分享生活动态。她还在 OnlyFans 和 ManyVids 等付费平台上发布独家内容。其个人兴趣包括直播、游戏和旅行，目前居住于加利福尼亚州洛杉矶。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2019 | Transgender Erotica Awards | Best New Face | — | 提名 |
+| 2020 | AVN Awards | Best Trans One-on-One Sex Scene | *Transsexual Girlfriend Experience 8* | 提名 |
+| 2020 | Transgender Erotica Awards | Best Boy/Girl Scene | — | 提名 |
+| 2020 | Transgender Erotica Awards | Best Hardcore Performer | — | 提名 |
+| 2020 | Transgender Erotica Awards | Best VR Scene | — | 提名 |
+| 2021 | AVN Awards | Most Outrageous Sex Scene | *TS Jessy Bells: Anal Fun and Milk Enema* | 提名 |
+| 2021 | Transgender Erotica Awards | Ms. Unique | — | 提名 |
+
 ## 参考资料
 
 - [IAFD - Jessy Bells](https://www.iafd.com/person.rme/id=beb16347-85a5-489d-9a0c-feb3832868fd)

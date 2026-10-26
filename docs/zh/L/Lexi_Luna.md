@@ -31,6 +31,16 @@ Lexi Luna 是一位美国色情电影女演员，以「MILF」角色类型著称
 
 Luna 是 Adult Time 品牌的形象大使之一，与 Lauren Phillips、Siri Dahl 及 Leana Lovings 等演员并列。从业至今，她已获得多项行业大奖，包括 2017 年 NightMoves「最亲切奖」（Miss Congeniality）、2025 年 Pornhub「最受欢迎 MILF」奖、2025 年 XRCO「MILF 年度表演者」奖，以及 2026 年 AVN「MILF 年度表演者」奖和 Doppio Senso Night「最佳国际 MILF」奖。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2017 | NightMoves Awards | Miss Congeniality | — | 获奖 |
+| 2025 | Pornhub Awards | Favorite MILF | — | 获奖 |
+| 2025 | XRCO Awards | MILF of the Year | — | 获奖 |
+| 2026 | AVN Awards | MILF Performer of the Year | — | 获奖 |
+| 2026 | Doppio Senso Night Awards | Best International MILF | — | 获奖 |
+
 ## 参考资料
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Lexi_Luna)

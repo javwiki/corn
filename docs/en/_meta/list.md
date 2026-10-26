@@ -77,3 +77,37 @@
 - **Violet Myers** (V) - Completion: 100%
 - **Vina Sky** (V) - Completion: 95%
 - **Vivian Foxx** (V) - Completion: 65%
+- **Abella Danger** (A) - Completion: 90%
+- **Adriana Chechik** (A) - Completion: 90%
+- **Anikka Albrite** (A) - Completion: 90%
+- **Asa Akira** (A) - Completion: 90%
+- **Aubrey Kate** (A) - Completion: 90%
+- **Blake Blossom** (B) - Completion: 90%
+- **Carter Cruise** (C) - Completion: 90%
+- **Chanel Preston** (C) - Completion: 90%
+- **Emily Willis** (E) - Completion: 90%
+- **Gianna Dior** (G) - Completion: 90%
+- **Jennifer White** (J) - Completion: 90%
+- **Lana Rhoades** (L) - Completion: 90%
+- **Remy LaCroix** (R) - Completion: 90%
+- **Riley Reid** (R) - Completion: 90%
+- **Tori Black** (T) - Completion: 90%
+- **Vanna Bardot** (V) - Completion: 90%
+- **Chanel Camryn** (C) - Completion: 90%
+- **Gal Ritchie** (G) - Completion: 90%
+- **Jessie Andrews** (J) - Completion: 90%
+- **Kagney Linn Karter** (K) - Completion: 90%
+- **Allie Haze** (A) - Completion: 85%
+- **Andy San Dimas** (A) - Completion: 80%
+- **Anna Claire Clouds** (A) - Completion: 90%
+- **Bailey Jay** (B) - Completion: 90%
+- **Bonnie Rotten** (B) - Completion: 90%
+- **Britney Amber** (B) - Completion: 75%
+- **Brooklyn Lee** (B) - Completion: 85%
+- **Emma Rose** (E) - Completion: 85%
+- **Kenzie Anne** (K) - Completion: 80%
+- **Kenzie Taylor** (K) - Completion: 75%
+- **Kira Noir** (K) - Completion: 90%
+- **Maitland Ward** (M) - Completion: 90%
+- **Scarlit Scandal** (S) - Completion: 90%
+- **Venus Lux** (V) - Completion: 85%

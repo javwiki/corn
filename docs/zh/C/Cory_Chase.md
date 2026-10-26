@@ -31,6 +31,18 @@ Cory Chase 是美国最高产的 MILF（成熟女性）色情女演员之一，�
 
 在社交媒体方面，Cory Chase 在 Instagram（账号 mrs.c.chase / CoryChase2.0）拥有约 34 万粉丝（截至 2026 年 2 月），Twitter/X 活跃账号为 @CoryChaseXXX，并同时在 OnlyFans 和 ManyVids 上发布付费内容。她亦活跃于 MyFreeCams 进行直播，并维护着 Linktree 汇总页面（linktr.ee/theCoryChase）。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2019 | AVN Awards | Fan Award: Favorite Indie Clip Star | — | 获奖 |
+| 2020 | AVN Awards | Fan Award: Favorite Indie Clip Star | — | 获奖 |
+| 2020 | Pornhub Awards | Highly Experienced: Top MILF Performer | — | 获奖 |
+| 2021 | AVN Awards | Fan Award: Favorite Indie Clip Star | — | 获奖 |
+| 2023 | Pornhub Awards | Favorite MILF | — | 获奖 |
+| 2024 | Urban X Awards | Best Couples Scene | *Milfy* | 获奖 |
+| 2026 | AVN Awards | Fan Award: Favorite MILF Star | — | 获奖 |
+
 ## 参考资料
 
 - [IAFD](https://www.iafd.com/person.rme/id=9626e119-b6e7-4730-8da6-5c5c5c589f09)

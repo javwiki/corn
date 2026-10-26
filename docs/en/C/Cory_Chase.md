@@ -31,6 +31,18 @@ Her career has earned numerous awards and nominations. She won the AVN prize "Fa
 
 On social media, Cory Chase has about 340,000 Instagram followers as of February 2026 (accounts mrs.c.chase / CoryChase2.0). Her active Twitter/X account is @CoryChaseXXX. She publishes paid content on OnlyFans and ManyVids, streams on MyFreeCams, and maintains a Linktree directory at linktr.ee/theCoryChase.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2019 | AVN Awards | Fan Award: Favorite Indie Clip Star | — | Won |
+| 2020 | AVN Awards | Fan Award: Favorite Indie Clip Star | — | Won |
+| 2020 | Pornhub Awards | Highly Experienced: Top MILF Performer | — | Won |
+| 2021 | AVN Awards | Fan Award: Favorite Indie Clip Star | — | Won |
+| 2023 | Pornhub Awards | Favorite MILF | — | Won |
+| 2024 | Urban X Awards | Best Couples Scene | *Milfy* | Won |
+| 2026 | AVN Awards | Fan Award: Favorite MILF Star | — | Won |
+
 ## References
 
 - [IAFD](https://www.iafd.com/person.rme/id=9626e119-b6e7-4730-8da6-5c5c5c589f09)

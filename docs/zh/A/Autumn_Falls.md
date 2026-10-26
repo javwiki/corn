@@ -26,6 +26,12 @@ Autumn Falls 是一名美国色情女演员与成人模特，自 2018 年起活�
 
 她曾出演众多知名工作室的作品，包括 Jules Jordan（《Made The Naughty List》《First Anal》）、Elegant Angel、Naughty America、BANG、Evil Angel、ManyVids、MrLuckyPOV、Amateur Allure、Penthouse Gold 等。她以其天然丰满的胸部和年轻貌美形象在行业中广为人知，常出演「Busty Teen」题材作品。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2020 | XBIZ Awards | Best New Starlet | — | 获奖 |
+
 ## 参考资料
 
 - [IAFD: Autumn Falls](https://www.iafd.com/person.rme/id=f3653ee2-88fc-47d0-8099-b1efdd575ab4)

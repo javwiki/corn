@@ -31,6 +31,21 @@ Savannah Bond 是一位澳大利亚色情女演员和内容创作者，出生于
 
 Bond 曾凭《Savannah Bond Beach Bikini Slut》相关作品获得 Fleshbot 与 AVN 荣誉，并凭《Blacked Raw V56》等作品获得 AVN、XBIZ 和其他行业奖项。她也曾被 Cherry Pimps 选为月度模特。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2021 | Fleshbot Awards | Movie of the Year | *Savannah Bond: Beach Bikini Slut* | 获奖 |
+| 2022 | AVN Awards | Best Blowbang Scene | *Savannah Bond: Beach Bikini Slut* | 获奖 |
+| 2022 | Urban X Awards | Urban X Hottie | — | 获奖 |
+| 2022 | Fleshbot Awards | Best Group Sex Scene | *The Gangbang of Savannah Bond* | 获奖 |
+| 2023 | AVN Awards | Best Foursome/Orgy Scene | *Blacked Raw V56* | 获奖 |
+| 2023 | XBIZ Awards | Best Sex Scene – Vignette | *Blacked Raw V56* | 获奖 |
+| 2023 | Adult Empire Awards | Porn Clip of the Year | *Double Anal Angels* | 获奖 |
+| 2025 | Pornhub Awards | Hottest Ass | — | 提名 |
+| 2025 | Pornhub Awards | Favorite BBW | — | 提名 |
+| 2026 | AVN Awards | Best MILF Movie/Series | — | 获奖 |
+
 ## 参考资料
 
 - [Savannah Bond - Wikipedia](https://en.wikipedia.org/wiki/Savannah_Bond)

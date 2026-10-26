@@ -30,6 +30,15 @@ Natasha Teen 是一位哥伦比亚裔色情女演员、模特和角色扮演者�
 
 除了传统成人影片，Natasha Teen 也广泛参与虚拟现实（VR）成人内容，曾为 VirtualTaboo、VR Bangers、DarkroomVR 等平台拍摄作品。同时她也活跃于社交媒体，在 Instagram 拥有约 7.1 万粉丝，内容涵盖工作花絮、生活日常和角色扮演造型。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2020 | Spank Bank Awards | Relentlessly Insatiable（技术奖） | — | 获奖 |
+| 2020 | Spank Bank Awards | Gangbanged Girl of the Year | — | 提名 |
+| 2020 | Spank Bank Awards | Triple Anal Performer of the Year | — | 提名 |
+| 2020 | Spank Bank Awards | Double Anal Performer of the Year | — | 提名 |
+
 ## 参考资料
 
 - [IAFD](https://www.iafd.com/person.rme/id=a4567d9c-3ad6-466e-9d6c-984bc02fd6a5)

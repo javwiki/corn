@@ -43,6 +43,17 @@ Janelle Fennec 在业内获得广泛认可，于 2019 年赢得 Transgender Erot
 
 在社交媒体方面，Janelle Fennec 相当活跃。她在 Twitter/X（@JanelleFennec）拥有约 4.17 万粉丝，自 2016 年 4 月加入以来持续发布内容。她的主要付费内容平台包括 OnlyFans（onlyfans.com/janellefennec）和 ManyVids（janellefennec.manyvids.com）。此外，她还在 Instagram（@janellefennecreturns）、TikTok（@janellefennec）、Twitch（twitch.tv/janellefennec）、Snapchat 和 Reddit 等平台保持活跃。她的个人网站 janellefennec.com 曾作为作品展示窗口。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2019 | Transgender Erotica Awards | Transational Fantasy Girl of the Year | — | 获奖 |
+| 2019 | Transgender Erotica Awards | Best Boy/Girl Scene（3 项提名） | — | 提名 |
+| 2019 | Transgender Erotica Awards | Best Hardcore Model | — | 提名 |
+| 2019 | Transgender Erotica Awards | Best Solo Model | — | 提名 |
+| 2019 | XBIZ Awards | Trans Performer of the Year | — | 提名 |
+| 2020 | XBIZ Awards | Trans Performer of the Year | — | 提名 |
+
 ## 参考资料
 
 - [IAFD](https://www.iafd.com/person.rme/id=9dd8f64d-ca81-4690-beb4-41ff1373a1da)

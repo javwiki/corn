@@ -77,3 +77,37 @@
 - **Violet Myers** (V) - 完成度: 100%
 - **Vina Sky** (V) - 完成度: 95%
 - **Vivian Foxx** (V) - 完成度: 65%
+- **Abella Danger** (A) - 完成度: 90%
+- **Adriana Chechik** (A) - 完成度: 90%
+- **Anikka Albrite** (A) - 完成度: 90%
+- **Asa Akira** (A) - 完成度: 90%
+- **Aubrey Kate** (A) - 完成度: 90%
+- **Blake Blossom** (B) - 完成度: 90%
+- **Carter Cruise** (C) - 完成度: 90%
+- **Chanel Preston** (C) - 完成度: 90%
+- **Emily Willis** (E) - 完成度: 90%
+- **Gianna Dior** (G) - 完成度: 90%
+- **Jennifer White** (J) - 完成度: 90%
+- **Lana Rhoades** (L) - 完成度: 90%
+- **Remy LaCroix** (R) - 完成度: 90%
+- **Riley Reid** (R) - 完成度: 90%
+- **Tori Black** (T) - 完成度: 90%
+- **Vanna Bardot** (V) - 完成度: 90%
+- **Chanel Camryn** (C) - 完成度: 90%
+- **Gal Ritchie** (G) - 完成度: 90%
+- **Jessie Andrews** (J) - 完成度: 90%
+- **Kagney Linn Karter** (K) - 完成度: 90%
+- **Allie Haze** (A) - 完成度: 85%
+- **Andy San Dimas** (A) - 完成度: 80%
+- **Anna Claire Clouds** (A) - 完成度: 90%
+- **Bailey Jay** (B) - 完成度: 90%
+- **Bonnie Rotten** (B) - 完成度: 90%
+- **Britney Amber** (B) - 完成度: 75%
+- **Brooklyn Lee** (B) - 完成度: 85%
+- **Emma Rose** (E) - 完成度: 85%
+- **Kenzie Anne** (K) - 完成度: 80%
+- **Kenzie Taylor** (K) - 完成度: 75%
+- **Kira Noir** (K) - 完成度: 90%
+- **Maitland Ward** (M) - 完成度: 90%
+- **Scarlit Scandal** (S) - 完成度: 90%
+- **Venus Lux** (V) - 完成度: 85%

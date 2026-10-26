@@ -56,6 +56,20 @@ Elsa 于 2020 年开始兼任导演，为自己的作品执导场景。她是 **
 **个人生活**:
 2023 年 2 月，NBA 球星 Bryn Forbes 在争吵中袭击了 Elsa Jean，导致 Forbes 被捕。这一事件在当时广受媒体关注。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2017 | AVN Awards | Best New Starlet | — | 提名 |
+| 2017 | XRCO Awards | New Starlet | — | 获奖 |
+| 2018 | AVN Awards | Female Performer of the Year | — | 提名 |
+| 2019 | AVN Awards | Female Performer of the Year | — | 提名 |
+| 2019 | Pornhub Awards | Nicest Pussy | — | 获奖 |
+| 2019 | Spank Bank Awards | Masturbator of the Year | — | 获奖 |
+| 2019 | XRCO Awards | Teen Dream | — | 提名 |
+| 2021 | AVN Awards | Female Performer of the Year | — | 提名 |
+| 2022 | AVN Awards | Female Performer of the Year | — | 提名 |
+
 ## 参考资料
 
 - [IAFD: Elsa Jean](https://www.iafd.com/person.rme/id=c5f1babe-aec7-4fd9-94bf-45f65b899756)

@@ -30,6 +30,14 @@ Nicole Doshi 是一名华裔/亚裔色情女演员与模特，自 2021 年起活
 
 她曾出演众多优质工作室的作品，包括 Jules Jordan（《Analyzed Asian Nicole Doshi》《Big Cock Connoisseur Nicole Doshi》）、Kinky Spa、Evil Angel、Amateur Allure、ManyVids、BANG、Spizoo、VR Bangers、Vixen、Devil's Film 等。她以亚洲面孔、丰满身材以及积极参与 DP、Squirting、BBC 跨种族等题材而知名。同时也经营个人 OnlyFans。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2023 | NightMoves Awards | Best New Starlet | — | 获奖 |
+| 2023 | XBIZ Awards | Best New Starlet | — | 获奖 |
+| 2023 | XRCO Awards | New Starlet | — | 获奖 |
+
 ## 参考资料
 
 - [IAFD: Nicole Doshi](https://www.iafd.com/person.rme/id=bca57377-e8a2-4372-aef2-070a54a5b193)

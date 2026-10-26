@@ -43,6 +43,17 @@ Janelle Fennec became widely recognized in the industry and won the Transational
 
 Janelle Fennec is active on social media. She has about 41,700 Twitter/X followers (@JanelleFennec) and has posted there since joining in April 2016. Her principal paid-content platforms are OnlyFans (onlyfans.com/janellefennec) and ManyVids (janellefennec.manyvids.com). She is also active on Instagram (@janellefennecreturns), TikTok (@janellefennec), Twitch (twitch.tv/janellefennec), Snapchat, and Reddit. Her personal website, janellefennec.com, formerly served as a showcase for her work.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2019 | Transgender Erotica Awards | Transational Fantasy Girl of the Year | — | Won |
+| 2019 | Transgender Erotica Awards | Best Boy/Girl Scene (3 nominations) | — | Nominated |
+| 2019 | Transgender Erotica Awards | Best Hardcore Model | — | Nominated |
+| 2019 | Transgender Erotica Awards | Best Solo Model | — | Nominated |
+| 2019 | XBIZ Awards | Trans Performer of the Year | — | Nominated |
+| 2020 | XBIZ Awards | Trans Performer of the Year | — | Nominated |
+
 ## References
 
 - [IAFD](https://www.iafd.com/person.rme/id=9dd8f64d-ca81-4690-beb4-41ff1373a1da)

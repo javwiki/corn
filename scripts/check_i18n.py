@@ -48,8 +48,6 @@ CANONICAL_SITE_URLS = {
 CANONICAL_DOCS_DIRS = {lang: f"docs/{lang}" for lang in LANGUAGES}
 CANONICAL_SITE_DIRS = {"en": "site", "zh": "site/zh"}
 CONFIG_FILES = {"en": "zensical.toml", "zh": "zensical.zh.toml"}
-# Retired English prefixes: /corn/en/<page> now resolves through the root.
-RETIRED_URL_PREFIX = "en/"
 ALLOWED_PROTOCOLS = {"https", "mailto", "tel"}
 DANGEROUS_PROTOCOLS = {"http", "javascript", "vbscript", "data", "file", "about"}
 SOCIAL_DOMAINS = {
@@ -1244,59 +1242,6 @@ def check_config_contracts(root: Path, reporter: Reporter) -> None:
                 f"{NESTED_LANGUAGE} site_dir must be nested below the "
                 f"{DEFAULT_LANGUAGE} site_dir as <site_dir>/{NESTED_LANGUAGE}",
             )
-
-    check_retired_url_redirects(root, projects.get(DEFAULT_LANGUAGE, {}), reporter)
-
-
-def check_retired_url_redirects(
-    root: Path, project: dict[str, Any], reporter: Reporter
-) -> None:
-    """The default edition used to be published under a language prefix.
-
-    Every page it published must now also be reachable through a redirect, so
-    existing links keep resolving after the site root changed hands.
-    """
-
-    plugins = project.get("plugins")
-    redirects = plugins.get("redirects") if isinstance(plugins, dict) else None
-    maps = redirects.get("redirect_maps") if isinstance(redirects, dict) else None
-    if not isinstance(maps, dict):
-        reporter.error(
-            "config",
-            root / CONFIG_FILES[DEFAULT_LANGUAGE],
-            "project.plugins.redirects.redirect_maps must define the retired "
-            "language-prefix redirects",
-        )
-        return
-    # Only Markdown files become published pages; list.yaml/source.yaml are
-    # data sources and are deliberately not part of the retired URL set.
-    pages = {
-        page
-        for page in relative_files(root / CANONICAL_DOCS_DIRS[DEFAULT_LANGUAGE])
-        if page.endswith(".md")
-    }
-    missing = sorted(
-        page for page in pages if maps.get(f"{RETIRED_URL_PREFIX}{page}") != page
-    )
-    for page in missing:
-        reporter.error(
-            "config",
-            root / CONFIG_FILES[DEFAULT_LANGUAGE],
-            f"retired URL /corn/{RETIRED_URL_PREFIX}{page} has no redirect to "
-            f"/corn/{page}",
-        )
-    stale = sorted(
-        source
-        for source in maps
-        if source.startswith(RETIRED_URL_PREFIX)
-        and source[len(RETIRED_URL_PREFIX) :] not in pages
-    )
-    for source in stale:
-        reporter.error(
-            "config",
-            root / CONFIG_FILES[DEFAULT_LANGUAGE],
-            f"retired-URL redirect {source!r} does not match any published page",
-        )
 
 
 def load_list(root: Path, lang: str, reporter: Reporter) -> dict[str, Any] | None:

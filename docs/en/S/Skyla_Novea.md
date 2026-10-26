@@ -39,6 +39,14 @@ Skyla Novea received several industry award nominations. In 2018, she received a
 
 On social media, Skyla Novea has about 690,000 Instagram followers as of December 2023 and about 45,000 Twitter/X followers. Her YouTube channel "SkylaGang" and OnlyFans paid subscription (skylanoveaxxx) are important platforms for her continued activity. She also uses Linktree (linkfly.to/Skylanovea) to collect her social links. Her Twitter bio is labeled "Retired • Cat Mom," indicating that she has stepped back from mainstream filming and focuses on social media and OnlyFans content.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2018 | Spank Bank Awards | The Next Porn Mega Star | — | Won |
+| 2018 | AVN Awards | Best Three-Way Sex Scene (B/B/G) | *Bombshell Skyla Novea* | Nominated |
+| 2019 | AVN Awards | Best Double Penetration Sex Scene | *It's A Family Thing 2* | Nominated |
+
 ## References
 
 - [IAFD - Skyla Novea](https://www.iafd.com/person.rme/id=9a27e6c9-6247-4079-acc8-dbf32fa9d530)

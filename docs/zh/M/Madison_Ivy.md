@@ -36,6 +36,16 @@ Madison Ivy，本名 Clorisa Caroline Briggs，1989 年 6 月 14 日出生于德
 
 社交媒体方面，她在 Instagram（@madivyz）拥有约 43.5 万粉丝，在 Twitter/X（@Madison420Ivy）拥有约 68 万粉丝，在 TikTok（@superivy）也相当活跃。她以蓝眸、金发（有时染棕）和娇小却丰满的身材著称，Instagram 常分享其生活花絮与幕后内容。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2010 | AVN Awards | Best All-Girl Group Sex Scene | — | 提名 |
+| 2010 | AVN Awards | Best Oral Sex Scene | — | 提名 |
+| 2012 | AVN Awards | Best Tease Performance | — | 提名 |
+| 2014 | XBIZ Awards | Best Couples-Themed Scene | *Hotel No Tell* | 获奖 |
+| 2015 | AVN Awards | Best Anal Sex Scene | — | 提名 |
+
 ## 参考资料
 
 - [Babepedia](https://www.babepedia.com/babe/Madison_Ivy)

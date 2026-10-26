@@ -4,6 +4,7 @@
 - [Sarina Valentina](Sarina_Valentina.md)
 - [Savannah Bond](Savannah_Bond.md)
 - [Scarlet Assian](Scarlet_Assian.md)
+- [Scarlit Scandal](Scarlit_Scandal.md)
 - [Sky Bri](Sky_Bri.md)
 - [Skye Blue](Skye_Blue.md)
 - [Skyla Novea](Skyla_Novea.md)

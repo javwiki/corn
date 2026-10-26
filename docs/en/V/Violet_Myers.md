@@ -49,6 +49,7 @@ Violet Myers has received multiple AVN nominations and awards, including 2024 wi
 | 2021 | Fleshbot Awards | Best Oral Scene | Nominated |
 | 2023 | AVN Awards | Best Female/Female Sex Scene | Nominated |
 | 2023 | AVN Awards | Best Foursome/Orgy Sex Scene | Nominated |
+| 2023 | Fleshbot Awards | Female Performer of the Year | **Won** |
 | 2023 | Urban X Awards | Female Performer of the Year | Nominated |
 | 2024 | AVN Awards | Best Boy/Girl Sex Scene (*She Ruined Me*) | **Won** |
 | 2024 | AVN Awards | Fan Award: Favorite Female Porn Star | **Won** |
@@ -58,6 +59,7 @@ Violet Myers has received multiple AVN nominations and awards, including 2024 wi
 | 2025 | XRCO Awards | Vicki Chase Orgasmic Oralist | Nominated |
 | 2026 | AVN Awards | Best Solo/Tease Performance | Nominated |
 | 2026 | AVN Awards | Fan Award: Favorite Cosplayer | **Won** |
+| 2026 | Pornhub Awards | Most Popular Female Performer | **Won** |
 
 ## References
 

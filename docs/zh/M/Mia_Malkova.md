@@ -38,6 +38,24 @@ Malkova 的职业生涯起步于裸体和软核模特拍摄，随后迅速转向
 
 Malkova 被业界视为全球最受欢迎的成人影片演员之一，以其出色的体能灵活性、标志性外貌和 Bisexual 取向而闻名。她曾公开表示自己是无神论者。她的弟弟 Justin Hunt 同样也是成人影片演员。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2013 | Twistys | Treat of the Year | — | 获奖 |
+| 2014 | AVN Awards | Best All-Girl Group Sex Scene | *Meow! 3* | 获奖 |
+| 2014 | AVN Awards | Best New Starlet | — | 获奖 |
+| 2014 | XRCO Awards | Cream Dream | — | 获奖 |
+| 2014 | Fame Registry | Brightest New Star | — | 获奖 |
+| 2017 | XBIZ Awards | Best Actress – Feature Release | *The Preacher's Daughter* | 获奖 |
+| 2018 | Pornhub Awards | Hottest Female Ass | — | 获奖 |
+| 2018 | Pornhub Awards | Most Popular Female Performer by Women | — | 获奖 |
+| 2018 | Urban X Awards | Best Couples Scene | *Interracial Icon 7* | 获奖 |
+| 2019 | AVN Awards | Best Group Sex Scene | *After Dark* | 获奖 |
+| 2019 | Pornhub Awards | Blowjob Queen – Top Blowjob Performer | — | 获奖 |
+| 2021 | AVN Awards | Mainstream Venture of the Year | — | 获奖 |
+| 2026 | AVN Awards | Hottest All-Girl Creator Collab | — | 获奖 |
+
 ## 参考资料
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Mia_Malkova)

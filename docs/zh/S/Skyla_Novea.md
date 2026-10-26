@@ -39,6 +39,14 @@ Skyla Novea 在职业生涯中获得多项行业奖项提名：2018 年凭《Bom
 
 在社交媒体方面，Skyla Novea 在 Instagram 上拥有约 69 万粉丝（截至 2023 年 12 月），在 Twitter/X 上拥有约 4.5 万粉丝。她的 YouTube 频道 「SkylaGang」以及 OnlyFans 付费订阅（skylanoveaxxx）是她持续活跃的重要平台。她还通过 Linktree（linkfly.to/Skylanovea）汇总了所有社交媒体链接。她的 Twitter 个人资料标注为「Retired • Cat Mom」，表明她已从一线拍摄中淡出，专注于社交媒体和 OnlyFans 内容。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2018 | Spank Bank Awards | The Next Porn Mega Star | — | 获奖 |
+| 2018 | AVN Awards | Best Three-Way Sex Scene (B/B/G) | *Bombshell Skyla Novea* | 提名 |
+| 2019 | AVN Awards | Best Double Penetration Sex Scene | *It's A Family Thing 2* | 提名 |
+
 ## 参考资料
 
 - [IAFD - Skyla Novea](https://www.iafd.com/person.rme/id=9a27e6c9-6247-4079-acc8-dbf32fa9d530)

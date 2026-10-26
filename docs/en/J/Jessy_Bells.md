@@ -29,6 +29,18 @@ Jessy Bells has received several industry award nominations. In 2019, she was no
 
 In addition to adult films, Jessy Bells is active on social media. She has about 36,000 Twitter/X followers (@JessyBellYana) and interacts with them there, sharing aspects of her life. She also publishes exclusive content on paid platforms such as OnlyFans and ManyVids. Her personal interests include livestreaming, gaming, and travel, and she currently resides in Los Angeles, California.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2019 | Transgender Erotica Awards | Best New Face | — | Nominated |
+| 2020 | AVN Awards | Best Trans One-on-One Sex Scene | *Transsexual Girlfriend Experience 8* | Nominated |
+| 2020 | Transgender Erotica Awards | Best Boy/Girl Scene | — | Nominated |
+| 2020 | Transgender Erotica Awards | Best Hardcore Performer | — | Nominated |
+| 2020 | Transgender Erotica Awards | Best VR Scene | — | Nominated |
+| 2021 | AVN Awards | Most Outrageous Sex Scene | *TS Jessy Bells: Anal Fun and Milk Enema* | Nominated |
+| 2021 | Transgender Erotica Awards | Ms. Unique | — | Nominated |
+
 ## References
 
 - [IAFD - Jessy Bells](https://www.iafd.com/person.rme/id=beb16347-85a5-489d-9a0c-feb3832868fd)

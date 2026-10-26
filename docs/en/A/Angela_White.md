@@ -46,7 +46,11 @@ XBIZ describes White as "one of Australia's most famous adult performers," while
 - AVN Female Performer of the Year again in 2020, making her the first performer to win three consecutive years
 - AVN Best Actress in 2020
 - XBIZ Foreign Female Performer of the Year in 2016
-- XRCO Female Performer of the Year in 2018
+- XRCO Female Performer of the Year in 2018, 2019 and 2020
+- XBIZ Female Performer of the Year in 2020
+- NightMoves Best Female Performer in 2023
+- Pornhub Most Popular Female Performer in 2024 and 2025
+- Fleshbot Female Performer of the Year from 2019 to 2022
 
 ## References
 

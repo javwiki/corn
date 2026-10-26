@@ -33,6 +33,19 @@ Skylar Vox 曾获得多项行业奖项提名：2021 年 AVN Awards 提名「最�
 
 2021 年她出演了《Big Naturals 53》《Women Seeking Women 181》《Women Seeking Women 182》等作品。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2020 | Spank Bank Awards | Funty of the Year | — | 提名 |
+| 2020 | Spank Bank Awards | Next Stepdaughter/Sister of the Year | — | 提名 |
+| 2021 | AVN Awards | Best New Starlet | — | 提名 |
+| 2021 | AVN Awards | Hottest Newcomer | — | 提名 |
+| 2021 | NightMoves Awards | Best Actress（粉丝选择） | — | 获奖 |
+| 2021 | NightMoves Awards | Best New Starlet | — | 获奖 |
+| 2021 | XRCO Awards | Person's Favorite | — | 提名 |
+| 2021 | XRCO Awards | Teen Dream | — | 提名 |
+
 ## 参考资料
 
 - [Skylar Vox — IAFD](https://www.iafd.com/person.rme/id=4bf65935-c38e-433c-a884-75e935e6d033)

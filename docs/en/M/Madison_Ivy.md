@@ -36,6 +36,16 @@ In January 2015, Madison was seriously injured in a car accident, suffering a sp
 
 On social media, she has about 435,000 Instagram followers (@madivyz), 680,000 Twitter/X followers (@Madison420Ivy), and is active on TikTok (@superivy). She is known for her blue eyes, blonde hair (sometimes brown), and petite but curvy build; her Instagram feed often features everyday life and behind-the-scenes material.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2010 | AVN Awards | Best All-Girl Group Sex Scene | — | Nominated |
+| 2010 | AVN Awards | Best Oral Sex Scene | — | Nominated |
+| 2012 | AVN Awards | Best Tease Performance | — | Nominated |
+| 2014 | XBIZ Awards | Best Couples-Themed Scene | *Hotel No Tell* | Won |
+| 2015 | AVN Awards | Best Anal Sex Scene | — | Nominated |
+
 ## References
 
 - [Babepedia](https://www.babepedia.com/babe/Madison_Ivy)

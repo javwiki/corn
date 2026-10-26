@@ -57,12 +57,6 @@ Molly Little, born Nicole Buro, is an American adult film actress from Fairfax, 
 
 She was born into a supportive family, loved performing from a young age, and participated in school and local theater productions. She claims Italian heritage (self-reported on Reddit). In 2021, she began dancing and stripping, then made her adult-film debut with NetVideoGirls on 22 February 2022. She has since worked with many established studios.
 
-**Important awards and nominations**:
-- 2023 AVN nomination: Best Threesome Sex Scene (*Stepsis and Friend Need My Dick*)
-- 2024 XBIZ Award: All-Sex Release Best Actress (*Molly's Way*)
-- Nubiles Flavor Of The Month: September 2022, April 2026
-- Nubiles Fantasy Of The Month: June 2026
-
 **Main collaborating studios**:
 - Nubiles
 - Brazzers
@@ -86,6 +80,14 @@ She was born into a supportive family, loved performing from a young age, and pa
 | Girl/Girl | Kissing, breast touching, breast licking, fingers, dildos, oral sex, tribadism |
 | Boy/Girl | Oral sex, vaginal intercourse, anal sex, creampie, interracial, facial |
 | Special | Golden shower, pregnancy, facial, group sex |
+
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2023 | AVN Awards | Best Three-Way Sex Scene | *Stepsis and Friend Need My Dick* | Nominated |
+| 2024 | XBIZ Awards | Best Actress – All-Sex Release | *Molly's Way* | Won |
+| 2024 | XRCO Awards | Cream Dream | — | Won |
 
 ## Social media
 

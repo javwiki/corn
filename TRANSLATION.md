@@ -9,13 +9,13 @@
 本轮维护对项目审查中可自动确认的问题做了整体修复：
 
 - 对照中文源修复了英文正文中 `万/亿` 数量、社交账号、作品/品牌/机构名称、字段格式、语义反转、遗漏限定和坏链接；英文首页与站点描述现在明确标注机器翻译草稿仍在复核；
-- 将 Elle Lee 移入正确的 `E/` 目录，为既有 `/L/Elle_Lee/` 路径增加双语重定向；补齐两种语言各 77 项的 `_meta/list.md`，删除空的 award 占位页，并修复重复标签和多余 frontmatter 分隔线；
+- 将 Elle Lee 移入正确的 `E/` 目录；站点不保留兼容重定向，旧 `/L/Elle_Lee/` 路径不再跳转；补齐两种语言各 77 项的 `_meta/list.md`，删除空的 award 占位页，并修复重复标签和多余 frontmatter 分隔线；
 - 将标签中的泛化 IAFD 首页和已拒 Wikipedia Draft 替换为具体人物页或删除，修复 Lia Lin 的坏链接；移除无可靠来源的怀孕传闻、现住址、净资产和关系/宗教细节等不必要敏感信息；
 - 删除未转义美元、失效数字引用和不合法的原始 HTML；共享的双语 404 模板不再作为普通导航页发布，页眉语言选择器和 `hreflang` 保留当前双语路径；
 - 扩展 `scripts/check_i18n.py`，在构建前检查配置契约、索引/元数据、路径、frontmatter、tags、URL/handle、`万/亿` 数量级、危险协议、原始 HTML、未定义数字引用、坏 Markdown 链接、HTTP 外链和被拒 Wikipedia Draft；
 - 使用 `pyproject.toml` 与 `uv.lock` 锁定 Zensical 及传递依赖；构建改为 staging 后替换，失败不会破坏上一份 `site/`；CI 增加 PR 只读构建、分离 build/deploy 权限、限制部署到 `main` 并固定 Action SHA；
 - 发布产物现在包含 `LICENSE` 和 `NOTICE`，主题改用系统字体；维护 skill 改为动态定位仓库并同步当前校验流程；
-- 默认语言改为英文：英文占用站点根目录并发布在 `/corn/`，中文移到 `/corn/zh/`，原 `zensical.en.toml` 更名为 `zensical.zh.toml`；`/corn/en/*` 下的每个已发布页面保留重定向到根目录，`check_i18n.py` 会检查重定向表与英文页面集合一致。
+- 默认语言改为英文：英文占用站点根目录并发布在 `/corn/`，中文移到 `/corn/zh/`，原 `zensical.en.toml` 更名为 `zensical.zh.toml`；站点不保留兼容重定向，当前路径即规范路径，`/corn/en/*` 和改名页面的旧路径都不再跳转。
 
 本轮没有逐条完成外部事实核验。部分来源冲突（例如出生日期、活跃期、统计口径和历史获奖信息）仍保留为待复核项；校验和 strict 构建通过不代表这些事实已被独立证实。下面的模型和速度数字是历史迁移记录，不是本次重新测量或事实核验的结果。
 
@@ -45,7 +45,7 @@ docs/zh/A/index.md
 docs/en/A/index.md
 ```
 
-默认语言为英文，发布在 `/corn/`；中文发布在 `/corn/zh/`。英文此前发布在 `/corn/en/`，该前缀下的每个已发布页面在 `zensical.toml` 的 `redirect_maps` 中保留到根目录的重定向，`scripts/check_i18n.py` 会检查新增或删除条目时同步维护这张表；此前发布在 `/corn/` 的中文 URL 现在显示同一人物的英文页面，中文内容地址改为 `/corn/zh/<字母>/<艺名>/`。`index.md` 是内容源文件，不是根目录 `README.md` 的别名；新增或删除条目时要在两种语言中同步维护它及其中的链接和统计。
+默认语言为英文，发布在 `/corn/`；中文发布在 `/corn/zh/`。站点不保留任何兼容重定向，当前路径即规范路径；英文此前发布在 `/corn/en/`，该前缀下的旧 URL 以及 Elle Lee 等改名页面的旧路径都不再跳转。此前发布在 `/corn/` 的中文 URL 现在显示同一人物的英文页面，中文内容地址改为 `/corn/zh/<字母>/<艺名>/`。`index.md` 是内容源文件，不是根目录 `README.md` 的别名；新增或删除条目时要在两种语言中同步维护它及其中的链接和统计。
 
 ### 站点维护的本地依赖
 
@@ -196,7 +196,7 @@ uv run --locked --project . zensical build --config-file zensical.zh.toml --clea
 ./scripts/build_site.sh
 ```
 
-封装脚本会从自身位置推导仓库根目录，先在 `uv run --locked` 环境中执行完整的双语文档校验，再在临时 staging 目录中以锁定的 Zensical 0.0.62 先构建英文（输出到 `site/`）、再构建中文（输出到 `site/zh/`）的 `--clean --strict` 构建。它会检查两个入口、双语 404、Elle Lee 旧路径重定向和 `/corn/en/*` 退役路径重定向，复制 `LICENSE`/`NOTICE`，最后才替换正式 `site/`；中途失败会保留上一份产物。校验器或构建报告的 Markdown、链接、元数据和安全问题应先修复；构建成功仍不表示外部来源、事实或翻译已经复核。`site/` 构建产物不应提交。
+封装脚本会从自身位置推导仓库根目录，先在 `uv run --locked` 环境中执行完整的双语文档校验，再在临时 staging 目录中以锁定的 Zensical 0.0.62 先构建英文（输出到 `site/`）、再构建中文（输出到 `site/zh/`）的 `--clean --strict` 构建。它会检查两个入口和双语 404，复制 `LICENSE`/`NOTICE`，最后才替换正式 `site/`；中途失败会保留上一份产物。校验器或构建报告的 Markdown、链接、元数据和安全问题应先修复；构建成功仍不表示外部来源、事实或翻译已经复核。`site/` 构建产物不应提交。
 
 固定版本的本地预览命令为：
 

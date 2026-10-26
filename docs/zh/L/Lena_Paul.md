@@ -34,6 +34,16 @@ Lena Paul 在业界奖项方面表现卓越，获得的重要荣誉包括：2017
 
 2020 年后，Lena Paul 开始更多地参与内容创作与导演工作，为 Digital Playground 执导了《Out with a Bang》和《Sleepless Nights》等作品。她也通过 OnlyFans 和 ManyVids 平台直接面向粉丝发布独家内容，并在 Instagram 上积累约 190 万粉丝。她自称双性恋，曾表示更偏好女同性恋性行为，并于出道前已婚。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2017 | DVDerotik Awards | Best Newcomer | — | 获奖 |
+| 2018 | XRCO Awards | New Starlet | — | 获奖 |
+| 2018 | Spank Bank Awards | Most Voluptuous Vixen | — | 获奖 |
+| 2019 | Spank Bank Awards | Oral Star of the Year | — | 获奖 |
+| 2020 | AVN Awards | Best Group Sex Scene | *Drive* | 获奖 |
+
 ## 参考资料
 
 - [IAFD](https://www.iafd.com/person.rme/id=2cff50d5-beb2-48ce-888e-a5c5c0679563/gender=f)

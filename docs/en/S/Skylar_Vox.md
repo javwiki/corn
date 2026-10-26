@@ -33,6 +33,19 @@ Skylar Vox has received nominations for several industry awards: AVN Awards in 2
 
 In 2021, she appeared in *Big Naturals 53*, *Women Seeking Women 181*, *Women Seeking Women 182*, and other titles.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2020 | Spank Bank Awards | Funty of the Year | — | Nominated |
+| 2020 | Spank Bank Awards | Next Stepdaughter/Sister of the Year | — | Nominated |
+| 2021 | AVN Awards | Best New Starlet | — | Nominated |
+| 2021 | AVN Awards | Hottest Newcomer | — | Nominated |
+| 2021 | NightMoves Awards | Best Actress (Fan's Choice) | — | Won |
+| 2021 | NightMoves Awards | Best New Starlet | — | Won |
+| 2021 | XRCO Awards | Person's Favorite | — | Nominated |
+| 2021 | XRCO Awards | Teen Dream | — | Nominated |
+
 ## References
 
 - [Skylar Vox — IAFD](https://www.iafd.com/person.rme/id=4bf65935-c38e-433c-a884-75e935e6d033)

@@ -56,6 +56,20 @@ Elsa began directing in 2020, helming scenes in her own productions. She is a **
 **Personal life**:
 In February 2023, NBA star Bryn Forbes assaulted Elsa Jean during an argument, leading to Forbes's arrest. The incident received widespread media coverage.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2017 | AVN Awards | Best New Starlet | — | Nominated |
+| 2017 | XRCO Awards | New Starlet | — | Won |
+| 2018 | AVN Awards | Female Performer of the Year | — | Nominated |
+| 2019 | AVN Awards | Female Performer of the Year | — | Nominated |
+| 2019 | Pornhub Awards | Nicest Pussy | — | Won |
+| 2019 | Spank Bank Awards | Masturbator of the Year | — | Won |
+| 2019 | XRCO Awards | Teen Dream | — | Nominated |
+| 2021 | AVN Awards | Female Performer of the Year | — | Nominated |
+| 2022 | AVN Awards | Female Performer of the Year | — | Nominated |
+
 ## References
 
 - [IAFD: Elsa Jean](https://www.iafd.com/person.rme/id=c5f1babe-aec7-4fd9-94bf-45f65b899756)

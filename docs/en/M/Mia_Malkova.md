@@ -38,6 +38,24 @@ Since 2022, Malkova has gradually transitioned to Twitch gaming and OnlyFans con
 
 Malkova is recognized as one of the world's most popular adult film actresses, known for her physical flexibility, distinctive appearance, and bisexuality. She has publicly stated that she is an atheist. Her brother Justin Hunt is also an adult film actor.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2013 | Twistys | Treat of the Year | — | Won |
+| 2014 | AVN Awards | Best All-Girl Group Sex Scene | *Meow! 3* | Won |
+| 2014 | AVN Awards | Best New Starlet | — | Won |
+| 2014 | XRCO Awards | Cream Dream | — | Won |
+| 2014 | Fame Registry | Brightest New Star | — | Won |
+| 2017 | XBIZ Awards | Best Actress – Feature Release | *The Preacher's Daughter* | Won |
+| 2018 | Pornhub Awards | Hottest Female Ass | — | Won |
+| 2018 | Pornhub Awards | Most Popular Female Performer by Women | — | Won |
+| 2018 | Urban X Awards | Best Couples Scene | *Interracial Icon 7* | Won |
+| 2019 | AVN Awards | Best Group Sex Scene | *After Dark* | Won |
+| 2019 | Pornhub Awards | Blowjob Queen – Top Blowjob Performer | — | Won |
+| 2021 | AVN Awards | Mainstream Venture of the Year | — | Won |
+| 2026 | AVN Awards | Hottest All-Girl Creator Collab | — | Won |
+
 ## References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Mia_Malkova)

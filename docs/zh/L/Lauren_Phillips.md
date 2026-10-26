@@ -31,6 +31,23 @@ Lauren Phillips 是一位美国色情女演员、导演和特色舞者，出生�
 
 Phillips 曾获得多项行业提名与荣誉，包括 2016 年 NightMoves Miss Congeniality、NightMoves 编辑选择的年度成人明星网站奖，以及 2020 年入选 NightMoves 名人堂。她还曾获 AVN、XBIZ、XRCO 等奖项提名，并持续参与表演、主持和内容创作。
 
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2016 | NightMoves Awards | Miss Congeniality | — | 获奖 |
+| 2017 | NightMoves Awards | Adult Performer Website of the Year（编辑选择） | laurenphillips.com | 获奖 |
+| 2018 | NightMoves Awards | Most Underrated Female Performer（编辑选择） | — | 获奖 |
+| 2019 | NightMoves Awards | Social Media Star of the Year（编辑选择） | — | 获奖 |
+| 2020 | NightMoves Awards | Hall of Fame | — | 入选 |
+| 2022 | NightMoves Awards | Best All-Girl Performer | — | 获奖 |
+| 2023 | NightMoves Awards | Triple Play Award（舞蹈/表演/导演） | — | 获奖 |
+| 2023 | AltStar Awards | Fan Favorite Female Performer of the Year | — | 获奖 |
+| 2024 | XBIZ Awards | MILF Performer of the Year | — | 获奖 |
+| 2024 | NightMoves Awards | Best Girl/Girl Performer | — | 获奖 |
+| 2025 | NightMoves Awards | Industry Ambassador Award | — | 获奖 |
+| 2026 | NightMoves Awards | Best MILF Performer | — | 获奖 |
+
 ## 参考资料
 
 - [Lauren Phillips - Wikipedia](https://en.wikipedia.org/wiki/Lauren_Phillips_%28American_actress%29)

@@ -58,10 +58,6 @@ Kenzie Reeves（本名 Madison Jordan Desautels）是来自新罕布什尔州康
 
 她是 Fleshlight Girl（知名成人玩具品牌代言人），多次获得 Nubiles 月度荣誉。
 
-**重要奖项**:
-- 2019 XRCO Award: Teen Dream（青少年梦）
-- 2020 AVN Award: Best Virtual Reality Sex Scene（与 Sofie Reyez, Jillian Janson, Gina Valentina & Tommy Gunn 合作，《The Wanking Dead: Doctors Orders》）
-
 **主要合作工作室**:
 - Evil Angel
 - Elegant Angel
@@ -88,6 +84,19 @@ Kenzie Reeves（本名 Madison Jordan Desautels）是来自新罕布什尔州康
 | Girl/Girl | 接吻、胸部触摸、胸部舔舐、手指、假阳具、口交、拳交、肛交、Tribadism |
 | Boy/Girl | 口交、阴道性交、拳交、肛交、内射、种族间、颜射 |
 | Special | 黄金雨、颜射、喷水、乱伦 |
+
+### 主要奖项
+
+| 年份 | 奖项 | 类别 | 作品 | 结果 |
+|------|------|------|------|------|
+| 2019 | XRCO Awards | Teen Dream | — | 获奖 |
+| 2019 | NightMoves Awards | Unsung Performer of the Year（编辑选择） | — | 获奖 |
+| 2019 | XBIZ Awards | Best Sex Scene – Feature Movie | *A Trailer Park Taboo* | 获奖 |
+| 2019 | AVN Awards | Best New Starlet | — | 提名 |
+| 2019 | AVN Awards | Best Actress – Feature | *A Trailer Park Taboo* | 提名 |
+| 2020 | AVN Awards | Best Virtual Reality Sex Scene | *The Wanking Dead: Doctors Orders* | 获奖 |
+| 2020 | AVN Awards | Female Performer of the Year | — | 提名 |
+| 2020 | AVN Awards | Fan Award: Favorite Female Porn Star | — | 提名 |
 
 ## 社交媒体
 

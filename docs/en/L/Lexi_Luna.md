@@ -31,6 +31,16 @@ After entering the industry, Luna developed a highly recognizable screen persona
 
 Luna is one of the Adult Time brand ambassadors, alongside Lauren Phillips, Siri Dahl, and Leana Lovings. She has received many industry awards, including NightMoves Miss Congeniality in 2017, Pornhub's Most Popular MILF in 2025, XRCO MILF Performer of the Year in 2025, the AVN MILF Performer of the Year award in 2026, and Doppio Senso Night's Best International MILF award in 2026.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2017 | NightMoves Awards | Miss Congeniality | — | Won |
+| 2025 | Pornhub Awards | Favorite MILF | — | Won |
+| 2025 | XRCO Awards | MILF of the Year | — | Won |
+| 2026 | AVN Awards | MILF Performer of the Year | — | Won |
+| 2026 | Doppio Senso Night Awards | Best International MILF | — | Won |
+
 ## References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Lexi_Luna)

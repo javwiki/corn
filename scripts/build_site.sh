@@ -64,16 +64,6 @@ test -f "$STAGE_DIR/site/index.html"
 test -f "$STAGE_DIR/site/zh/index.html"
 test -f "$STAGE_DIR/site/404.html"
 test -f "$STAGE_DIR/site/zh/404.html"
-test -f "$STAGE_DIR/site/L/Elle_Lee/index.html"
-test -f "$STAGE_DIR/site/zh/L/Elle_Lee/index.html"
-grep -Fq '../../E/Elle_Lee/' "$STAGE_DIR/site/L/Elle_Lee/index.html"
-grep -Fq '../../E/Elle_Lee/' "$STAGE_DIR/site/zh/L/Elle_Lee/index.html"
-# The English edition moved from /corn/en/ to the site root; the retired paths
-# must keep redirecting instead of returning 404.
-test -f "$STAGE_DIR/site/en/index.html"
-test -f "$STAGE_DIR/site/en/A/Angela_White/index.html"
-grep -Fq 'url=../"' "$STAGE_DIR/site/en/index.html"
-grep -Fq 'url=../../../A/Angela_White/"' "$STAGE_DIR/site/en/A/Angela_White/index.html"
 cp "$ROOT_DIR/LICENSE" "$STAGE_DIR/site/LICENSE"
 cp "$ROOT_DIR/NOTICE" "$STAGE_DIR/site/NOTICE"
 

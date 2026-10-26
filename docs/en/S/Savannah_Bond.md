@@ -31,6 +31,21 @@ She began her adult-film career with Jules Jordan in Los Angeles in 2019, initia
 
 Bond received Fleshbot and AVN honors for *Savannah Bond Beach Bikini Slut*, and AVN, XBIZ, and other industry awards for productions including *Blacked Raw V56*. CherryPimps also selected her as a monthly model.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2021 | Fleshbot Awards | Movie of the Year | *Savannah Bond: Beach Bikini Slut* | Won |
+| 2022 | AVN Awards | Best Blowbang Scene | *Savannah Bond: Beach Bikini Slut* | Won |
+| 2022 | Urban X Awards | Urban X Hottie | — | Won |
+| 2022 | Fleshbot Awards | Best Group Sex Scene | *The Gangbang of Savannah Bond* | Won |
+| 2023 | AVN Awards | Best Foursome/Orgy Scene | *Blacked Raw V56* | Won |
+| 2023 | XBIZ Awards | Best Sex Scene – Vignette | *Blacked Raw V56* | Won |
+| 2023 | Adult Empire Awards | Porn Clip of the Year | *Double Anal Angels* | Won |
+| 2025 | Pornhub Awards | Hottest Ass | — | Nominated |
+| 2025 | Pornhub Awards | Favorite BBW | — | Nominated |
+| 2026 | AVN Awards | Best MILF Movie/Series | — | Won |
+
 ## References
 
 - [Savannah Bond - Wikipedia](https://en.wikipedia.org/wiki/Savannah_Bond)

@@ -34,6 +34,16 @@ Lena Paul has received numerous industry honors, including the 2017 DVDerotik "B
 
 After 2020, Lena Paul took on a larger role in content creation and directing, including *Out with a Bang* and *Sleepless Nights* for Digital Playground. She also sells exclusive content directly to fans through OnlyFans and ManyVids and has about 1.9 million Instagram followers. She has identified as bisexual and has said she prefers lesbian scenes; she was married before entering the adult industry.
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2017 | DVDerotik Awards | Best Newcomer | — | Won |
+| 2018 | XRCO Awards | New Starlet | — | Won |
+| 2018 | Spank Bank Awards | Most Voluptuous Vixen | — | Won |
+| 2019 | Spank Bank Awards | Oral Star of the Year | — | Won |
+| 2020 | AVN Awards | Best Group Sex Scene | *Drive* | Won |
+
 ## References
 
 - [IAFD](https://www.iafd.com/person.rme/id=2cff50d5-beb2-48ce-888e-a5c5c0679563/gender=f)

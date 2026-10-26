@@ -38,6 +38,16 @@ In physical terms, she is 5 feet 9 inches (175 cm) tall, weighs 105 lb (48 kg), 
 
 On social media, she has about 295,000 Instagram followers (@LiaLinxo) as of March 2026, plus active accounts on TikTok (@LiaLinxo), Twitter/X (@LiaLyenn), and Fansly (@LiaLinOF), and she interacts with fans through Snapchat (@kim_rossii).
 
+### Main awards
+
+| Year | Award | Category | Work | Result |
+|------|------|------|------|------|
+| 2023 | AVN Awards | Best International Boy/Girl Sex Scene | *Lia Lin Mystery Man* | Nominated |
+| 2024 | AVN Awards | Best International Group Sex Scene (2 nominations) | — | Nominated |
+| 2025 | AVN Awards | Best International All-Girl Sex Scene | *What Is Love - Scene 2* | Won |
+| 2025 | AVN Awards | International Female Performer of the Year | — | Nominated |
+| 2026 | AVN Awards | Best VR One-on-One Sex Scene | — | Nominated |
+
 ## References
 
 - [Babepedia](https://www.babepedia.com/babe/Lia_Lin)

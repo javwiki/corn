@@ -3,16 +3,24 @@
 ## Summary
 
 - **Letter**: A
-- **Number of actors**: 9
+- **Number of actors**: 17
 
 ## Actor List
 
+- [Abella Danger](Abella_Danger.md)
 - [Abigaiil Morris](Abigaiil_Morris.md)
 - [Abigail Lust](Abigail_Lust.md)
+- [Adriana Chechik](Adriana_Chechik.md)
 - [Alina Li](Alina_Li.md)
+- [Allie Haze](Allie_Haze.md)
+- [Andy San Dimas](Andy_San_Dimas.md)
 - [Angel Wicky](Angel_Wicky.md)
 - [Angela White](Angela_White.md)
+- [Anikka Albrite](Anikka_Albrite.md)
+- [Anna Claire Clouds](Anna_Claire_Clouds.md)
+- [Asa Akira](Asa_Akira.md)
 - [Asuka Tenshi](Asuka_Tenshi.md)
+- [Aubrey Kate](Aubrey_Kate.md)
 - [Autumn Falls](Autumn_Falls.md)
 - [Ayumi Anime](Ayumi_Anime.md)
 - [Ava Addams](Ava_Addams.md)
