@@ -3,7 +3,7 @@
 ## Summary
 
 - **Letter**: A
-- **Number of actors**: 17
+- **Number of actors**: 18
 
 ## Actor List
 
@@ -11,6 +11,7 @@
 - [Abigaiil Morris](Abigaiil_Morris.md)
 - [Abigail Lust](Abigail_Lust.md)
 - [Adriana Chechik](Adriana_Chechik.md)
+- [Alexis Texas](Alexis_Texas.md)
 - [Alina Li](Alina_Li.md)
 - [Allie Haze](Allie_Haze.md)
 - [Andy San Dimas](Andy_San_Dimas.md)
@@ -22,5 +23,5 @@
 - [Asuka Tenshi](Asuka_Tenshi.md)
 - [Aubrey Kate](Aubrey_Kate.md)
 - [Autumn Falls](Autumn_Falls.md)
-- [Ayumi Anime](Ayumi_Anime.md)
 - [Ava Addams](Ava_Addams.md)
+- [Ayumi Anime](Ayumi_Anime.md)

@@ -1,6 +1,6 @@
 # 待补充的获奖者
 
-本页把[历年获奖名单](award-winners.md)中尚无人物条目的获奖者整理成待办清单，按名单内获奖次数降序排列，供后续建条时逐行勾销。全部名单共 106 人待补：女性与跨性别获奖者 70 位，男性获奖者 36 位。
+本页把[历年获奖名单](award-winners.md)中尚无人物条目的获奖者整理成待办清单，按名单内获奖次数降序排列，供后续建条时逐行勾销。全部名单共 96 人待补：女性与跨性别获奖者 60 位，男性获奖者 36 位。
 
 ## 使用说明
 
@@ -9,7 +9,7 @@
 - 每建成一条，请从本页删除对应行，并更新 `_meta/list.md`、`_meta/list.yaml` 与对应字母的 `index.md`。
 - 男性获奖者单列：本站现有条目均为女性或跨性别演员，是否为男性建条需先确定范围。
 
-## 女性与跨性别获奖者（70 位）
+## 女性与跨性别获奖者（60 位）
 
 | 姓名 | 名单内获奖次数 | 获奖记录（年份 · 奖项 · 类别） |
 |------|----------------|--------------------------------------|
@@ -18,20 +18,15 @@
 | Abigail Mac | 1 | 2019 XBIZ Awards / XMAs Female Performer of the Year |
 | Adria Rae | 1 | 2016 NightMoves Awards Best New Starlet |
 | Adrianna Luna | 1 | 2012 NightMoves Awards Best New Starlet |
-| Alexis Texas | 1 | 2011 NightMoves Awards Best Female Performer |
 | Avery Cristy | 1 | 2021 XRCO Awards New Starlet |
 | Avi Love | 1 | 2018 NightMoves Awards Best New Starlet |
 | Bella Rolland | 1 | 2020 NightMoves Awards Best New Starlet |
-| Bobbi Starr | 1 | 2012 AVN Awards Female Performer of the Year |
 | Brittney Kade | 1 | 2025 AVN Awards Transgender Performer of the Year |
 | Brooklyn Chase | 1 | 2021 NightMoves Awards Best Female Performer |
-| Casey Calvert | 1 | 2025 AVN Awards Female Performer of the Year |
-| Casey Kisses | 1 | 2022 AVN Awards Transgender Performer of the Year |
 | Chanel Santini | 1 | 2019 AVN Awards Transgender Performer of the Year |
 | Charly Summer | 1 | 2023 AVN Awards Best New Starlet |
 | Cheerleader Kait | 1 | 2026 AVN Awards Best New Starlet |
 | Cherry Kiss | 1 | 2024 NightMoves Awards Best Female Performer |
-| Christy Mack | 1 | 2014 XBIZ Awards / XMAs Best New Starlet |
 | Cubbi Thompson | 1 | 2026 XBIZ Awards / XMAs Best New Starlet |
 | Dani Daniels | 1 | 2016 XBIZ Awards / XMAs Female Performer of the Year |
 | Eliza Jane | 1 | 2019 AVN Awards Female Performer of the Year |
@@ -43,16 +38,13 @@
 | Hailey Rose | 1 | 2024 NightMoves Awards Best New Starlet |
 | Holly Hendrix | 1 | 2017 AVN Awards Best New Starlet |
 | Honey Gold | 1 | 2018 XBIZ Awards / XMAs Best New Starlet |
-| India Summer | 1 | 2011 AVN Awards Female Performer of the Year |
 | Ivy Ireland | 1 | 2026 NightMoves Awards Best New Starlet |
 | Ivy Wolfe | 1 | 2019 AVN Awards Best New Starlet |
 | Jane Wilde | 1 | 2023 XRCO Awards Female Performer of the Year |
-| Jesse Jane | 1 | 2012 NightMoves Awards Best Female Performer |
 | Jill Kassidy | 1 | 2018 AVN Awards Best New Starlet |
 | Jillian Janson | 1 | 2015 NightMoves Awards Best Female Performer |
 | Karma Rx | 1 | 2019 XBIZ Awards / XMAs Best New Starlet |
 | Katrina Jade | 1 | 2017 XBIZ Awards / XMAs Female Performer of the Year |
-| Kayden Kross | 1 | 2010 NightMoves Awards Best Female Performer |
 | Keisha Grey | 1 | 2014 NightMoves Awards Best New Starlet |
 | Kenna James | 1 | 2022 AVN Awards Female Performer of the Year |
 | Kimber James | 1 | 2010 AVN Awards Transgender Performer of the Year |
@@ -69,14 +61,12 @@
 | Pinky | 1 | 2009 Urban X Awards Female Performer of the Year |
 | Queenie Sateen | 1 | 2024 XBIZ Awards / XMAs Best New Starlet |
 | Raven Alexis | 1 | 2010 NightMoves Awards Best New Starlet |
-| Rebeca Linares | 1 | 2010 Urban X Awards Female Performer of the Year |
 | Rikki Six | 1 | 2013 NightMoves Awards Best New Starlet |
 | Romi Rain | 1 | 2018 XBIZ Awards / XMAs Female Performer of the Year |
 | Roxy Reynolds | 1 | 2008 Urban X Awards Female Performer of the Year |
 | Ryan Reid | 1 | 2026 AVN Awards Female Performer of the Year |
 | Sara Luvv | 1 | 2018 AVN Awards Female Performer of the Year |
 | Sarah Vandella | 1 | 2018 NightMoves Awards Best Female Performer |
-| Skin Diamond | 1 | 2012 Urban X Awards Female Performer of the Year |
 | Sofi Ryan | 1 | 2017 NightMoves Awards Best New Starlet |
 | Summer Carter | 1 | 2015 NightMoves Awards Best New Starlet |
 | Teagan Presley | 1 | 2010 NightMoves Awards Best Female Performer |

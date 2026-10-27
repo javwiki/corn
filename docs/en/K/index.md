@@ -3,11 +3,12 @@
 ## Summary
 
 - **Letter**: K
-- **Number of actors**: 7
+- **Number of actors**: 8
 
 ## Actor List
 
 - [Kagney Linn Karter](Kagney_Linn_Karter.md)
+- [Kayden Kross](Kayden_Kross.md)
 - [Kendra Sunderland](Kendra_Sunderland.md)
 - [Kenzie Anne](Kenzie_Anne.md)
 - [Kenzie Reeves](Kenzie_Reeves.md)

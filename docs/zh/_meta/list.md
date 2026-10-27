@@ -111,3 +111,13 @@
 - **Maitland Ward** (M) - 完成度: 90%
 - **Scarlit Scandal** (S) - 完成度: 90%
 - **Venus Lux** (V) - 完成度: 85%
+- **Alexis Texas** (A) - 完成度: 80%
+- **Bobbi Starr** (B) - 完成度: 80%
+- **Casey Calvert** (C) - 完成度: 80%
+- **Casey Kisses** (C) - 完成度: 80%
+- **Christy Mack** (C) - 完成度: 80%
+- **India Summer** (I) - 完成度: 80%
+- **Jesse Jane** (J) - 完成度: 80%
+- **Kayden Kross** (K) - 完成度: 80%
+- **Rebeca Linares** (R) - 完成度: 80%
+- **Skin Diamond** (S) - 完成度: 80%
