@@ -21,10 +21,12 @@ variant = "classic"
 language = "en"
 font = false
 custom_dir = "overrides"
+# Letter directories use navigation.indexes: each letter's index.md is the section
+# node, and actor pages are nested below it instead of sitting beside it.
 features = [
   "navigation.instant",
   "navigation.path",
-  "navigation.sections",
+  "navigation.indexes",
   "navigation.top",
   "search.highlight",
 ]
