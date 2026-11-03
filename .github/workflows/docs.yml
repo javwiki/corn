@@ -1,4 +1,6 @@
-# https://zensical.org/docs/publish-your-site/#with-github-actions
+# Based on https://zensical.org/docs/publish-your-site/#with-github-actions,
+# but builds with the locked uv environment and the full validation script so
+# CI publishes exactly what ./scripts/build_site.sh accepts locally.
 name: Documentation
 on:
   push:
@@ -17,13 +19,11 @@ jobs:
     steps:
       - uses: actions/configure-pages@v6
       - uses: actions/checkout@v7
-      - uses: actions/setup-python@v6
+      - uses: astral-sh/setup-uv@v10
         with:
-          python-version: 3.x
-      - run: pip install zensical
-      - run: zensical build --clean
-      - run: zensical build --config-file zensical.zh.toml --clean
-      - run: cp LICENSE NOTICE site/
+          version: 0.12.24
+          python-version: "3.12"
+      - run: ./scripts/build_site.sh
       - uses: actions/upload-pages-artifact@v5
         with:
           path: site
