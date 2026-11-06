@@ -23,7 +23,7 @@
 
 - Git；
 - Python 3.12.x（`python3.12 --version`；`pyproject.toml` 要求 `>=3.12,<3.13`）；
-- `uv` 0.12.5–0.12.x（`uv --version`；`pyproject.toml` 要求 `>=0.12.5,<0.13`）。
+- `uv` 0.13.x（`uv --version`；`pyproject.toml` 要求 `>=0.13,<0.14`）。
 
 首次安装或刷新锁定环境：
 
@@ -31,7 +31,7 @@
 uv sync --locked
 ```
 
-`pyproject.toml` 固定直接依赖 `pyyaml==6.0.2`、`zensical==0.0.62`，开发依赖固定为 `ruff==0.16.8`；`uv.lock` 锁定解析后的传递依赖与哈希。Zensical 本身最低支持 Python 3.10，但本项目选择 Python 3.12 以保持锁文件与本地校验环境一致。不要手改 `uv.lock`；依赖变更后应通过 `uv` 更新并审阅锁文件。
+`pyproject.toml` 固定直接依赖 `pyyaml==6.0.3`、`zensical==0.1.0`，开发依赖固定为 `ruff==0.17.4`；`uv.lock` 锁定解析后的传递依赖与哈希。Zensical 本身最低支持 Python 3.10，但本项目选择 Python 3.12 以保持锁文件与本地校验环境一致。不要手改 `uv.lock`；依赖变更后应通过 `uv` 更新并审阅锁文件。
 
 ## 预览、构建与完整校验
 
@@ -67,7 +67,7 @@ uv run --locked --project . zensical serve --config-file zensical.zh.toml
 
 1. 使用锁定的 Ruff 检查 Python 校验器的 lint 和格式；
 2. `check_i18n.py`：检查双语文件集合与规范路径、Zensical 配置契约、条目 front matter/tags/H1、`list.yaml`/`list.md`、字母 `index.md` 链接、本地 Markdown 目标，以及危险 HTML/协议等安全和 Markdown 问题；同时比较双语社交 handle，以及可识别的身高、体重、作品数量、百分比和 `万/亿` 数量级。该脚本不访问网络；
-3. 在仓库内临时 staging 目录中，用锁定的 Zensical 0.0.62 以 `--clean --strict` 先构建英文、再构建中文站点（中文输出嵌套在 `site/zh/`）；任一构建失败时保留上一份 `site/`；
+3. 在仓库内临时 staging 目录中，用锁定的 Zensical 0.1.0 以 `--clean --strict` 先构建英文、再构建中文站点（中文输出嵌套在 `site/zh/`）；任一构建失败时保留上一份 `site/`；
 4. 验证两个入口和两个 404 页面后，才在同一文件系统内替换正式 `site/`；
 5. 将根目录的 `LICENSE` 与 `NOTICE` 复制进发布产物。
 
@@ -85,7 +85,7 @@ uv run --locked --project . zensical build --config-file zensical.zh.toml --clea
 
 ### GitHub Actions 部署
 
-[`.github/workflows/docs.yml`](.github/workflows/docs.yml) 基于 [Zensical 官方 GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions)，使用 GitHub 的 `configure-pages`、`checkout`、`upload-pages-artifact` 和 `deploy-pages` actions。CI 不再使用不固定版本的 `pip install zensical`，而是通过 `astral-sh/setup-uv` 安装 uv 0.12.24 和 Python 3.12，然后运行 `./scripts/build_site.sh`。因此 CI 使用与本地相同的 `uv.lock` 环境（Zensical 0.0.62）以及相同的 lint、i18n、strict 构建和产物校验；任一校验失败都会阻止部署。
+[`.github/workflows/docs.yml`](.github/workflows/docs.yml) 基于 [Zensical 官方 GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions)，使用 GitHub 的 `configure-pages`、`checkout`、`upload-pages-artifact` 和 `deploy-pages` actions。CI 不再使用不固定版本的 `pip install zensical`，而是通过 `astral-sh/setup-uv` 安装 uv 0.13.6 和 Python 3.12，然后运行 `./scripts/build_site.sh`。因此 CI 使用与本地相同的 `uv.lock` 环境（Zensical 0.1.0）以及相同的 lint、i18n、strict 构建和产物校验；任一校验失败都会阻止部署。
 
 推送到 `main` 时，通过 `github-pages` environment 部署。每次推送前仍应在本地运行完整校验，以便在问题进入 `main` 之前发现它们。在仓库 **Settings → Pages → Build and deployment** 中将 **Source** 设置为 **GitHub Actions**；修改该设置需要仓库管理权限。
 

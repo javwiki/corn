@@ -23,7 +23,7 @@ Run maintenance commands from the repository root. You need:
 
 - Git;
 - Python 3.12.x (`python3.12 --version`; `pyproject.toml` requires `>=3.12,<3.13`);
-- `uv` 0.12.5–0.12.x (`uv --version`; `pyproject.toml` requires `>=0.12.5,<0.13`).
+- `uv` 0.13.x (`uv --version`; `pyproject.toml` requires `>=0.13,<0.14`).
 
 Install or refresh the locked environment:
 
@@ -31,7 +31,7 @@ Install or refresh the locked environment:
 uv sync --locked
 ```
 
-`pyproject.toml` pins the direct dependencies to `pyyaml==6.0.2` and `zensical==0.0.62`, and the development dependency to `ruff==0.16.8`. `uv.lock` locks resolved transitive dependencies and hashes. Zensical itself supports Python 3.10 and later, but this project uses Python 3.12 to keep the lockfile and local validation environment consistent. Do not edit `uv.lock` manually; update it through `uv` after dependency changes and review the result.
+`pyproject.toml` pins the direct dependencies to `pyyaml==6.0.3` and `zensical==0.1.0`, and the development dependency to `ruff==0.17.4`. `uv.lock` locks resolved transitive dependencies and hashes. Zensical itself supports Python 3.10 and later, but this project uses Python 3.12 to keep the lockfile and local validation environment consistent. Do not edit `uv.lock` manually; update it through `uv` after dependency changes and review the result.
 
 ## Preview, build, and full validation
 
@@ -67,7 +67,7 @@ The script derives the repository root from its own location and runs the follow
 
 1. Check the Python validators with the locked Ruff linter and formatter.
 2. Run `check_i18n.py` to check bilingual file sets and canonical paths, the Zensical configuration contract, article front matter/tags/H1 headings, `list.yaml`/`list.md`, alphabetical `index.md` links, local Markdown targets, and security/Markdown issues such as unsafe HTML or protocols. It also compares social handles and recognizable heights, weights, work counts, percentages, and quantities expressed with `万` (ten thousand) or `亿` (one hundred million). This script does not access the network.
-3. Build the English site, then the Chinese site, with locked Zensical 0.0.62 and `--clean --strict` in a temporary staging directory inside the repository. Chinese output is nested under `site/zh/`. If either build fails, the previous `site/` is preserved.
+3. Build the English site, then the Chinese site, with locked Zensical 0.1.0 and `--clean --strict` in a temporary staging directory inside the repository. Chinese output is nested under `site/zh/`. If either build fails, the previous `site/` is preserved.
 4. Verify both entry points and both 404 pages before replacing the final `site/` on the same filesystem.
 5. Copy the root `LICENSE` and `NOTICE` into the published output.
 
@@ -85,7 +85,7 @@ Also run `git diff --check` before pushing to check whitespace errors; it does n
 
 ### GitHub Actions deployment
 
-[`.github/workflows/docs.yml`](.github/workflows/docs.yml) is based on the [official Zensical GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions), using GitHub’s `configure-pages`, `checkout`, `upload-pages-artifact`, and `deploy-pages` actions. Instead of an unpinned `pip install zensical`, CI installs uv 0.12.24 and Python 3.12 with `astral-sh/setup-uv` and runs `./scripts/build_site.sh`. CI therefore uses the same `uv.lock` environment (Zensical 0.0.62) and the same lint, i18n, strict-build, and output checks as a local build, and a failing check stops the deploy.
+[`.github/workflows/docs.yml`](.github/workflows/docs.yml) is based on the [official Zensical GitHub Pages workflow](https://zensical.org/docs/publish-your-site/#with-github-actions), using GitHub’s `configure-pages`, `checkout`, `upload-pages-artifact`, and `deploy-pages` actions. Instead of an unpinned `pip install zensical`, CI installs uv 0.13.6 and Python 3.12 with `astral-sh/setup-uv` and runs `./scripts/build_site.sh`. CI therefore uses the same `uv.lock` environment (Zensical 0.1.0) and the same lint, i18n, strict-build, and output checks as a local build, and a failing check stops the deploy.
 
 Pushes to `main` deploy through the `github-pages` environment. Still run the full validation locally before every push so failures are caught before they reach `main`. In repository **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**; changing this setting requires repository administration access.
 

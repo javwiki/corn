@@ -190,7 +190,7 @@ tags:
 
 ### Step 7: 校验、英文复核与交付
 
-本地依赖是 Git、Python 3.12.x 和 `uv` 0.12.5–0.12.x。`pyproject.toml` 约束 Python/uv 版本并固定 `pyyaml==6.0.2`、`zensical==0.0.62`，开发依赖固定为 `ruff==0.16.8`；`uv.lock` 锁定传递依赖和哈希。首次安装或刷新环境使用 `uv sync --locked`，不要用未锁定的全局 `zensical` 替代；依赖变更后不要手改 lock 文件。
+本地依赖是 Git、Python 3.12.x 和 `uv` 0.13.x。`pyproject.toml` 约束 Python/uv 版本并固定 `pyyaml==6.0.3`、`zensical==0.1.0`，开发依赖固定为 `ruff==0.17.4`；`uv.lock` 锁定传递依赖和哈希。首次安装或刷新环境使用 `uv sync --locked`，不要用未锁定的全局 `zensical` 替代；依赖变更后不要手改 lock 文件。
 
 先做双语文档校验，再做完整构建：
 
@@ -205,7 +205,7 @@ uv run --locked --project . python scripts/check_i18n.py --root .
 
 英文是默认语言，占用站点根目录（`/corn/`），中文发布在 `/corn/zh/`。新增或删除英文页面时，还要同步 `zensical.toml` 的 `[project.plugins.redirects.redirect_maps]`：每个已发布页面都要有一条 `en/<相对路径> = <相对路径>`，把旧的 `/corn/en/*` 路径重定向到新的根目录路径；校验器会检查这张表与 `docs/en/` 的页面集合完全一致。
 
-`./scripts/build_site.sh` 会从自身位置推导仓库根目录，在 `uv run --locked` 环境中执行校验，再在 staging 目录中以锁定的 Zensical 0.0.62 先构建英文（`site/`）、再构建中文（`site/zh/`）的 `--clean --strict` 构建；成功后才替换 `site/`，并复制 `LICENSE`/`NOTICE`。需要诊断时可分别运行：
+`./scripts/build_site.sh` 会从自身位置推导仓库根目录，在 `uv run --locked` 环境中执行校验，再在 staging 目录中以锁定的 Zensical 0.1.0 先构建英文（`site/`）、再构建中文（`site/zh/`）的 `--clean --strict` 构建；成功后才替换 `site/`，并复制 `LICENSE`/`NOTICE`。需要诊断时可分别运行：
 
 ```bash
 uv run --locked --project . zensical build --config-file zensical.toml --clean --strict

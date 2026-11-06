@@ -51,8 +51,8 @@ docs/en/A/index.md
 
 站点维护与 Argos 翻译环境是两套用途不同的依赖：
 
-- `pyproject.toml` 要求 Python 3.12（`>=3.12,<3.13`）和 `uv >=0.12.5,<0.13`；本地/CI 应使用同一锁定环境。Zensical 0.0.62 本身最低支持 Python 3.10，但项目锁定的是 Python 3.12。
-- 直接依赖为 `pyyaml==6.0.2` 和 `zensical==0.0.62`，开发依赖为 `ruff==0.16.8`；`uv.lock` 锁定传递依赖、Python 版本范围和包哈希。首次安装或刷新环境使用 `uv sync --locked`。
+- `pyproject.toml` 要求 Python 3.12（`>=3.12,<3.13`）和 `uv >=0.13,<0.14`；本地/CI 应使用同一锁定环境。Zensical 0.1.0 本身最低支持 Python 3.10，但项目锁定的是 Python 3.12。
+- 直接依赖为 `pyyaml==6.0.3` 和 `zensical==0.1.0`，开发依赖为 `ruff==0.17.4`；`uv.lock` 锁定传递依赖、Python 版本范围和包哈希。首次安装或刷新环境使用 `uv sync --locked`。
 - `scripts/build_site.sh` 和预览命令使用 `uv run --locked --project ...`，不在全局环境中解析未锁定的 Zensical。
 
 ### 双语文档校验的范围
@@ -196,7 +196,7 @@ uv run --locked --project . zensical build --config-file zensical.zh.toml --clea
 ./scripts/build_site.sh
 ```
 
-封装脚本会从自身位置推导仓库根目录，先在 `uv run --locked` 环境中执行完整的双语文档校验，再在临时 staging 目录中以锁定的 Zensical 0.0.62 先构建英文（输出到 `site/`）、再构建中文（输出到 `site/zh/`）的 `--clean --strict` 构建。它会检查两个入口和双语 404，复制 `LICENSE`/`NOTICE`，最后才替换正式 `site/`；中途失败会保留上一份产物。校验器或构建报告的 Markdown、链接、元数据和安全问题应先修复；构建成功仍不表示外部来源、事实或翻译已经复核。`site/` 构建产物不应提交。
+封装脚本会从自身位置推导仓库根目录，先在 `uv run --locked` 环境中执行完整的双语文档校验，再在临时 staging 目录中以锁定的 Zensical 0.1.0 先构建英文（输出到 `site/`）、再构建中文（输出到 `site/zh/`）的 `--clean --strict` 构建。它会检查两个入口和双语 404，复制 `LICENSE`/`NOTICE`，最后才替换正式 `site/`；中途失败会保留上一份产物。校验器或构建报告的 Markdown、链接、元数据和安全问题应先修复；构建成功仍不表示外部来源、事实或翻译已经复核。`site/` 构建产物不应提交。
 
 固定版本的本地预览命令为：
 
