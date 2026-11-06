@@ -25,6 +25,7 @@ custom_dir = "overrides"
 # node, and actor pages are nested below it instead of sitting beside it.
 features = [
   "navigation.instant",
+  "navigation.prune",
   "navigation.path",
   "navigation.indexes",
   "navigation.top",

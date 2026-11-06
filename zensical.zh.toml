@@ -25,6 +25,7 @@ custom_dir = "overrides"
 # 演员条目作为其子级缩进显示（不再与目录页平级）。
 features = [
   "navigation.instant",
+  "navigation.prune",
   "navigation.path",
   "navigation.indexes",
   "navigation.top",
