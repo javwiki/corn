@@ -39,6 +39,11 @@ items:
     en: FlickList lists a full film. The CSV names only Codi Vore and does not identify a particular scene
       within the film. The month, runtime and credits currently have secondary database support only;
       distributor confirmation is pending.
+  synopsis:
+    zh: Casey Kisses 与 Michael Stax 的婚礼即将举行。婚礼前，Casey 的老朋友 Kenzie Taylor 向她表露感情，希望重拾两人过去的恋情。
+    en: As Casey Kisses prepares to marry Michael Stax, her longtime friend Kenzie Taylor makes a final
+      attempt to rekindle their past romance.
+    source: 0
 - id: work-002
   file: Obedient_Step_Daughter.md
   title: Obedient Step-Daughter
@@ -147,6 +152,11 @@ items:
     en: The official page identifies the release label as Blacked Raw. The blacked.com text in the CSV
       does not establish a release under the main Blacked label. The same-day XBIZ report corroborates
       the title, both performers and the date.
+  synopsis:
+    zh: Skylar 在俱乐部遇见 Jax。她打破平日的习惯，决定与这位新结识的男子继续共度夜晚。
+    en: After meeting Jax at a club, Skylar decides to depart from her usual routine and spend more of
+      the evening with him.
+    source: 0
 - id: work-007
   file: This_Whole_Time.md
   title: This Whole Time
@@ -180,6 +190,11 @@ items:
   notes:
     zh: 以上字段以所列官方作品页为依据；未列出的信息仍待核实。
     en: The listed fields are supported by the official title page. Information not listed remains unverified.
+  synopsis:
+    zh: Skylar 和 Oliver 是相识多年的朋友。一个悠闲的下午，Skylar 开始重新审视两人的关系，觉得他们也许可以从朋友发展为恋人。
+    en: During a leisurely afternoon together, Skylar begins to see her longtime friend Oliver as a potential
+      romantic partner.
+    source: 0
 - id: work-008
   file: Avoiding_Dicktection.md
   title: Avoiding Dicktection
@@ -382,6 +397,11 @@ items:
   notes:
     zh: 以上字段以所列官方作品页为依据；未列出的信息仍待核实。
     en: The listed fields are supported by the official title page. Information not listed remains unverified.
+  synopsis:
+    zh: Skylar 因商店盗窃事件陷入麻烦，又不愿向父母求助，于是联系朋友的父亲。对方认识店主，出面帮她解围。
+    en: After getting into trouble for shoplifting, Skylar turns to her friend’s father rather than her
+      parents. He knows the shop owner and helps resolve the situation.
+    source: 0
 - id: work-017
   file: Dylan_Does_A_Workout.md
   title: Dylan Does A Workout

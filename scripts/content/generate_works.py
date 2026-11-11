@@ -28,9 +28,9 @@ FIELDS = {
     "credited_as": ("署名", "Credited as"),
     "label": ("发行平台／标签", "Release platform / label"),
     "series": ("系列", "Series"),
-    "release": ("发布日期（来源所列精度）", "Release date (source precision)"),
+    "release": ("发布日期", "Release date"),
     "reported": ("报道日期（非首发日期）", "Report date (not a release date)"),
-    "runtime": ("片长（来源所列精度）", "Runtime (source precision)"),
+    "runtime": ("片长", "Runtime"),
     "director": ("导演", "Director"),
     "catalog_id": ("目录编号", "Catalog ID"),
 }
@@ -80,6 +80,17 @@ def load_research(root: Path) -> tuple[dict, list[dict]]:
                 raise ValueError("cast must be a list")
         if item["status"] == "unresolved" and item["fields"]:
             raise ValueError("unresolved records cannot assert researched metadata")
+        synopsis = item.get("synopsis")
+        if synopsis is not None and (
+            not isinstance(synopsis, dict)
+            or not isinstance(synopsis.get("source"), int)
+            or not 0 <= synopsis["source"] < len(item["sources"])
+            or any(
+                not isinstance(synopsis.get(lang), str) or not synopsis[lang].strip()
+                for lang in ("zh", "en")
+            )
+        ):
+            raise ValueError("synopsis must have bilingual text and an existing source")
     if Counter(covered) != Counter(range(1, len(rows) + 1)):
         raise ValueError("every CSV row must map to exactly one work record")
     return data, rows
@@ -97,53 +108,33 @@ def render_page(root: Path, data: dict, rows: list[dict], item: dict, lang: str)
     zh = lang == "zh"
     col = 0 if zh else 1
     metadata = yaml.safe_dump(
-        {
-            "entity_type": "work",
-            "work_id": item["id"],
-            "research_status": item["status"],
-            "source_rows": item["source_rows"],
-        },
-        sort_keys=False,
+        {"entity_type": "work", "work_id": item["id"]}, sort_keys=False
     ).strip()
-    result = f"---\n{metadata}\n---\n\n# {escape(item['title'])}\n\n"
-    result += f"**{'资料状态' if zh else 'Research status'}：** {STATUSES[item['status']][col]}\n\n"
-    result += f"## {'作品资料' if zh else 'Metadata'}\n\n"
-    if item["fields"]:
+    result = f"---\n{metadata}\n---\n\n# {escape(item['title'])}\n"
+    fields = [field for field in item["fields"] if field["key"] != "reported"]
+    used_sources = {field["source"] for field in fields}
+    if fields:
         result += (
-            "| 字段 | 记录 | 出处 |\n| --- | --- | --- |\n"
+            "\n## 作品资料\n\n| 字段 | 内容 |\n| --- | --- |\n"
             if zh
-            else "| Field | Record | Source |\n| --- | --- | --- |\n"
+            else "\n## Details\n\n| Field | Value |\n| --- | --- |\n"
         )
-        for field in item["fields"]:
+        for field in fields:
             value = (
                 ", ".join(actor_link(root, lang, name) for name in field["value"])
                 if field["key"] == "cast"
                 else escape(str(field["value"]))
             )
-            source = item["sources"][field["source"]]
-            label = (
-                f"出处 {field['source'] + 1}" if zh else f"Source {field['source'] + 1}"
-            )
-            result += f"| {FIELDS[field['key']][col]} | {value} | [{label}]({source['url']}) |\n"
-    else:
-        result += (
-            "尚未取得可用的作品级出处。片名、演员、发行方、日期和片长均待核实；下列原始记录仅用于辨认，不作为已确认的作品资料。\n"
-            if zh
-            else "No usable title-level source was obtained. Title, cast, label, date and runtime remain unverified. The original record below is an identification lead, not confirmed metadata.\n"
-        )
-    result += f"\n## {'辨认与资料限制' if zh else 'Identification and source limits'}\n\n{item['notes'][lang]}\n"
-    result += f"\n## {'原始清单记录' if zh else 'Original catalog record'}\n\n"
-    for number in item["source_rows"]:
-        result += f"{'记录' if zh else 'Record'} {number}\n\n```text\n{rows[number - 1]['Title']}\n```\n\n"
-    result += f"## {'参考资料' if zh else 'Sources'}\n\n"
-    for index, source in enumerate(item["sources"], 1):
-        result += f"{index}. [{escape(source['label'])}]({source['url']})\n"
-    repo = "https://github.com/javwiki/corn/blob/main/maintenance/scene.csv"
-    result += f"\n- [{'仓库原始清单（未核实线索）' if zh else 'Original repository catalog (unverified leads)'}]({repo})\n"
-    result += (
-        f"\n{'资料检索日期' if zh else 'Research date'}：{data['researched_on']}\n\n"
-    )
-    result += "[返回作品目录](index.md)\n" if zh else "[Back to works](index.md)\n"
+            result += f"| {FIELDS[field['key']][col]} | {value} |\n"
+    synopsis = item.get("synopsis")
+    if synopsis:
+        result += f"\n## {'剧情简介' if zh else 'Synopsis'}\n\n{synopsis[lang]}\n"
+        used_sources.add(synopsis["source"])
+    if used_sources:
+        result += f"\n## {'参考资料' if zh else 'Sources'}\n\n"
+        for index in sorted(used_sources):
+            source = item["sources"][index]
+            result += f"- [{escape(source['label'])}]({source['url']})\n"
     return result
 
 
@@ -157,25 +148,10 @@ def render(root: Path, data: dict, rows: list[dict]) -> dict[Path, str]:
             if zh
             else "# Works\n\n- [Individual works and scenes](单部/index.md)\n"
         )
-        heading += (
-            f"\n原清单 {len(rows)} 条记录已整理为 {len(data['items'])} 个独立资料页；两条 Cosmid 记录归于同一条目。各页注明已有出处和未核实部分。\n"
-            if zh
-            else f"\nThe {len(rows)} CSV records map to {len(data['items'])} separate research pages. Two Cosmid records share one entry. Each page distinguishes sourced metadata from unverified leads.\n"
-        )
         result[base / "index.md"] = heading
         index = "# 单部作品与场景\n\n" if zh else "# Individual works and scenes\n\n"
-        index += (
-            "本目录包含已找到出处的作品和仍待辨认的记录；状态只说明现有资料来源，不代表作品的全部信息已核实。\n\n"
-            if zh
-            else "This directory includes sourced works and records still awaiting identification. Status describes the available evidence; it does not verify every fact about a work.\n\n"
-        )
-        index += (
-            "| 作品／记录 | 资料状态 |\n| --- | --- |\n"
-            if zh
-            else "| Work / record | Research status |\n| --- | --- |\n"
-        )
         for item in data["items"]:
-            index += f"| [{escape(item['title'])}]({item['file']}) | {STATUSES[item['status']][0 if zh else 1]} |\n"
+            index += f"- [{escape(item['title'])}]({item['file']})\n"
             result[base / "单部" / item["file"]] = render_page(
                 root, data, rows, item, lang
             )

@@ -55,19 +55,56 @@ class WorkPublicationTests(unittest.TestCase):
             check=False,
         )
 
-    def test_merged_rows_preserve_originals_and_source_precision(self):
+    def test_originals_stay_in_research_and_pages_preserve_source_precision(self):
+        data, rows = works.load_research(self.root)
+        self.assertEqual(data["items"][0]["source_rows"], [1, 2])
+        self.assertEqual(rows[0]["Title"], "Original title")
+        self.assertEqual(rows[1]["Title"], "Alternate filename")
+        pages = works.render(self.root, data, rows)
+        for lang in ("zh", "en"):
+            page = pages[self.root / "docs" / lang / "作品/单部/Example.md"]
+            self.assertNotIn("Original title", page)
+            self.assertNotIn("Alternate filename", page)
+            self.assertIn("2020-03", page)
+            self.assertNotIn("2020-03-01", page)
+            self.assertIn("https://example.org/work", page)
+
+    def test_missing_information_does_not_create_placeholder_sections(self):
+        item = self.data["items"][0]
+        item.update(status="unresolved", fields=[], sources=[])
+        self.save()
         data, rows = works.load_research(self.root)
         pages = works.render(self.root, data, rows)
         for lang in ("zh", "en"):
             page = pages[self.root / "docs" / lang / "作品/单部/Example.md"]
-            self.assertIn("Original title", page)
-            self.assertIn("Alternate filename", page)
-            self.assertIn("2020-03", page)
-            self.assertNotIn("2020-03-01", page)
-            self.assertIn(
-                "2020-03 | [", page
-            )  # The field itself must retain its source link.
-            self.assertIn("https://example.org/work", page)
+            self.assertIn("# Example", page)
+            self.assertNotIn("## ", page)
+            self.assertNotIn("unresolved", page)
+            self.assertNotIn("月份精度", page)
+            self.assertNotIn("Month precision", page)
+
+    def test_synopsis_requires_a_source_and_renders_in_both_languages(self):
+        item = self.data["items"][0]
+        item["synopsis"] = {
+            "zh": "两位老友重逢。",
+            "en": "Two old friends reunite.",
+            "source": 0,
+        }
+        self.save()
+        data, rows = works.load_research(self.root)
+        pages = works.render(self.root, data, rows)
+        self.assertIn(
+            "## 剧情简介\n\n两位老友重逢。",
+            pages[self.root / "docs/zh/作品/单部/Example.md"],
+        )
+        self.assertIn(
+            "## Synopsis\n\nTwo old friends reunite.",
+            pages[self.root / "docs/en/作品/单部/Example.md"],
+        )
+        item["synopsis"]["source"] = 1
+        self.save()
+        with self.assertRaisesRegex(ValueError, "synopsis must have"):
+            works.load_research(self.root)
 
     def test_duplicate_or_missing_csv_mapping_is_rejected(self):
         for mapping in ([1], [1, 1, 2], [1, 3]):
