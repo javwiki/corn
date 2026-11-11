@@ -10,8 +10,8 @@ work_id: work-016
 | 字段 | 内容 |
 | --- | --- |
 | 演员 | [Skylar Vox](../../人物/演员/S/Skylar_Vox.md), Ryan Mclane |
-| 系列 | My Daughter's Hot Friend |
-| 发行平台／标签 | Naughty America |
+| 厂牌／工作室 | mydaughtershotfriend.com |
+| 发行方 | naughtyamerica.com |
 | 发布日期 | 2020-03-25 |
 | 片长 | 47 min |
 | 目录编号 | 25903 |
@@ -23,3 +23,4 @@ Skylar 因商店盗窃事件陷入麻烦，又不愿向父母求助，于是联�
 ## 参考资料
 
 - [Naughty America: scene 25903](https://www.naughtyamerica.com/scene/skylar-vox-gets-punished-by-friends-dad-25903)
+- [IAFD](https://www.iafd.com/title.rme/id=bad56d35-48fb-4878-aec8-15515aeaf727)

@@ -49,71 +49,164 @@ items:
   title: Obedient Step-Daughter
   source_rows:
   - 2
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Alex Adams
+    - Skylar Vox
+    source: 0
+  - key: studio
+    value: familytherapyxxx.com
+    source: 0
+  - key: distributor
+    value: familytherapyxxx.com
+    source: 0
+  - key: release
+    value: '2020-01-31'
+    source: 0
+  - key: runtime
+    value: 20 min
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=46131b50-65ec-4264-99f2-3f1d63724b83
+    kind: database
   search_leads:
   - Obedient Step-Daughter - Skylar Vox - famliytherapyxxx.com
   notes:
-    zh: 未取得可信的作品级出处。搜索中出现 “The Obedient StepDaughter” 的标题变体，但转载和评论不能确认正式片名；清单中的 famliytherapyxxx.com 存在拼写疑点，未据此生成官方链接。
-    en: No reliable title-level source was obtained. Search surfaced the variant “The Obedient StepDaughter”,
-      but reposts and comments do not establish an official title. The CSV domain famliytherapyxxx.com
-      may be misspelled; no official link has been inferred from it.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: 一位继父回到家中，故事围绕他与继女的相处展开。
+    en: A stepfather returns home, and the scene centers on his interaction with his stepdaughter.
+    source: 0
 - id: work-003
   file: My_Best_Friends_Girl_Has_Needs.md
   title: My Best Friend's Girl Has Needs...and What She Needs Is Big Black Dick
   source_rows:
   - 3
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Branden Richards
+    - Skylar Vox
+    source: 0
+  - key: studio
+    value: DickDrainers.com
+    source: 0
+  - key: distributor
+    value: DickDrainers.com
+    source: 0
+  - key: release
+    value: '2020-06-16'
+    source: 0
+  - key: runtime
+    value: 46 min
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=29b8ce65-fbcc-43a6-984d-0187132f9ab7
+    kind: database
   search_leads:
   - My Best Friend's Girl Has Needs...and What She Needs Is Big Black Dick (2020) - Skylar Vox - DickDrainers.com
   notes:
-    zh: 搜索只找到转载线索，未取得发行方或可靠数据库作品页。保留清单暂名；不把标题中的 2020 当作已核实年份。
-    en: Search yielded repost leads but no producer or reliable database title page. The CSV working title
-      is retained; its 2020 text is not treated as a verified year.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Jacob 与别人约会，托好友去自己家取东西，以免遇到女友 Skylar。好友本就对 Skylar 有好感，这次差事使他陷入忠于朋友与接近她之间的矛盾。
+    en: Jacob asks a friend to collect belongings from his home while he is out with another woman, avoiding
+      his girlfriend Skylar. The friend’s attraction to Skylar complicates his loyalty to Jacob.
+    source: 0
 - id: work-004
   file: Registered_Nurse_Naturals.md
   title: Registered Nurse Naturals
   source_rows:
   - 4
-  status: secondary
+  status: database
   fields:
   - key: cast
     value:
+    - J-Mac
     - Skylar Vox
-    source: 0
-  - key: label
-    value: Reality Kings
-    source: 0
+    source: 1
+  - key: studio
+    value: bignaturals.com
+    source: 1
+  - key: distributor
+    value: realitykings.com
+    source: 1
   - key: release
-    value: 2019-11
-    source: 0
+    value: '2019-11-20'
+    source: 1
+  - key: runtime
+    value: 34 min
+    source: 1
   sources:
   - label: 'Typecurry: Skylar Vox'
     url: https://typecurry.com/10874-skylar-vox/
     kind: secondary
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=d379fdc1-d8b7-4981-a489-b927fb5a1230
+    kind: database
   search_leads:
   - Registered Nurse Naturals - JMac, Skylar Vox - Reality Kings
   notes:
-    zh: 该博客将作品归于 Reality Kings，时间为 2019 年 11 月；未提供精确日期。JMac 仅出现在原始清单中，尚未从可用出处复核。
-    en: The blog associates this title with Reality Kings and November 2019, without an exact date. JMac
-      appears in the CSV but has not been independently corroborated by an available source.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: 护理课程学习小组定期聚在一起复习。Skylar 虽常被同伴打趣单身，却引起了 J-Mac 的注意。
+    en: A nursing study group meets to review course material. While the others tease Skylar about being
+      single, she catches J-Mac’s attention.
+    source: 1
 - id: work-005
   file: Hookup_Hotshot_211.md
   title: 'Hookup Hotshot: Skylar Vox — Episode 211'
   source_rows:
   - 5
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Bryan Gozzling
+    - Skylar Vox
+    source: 0
+  - key: studio
+    value: hookuphotshot.com
+    source: 0
+  - key: distributor
+    value: hookuphotshot.com
+    source: 0
+  - key: release
+    value: '2019-09-29'
+    source: 0
+  - key: runtime
+    value: 75 min
+    source: 0
+  - key: director
+    value: Bryan Gozzling
+    source: 0
+  - key: catalog_id
+    value: Episode 211
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=c493229b-a188-4e48-8be0-dc86e6329590
+    kind: database
   search_leads:
   - 'Hookup Hotshot: Skylar Vox (2019) EPISODE 211 - Skylar Vox - hookuphotshot.com'
   notes:
-    zh: 尚未核实 Episode 211 与该演员的作品级对应关系；不以演员资料中出现 Hookup Hotshot 系列作为本集的证据。
-    en: The title-level association between Episode 211 and the performer remains unconfirmed. A performer
-      biography mentioning the Hookup Hotshot series does not identify this episode.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
 - id: work-006
   file: Thats_My_Girl.md
   title: That's My Girl
@@ -126,9 +219,12 @@ items:
     - Skylar Vox
     - Jax Slayher
     source: 0
-  - key: label
-    value: Blacked Raw
-    source: 0
+  - key: studio
+    value: blackedraw.com
+    source: 2
+  - key: distributor
+    value: blacked.com
+    source: 2
   - key: release
     value: '2020-02-06'
     source: 0
@@ -145,18 +241,21 @@ items:
   - label: 'XBIZ: Skylar Vox Stars in New Blacked Raw Release'
     url: https://www.xbiz.com/news/250075/skylar-vox-stars-in-new-blacked-raw-release
     kind: trade_press
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=c99d86db-7268-4ea6-bfa4-54b97e2e24ad
+    kind: database
   search_leads:
   - That's My Girl (2020) - Skylar Vox - blacked.com - blackedraw.20.02.06
   notes:
-    zh: 发行标签以官方作品页的 Blacked Raw 为准；CSV 同时出现的 blacked.com 不作为 Blacked 主站发行的证据。XBIZ 当日报道可交叉核对标题、两位演员和日期。
-    en: The official page identifies the release label as Blacked Raw. The blacked.com text in the CSV
-      does not establish a release under the main Blacked label. The same-day XBIZ report corroborates
-      the title, both performers and the date.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
   synopsis:
     zh: Skylar 在俱乐部遇见 Jax。她打破平日的习惯，决定与这位新结识的男子继续共度夜晚。
     en: After meeting Jax at a club, Skylar decides to depart from her usual routine and spend more of
       the evening with him.
     source: 0
+  iafd_checked_on: '2026-11-11'
 - id: work-007
   file: This_Whole_Time.md
   title: This Whole Time
@@ -169,9 +268,12 @@ items:
     - Skylar Vox
     - Oliver Flynn
     source: 0
-  - key: label
-    value: Vixen
-    source: 0
+  - key: studio
+    value: vixen.com
+    source: 1
+  - key: distributor
+    value: vixen.com
+    source: 1
   - key: release
     value: '2020-03-04'
     source: 0
@@ -185,41 +287,65 @@ items:
   - label: 'Vixen: This Whole Time'
     url: https://www.vixen.com/videos/this-whole-time
     kind: official
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=8c07ba87-3498-494f-b000-ce3a67726e12
+    kind: database
   search_leads:
   - This Whole Time - Skylar Vox - vixen.com - vixen.20.03.04
   notes:
-    zh: 以上字段以所列官方作品页为依据；未列出的信息仍待核实。
-    en: The listed fields are supported by the official title page. Information not listed remains unverified.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
   synopsis:
     zh: Skylar 和 Oliver 是相识多年的朋友。一个悠闲的下午，Skylar 开始重新审视两人的关系，觉得他们也许可以从朋友发展为恋人。
     en: During a leisurely afternoon together, Skylar begins to see her longtime friend Oliver as a potential
       romantic partner.
     source: 0
+  iafd_checked_on: '2026-11-11'
 - id: work-008
   file: Avoiding_Dicktection.md
   title: Avoiding Dicktection
   source_rows:
   - 8
-  status: secondary
+  status: database
   fields:
   - key: cast
     value:
+    - Daniel Trujillo
     - Lena Paul
-    source: 0
+    - Xander Corvus
+    source: 1
+  - key: studio
+    value: brazzersexxtra.com
+    source: 1
+  - key: distributor
+    value: Brazzers Network
+    source: 1
   - key: release
-    value: '2018'
-    source: 0
+    value: '2018-07-25'
+    source: 1
+  - key: runtime
+    value: 29 min
+    source: 1
   sources:
   - label: 'Wikipedia: Lena Paul — filmography'
     url: https://it.wikipedia.org/wiki/Lena_Paul
     kind: secondary
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=a5d1a798-e178-4855-941c-982e1eda35e6
+    kind: database
   search_leads:
   - Avoiding Dicktection - Lena Paul - Brazzers - BrazzersExtra.18.07.25
   notes:
-    zh: 现有外部依据仅支持标题、Lena Paul 和 2018 年；Brazzers、BrazzersExtra 及 2018-07-25 目前仍是清单线索，不能当作已核实的标签和精确发行日期。
-    en: The available external source supports the title, Lena Paul and the year 2018 only. Brazzers,
-      BrazzersExtra and 2018-07-25 remain CSV leads, rather than verified label and exact release-date
-      claims.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Lena 对婚姻中的疏离感到不满，开始向新来的园丁 Xander 示好。两人试图趁丈夫在屋内找钥匙时私下相处，却被他撞见。
+    en: Feeling neglected in her marriage, Lena flirts with the new gardener, Xander. Their attempt to
+      spend time together while her husband searches the house for his keys ends in discovery.
+    source: 1
 - id: work-009
   file: The_Cum_Spattered_Bride.md
   title: The Cum Spattered Bride
@@ -231,27 +357,38 @@ items:
     value:
     - Ryan McLane
     - Skyla Novea
-    source: 0
-  - key: series
-    value: RK Prime
-    source: 0
+    source: 1
+  - key: studio
+    value: rkprime.com
+    source: 1
+  - key: distributor
+    value: realitykings.com
+    source: 1
   - key: release
     value: '2018-12-06'
-    source: 0
+    source: 1
   - key: runtime
     value: 38 min
-    source: 0
+    source: 1
   sources:
   - label: 'IMDb: RK Prime — The Cum Spattered Bride'
     url: https://www.imdb.com/title/tt9488374/
     kind: database
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=9fc37296-e126-4581-9cfd-a7701e10444b
+    kind: database
   search_leads:
   - The Cum Spattered Bride - Skyla Novea - RealityKings - RKPrime.18.12.06
   notes:
-    zh: IMDb 搜索记录列出日期、演员和约 38 分钟片长；作品页访问时返回验证页，尚未获得发行方目录复核。片长按数据库的分钟精度记录。
-    en: The indexed IMDb record lists the date, cast and a 38-minute runtime. Direct access returned a
-      verification page; a distributor catalog has not yet corroborated these fields. Runtime is retained
-      at the database's minute precision.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: 婚礼当天，Skyla 准备好礼服，却开始对婚姻产生疑虑。未来的公公 Ryan 前来催她入场时，她坦言担心自己无法在婚后保持忠诚。
+    en: Dressed for her wedding, Skyla begins having doubts about married life. When her future father-in-law
+      Ryan checks on her, she admits her concerns about remaining faithful.
+    source: 1
 - id: work-010
   file: Harmony_Gets_Slayed_By_Nacho.md
   title: Harmony Gets Slayed by Nacho!
@@ -263,49 +400,111 @@ items:
     value:
     - Harmony Reigns
     - Nacho Vidal
-    source: 0
-  - key: series
-    value: Public Bang
-    source: 0
+    source: 1
+  - key: studio
+    value: publicbang.com
+    source: 1
+  - key: distributor
+    value: bangbrosnetwork.com
+    source: 1
+  - key: release
+    value: '2015-04-29'
+    source: 1
+  - key: runtime
+    value: 29 min
+    source: 1
+  - key: catalog_id
+    value: PB14304
+    source: 1
   sources:
   - label: 'IMDb: Public Bang — full credits'
     url: https://www.imdb.com/title/tt4647028/fullcredits/
     kind: database
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=7b00b819-a198-47f9-834c-7f7fa96966b7
+    kind: database
   search_leads:
   - Harmony Gets Slayed By Nacho! - Harmony Reigns - Bangbros - PublicBang.15.04.29
   notes:
-    zh: IMDb 演职员页可对应标题、Public Bang 和两位演员。清单文件名中的 2015-04-29 尚无可用的精确日期出处。
-    en: IMDb credits match the title, Public Bang and both performers. The filename date 2015-04-29 has
-      not been corroborated by an available date-specific source.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Harmony 与 Nacho 在餐馆里玩桌上足球。两人围绕输赢立下赌约，故事由这场游戏展开。
+    en: Harmony and Nacho play table football in a restaurant. A wager on the outcome becomes the premise
+      for the scene.
+    source: 1
 - id: work-011
   file: Angel_Tits.md
   title: Angel Tits
   source_rows:
   - 11
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Skylar Vox
+    - Peter Green
+    source: 0
+  - key: credited_as
+    value: 'Skylar Vox: Dylann Vox'
+    source: 0
+  - key: studio
+    value: Titty Attack
+    source: 0
+  - key: distributor
+    value: teamskeet.com
+    source: 0
+  - key: release
+    value: '2019-09-13'
+    source: 0
+  - key: runtime
+    value: 30 min
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=88ac8b30-b198-49b5-b695-ba7f694c88f4
+    kind: database
   search_leads:
   - Angel Tits - Skylar Vox - TeamSkeet - TittyAttack.19.09.13
   notes:
-    zh: 未取得可用的官方作品页或可靠数据库记录；TittyAttack 与 2019-09-13 目前只来自原始清单。
-    en: No usable official title page or reliable database record was obtained. TittyAttack and 2019-09-13
-      currently come only from the CSV.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Skylar 与 Peter 分别以天使和恶魔的造型登场，故事围绕这两种对立角色的相遇展开。
+    en: Skylar and Peter appear as an angel and a devil, with their opposing roles providing the scene’s
+      premise.
+    source: 0
 - id: work-012
   file: Pretty_Dick_To_Suck.md
   title: Pretty Dick to Suck
   source_rows:
   - 12
-  status: trade_press
+  status: database
   fields:
   - key: cast
     value:
-    - Vivian Fox
+    - Vivian Foxx
     - Ike Diezel
     source: 0
-  - key: label
-    value: POV Life / TeamSkeet
-    source: 0
+  - key: credited_as
+    value: 'Vivian Foxx: Vivian Fox'
+    source: 1
+  - key: studio
+    value: POV Life
+    source: 1
+  - key: distributor
+    value: teamskeet.com
+    source: 1
+  - key: release
+    value: '2023-01-29'
+    source: 1
+  - key: runtime
+    value: 29 min
+    source: 1
   - key: reported
     value: '2023-02-07'
     source: 0
@@ -313,40 +512,102 @@ items:
   - label: 'XBIZ: TeamSkeet Releases 13 New Scenes'
     url: https://www.xbiz.com/news/271602/teamskeet-releases-13-new-scenes
     kind: trade_press
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=0ffe4830-8905-41d9-a310-fa478395bb9d
+    kind: database
   search_leads:
   - Pretty Dick To Suck - Vivian Fox - TeamSkeet - POVLife.23.01.29
   notes:
-    zh: 2023-02-07 是 XBIZ 报道日期，不等于首发日期。原文件名含 2023-01-29，报道未给出该日期，暂不采纳为发行日期。
-    en: 2023-02-07 is the XBIZ publication date, not an established original release date. The filename
-      contains 2023-01-29, which the report does not confirm.
+    zh: IAFD 将片中署名 Vivian Fox 的演员登记为 Vivian Foxx，person ID 与仓库 Vivian_Foxx 条目一致，已修正人物链接。Ike Diezel 的出演来自已有
+      XBIZ 报道。
+    en: IAFD identifies the performer credited as Vivian Fox as Vivian Foxx, with the same person ID as
+      the repository Vivian_Foxx entry; the cast link is corrected. Ike Diezel is credited by the existing
+      XBIZ report.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Vivian 答应替邻居 Ike 照看房子，但她对此另有期待。一次看家安排成为两人拉近关系的契机。
+    en: Vivian agrees to look after her neighbor Ike’s house, hoping for more than a routine favor. The
+      arrangement offers a chance to grow closer.
+    source: 1
 - id: work-013
   file: Skylar_Vox_Hentai_Blow_Job.md
   title: Skylar Vox Hentai Blow Job
   source_rows:
   - 13
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Skylar Vox
+    - Zeus
+    source: 0
+  - key: studio
+    value: sloppytoppy.com
+    source: 0
+  - key: distributor
+    value: sloppytoppy.com
+    source: 0
+  - key: release
+    value: '2019-09-24'
+    source: 0
+  - key: runtime
+    value: 14 min
+    source: 0
+  - key: director
+    value: Zeus
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=abaf31b2-874a-49d1-b678-08d2a0f101fb
+    kind: database
   search_leads:
   - Skylar Vox Hentai Blow Job (2019) - Skylar Vox - sloppytoppy.com
   notes:
-    zh: 未取得可用的作品级出处；SloppyToppy、2019 和演员名均保留为清单检索线索。
-    en: No usable title-level source was obtained. SloppyToppy, 2019 and the performer name remain CSV
-      search leads.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
 - id: work-014
   file: NetVideoGirls_1743.md
   title: 'NetVideoGirls 1743: Dylann'
   source_rows:
   - 14
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Donnie Rock
+    - Skylar Vox
+    source: 0
+  - key: credited_as
+    value: 'Donnie Rock: Donnie; Skylar Vox: Dylann'
+    source: 0
+  - key: studio
+    value: netvideogirls.com
+    source: 0
+  - key: distributor
+    value: NVG Network
+    source: 0
+  - key: release
+    value: '2019-07-24'
+    source: 0
+  - key: runtime
+    value: 71 min
+    source: 0
+  - key: catalog_id
+    value: '1743'
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=904656d7-b70c-4843-a7c3-704d8ac3caff
+    kind: database
   search_leads:
   - 'NetVideoGirls 1743: Dylann (2019) - Skylar Vox - NVG Networks'
   notes:
-    zh: 未找到将 1743、Dylann 与具体作品页可靠对应的记录；不能仅凭演员曾在 Net Video Girls 出演就确认本条。
-    en: No reliable record linking 1743 and Dylann to a specific title page was found. A general credit
-      for Net Video Girls does not establish this record.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
 - id: work-015
   file: Step_Daughter_Wants_To_Play_Truth_Or_Dare.md
   title: Step Daughter Wants to Play Truth or Dare
@@ -373,12 +634,12 @@ items:
     - Skylar Vox
     - Ryan Mclane
     source: 0
-  - key: series
-    value: My Daughter's Hot Friend
-    source: 0
-  - key: label
-    value: Naughty America
-    source: 0
+  - key: studio
+    value: mydaughtershotfriend.com
+    source: 1
+  - key: distributor
+    value: naughtyamerica.com
+    source: 1
   - key: release
     value: '2020-03-25'
     source: 0
@@ -392,16 +653,21 @@ items:
   - label: 'Naughty America: scene 25903'
     url: https://www.naughtyamerica.com/scene/skylar-vox-gets-punished-by-friends-dad-25903
     kind: official
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=bad56d35-48fb-4878-aec8-15515aeaf727
+    kind: database
   search_leads:
   - My Daughter's Hot Friend 25903 (2020) - Skylar Vox Gets Punished by Friend's Dad - Skylar Vox - naughtyamerica.com
   notes:
-    zh: 以上字段以所列官方作品页为依据；未列出的信息仍待核实。
-    en: The listed fields are supported by the official title page. Information not listed remains unverified.
+    zh: IAFD 登记片长 48 分钟，官方作品页为 47 分钟；公开条目保留官方的 47 分钟，不把数据库分钟数当作精确秒数。
+    en: IAFD lists 48 minutes, while the official page lists 47. The public entry retains the official
+      47-minute value.
   synopsis:
     zh: Skylar 因商店盗窃事件陷入麻烦，又不愿向父母求助，于是联系朋友的父亲。对方认识店主，出面帮她解围。
     en: After getting into trouble for shoplifting, Skylar turns to her friend’s father rather than her
       parents. He knows the shop owner and helps resolve the situation.
     source: 0
+  iafd_checked_on: '2026-11-11'
 - id: work-017
   file: Dylan_Does_A_Workout.md
   title: Dylan Does A Workout
@@ -410,6 +676,10 @@ items:
   - 27
   status: official
   fields:
+  - key: cast
+    value:
+    - Skylar Vox
+    source: 1
   - key: credited_as
     value: Dylan Voxe
     source: 0
@@ -422,10 +692,6 @@ items:
   - key: runtime
     value: 07:43
     source: 0
-  - key: cast
-    value:
-    - Skylar Vox
-    source: 1
   sources:
   - label: 'Cosmid: Dylan Voxe — video updates'
     url: https://www.cosmid.net/models/dylan-voxe.html
@@ -447,15 +713,41 @@ items:
   title: Vivian Unveiled
   source_rows:
   - 18
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Joshua Lewis
+    - Vivian Foxx
+    source: 0
+  - key: credited_as
+    value: 'Vivian Foxx: Vivian Fox'
+    source: 0
+  - key: studio
+    value: Sis Loves Me
+    source: 0
+  - key: distributor
+    value: familystrokes.com
+    source: 0
+  - key: release
+    value: '2022-02-04'
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=e73386a5-2b48-4c1c-8bf9-10fbf1693939
+    kind: database
   search_leads:
   - Vivian Fox - Vivian Unveiled
   notes:
-    zh: 未取得可用的作品级出处。该标题是否指完整影片、网络场景或其他作品尚待确认。
-    en: No usable title-level source was obtained. Whether the name identifies a full film, a web scene
-      or another work remains unresolved.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Vivian 得知继兄 Joshua 即将结婚后难掩失落，开始想方设法重新获得他的关注。
+    en: Learning that her stepbrother Joshua is getting married, Vivian becomes jealous and tries to regain
+      his attention.
+    source: 0
 - id: work-019
   file: Vivian_Fox_POV_Life.md
   title: Vivian Fox — POV Life
@@ -475,55 +767,165 @@ items:
   title: Turning Me On
   source_rows:
   - 20
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Lexi Luna
+    - Robby Apples
+    source: 0
+  - key: credited_as
+    value: 'Robby Apples: Robby Echo'
+    source: 0
+  - key: studio
+    value: nfbusty.com
+    source: 0
+  - key: distributor
+    value: nubilefilms.com
+    source: 0
+  - key: release
+    value: '2021-05-21'
+    source: 0
+  - key: runtime
+    value: 28 min
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=00b38fdb-270f-47fb-9b2a-ab0fce9e950d
+    kind: database
   search_leads:
   - Lexi Luna - Turning me on - NF Busty
   notes:
-    zh: 未取得作品级出处；NF Busty 的拼写和正式发行归属尚未核实。
-    en: No title-level source was obtained; the spelling and release attribution of NF Busty remain unverified.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Lexi 与摄影师 Robby 进行一次写真拍摄。休息时，她查看照片，两人原本的工作距离逐渐被打破。
+    en: Model Lexi works with photographer Robby on a photo shoot. During a break, her reaction to the
+      pictures changes the tone of their professional relationship.
+    source: 0
 - id: work-021
   file: Sexually_Inventive_Incentives.md
   title: Sexually Inventive Incentives
   source_rows:
   - 21
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - John Anthony
+    - Lexi Luna
+    source: 0
+  - key: studio
+    value: PervMom
+    source: 0
+  - key: distributor
+    value: familystrokes.com
+    source: 0
+  - key: release
+    value: '2019-02-02'
+    source: 0
+  - key: runtime
+    value: 40 min
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=1fc0ece7-d9d6-4871-b49d-8646c3a41ee7
+    kind: database
   search_leads:
   - Lexi Luna - Sexually Inventive Incentives PervMom
   notes:
-    zh: 找到 Lexi Luna 的其他 PervMom 报道，但没有标题对应证据，未把其他场景的演员或日期套用到本条。
-    en: Reports about other Lexi Luna PervMom scenes did not match this title. Their cast and dates have
-      not been transferred to this record.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Lexi 一早为继子准备早餐，随后试图激励他认真学习。考试后，对方把成绩单上的 F 改成 A，想继续得到她的奖励。
+    en: Lexi prepares breakfast for her stepson and tries to motivate him to study. After failing a test,
+      he changes the F on his paper to an A to keep receiving her rewards.
+    source: 0
 - id: work-022
   file: Classy_MILF_Coochie.md
   title: Classy MILF Coochie
   source_rows:
   - 22
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - J-Mac
+    - Lexi Luna
+    source: 0
+  - key: studio
+    value: GotMylf
+    source: 0
+  - key: distributor
+    value: mylf.com
+    source: 0
+  - key: release
+    value: '2019-11-29'
+    source: 0
+  - key: runtime
+    value: 39 min
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=342cf613-6ee8-4ae8-977a-0bde59f26c20
+    kind: database
   search_leads:
   - Lexi Luna - Classy MILF Coochie
   notes:
-    zh: 搜索只找到转载中的同名线索，尚无可用的发行方或可靠数据库出处。
-    en: Search yielded a same-title repost lead only, without a usable producer or reliable database source.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Lexi 穿着长裙来到户外，随后与到访的 J-Mac 相遇。
+    en: Lexi heads outdoors in a gown before meeting the visiting J-Mac.
+    source: 0
 - id: work-023
   file: Spell_MYLF_For_Me.md
   title: Spell MYLF For Me
   source_rows:
   - 23
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Lexi Luna
+    - Rico Hernandez
+    - Sarah Lace
+    - Yumi Sin
+    source: 0
+  - key: studio
+    value: Mylf Of The Month
+    source: 0
+  - key: distributor
+    value: mylf.com
+    source: 0
+  - key: release
+    value: '2021-08-02'
+    source: 0
+  - key: runtime
+    value: 27 min
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=fff7dc3b-a532-4ab9-a94b-47cd806e897e
+    kind: database
   search_leads:
   - Lexi Luna - Spell MYLF For Me
   notes:
-    zh: 未取得可用作品级出处；标题中的 MYLF 字样不单独作为发行方证据。
-    en: No usable title-level source was obtained. MYLF within the title alone does not establish a release
-      label.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Lexi 以教师身份为 Sarah、Yumi 和 Rico 上课，并让表现积极的 Rico 参与课堂示范。
+    en: Lexi plays a teacher leading a class with Sarah, Yumi and Rico. Rico’s participation earns him
+      a role in the classroom demonstration.
+    source: 0
 - id: work-024
   file: Were_Basically_Family.md
   title: We're Basically Family
@@ -533,48 +935,122 @@ items:
   fields:
   - key: cast
     value:
-    - Lexi Luna
     - Codey Steele
-    source: 0
-  - key: series
-    value: MILFty
-    source: 0
+    - Lexi Luna
+    source: 1
+  - key: studio
+    value: Milfty
+    source: 1
+  - key: distributor
+    value: mylf.com
+    source: 1
+  - key: release
+    value: '2019-09-13'
+    source: 1
+  - key: runtime
+    value: 41 min
+    source: 1
   sources:
   - label: 'IMDbPro: We''re Basically Family — cast'
     url: https://pro.imdb.com/title/tt42721511/news
     kind: database
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=c1f151fd-2543-4e98-989e-ac2d5b9ccab0
+    kind: database
   search_leads:
   - Lexi Luna - We're Basically Family
   notes:
-    zh: IMDbPro 的索引记录将其列作 MILFty 的一集，并列出两位演员；未取得精确发行日期或制作方作品页。
-    en: The indexed IMDbPro record identifies an episode of MILFty and credits both performers. No exact
-      release date or producer title page was obtained.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: Lexi 为继子筹办派对，他的一位好友到访时，其他人都不在家。Lexi 邀请这位客人留下过夜。
+    en: While Lexi prepares a party for her stepson, one of his friends arrives to find her alone at home.
+      She invites the visitor to stay overnight.
+    source: 1
 - id: work-025
   file: The_Assistants_Affair.md
   title: The Assistant's Affair
   source_rows:
   - 25
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Keiran Lee
+    - Madison Ivy
+    source: 0
+  - key: studio
+    value: brazzersexxtra.com
+    source: 0
+  - key: distributor
+    value: Brazzers Network
+    source: 0
+  - key: release
+    value: '2019-11-05'
+    source: 0
+  - key: runtime
+    value: 28 min
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=a11222d6-ceea-412a-9664-99a049c65929
+    kind: database
   search_leads:
   - Madison Ivy - The Assistant's Affair
   notes:
-    zh: 未取得与 Madison Ivy 对应的可信作品页；排除了同名或近似标题的无关电影报道。
-    en: No reliable title page matching Madison Ivy was obtained. Unrelated film reports with similar
-      titles were excluded.
+    zh: 已通过 webtop Chromium 读取 IAFD 作品页，按标题、演员及年份匹配；未提供的字段不补填。
+    en: The IAFD title page was read using webtop Chromium and matched by title, cast and year. Missing
+      fields remain unfilled.
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: 助理 Madison 帮老板 Keiran 处理合同，得知他准备用礼物挽救婚姻。她把礼物送到楼上时，被好奇心驱使接触女主人的私人物品，意外被老板撞见。
+    en: While helping Keiran with business contracts, his assistant Madison learns that a gift is meant
+      to repair his marriage. Taking it upstairs, she becomes curious about his wife’s belongings and
+      is caught in an awkward situation.
+    source: 0
 - id: work-026
   file: MilfSoup_ms11362.md
-  title: MilfSoup ms11362
+  title: Cute Sexy Girl Walks In On Her Boyfriend With A Hot MILF
   source_rows:
   - 26
-  status: unresolved
-  fields: []
-  sources: []
+  status: database
+  fields:
+  - key: cast
+    value:
+    - Ava Addams
+    - Mae Olsen
+    - Bruce Venture
+    source: 0
+  - key: studio
+    value: milfsoup.com
+    source: 0
+  - key: distributor
+    value: bangbrosnetwork.com
+    source: 0
+  - key: release
+    value: '2013-03-23'
+    source: 0
+  - key: runtime
+    value: 46 min
+    source: 0
+  - key: catalog_id
+    value: MS11362
+    source: 0
+  sources:
+  - label: IAFD
+    url: https://www.iafd.com/title.rme/id=36a44c2c-7610-43b3-a531-a0f0d6c29623
+    kind: database
   search_leads:
   - MilfSoup.ID.ms11362.Ava.Addams.Mae.Olsen.PREAIR.XXX.720p.MP4-IEVA[rarbg]
   notes:
-    zh: 仅有原文件名中的 MilfSoup、ms11362、Ava Addams 和 Mae Olsen 线索，未确认正式片名或编号归属。PREAIR 和编码标记不作为发行状态或日期证据。
-    en: Only the filename leads MilfSoup, ms11362, Ava Addams and Mae Olsen are available. The official
-      title and identifier attribution are unconfirmed. PREAIR and encoding tokens do not establish release
-      status or a date.
+    zh: '通过 Mae Olsen 的 IAFD 片目定位作品。作品页 Comments 明确标注 Scene Code: MS11362，且厂牌与 Ava Addams、Mae Olsen 两位演员均吻合，确认原始文件名对应本场景。'
+    en: 'Located through Mae Olsen’s IAFD filmography. The title page explicitly gives Scene Code: MS11362,
+      with the matching studio and both Ava Addams and Mae Olsen, establishing the filename’s scene identity.'
+  iafd_checked_on: '2026-11-11'
+  synopsis:
+    zh: 女子离家后，男友留在家中锻炼。一次与女佣的意外相遇，被随后回家的女友撞见。
+    en: A woman leaves her boyfriend exercising at home. An unexpected encounter with the maid is interrupted
+      when his girlfriend returns.
+    source: 0

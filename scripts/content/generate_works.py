@@ -27,6 +27,8 @@ FIELDS = {
     "cast": ("演员", "Cast"),
     "credited_as": ("署名", "Credited as"),
     "label": ("发行平台／标签", "Release platform / label"),
+    "studio": ("厂牌／工作室", "Studio / label"),
+    "distributor": ("发行方", "Distributor"),
     "series": ("系列", "Series"),
     "release": ("发布日期", "Release date"),
     "reported": ("报道日期（非首发日期）", "Report date (not a release date)"),

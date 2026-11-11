@@ -9,11 +9,11 @@ work_id: work-017
 
 | Field | Value |
 | --- | --- |
+| Cast | [Skylar Vox](../../人物/演员/S/Skylar_Vox.md) |
 | Credited as | Dylan Voxe |
 | Release platform / label | Cosmid |
 | Release date | 2019-11-29 |
 | Runtime | 07:43 |
-| Cast | [Skylar Vox](../../人物/演员/S/Skylar_Vox.md) |
 
 ## Sources
 

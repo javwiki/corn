@@ -9,11 +9,11 @@ work_id: work-017
 
 | 字段 | 内容 |
 | --- | --- |
+| 演员 | [Skylar Vox](../../人物/演员/S/Skylar_Vox.md) |
 | 署名 | Dylan Voxe |
 | 发行平台／标签 | Cosmid |
 | 发布日期 | 2019-11-29 |
 | 片长 | 07:43 |
-| 演员 | [Skylar Vox](../../人物/演员/S/Skylar_Vox.md) |
 
 ## 参考资料
 

@@ -10,10 +10,15 @@ work_id: work-009
 | Field | Value |
 | --- | --- |
 | Cast | Ryan McLane, [Skyla Novea](../../人物/演员/S/Skyla_Novea.md) |
-| Series | RK Prime |
+| Studio / label | rkprime.com |
+| Distributor | realitykings.com |
 | Release date | 2018-12-06 |
 | Runtime | 38 min |
 
+## Synopsis
+
+Dressed for her wedding, Skyla begins having doubts about married life. When her future father-in-law Ryan checks on her, she admits her concerns about remaining faithful.
+
 ## Sources
 
-- [IMDb: RK Prime — The Cum Spattered Bride](https://www.imdb.com/title/tt9488374/)
+- [IAFD](https://www.iafd.com/title.rme/id=9fc37296-e126-4581-9cfd-a7701e10444b)
