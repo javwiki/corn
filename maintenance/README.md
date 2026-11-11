@@ -58,6 +58,7 @@ scripts/
 
 ```bash
 uv run --locked python scripts/content/generate_works.py
+uv run --locked python scripts/content/generate_navigation.py
 ./scripts/build_site.sh
 ```
 
