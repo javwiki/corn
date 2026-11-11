@@ -15,3 +15,7 @@ Entry tags are rendered by Zensical's native Tags plugin and are included in sit
 ## People
 
 - [Performer directory](人物/演员/index.md)
+
+## Works
+
+- [Works catalog](作品/index.md)
