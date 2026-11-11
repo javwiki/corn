@@ -1606,7 +1606,7 @@ def check_pages(
             if not (
                 relative == "index.md"
                 or relative.endswith("/index.md")
-                or relative.startswith(("资料/", "专题/"))
+                or relative.startswith(("作品/", "资料/", "专题/"))
                 or language_root.parent.name == "maintenance"
                 or is_actor_path(relative)
             ):

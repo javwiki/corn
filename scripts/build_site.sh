@@ -34,6 +34,7 @@ trap 'exit 143' TERM
 # result leaves any previous site/ output untouched.
 uv run --locked --project "$ROOT_DIR/pyproject.toml" ruff check "$SCRIPT_DIR"
 uv run --locked --project "$ROOT_DIR/pyproject.toml" ruff format --check "$SCRIPT_DIR"
+uv run --locked --project "$ROOT_DIR/pyproject.toml" python "$SCRIPT_DIR/content/generate_works.py" --check
 uv run --locked --project "$ROOT_DIR/pyproject.toml" python "$SCRIPT_DIR/checks/check_i18n.py" --root "$ROOT_DIR"
 
 mkdir -p "$STAGE_DIR"
