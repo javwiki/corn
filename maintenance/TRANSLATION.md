@@ -9,10 +9,10 @@
 本轮维护对项目审查中可自动确认的问题做了整体修复：
 
 - 对照中文源修复了英文正文中 `万/亿` 数量、社交账号、作品/品牌/机构名称、字段格式、语义反转、遗漏限定和坏链接；英文首页与站点描述现在明确标注机器翻译草稿仍在复核；
-- 将 Elle Lee 移入正确的 `E/` 目录；站点不保留兼容重定向，旧 `/L/Elle_Lee/` 路径不再跳转；补齐两种语言各 77 项的 `_meta/list.md`，删除空的 award 占位页，并修复重复标签和多余 frontmatter 分隔线；
+- 将 Elle Lee 移入正确的 `E/` 目录；站点不保留兼容重定向，旧 `/L/Elle_Lee/` 路径不再跳转；补齐两种语言各 77 项的 `maintenance/{lang}/list.md`，删除空的 award 占位页，并修复重复标签和多余 frontmatter 分隔线；
 - 将标签中的泛化 IAFD 首页和已拒 Wikipedia Draft 替换为具体人物页或删除，修复 Lia Lin 的坏链接；移除无可靠来源的怀孕传闻、现住址、净资产和关系/宗教细节等不必要敏感信息；
 - 删除未转义美元、失效数字引用和不合法的原始 HTML；共享的双语 404 模板不再作为普通导航页发布，页眉语言选择器和 `hreflang` 保留当前双语路径；
-- 扩展 `scripts/check_i18n.py`，在构建前检查配置契约、索引/元数据、路径、frontmatter、tags、URL/handle、`万/亿` 数量级、危险协议、原始 HTML、未定义数字引用、坏 Markdown 链接、HTTP 外链和被拒 Wikipedia Draft；
+- 扩展 `scripts/checks/check_i18n.py`，在构建前检查配置契约、索引/元数据、路径、frontmatter、tags、URL/handle、`万/亿` 数量级、危险协议、原始 HTML、未定义数字引用、坏 Markdown 链接、HTTP 外链和被拒 Wikipedia Draft；
 - 使用 `pyproject.toml` 与 `uv.lock` 锁定 Zensical 及传递依赖；构建改为 staging 后替换，失败不会破坏上一份 `site/`；CI 增加 PR 只读构建、分离 build/deploy 权限、限制部署到 `main` 并固定 Action SHA；
 - 发布产物现在包含 `LICENSE` 和 `NOTICE`，主题改用系统字体；维护 skill 改为动态定位仓库并同步当前校验流程；
 - 默认语言改为英文：英文占用站点根目录并发布在 `/corn/`，中文移到 `/corn/zh/`，原 `zensical.en.toml` 更名为 `zensical.zh.toml`；站点不保留兼容重定向，当前路径即规范路径，`/corn/en/*` 和改名页面的旧路径都不再跳转。
@@ -26,7 +26,7 @@
 - 英文构建配置（默认语言，站点根目录）：`zensical.toml`
 - 中文构建配置（嵌套在 `/corn/zh/`）：`zensical.zh.toml`
 - 锁定项目环境：`pyproject.toml`、`uv.lock`
-- 中英文文档校验：`scripts/check_i18n.py`
+- 中英文文档校验：`scripts/checks/check_i18n.py`
 - 双语站点构建：`scripts/build_site.sh`
 - 发布归属：`LICENSE`、`NOTICE`
 - 共享模板：`overrides/404.html`、`overrides/main.html`、`overrides/partials/alternate.html`
@@ -34,18 +34,18 @@
 两个内容目录必须使用相同的相对路径。例如：
 
 ```text
-docs/zh/A/Angela_White.md
-docs/en/A/Angela_White.md
+docs/zh/人物/演员/A/Angela_White.md
+docs/en/人物/演员/A/Angela_White.md
 ```
 
 相应的字母索引也必须成对存在：
 
 ```text
-docs/zh/A/index.md
-docs/en/A/index.md
+docs/zh/人物/演员/A/index.md
+docs/en/人物/演员/A/index.md
 ```
 
-默认语言为英文，发布在 `/corn/`；中文发布在 `/corn/zh/`。站点不保留任何兼容重定向，当前路径即规范路径；英文此前发布在 `/corn/en/`，该前缀下的旧 URL 以及 Elle Lee 等改名页面的旧路径都不再跳转。此前发布在 `/corn/` 的中文 URL 现在显示同一人物的英文页面，中文内容地址改为 `/corn/zh/<字母>/<艺名>/`。`index.md` 是内容源文件，不是根目录 `README.md` 的别名；新增或删除条目时要在两种语言中同步维护它及其中的链接和统计。
+默认语言为英文，发布在 `/corn/`；中文发布在 `/corn/zh/`。站点不保留任何兼容重定向，当前路径即规范路径；英文此前发布在 `/corn/en/`，该前缀下的旧 URL 以及 Elle Lee 等改名页面的旧路径都不再跳转。此前发布在 `/corn/` 的中文 URL 现在显示同一人物的英文页面，中文内容地址改为 `/corn/zh/人物/演员/<字母>/<艺名>/`。`index.md` 是内容源文件，不是根目录 `README.md` 的别名；新增或删除条目时要在两种语言中同步维护它及其中的链接和统计。
 
 ### 站点维护的本地依赖
 
@@ -166,7 +166,7 @@ workers = 4
 3. **运行受保护字符串检查。** 对数字、日期、URL、handle、ID 和代码做逐项差异检查；失败时先修复或回到源文件，不要手工猜测 token。
 4. **做英文语言复核。** 人工检查专有名词和官方拼写、标题和奖项正式名称、术语、语法、时态、代词、语气及敏感身份表述；不能仅按中文性别或标签推断英文代词。
 5. **做外部事实复核。** 逐项打开公开来源，确认来源确实支持事实，并记录来源名称、URL 和核验日期；对动态数据注明统计口径，对冲突保留说明。中文与英文不一致时不能以任一机器译文单独证明事实，必须回到来源。此步骤是人工工作，不能由 strict 构建代替。
-6. **同步双语维护文件。** 更新两种语言的条目、字母 `index.md`、相关 `_meta` 数据；不要创建内容目录 README，也不要把旧的 award 占位文件当作生成结果。
+6. **同步双语维护文件。** 更新两种语言的条目、字母 `index.md`、相关 `maintenance/{zh,en}/` 数据；不要创建内容目录 README，也不要把旧的 award 占位文件当作生成结果。
 7. **严格构建并检查差异。** 运行下节的完整命令，阅读 `git diff`，确认只包含源文件；构建成功后仍保留“英文草稿/待事实复核”状态，除非确实完成了上述复核。
 
 ### 英文人工校订清单
@@ -185,7 +185,7 @@ workers = 4
 从仓库根目录运行：
 
 ```bash
-uv run --locked --project . python scripts/check_i18n.py --root .
+uv run --locked --project . python scripts/checks/check_i18n.py --root .
 uv run --locked --project . zensical build --config-file zensical.toml --clean --strict
 uv run --locked --project . zensical build --config-file zensical.zh.toml --clean --strict
 ```

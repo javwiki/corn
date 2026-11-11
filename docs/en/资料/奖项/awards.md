@@ -30,10 +30,7 @@ This page is a reference directory of the main awards and awarding bodies in the
 ## Related directories
 
 - [Award winners by year](award-winners.md)
-- [Topic directory](topics.md)
-- [Performer list](list.md)
-- [Data sources](source.yaml)
-- [Metadata home](index.md)
+- [Topic directory](../../专题/index.md)
 
 ## References
 

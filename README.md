@@ -4,17 +4,18 @@
 
 This repository uses Zensical to build a bilingual Chinese-English encyclopedia, with English as the default language. Chinese content lives in `docs/zh/`, English content in `docs/en/`, and matching pages use the same relative path.
 
-See [TRANSLATION.md](TRANSLATION.md) (in Chinese) for the translation models, measured performance, quality limitations, and maintenance workflow.
+See [TRANSLATION.md](maintenance/TRANSLATION.md) (in Chinese) for the translation models, measured performance, quality limitations, and maintenance workflow.
 
 > **English status:** `docs/en/` currently contains machine-translated drafts. The articles have not yet been individually researched again, rewritten, or subjected to a consistent human fact-checking process. A successful strict build only confirms that file structure and site builds pass; it does not verify English content, names, numbers, awards, or sources.
 
 ## Directory and `index.md` conventions
 
-- `docs/zh/<letter>/<stage_name>.md` and `docs/en/<letter>/<stage_name>.md` are paired Chinese and English articles and must have identical relative paths.
-- `docs/zh/<letter>/index.md` and `docs/en/<letter>/index.md` are maintained alphabetical directory indexes, not `README.md` files. The root README files document the project; do not create README files as indexes inside content directories.
+Published content, maintenance data, and validation scripts live separately. See [the directory layout](maintenance/README.md) and [script commands](scripts/README.md). Moved pages use their new paths without redirects.
+
+- `docs/zh/人物/演员/<letter>/<stage_name>.md` and `docs/en/人物/演员/<letter>/<stage_name>.md` are paired Chinese and English articles and must have identical relative paths.
+- `docs/zh/人物/演员/<letter>/index.md` and `docs/en/人物/演员/<letter>/index.md` are maintained alphabetical directory indexes, not `README.md` files. The root README files document the project; do not create README files as indexes inside content directories.
 - When adding, deleting, or renaming an article, update the corresponding `index.md` in both languages. Link targets must match article filenames, and entries are generally sorted by name. Update performer counts or summaries if the index includes them.
 - Each new letter directory needs an `index.md` in both languages, following the existing simple or full format used by that directory.
-- Older documentation described `docs/{zh,en}/_meta/award/index.md` as a CI-generated page. The current build script and CI do not generate it. Award directories and old placeholder files are not factual sources for new articles; do not rely on, create, or manually edit them as a substitute for source verification.
 - `overrides/` contains shared templates for the bilingual 404 page and page-level language links. Article maintenance generally does not require changes to these files.
 
 ## Local prerequisites
@@ -76,7 +77,7 @@ For individual diagnostics, run:
 ```bash
 uv run --locked --project . ruff check scripts
 uv run --locked --project . ruff format --check scripts
-uv run --locked --project . python scripts/check_i18n.py --root .
+uv run --locked --project . python scripts/checks/check_i18n.py --root .
 uv run --locked --project . zensical build --config-file zensical.toml --clean --strict
 uv run --locked --project . zensical build --config-file zensical.zh.toml --clean --strict
 ```
@@ -93,7 +94,7 @@ English is the default language, occupies the site root, and is published at `/c
 
 The header language selector and page-level `hreflang` links preserve the current performer path. The root 404 page is bilingual so that an invalid language-specific path does not show only the other language. The theme uses system fonts and makes no requests to Google Fonts. Published output includes `LICENSE` and `NOTICE`.
 
-If you fork the repository, rename it, migrate domains, or change the default branch, update the `site_url`, alternate-language, and repository paths in both Zensical configurations, along with the default-language, canonical-URL, and directory constants in `scripts/check_i18n.py`. Shared templates read language homepages from the configuration; the validator intentionally blocks deployments whose settings have not been updated together.
+If you fork the repository, rename it, migrate domains, or change the default branch, update the `site_url`, alternate-language, and repository paths in both Zensical configurations, along with the default-language, canonical-URL, and directory constants in `scripts/checks/check_i18n.py`. Shared templates read language homepages from the configuration; the validator intentionally blocks deployments whose settings have not been updated together.
 
 The validator's checks for numbers, units, handles, and links only establish bilingual structure and consistency. They do not check whether external URLs are accessible, whether sources support a fact, whether English translations are correct, or whether award information is outdated. These still require human review.
 
@@ -117,4 +118,4 @@ The English edition currently consists of machine-translated drafts. Before comm
 5. Synchronize articles, alphabetical `index.md` files, and related metadata in both languages.
 6. Run the full strict build again.
 
-See [TRANSLATION.md](TRANSLATION.md) (in Chinese) for the detailed record of the current English status and maintenance limitations. Until these reviews are complete, neither a successful English build nor machine-translated output should be described as “verified.”
+See [TRANSLATION.md](maintenance/TRANSLATION.md) (in Chinese) for the detailed record of the current English status and maintenance limitations. Until these reviews are complete, neither a successful English build nor machine-translated output should be described as “verified.”

@@ -1,12 +1,12 @@
 # Award winners still to be added
 
-This page turns the winners in [Award winners by year](award-winners.md) who have no performer entry yet into a working checklist, ordered by the number of wins recorded in the list. 60 women and trans performers and 36 men are still outstanding.
+This page turns the winners in [Award winners by year](../../docs/en/资料/奖项/award-winners.md) who have no performer entry yet into a working checklist, ordered by the number of wins recorded in the list. 60 women and trans performers and 36 men are still outstanding.
 
 ## How to use this page
 
-- The counts cover only the awards and categories collected in [Award winners by year](award-winners.md); they are not a complete award history and must be re-verified when an entry is written.
+- The counts cover only the awards and categories collected in [Award winners by year](../../docs/en/资料/奖项/award-winners.md); they are not a complete award history and must be re-verified when an entry is written.
 - Research each person against primary sources in line with the README before writing; do not rely on this page or the winners page alone.
-- When an entry is created, delete its row here and update `_meta/list.md`, `_meta/list.yaml` and the letter `index.md`.
+- When an entry is created, delete its row here and update `maintenance/en/list.md`, `maintenance/en/list.yaml` and the letter `index.md`.
 - Men are listed separately because every existing entry is about a woman or a trans performer; whether to add male performers is a scope decision.
 
 ## Women and trans performers (60)
@@ -117,7 +117,7 @@ This page turns the winners in [Award winners by year](award-winners.md) who hav
 
 ## Related directories
 
-- [Award winners by year](award-winners.md)
-- [Major industry awards](awards.md)
-- [Topic directory](topics.md)
+- [Award winners by year](../../docs/en/资料/奖项/award-winners.md)
+- [Major industry awards](../../docs/en/资料/奖项/awards.md)
+- [Topic directory](../../docs/en/专题/index.md)
 - [Metadata home](index.md)

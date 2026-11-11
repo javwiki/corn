@@ -4,7 +4,7 @@
 The validator deliberately has no network or build-time side effects.  It is
 kept as a normal script (rather than a shell-only path comparison) so the same
 checks are used by local builds and by CI.  The repository root is derived from
-this file, which also makes ``python scripts/check_i18n.py`` work from any
+this file, which also makes ``python scripts/checks/check_i18n.py`` work from any
 working directory.
 """
 
@@ -313,28 +313,26 @@ def frontmatter_and_body(
     return metadata, body
 
 
-def actor_files(language_root: Path) -> dict[str, Path]:
-    result: dict[str, Path] = {}
-    for path in sorted(language_root.rglob("*.md")):
-        relative = path.relative_to(language_root)
-        if (
-            len(relative.parts) != 2
-            or relative.parts[0] == "_meta"
-            or relative.name == "index.md"
-        ):
-            continue
-        result[relative.as_posix()] = path
-    return result
+ACTOR_PREFIX = PurePosixPath("人物/演员")
 
 
 def is_actor_path(relative: str) -> bool:
     parts = PurePosixPath(relative).parts
     return (
-        len(parts) == 2
-        and parts[0] != "_meta"
-        and parts[1].endswith(".md")
-        and parts[1] != "index.md"
+        len(parts) == 4
+        and PurePosixPath(*parts[:2]) == ACTOR_PREFIX
+        and re.fullmatch(r"[A-Z]", parts[2]) is not None
+        and parts[3].endswith(".md")
+        and parts[3] != "index.md"
     )
+
+
+def actor_files(language_root: Path) -> dict[str, Path]:
+    return {
+        path.relative_to(language_root).as_posix(): path
+        for path in sorted(language_root.rglob("*.md"))
+        if is_actor_path(path.relative_to(language_root).as_posix())
+    }
 
 
 def parse_percent(value: Any) -> float | None:
@@ -629,11 +627,6 @@ def check_destination(
     if "\\" in raw_path:
         reporter.error(
             "paths", path, f"Markdown link uses a backslash path: {destination!r}"
-        )
-        return
-    if ".." in PurePosixPath(raw_path).parts:
-        reporter.error(
-            "paths", path, f"Markdown link uses a parent path segment: {destination!r}"
         )
         return
     target = (path.parent / raw_path).resolve()
@@ -1245,7 +1238,7 @@ def check_config_contracts(root: Path, reporter: Reporter) -> None:
 
 
 def load_list(root: Path, lang: str, reporter: Reporter) -> dict[str, Any] | None:
-    path = root / "docs" / lang / "_meta" / "list.yaml"
+    path = root / "maintenance" / lang / "list.yaml"
     text = read_text(path, reporter)
     if text is None:
         return None
@@ -1305,9 +1298,11 @@ def normalise_list_entry(
         )
     if isinstance(filename, str):
         pure = PurePosixPath(filename)
-        if pure.is_absolute() or ".." in pure.parts or len(pure.parts) != 2:
+        if pure.is_absolute() or ".." in pure.parts or not is_actor_path(filename):
             reporter.error(
-                "metadata", path, f"items[{index}].file must be <letter>/<name>.md"
+                "metadata",
+                path,
+                f"items[{index}].file must be 人物/演员/<letter>/<name>.md",
             )
     if isinstance(name, str) and isinstance(index_value, str) and name.strip():
         first = next(
@@ -1352,7 +1347,7 @@ def check_lists(
         names: set[str] = set()
         for index, entry in enumerate(data["items"]):
             item = normalise_list_entry(
-                entry, language_root / "_meta" / "list.yaml", index, reporter
+                entry, root / "maintenance" / lang / "list.yaml", index, reporter
             )
             if item is None:
                 continue
@@ -1361,7 +1356,7 @@ def check_lists(
                 if filename in files:
                     reporter.error(
                         "metadata",
-                        language_root / "_meta" / "list.yaml",
+                        root / "maintenance" / lang / "list.yaml",
                         f"duplicate list file: {filename}",
                     )
                 files.add(filename)
@@ -1369,7 +1364,7 @@ def check_lists(
             if name_key in names:
                 reporter.error(
                     "metadata",
-                    language_root / "_meta" / "list.yaml",
+                    root / "maintenance" / lang / "list.yaml",
                     f"duplicate list name: {item.get('name')}",
                 )
             names.add(name_key)
@@ -1379,7 +1374,7 @@ def check_lists(
         actual = set(actor_files(language_root))
         missing = sorted(actual - files)
         extra = sorted(files - actual)
-        list_path = language_root / "_meta" / "list.yaml"
+        list_path = root / "maintenance" / lang / "list.yaml"
         for filename in missing:
             reporter.error(
                 "metadata",
@@ -1402,7 +1397,7 @@ def check_lists(
                 if zh[filename].get(key) != en[filename].get(key):
                     reporter.error(
                         "metadata",
-                        root / "docs" / "en" / "_meta" / "list.yaml",
+                        root / "maintenance" / "en" / "list.yaml",
                         f"{filename} differs between languages for {key}",
                     )
     return lists, list_files
@@ -1445,8 +1440,8 @@ def check_list_md(
     reporter: Reporter,
 ) -> None:
     parsed: dict[str, dict[str, dict[str, Any]]] = {}
-    for lang, language_root in languages.items():
-        path = language_root / "_meta" / "list.md"
+    for lang in languages:
+        path = root / "maintenance" / lang / "list.md"
         parsed[lang] = parse_list_md(path, reporter)
         by_name = {
             str(item.get("name", "")).casefold(): item
@@ -1483,14 +1478,14 @@ def check_list_md(
         if set(parsed["zh"]) != set(parsed["en"]):
             reporter.error(
                 "metadata",
-                root / "docs" / "en" / "_meta" / "list.md",
+                root / "maintenance" / "en" / "list.md",
                 "Chinese and English list.md entries differ",
             )
         for key in set(parsed["zh"]) & set(parsed["en"]):
             if parsed["zh"][key] != parsed["en"][key]:
                 reporter.error(
                     "metadata",
-                    root / "docs" / "en" / "_meta" / "list.md",
+                    root / "maintenance" / "en" / "list.md",
                     f"list.md entry {parsed['zh'][key]['name']!r} differs between languages",
                 )
 
@@ -1503,11 +1498,11 @@ def check_indexes(
     index_targets: dict[str, dict[str, set[str]]] = {}
     for lang, language_root in languages.items():
         actual = actor_paths[lang]
-        directories = {PurePosixPath(filename).parts[0] for filename in actual}
+        directories = {PurePosixPath(filename).parts[2] for filename in actual}
         # Include the intentional empty Y directory when it is present.
         directories.update(
             path.name
-            for path in language_root.iterdir()
+            for path in (language_root / ACTOR_PREFIX).glob("*")
             if path.is_dir()
             and len(path.name) == 1
             and path.name.isascii()
@@ -1516,7 +1511,7 @@ def check_indexes(
         )
         targets_for_lang: dict[str, set[str]] = {}
         for directory in sorted(directories):
-            index = language_root / directory / "index.md"
+            index = language_root / ACTOR_PREFIX / directory / "index.md"
             if not index.exists():
                 reporter.error("index", index, "letter directory is missing index.md")
                 continue
@@ -1575,7 +1570,7 @@ def check_indexes(
             expected = {
                 filename
                 for filename in actual
-                if PurePosixPath(filename).parts[0] == directory
+                if PurePosixPath(filename).parts[2] == directory
             }
             if found != expected:
                 for filename in sorted(expected - found):
@@ -1591,7 +1586,7 @@ def check_indexes(
             ):
                 reporter.error(
                     "index",
-                    languages["en"] / directory / "index.md",
+                    languages["en"] / ACTOR_PREFIX / directory / "index.md",
                     "Chinese and English index link sets differ",
                 )
 
@@ -1611,7 +1606,8 @@ def check_pages(
             if not (
                 relative == "index.md"
                 or relative.endswith("/index.md")
-                or relative.startswith("_meta/")
+                or relative.startswith(("资料/", "专题/"))
+                or language_root.parent.name == "maintenance"
                 or is_actor_path(relative)
             ):
                 reporter.error(
@@ -1708,7 +1704,12 @@ def check_pages(
                     )
 
             links = check_markdown_links_and_security(
-                path, body, language_root, reporter
+                path,
+                body,
+                reporter.root
+                if language_root.parent.name == "maintenance"
+                else language_root,
+                reporter,
             )
             check_handles(path, body, links, reporter)
     if "zh" in metadata_by_lang and "en" in metadata_by_lang:
@@ -1786,32 +1787,40 @@ def check_paths(root: Path, languages: dict[str, Path], reporter: Reporter) -> N
             )
     for language_root in languages.values():
         for child in language_root.iterdir():
-            if child.name == "_meta":
-                continue
-            if child.is_dir() and not (
-                len(child.name) == 1
-                and child.name.isascii()
-                and child.name.isalpha()
-                and child.name.isupper()
-            ):
-                reporter.error(
-                    "paths",
-                    child,
-                    "language tree contains a directory outside the uppercase-letter layout",
-                )
+            if child.is_dir() and child.name not in {
+                "人物",
+                "作品",
+                "产业",
+                "资料",
+                "专题",
+            }:
+                reporter.error("paths", child, "unknown encyclopedia category")
         for path in language_root.rglob("*"):
             if path.is_symlink():
                 reporter.error(
                     "paths", path, "symlinks are not allowed in documentation trees"
                 )
-            elif path.is_file():
-                relative = path.relative_to(language_root).as_posix()
-                if not relative.startswith("_meta/") and path.suffix.lower() != ".md":
-                    reporter.error(
-                        "paths",
-                        path,
-                        "only Markdown files are allowed outside docs/_meta",
-                    )
+            elif path.is_file() and path.suffix.lower() != ".md":
+                reporter.error("paths", path, "only Markdown files are allowed in docs")
+
+
+def check_maintenance(root: Path, reporter: Reporter) -> None:
+    languages = {lang: root / "maintenance" / lang for lang in LANGUAGES}
+    if any(not path.is_dir() for path in languages.values()):
+        reporter.error(
+            "maintenance", root / "maintenance", "language directories are missing"
+        )
+        return
+    zh_files, en_files = (relative_files(languages[lang]) for lang in LANGUAGES)
+    if zh_files != en_files:
+        reporter.error("maintenance", root / "maintenance", "language file sets differ")
+    for language_root in languages.values():
+        for path in language_root.rglob("*"):
+            if path.is_symlink():
+                reporter.error(
+                    "paths", path, "symlinks are not allowed in maintenance trees"
+                )
+    check_pages(languages, {lang: {} for lang in LANGUAGES}, reporter)
 
 
 def validate(root: Path) -> Reporter:
@@ -1826,6 +1835,7 @@ def validate(root: Path) -> Reporter:
         return reporter
 
     check_paths(root, languages, reporter)
+    check_maintenance(root, reporter)
     check_config_contracts(root, reporter)
     actor_paths = {
         lang: actor_files(language_root) for lang, language_root in languages.items()
@@ -1834,10 +1844,10 @@ def validate(root: Path) -> Reporter:
         for relative, path in paths.items():
             pure = PurePosixPath(relative)
             if (
-                len(pure.parts[0]) != 1
-                or not pure.parts[0].isascii()
-                or not pure.parts[0].isalpha()
-                or not pure.parts[0].isupper()
+                len(pure.parts[2]) != 1
+                or not pure.parts[2].isascii()
+                or not pure.parts[2].isalpha()
+                or not pure.parts[2].isupper()
             ):
                 reporter.error(
                     "structure",
@@ -1860,8 +1870,8 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument(
         "--root",
         type=Path,
-        default=Path(__file__).resolve().parents[1],
-        help="repository root (defaults to the parent of this script)",
+        default=Path(__file__).resolve().parents[2],
+        help="repository root (defaults to the repository containing this script)",
     )
     return parser.parse_args(argv)
 

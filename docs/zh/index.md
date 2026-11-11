@@ -6,7 +6,10 @@
 
 ## 专题
 
-- [专题目录](_meta/topics.md)
-- [业界主要奖项](_meta/awards.md)
-- [历年获奖名单](_meta/award-winners.md)
-- [待补充的获奖者](_meta/award-winners-todo.md)
+- [专题目录](专题/index.md)
+- [业界主要奖项](资料/奖项/awards.md)
+- [历年获奖名单](资料/奖项/award-winners.md)
+
+## 人物
+
+- [演员目录](人物/演员/index.md)

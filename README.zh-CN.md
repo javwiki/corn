@@ -4,17 +4,18 @@
 
 本仓库使用 Zensical 构建中英双语人物资料型百科，默认语言为英文。中文内容位于 `docs/zh/`，英文内容位于 `docs/en/`；两个目录使用相同的相对路径。
 
-翻译所用模型、实测速度、质量限制与维护流程见 [TRANSLATION.md](TRANSLATION.md)。
+翻译所用模型、实测速度、质量限制与维护流程见 [TRANSLATION.md](maintenance/TRANSLATION.md)。
 
 > **英文版状态：** `docs/en/` 当前是机器翻译初稿，尚未逐篇重新调查、重新编写或完成统一的人工事实复核。严格构建成功只说明文件结构和站点构建通过，不表示英文内容、人名、数字、奖项或来源已经核实。
 
 ## 目录与 `index.md` 约定
 
-- `docs/zh/<字母>/<艺名>.md` 与 `docs/en/<字母>/<艺名>.md` 是成对的中英文条目，必须保持相同的相对路径。
-- `docs/zh/<字母>/index.md` 与 `docs/en/<字母>/index.md` 是需要维护的字母目录索引，不是 `README.md`。根目录的 README 文件只用于说明项目，内容目录中不要另建 README 作为索引。
+公开内容、维护资料和校验脚本分别存放；完整结构见 [maintenance/README.md](maintenance/README.md)，命令见 [scripts/README.md](scripts/README.md)。移动后的页面使用新路径，不保留旧 URL 重定向。
+
+- `docs/zh/人物/演员/<字母>/<艺名>.md` 与 `docs/en/人物/演员/<字母>/<艺名>.md` 是成对的中英文条目，必须保持相同的相对路径。
+- `docs/zh/人物/演员/<字母>/index.md` 与 `docs/en/人物/演员/<字母>/index.md` 是需要维护的字母目录索引，不是 `README.md`。根目录的 README 文件只用于说明项目，内容目录中不要另建 README 作为索引。
 - 新增、删除或改名人物条目时，同步更新两种语言的对应 `index.md`；链接目标必须与条目文件名一致，通常按姓名排序。如果索引已有演员数量或概要，也要同步更新。
 - 新字母目录需要在两种语言中各有一个 `index.md`，并沿用该目录现有的简单或完整格式。
-- 旧版说明曾把 `docs/{zh,en}/_meta/award/index.md` 描述为 CI 生成页面；当前构建脚本和 CI 没有生成该页面的步骤。award 目录或旧占位文件不是新增人物条目的事实来源；不要依赖、创建或手改它们来代替来源核验。
 - `overrides/` 保存中英文共享的 404 和页面级语言链接模板；人物条目维护通常不需要修改这些文件。
 
 ## 本地前置条件
@@ -76,7 +77,7 @@ uv run --locked --project . zensical serve --config-file zensical.zh.toml
 ```bash
 uv run --locked --project . ruff check scripts
 uv run --locked --project . ruff format --check scripts
-uv run --locked --project . python scripts/check_i18n.py --root .
+uv run --locked --project . python scripts/checks/check_i18n.py --root .
 uv run --locked --project . zensical build --config-file zensical.toml --clean --strict
 uv run --locked --project . zensical build --config-file zensical.zh.toml --clean --strict
 ```
@@ -89,7 +90,7 @@ uv run --locked --project . zensical build --config-file zensical.zh.toml --clea
 
 推送到 `main` 时，通过 `github-pages` environment 部署。每次推送前仍应在本地运行完整校验，以便在问题进入 `main` 之前发现它们。在仓库 **Settings → Pages → Build and deployment** 中将 **Source** 设置为 **GitHub Actions**；修改该设置需要仓库管理权限。
 
-英文是默认语言，占用站点根目录并发布在 `/corn/`；中文发布在 `/corn/zh/`。`site/` 和 `site/zh/` 是构建产物，已被 `.gitignore` 忽略，不要提交。站点不保留兼容重定向，当前路径即规范路径；这包括旧的 `/corn/en/` 前缀，以及 Elle Lee 的旧 `/L/Elle_Lee/` 路径等改名页面。此前发布在 `/corn/` 的中文 URL 现在显示同一人物的英文页面。页眉语言选择器和页面级 `hreflang` 会保留当前人物路径。根 404 页面为双语，避免某一语言路径错误时只显示另一种语言；主题使用系统字体，不向 Google Fonts 发起请求。发布产物包含 `LICENSE` 与 `NOTICE`。如果 fork、改名、迁移域名或更改默认分支，必须同步修改两份 Zensical 配置中的 `site_url`/alternate/repository 路径，以及 `scripts/check_i18n.py` 中的默认语言、canonical URL 和目录常量；共享模板会从配置读取语言首页，校验器会故意阻止未同步的部署。校验器对数字、单位、handle 和链接的检查只说明双语结果的结构/一致性，不检查外部 URL 是否可访问、来源是否支持某项事实、英文翻译是否正确或奖项信息是否过时；这些仍需要人工复核。
+英文是默认语言，占用站点根目录并发布在 `/corn/`；中文发布在 `/corn/zh/`。`site/` 和 `site/zh/` 是构建产物，已被 `.gitignore` 忽略，不要提交。站点不保留兼容重定向，当前路径即规范路径；这包括旧的 `/corn/en/` 前缀，以及 Elle Lee 的旧 `/L/Elle_Lee/` 路径等改名页面。此前发布在 `/corn/` 的中文 URL 现在显示同一人物的英文页面。页眉语言选择器和页面级 `hreflang` 会保留当前人物路径。根 404 页面为双语，避免某一语言路径错误时只显示另一种语言；主题使用系统字体，不向 Google Fonts 发起请求。发布产物包含 `LICENSE` 与 `NOTICE`。如果 fork、改名、迁移域名或更改默认分支，必须同步修改两份 Zensical 配置中的 `site_url`/alternate/repository 路径，以及 `scripts/checks/check_i18n.py` 中的默认语言、canonical URL 和目录常量；共享模板会从配置读取语言首页，校验器会故意阻止未同步的部署。校验器对数字、单位、handle 和链接的检查只说明双语结果的结构/一致性，不检查外部 URL 是否可访问、来源是否支持某项事实、英文翻译是否正确或奖项信息是否过时；这些仍需要人工复核。
 
 ## 内容、敏感信息与来源规则
 
@@ -111,4 +112,4 @@ uv run --locked --project . zensical build --config-file zensical.zh.toml --clea
 5. 同步两种语言的条目、字母 `index.md` 及相关元数据；
 6. 再运行完整 strict 构建。
 
-本次英文状态和维护限制的详细记录见 [TRANSLATION.md](TRANSLATION.md)。在这些复核完成前，不应把英文构建成功或机器翻译结果描述为“已核实”。
+本次英文状态和维护限制的详细记录见 [TRANSLATION.md](maintenance/TRANSLATION.md)。在这些复核完成前，不应把英文构建成功或机器翻译结果描述为“已核实”。

@@ -8,7 +8,10 @@ Entry tags are rendered by Zensical's native Tags plugin and are included in sit
 
 ## Topics
 
-- [Topic directory](_meta/topics.md)
-- [Major industry awards](_meta/awards.md)
-- [Award winners by year](_meta/award-winners.md)
-- [Award winners still to be added](_meta/award-winners-todo.md)
+- [Topic directory](专题/index.md)
+- [Major industry awards](资料/奖项/awards.md)
+- [Award winners by year](资料/奖项/award-winners.md)
+
+## People
+
+- [Performer directory](人物/演员/index.md)

@@ -195,10 +195,7 @@ Transgender Erotica Awards（TEA）、Venus Awards、XBIZ Europa Awards、Spank 
 ## 相关目录
 
 - [业界主要奖项](awards.md)
-- [待补充的获奖者](award-winners-todo.md)
-- [专题目录](topics.md)
-- [人物条目列表](list.md)
-- [元数据首页](index.md)
+- [专题目录](../../专题/index.md)
 
 ## 参考资料
 

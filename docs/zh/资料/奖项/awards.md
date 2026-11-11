@@ -30,10 +30,7 @@
 ## 相关目录
 
 - [历年获奖名单](award-winners.md)
-- [专题目录](topics.md)
-- [人物条目列表](list.md)
-- [数据源](source.yaml)
-- [元数据首页](index.md)
+- [专题目录](../../专题/index.md)
 
 ## 参考资料
 

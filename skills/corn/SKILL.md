@@ -35,14 +35,14 @@ git -C . log --oneline -5
 新增或修改条目通常涉及以下源文件；所有路径都相对于推导出的仓库根目录：
 
 ```text
-docs/zh/<字母>/<艺名>.md       ← 中文条目文件
-docs/en/<字母>/<艺名>.md       ← 英文条目文件（与中文保持相同相对路径）
-docs/zh/<字母>/index.md        ← 中文字母目录索引，需同步
-docs/en/<字母>/index.md        ← 英文字母目录索引，需同步
-docs/{zh,en}/_meta/list.yaml   ← 条目数据源（含 completeness）
-docs/{zh,en}/_meta/list.md     ← 当前 checked-in 的人类可读列表；按仓库现状处理
-docs/{zh,en}/_meta/source.yaml ← 来源登记表；只登记实际使用的公开来源
-scripts/check_i18n.py          ← 双语文档结构/安全/一致性校验
+docs/zh/人物/演员/<字母>/<艺名>.md       ← 中文条目文件
+docs/en/人物/演员/<字母>/<艺名>.md       ← 英文条目文件（与中文保持相同相对路径）
+docs/zh/人物/演员/<字母>/index.md        ← 中文字母目录索引，需同步
+docs/en/人物/演员/<字母>/index.md        ← 英文字母目录索引，需同步
+maintenance/{zh,en}/list.yaml   ← 条目数据源（含 completeness）
+maintenance/{zh,en}/list.md     ← 当前 checked-in 的人类可读列表；按仓库现状处理
+maintenance/{zh,en}/source.yaml ← 来源登记表；只登记实际使用的公开来源
+scripts/checks/check_i18n.py          ← 双语文档结构/安全/一致性校验
 scripts/build_site.sh          ← 锁定环境中的完整双语构建
 pyproject.toml                 ← Python/直接依赖与 uv 版本约束
 uv.lock                        ← 锁定的传递依赖与哈希
@@ -51,18 +51,16 @@ zensical.zh.toml               ← 中文 Zensical 配置（发布在 /corn/zh/�
 overrides/                     ← 双语 404 与页面级语言链接共享模板
 ```
 
-`docs/{zh,en}/<字母>/index.md` 是内容索引，不是 README。根目录 `README.md` 是项目维护说明；不要在内容字母目录中创建 `README.md` 来代替 `index.md`。
-
-旧版说明曾把 `docs/{zh,en}/_meta/award/index.md` 描述为 CI 生成页面；当前构建脚本和 CI 没有生成该页面的步骤。award 目录或旧占位文件不是新增人物条目的事实来源；不要依赖、创建或手改它们，奖项事实应直接依据可核验的公开来源写入条目（如确有必要）。
+`docs/{zh,en}/人物/演员/<字母>/index.md` 是内容索引，不是 README。根目录 `README.md` 是项目维护说明；不要在内容字母目录中创建 `README.md` 来代替 `index.md`。
 
 ## 工作流
 
 ```text
 演员名 ─┬─► 信息核验（公开来源；IAFD 格式按规范）──► 确定字母与文件名
         │
-        ├─► 创建 docs/zh/<字母>/<艺名>.md（front matter + 概要 + 详情 + 参考资料）
-        ├─► 创建对应 docs/en/<字母>/<艺名>.md，并同步两种语言的 index.md
-        ├─► 更新 docs/{zh,en}/_meta/list.yaml（按实际证据填写 completeness）
+        ├─► 创建 docs/zh/人物/演员/<字母>/<艺名>.md（front matter + 概要 + 详情 + 参考资料）
+        ├─► 创建对应 docs/en/人物/演员/<字母>/<艺名>.md，并同步两种语言的 index.md
+        ├─► 更新 maintenance/{zh,en}/list.yaml（按实际证据填写 completeness）
         ├─► 同步 list.md（当前没有自动生成器；不要声称由 CI 生成）
         └─► 文件检查 + 英文人工复核 + ./scripts/build_site.sh
 ```
@@ -84,7 +82,7 @@ overrides/                     ← 双语 404 与页面级语言链接共享模�
 
 ### Step 2: 确定字母目录与文件名
 
-- 按**艺名首字母**分目录：`Sky Bri` → `docs/zh/S/Sky_Bri.md` 和 `docs/en/S/Sky_Bri.md`；`Bridgette B` → `docs/zh/B/Bridgette_B.md` 和 `docs/en/B/Bridgette_B.md`。
+- 按**艺名首字母**分目录：`Sky Bri` → `docs/zh/人物/演员/S/Sky_Bri.md` 和 `docs/en/人物/演员/S/Sky_Bri.md`；`Bridgette B` → `docs/zh/人物/演员/B/Bridgette_B.md` 和 `docs/en/人物/演员/B/Bridgette_B.md`。
 - 文件名沿用仓库约定：艺名中的空格以 `_` 连接，不随意加入其他特殊符号；若对应字母目录不存在，在两种语言中同时新建。
 - 跨性别演员按已确认的当前艺名首字母归档，不按未经核实的本名归档；不要为满足模板而猜测身份信息。
 - 不要为了本次新增而重命名已有条目，除非用户明确要求并同步处理所有双语路径和索引。
@@ -154,15 +152,15 @@ tags:
 - 会随时间变化的数据注明核验日期和统计口径。
 - 不新增中文源和公开来源未支持的事实；来源冲突时标明冲突或未确认。
 
-### Step 4: 更新字母目录 `docs/{zh,en}/<字母>/index.md`
+### Step 4: 更新字母目录 `docs/{zh,en}/人物/演员/<字母>/index.md`
 
 - 这些是源文件中的 `index.md`，不是 README。若目录是简单格式（标题 + 链接列表），把新链接按姓名排序插入，例如 `- [<艺名>](<艺名>.md)`。
 - 若目录是完整格式（含 `## 概要`、演员数量等字段，例如 `A/index.md`），同步更新数量/概要并插入列表。
 - 中英文索引中的链接目标必须分别指向相同语种的同相对路径条目；新增或删除条目时两边都要更新。
-- 新建字母目录时在 `docs/zh/` 与 `docs/en/` 各创建一个 `index.md`，沿用该目录现有的简单格式；不要创建 `README.md` 作为索引。
+- 新建字母目录时在 `docs/{zh,en}/人物/演员/<字母>/` 各创建一个 `index.md`，并同步更新 `人物/演员/index.md`，沿用该目录现有的简单格式；不要创建 `README.md` 作为索引。
 - 不要整体重排或改写无关索引；保留现有格式并在提交前检查链接目标存在。
 
-### Step 5: 更新 `docs/{zh,en}/_meta/list.yaml`
+### Step 5: 更新 `maintenance/{zh,en}/list.yaml`
 
 - 在对应字母分组内按现有数据结构插入条目；不要为了新增一项重排整个 YAML。
 - 至少保持以下字段与实际路径一致：
@@ -170,7 +168,7 @@ tags:
   ```yaml
   - completeness: <评分>
     name: <艺名>
-    file: <X>/<艺名>.md
+    file: 人物/演员/<X>/<艺名>.md
     index: <X>
   ```
 
@@ -180,11 +178,11 @@ tags:
   - 70–85%：出生、作品数、活跃状态等字段有明显缺口，或来源单一。
 - 不要为了排名或视觉效果虚高填写；无法核验时应降低评分。
 - 中英文 `list.yaml` 的条目集合和路径应保持对应。
-- 如果本次新增了可复用的来源类别，再同步 `docs/{zh,en}/_meta/source.yaml`；不要为了填表登记未实际使用的网站。
+- 如果本次新增了可复用的来源类别，再同步 `maintenance/{zh,en}/source.yaml`；不要为了填表登记未实际使用的网站。
 
-### Step 6: 处理 `docs/{zh,en}/_meta/list.md`
+### Step 6: 处理 `maintenance/{zh,en}/list.md`
 
-- 该文件目前是仓库中 checked-in 的人类可读列表；`docs/{zh,en}/_meta/index.md` 将其标为自动生成，但当前 `scripts/` 和 CI 中没有对应生成器。
+- 该文件目前是仓库中 checked-in 的人类可读列表；该列表随条目手动同步维护。
 - 当前校验器会读取 `list.md` 并与 `list.yaml` 及另一语言列表交叉检查。新增、删除或改名人物时，应在中英文两份文件中按现有格式镜像变更并人工检查 diff；不要声称这些变更由当前 CI 自动生成。
 - 不要把 `list.md` 当作事实来源，也不要让它取代条目本身和公开来源。
 
@@ -197,13 +195,11 @@ tags:
 ```bash
 uv run --locked --project . ruff check scripts
 uv run --locked --project . ruff format --check scripts
-uv run --locked --project . python scripts/check_i18n.py --root .
+uv run --locked --project . python scripts/checks/check_i18n.py --root .
 ./scripts/build_site.sh
 ```
 
 校验器会从脚本位置推导仓库根目录，检查双语路径/配置、front matter 与安全 tags、人物页结构、`list.yaml`/`list.md`、字母 `index.md` 链接、本地 Markdown 目标、原始 HTML/事件属性、危险或 HTTP 协议、未定义数字引用、未转义 `$`、IAFD 首页和 Wikipedia Draft 等来源问题；同时比较 URL/handle、身高/体重、作品数量、百分比和 `万/亿` 数量级。先修复所有校验错误，再继续构建。
-
-英文是默认语言，占用站点根目录（`/corn/`），中文发布在 `/corn/zh/`。新增或删除英文页面时，还要同步 `zensical.toml` 的 `[project.plugins.redirects.redirect_maps]`：每个已发布页面都要有一条 `en/<相对路径> = <相对路径>`，把旧的 `/corn/en/*` 路径重定向到新的根目录路径；校验器会检查这张表与 `docs/en/` 的页面集合完全一致。
 
 `./scripts/build_site.sh` 会从自身位置推导仓库根目录，在 `uv run --locked` 环境中执行校验，再在 staging 目录中以锁定的 Zensical 0.1.0 先构建英文（`site/`）、再构建中文（`site/zh/`）的 `--clean --strict` 构建；成功后才替换 `site/`，并复制 `LICENSE`/`NOTICE`。需要诊断时可分别运行：
 

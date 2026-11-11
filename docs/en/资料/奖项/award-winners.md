@@ -195,10 +195,7 @@ Transgender Erotica Awards (TEA), Venus Awards, XBIZ Europa Awards, Spank Bank A
 ## Related directories
 
 - [Major industry awards](awards.md)
-- [Award winners still to be added](award-winners-todo.md)
-- [Topic directory](topics.md)
-- [Performer list](list.md)
-- [Metadata home](index.md)
+- [Topic directory](../../专题/index.md)
 
 ## References
 
